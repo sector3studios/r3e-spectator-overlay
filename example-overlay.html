@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>R3E Spectator Example</title>
+	<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+</head>
+<body>
+	<style>
+		body,
+		html {
+			color: #000;
+			font-family: Inconsolata;
+			font-size: 13px;
+			font-weight: bold;
+			background: transparent;
+			margin: 0px;
+			text-shadow: 0 0 2px #fff;
+			overflow: hidden;
+		}
+
+		li {
+			list-style: none;
+		}
+		hr {
+			clear: both;
+		}
+
+		#container {
+			/* Make it transparent to be able to see gameplay */
+			background: rgba(255, 255, 255, 0.8);
+			padding: 20px;
+			margin: 0 0 100%;
+			overflow: hidden;
+		}
+		#output {
+			position: fixed;
+			top: 0;
+			left: 0;
+			background: rgba(255, 255, 255, 0.5);
+			text-align: left;
+			padding: 10px;
+		}
+		#update-rate {
+			width: 50%;
+		}
+		#results {
+			background: #000;
+			color: #fff;
+			padding: 10px;
+			margin: 0;
+			display: none;
+		}
+		#results pre {
+			margin: 0;
+			white-space: pre;
+		}
+		#results-countdown {
+			font-size: 200%;
+		}
+
+		.time {
+			float: right;
+		}
+		.log {
+			width: 50%;
+			float: left;
+			white-space: pre;
+			padding: 10px;
+			box-sizing: border-box;
+		}
+	</style>
+
+	<div id="container">
+		<p>
+			<button id="reload">Reload page</button>
+		</p>
+		<p>
+			<button id="exit">Exit multiplayer</button>
+		</p>
+		<div id="results">
+			<div id="results-countdown">100s</div>
+			<pre></pre>
+		</div>
+		<p>
+			r3e.showCursor({"show": bool});
+			<br>
+			Cursor:
+			<select id="show-cursor">
+				<option value="true" selected="selected">On</option>
+				<option value="false">Off</option>
+			</select>
+			<hr>
+			r3e.setCamera.nosecam(slotId);
+			<br>
+			Camera:
+			<select id="camera-id">
+				<option value="trackside">TV</option>
+				<option value="nosecam">Nose</option>
+				<option value="cockpit">Hood</option>
+				<option value="swingman">Chase</option>
+				<option value="onboard">Rear</option>
+			</select>
+			Slot:
+			<select id="slot-id">
+				<option value="0">0</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<!-- Only 10 in this example but it goes up to player count -->
+			</select>
+		</p>
+		<hr>
+		<ul>
+			<li>
+				<label for="get-drivers-info">r3e.getDriversInfo(callback)</label>
+				<input
+					type="checkbox"
+					name="getDriversInfo"
+					id="get-drivers-info">
+			</li>
+			<li>
+				<label for="get-driver-info">r3e.getDriverInfo({'slotId': 0}, callback)</label>
+				<input
+					type="checkbox"
+					name="getDriverInfo"
+					id="get-driver-info">
+			</li>
+			<li>
+				<label for="get-vehicle-info">r3e.getVehicleInfo({'slotId': 0}, callback)</label>
+				<input
+					type="checkbox"
+					name="getVehicleInfo"
+					id="get-vehicle-info">
+			</li>
+			<li>
+				<label for="get-extended-info">r3e.getExtendedInfo({'slotId': 0}, callback)</label>
+				<input
+					type="checkbox"
+					name="getExtendedInfo"
+					id="get-extended-info">
+			</li>
+			<li>
+				<label for="get-pit-info">r3e.getPitInfo({'slotId': 0}, callback)</label>
+				<input
+					type="checkbox"
+					name="getPitInfo"
+					id="get-pit-info">
+			</li>
+			<li>
+				<label for="get-session-info">r3e.getSessionInfo(callback)</label>
+				<input
+					type="checkbox"
+					name="getSessionInfo"
+					id="get-session-info">
+			</li>
+			<li>
+				<label for="get-event-info">r3e.getEventInfo(callback)</label>
+				<input
+					type="checkbox"
+					name="getEventInfo"
+					id="get-event-info">
+			</li>
+			<li>
+				<label for="update-rate">updateRate</label>
+				<input
+					type="range"
+					min="16"
+					max="500"
+					step="0.1"
+					value="500"
+					name="UpdateRate"
+					id="update-rate">
+
+				<span id="tick-time-value">500ms (2.0fps)</span>
+				<span id="tmp-slider-value"></span>
+			</li>
+		</ul>
+		<div id="log-out" class="log"></div>
+		<div id="log-in" class="log"></div>
+	</div>
+
+	<script type="text/javascript" src="r3e.js"></script>
+	<script type="text/javascript" src="r3e-data.js"></script>
+	<script>
+	/*
+	* Logging
+	*/
+	var logInEl = document.getElementById('log-in');
+	var logOutEl = document.getElementById('log-out');
+
+	var outgoingLog = [];
+	var incomingLog = [];
+	function writeLog(str, direction) {
+		var el = null;
+		var log = null;
+		if (direction === 'out') {
+			el = logOutEl;
+			log = outgoingLog;
+		} else {
+			el = logInEl;
+			log = incomingLog;
+		}
+
+		log.unshift(str);
+		log.unshift('<hr>');
+		log = log.slice(0, 20);
+		el.innerHTML = log.join('<br>');
+	}
+
+	// proxy window.communicator and window.gameClient so that we can
+	// log everything coming and going
+	var refToOldCommunicator = window.communicator;
+	window.communicator = function(type, data) {
+		writeLog([
+			'<span class="time">',
+			timestamp(),
+			'</span>',
+			'window.communicator was called with:<br>',
+			type,
+			JSON.stringify(data, null, '  ')
+		].join(''), 'in');
+
+		if (refToOldCommunicator) {
+			refToOldCommunicator(type, data);
+		}
+	};
+
+	// Override the default gameClient to insert logging
+	window.r3e.gameClient = function(token, data) {
+		writeLog([
+			'<span class="time">',
+			timestamp(),
+			'</span>',
+			'window.gameClient was called with:<br>',
+			JSON.stringify(JSON.parse(data))
+		].join(''), 'out');
+
+		if (window.gameClient) {
+			window.gameClient(token, data);
+		}
+	};
+	</script>
+
+	<script type="text/javascript">
+	// # Getting started:
+
+	// 1. Start the R3E game exe with argument (Steam launcher arguments):
+	// -broadcastUrl=<your-website-url>
+	// for example:
+	// -broadcastUrl=http://ma.pe/r3e-broadcast.html
+
+	// 2. Join a multiplayer session as per usual (no need to own content)
+
+	// 3. It should now load into the session and show you data,
+	// assuming there are cars on the track.
+
+	// That is pretty much it for now, to learn more about what is
+	// available take a look at this example page.
+
+	/*
+	* Fetch data from the game for all the checked data types
+	* Update rate can be changed by dragging the slider.
+	*/
+	var tickTime = 500;
+	(function tick() {
+		setTimeout(tick, tickTime);
+
+		var selector = 'input[type="checkbox"]';
+		var checkboxEls = document.querySelectorAll(selector);
+		var selectedDataTypes = [].slice.call(checkboxEls)
+			.filter(function(el) {
+				return el.checked;
+			}).map(function(el) {
+				return el.name;
+			});
+
+		var logChanged = false;
+		selectedDataTypes.forEach(function(dataName) {
+			// Params that gets passed when we ask for vehicle and pit info
+			function getCurrentSlot() {
+				var slotEl = document.getElementById('slot-id');
+				var slotId = parseInt(slotEl.value, 10);
+
+				return {
+					'slotId': slotId
+				};
+			}
+			var paramPresets = {
+				'getExtendedInfo': getCurrentSlot,
+				'getVehicleInfo': getCurrentSlot,
+				'getDriverInfo': getCurrentSlot,
+				'getPitInfo': getCurrentSlot
+			};
+
+			var getParams = paramPresets[dataName];
+
+			// Usually you would call them like:
+			/*
+			r3e.getVehicleInfo({
+				'slotId': 0
+			}, function(data) {
+				console.log(data);
+			})
+			*/
+			if (getParams) {
+				r3e[dataName](getParams(), function done() {});
+			} else {
+				r3e[dataName](function done() {});
+			}
+		});
+	})();
+
+	/*
+	* Change camera and focused car
+	*/
+	var cameraEl = document.getElementById('camera-id');
+	var slotIdEl = document.getElementById('slot-id');
+
+	function changeCamera() {
+		var cameraId = cameraEl.value;
+		var slotId = parseInt(slotIdEl.value, 10);
+		r3e.setCamera[cameraId](slotId);
+	}
+	cameraEl.addEventListener('change', changeCamera);
+	slotIdEl.addEventListener('change', changeCamera);
+
+	/*
+	* Change update frequency of game data on slider change
+	*/
+	var tickTimeValueEl = document.getElementById('tick-time-value');
+	var tmpSliderValueEl = document.getElementById('tmp-slider-value');
+	var sliderEl = document.getElementById('update-rate');
+	// Preview on slide
+	sliderEl.addEventListener('input', function() {
+		tmpSliderValueEl.innerText = formatMsFps(this.value);
+		tmpSliderValueEl.style.display = 'block';
+	});
+	// Set on change
+	sliderEl.addEventListener('change', function() {
+		tickTimeValueEl.innerText = formatMsFps(this.value);
+		tmpSliderValueEl.style.display = 'none';
+		tickTime = parseInt(this.value, 10);
+	});
+
+	/*
+	* Enable/Disable cursor in broadcast
+	*/
+	// Enable cursor on start
+	setTimeout(function() {
+		r3e.showCursor({
+			'show': true
+		});
+	}, 1);
+
+	var showCursorEl = document.getElementById('show-cursor');
+	// Set on change
+	showCursorEl.addEventListener('change', function() {
+		var showCursor = this.value === 'true' ? true : false;
+
+		r3e.showCursor({
+			'show': showCursor
+		});
+	});
+
+	/*
+	* Make sure the game waits for us to show the results
+	*/
+	r3e.waitOnResults({
+		'wait': true
+	});
+
+	// When we get a results update start a countdown and after 5sec
+	// trigger goToNextEvent
+	var resultsEl = document.getElementById('results');
+	var resultsPre = document.querySelector('#results pre');
+	r3e.on.resultsUpdate(function(results) {
+		// Show results element and populate it
+		resultsEl.style.display = 'block';
+		resultsPre.innerText = JSON.stringify(results, null, '  ');
+
+		var waitTime = 20*1000;
+		// After we have gotten the results, wait 5sec and then continue
+		setTimeout(function() {
+			r3e.goToNextEvent();
+		}, waitTime);
+
+		// Countdown
+		var resultsCountdown = document.getElementById('results-countdown');
+		var started = Date.now();
+		(function countdown() {
+			var delta = Date.now()-started;
+			var timeElapsed = waitTime-delta;
+
+			if (timeElapsed < 0) {
+				return;
+			}
+			resultsCountdown.innerText = (timeElapsed/1000).toFixed(3)+'s';
+			window.requestAnimationFrame(countdown);
+		})();
+	});
+
+	/*
+	* Reload page on click
+	*/
+	var reloadEl = document.getElementById('reload');
+	reloadEl.addEventListener('click', function() {
+		window.location.reload(true);
+	});
+
+	/*
+	* Exit on click
+	*/
+	var exitEl = document.getElementById('exit');
+	exitEl.addEventListener('click', function() {
+		r3e.exit();
+	});
+
+	/*
+	* Returns formated string based on ms: 200ms (5.0fps)
+	*/
+	function formatMsFps(msStr) {
+		var fps = (1000 / parseInt(msStr, 10)).toFixed(1);
+		return msStr + 'ms (' + fps + 'fps)';
+	}
+
+	/*
+	* Returns timestamp with hour:min:sec.ms: 14:03:03.015
+	*/
+	function timestamp() {
+		var date = new Date();
+		var time = (''+date).match(/..:..:../).toString();
+		var paddedMs = ('00'+date.getMilliseconds()).slice('-3');
+
+		return time+'.'+paddedMs;
+	}
+	</script>
+</body>
+</html>
