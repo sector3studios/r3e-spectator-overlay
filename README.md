@@ -311,29 +311,31 @@ This only gets called at the end of a race session.
 r3e.on.resultsUpdate(function(results) {
     /*
     // results
-    [
-        {
-            "name": "string",
-            "portalId": "int",
-            "teamId": "int",
-            "classId": "int",
-            "manufacturerId": "int",
-            "liveryId": "int",
-            "positionOverall": "int",
-            "positionClass": "int",
-            "finishStatus": "string",
-            "totalTime": "int", // milliseconds
-            "penaltyTime": "int",
-            "penaltyWeight": "int",
-            "bestLapInfo": {
-                "valid": "bool",
-                "sector1": "int", // milliseconds, -1 if not set
-                "sector2": "int", // milliseconds, -1 if not set
-                "sector3": "int" // milliseconds, -1 if not set
-            }
-        },
-        ...
-    ]
+    {
+        "Results": [
+            {
+                "name": "string",
+                "portalId": "int",
+                "teamId": "int",
+                "classId": "int",
+                "manufacturerId": "int",
+                "liveryId": "int",
+                "positionOverall": "int",
+                "positionClass": "int",
+                "finishStatus": "string",
+                "totalTime": "int", // milliseconds
+                "penaltyTime": "int",
+                "penaltyWeight": "int",
+                "bestLapInfo": {
+                    "valid": "bool",
+                    "sector1": "int", // milliseconds, -1 if not set
+                    "sector2": "int", // milliseconds, -1 if not set
+                    "sector3": "int" // milliseconds, -1 if not set
+                }
+            },
+            ...
+        ]
+    }
     */
 });
 ```
