@@ -1,6 +1,6 @@
 window.r3e = (function r3eBridge() {
 	if (!window.gameClient) {
-		throw new Error('This depends on the R3E game client');
+		return console.warn('This depends on the R3E game client');
 	}
 
 	var getRequestPool = (function() {
