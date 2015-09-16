@@ -564,7 +564,7 @@ var r3eData = {
 			"Class": 1717,
 			"liveries": [
 				{
-					"Name": "#1",
+					"Name": "#5",
 					"Team": 1697,
 					"Car": 1694,
 					"Id": 1698,
@@ -579,7 +579,7 @@ var r3eData = {
 					]
 				},
 				{
-					"Name": "#2",
+					"Name": "#7",
 					"Team": 1697,
 					"Car": 1694,
 					"Id": 1883,
@@ -1289,7 +1289,7 @@ var r3eData = {
 			"Class": 1717,
 			"liveries": [
 				{
-					"Name": "#3",
+					"Name": "#9",
 					"Team": 1742,
 					"Car": 1741,
 					"Id": 1743,
@@ -1304,7 +1304,7 @@ var r3eData = {
 					]
 				},
 				{
-					"Name": "#4",
+					"Name": "#10",
 					"Team": 1742,
 					"Car": 1741,
 					"Id": 2052,
@@ -1566,7 +1566,7 @@ var r3eData = {
 			]
 		},
 		"1750": {
-			"Name": "Cougar C14/1",
+			"Name": "Cougar C14-1",
 			"BrandName": "Cougar",
 			"CarManufacturer": 2641,
 			"DefaultLivery": 1752,
@@ -1574,7 +1574,7 @@ var r3eData = {
 			"Class": 1717,
 			"liveries": [
 				{
-					"Name": "#5",
+					"Name": "#8",
 					"Team": 1751,
 					"Car": 1750,
 					"Id": 1752,
@@ -1589,7 +1589,7 @@ var r3eData = {
 					]
 				},
 				{
-					"Name": "#6",
+					"Name": "#13",
 					"Team": 1751,
 					"Car": 1750,
 					"Id": 2049,
@@ -1606,7 +1606,7 @@ var r3eData = {
 			]
 		},
 		"1753": {
-			"Name": "Cougar C14/2",
+			"Name": "Cougar C14-2",
 			"BrandName": "Cougar",
 			"CarManufacturer": 2641,
 			"DefaultLivery": 1755,
@@ -1614,7 +1614,7 @@ var r3eData = {
 			"Class": 1717,
 			"liveries": [
 				{
-					"Name": "#7",
+					"Name": "#14",
 					"Team": 1754,
 					"Car": 1753,
 					"Id": 1755,
@@ -1629,7 +1629,7 @@ var r3eData = {
 					]
 				},
 				{
-					"Name": "#8",
+					"Name": "#28",
 					"Team": 1754,
 					"Car": 1753,
 					"Id": 2051,
@@ -1682,6 +1682,66 @@ var r3eData = {
 							"Id": 3005
 						}
 					]
+				},
+				{
+					"Name": "#5",
+					"Team": 4343,
+					"Car": 1756,
+					"Id": 4344,
+					"Class": 1716,
+					"TeamName": "FTS Racing",
+					"drivers": [
+						{
+							"Forename": "Jean",
+							"Surname": "Auger",
+							"Id": 4441
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 4576,
+					"Car": 1756,
+					"Id": 4345,
+					"Class": 1716,
+					"TeamName": "CT Dummies",
+					"drivers": [
+						{
+							"Forename": "Kathleen",
+							"Surname": "Cortez",
+							"Id": 4445
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 4577,
+					"Car": 1756,
+					"Id": 4346,
+					"Class": 1716,
+					"TeamName": "Kadoma Sports",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Lindberg",
+							"Id": 4448
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 4578,
+					"Car": 1756,
+					"Id": 4347,
+					"Class": 1716,
+					"TeamName": "Lynchburg Motors",
+					"drivers": [
+						{
+							"Forename": "Carlo",
+							"Surname": "Oliveira",
+							"Id": 4451
+						}
+					]
 				}
 			]
 		},
@@ -1720,6 +1780,66 @@ var r3eData = {
 							"Forename": "Roger",
 							"Surname": "Thompson",
 							"Id": 3004
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 4348,
+					"Car": 1759,
+					"Id": 4350,
+					"Class": 1716,
+					"TeamName": "Gulf Racing",
+					"drivers": [
+						{
+							"Forename": "Patrick",
+							"Surname": "Vermolen",
+							"Id": 4461
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 4573,
+					"Car": 1759,
+					"Id": 4351,
+					"Class": 1716,
+					"TeamName": "Martini Racing",
+					"drivers": [
+						{
+							"Forename": "Johan",
+							"Surname": "Inberg",
+							"Id": 4463
+						}
+					]
+				},
+				{
+					"Name": "#45",
+					"Team": 4574,
+					"Car": 1759,
+					"Id": 4352,
+					"Class": 1716,
+					"TeamName": "FlexiCarb Sports",
+					"drivers": [
+						{
+							"Forename": "Leon",
+							"Surname": "Schneider",
+							"Id": 4466
+						}
+					]
+				},
+				{
+					"Name": "#60",
+					"Team": 4575,
+					"Car": 1759,
+					"Id": 4353,
+					"Class": 1716,
+					"TeamName": "Sublime Motorsports",
+					"drivers": [
+						{
+							"Forename": "Bruno",
+							"Surname": "Knežević",
+							"Id": 4469
 						}
 					]
 				}
@@ -2082,6 +2202,66 @@ var r3eData = {
 							"Id": 3055
 						}
 					]
+				},
+				{
+					"Name": "#8",
+					"Team": 4354,
+					"Car": 1800,
+					"Id": 4356,
+					"Class": 1716,
+					"TeamName": "Emirates",
+					"drivers": [
+						{
+							"Forename": "Mochihiro",
+							"Surname": "Nakamura",
+							"Id": 4459
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 4638,
+					"Car": 1800,
+					"Id": 4357,
+					"Class": 1716,
+					"TeamName": "Totor Racing",
+					"drivers": [
+						{
+							"Forename": "Johan",
+							"Surname": "Stoffels",
+							"Id": 4460
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 4639,
+					"Car": 1800,
+					"Id": 4358,
+					"Class": 1716,
+					"TeamName": "Puma",
+					"drivers": [
+						{
+							"Forename": "Luis",
+							"Surname": "Costa Gomez",
+							"Id": 4462
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 4640,
+					"Car": 1800,
+					"Id": 4359,
+					"Class": 1716,
+					"TeamName": "Koni",
+					"drivers": [
+						{
+							"Forename": "Robert",
+							"Surname": "Neumann",
+							"Id": 4465
+						}
+					]
 				}
 			]
 		},
@@ -2120,6 +2300,66 @@ var r3eData = {
 							"Forename": "Jaime",
 							"Surname": "Garcia",
 							"Id": 3048
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 4360,
+					"Car": 1803,
+					"Id": 4361,
+					"Class": 1716,
+					"TeamName": "GreyMatter Racing",
+					"drivers": [
+						{
+							"Forename": "Hugues",
+							"Surname": "Croteau",
+							"Id": 4442
+						}
+					]
+				},
+				{
+					"Name": "#38",
+					"Team": 4635,
+					"Car": 1803,
+					"Id": 4362,
+					"Class": 1716,
+					"TeamName": "DHL",
+					"drivers": [
+						{
+							"Forename": "Jakub",
+							"Surname": "Wieczorek",
+							"Id": 4447
+						}
+					]
+				},
+				{
+					"Name": "#63",
+					"Team": 4636,
+					"Car": 1803,
+					"Id": 4363,
+					"Class": 1716,
+					"TeamName": "Momo Racing",
+					"drivers": [
+						{
+							"Forename": "Louise",
+							"Surname": "Söderström",
+							"Id": 4450
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 4637,
+					"Car": 1803,
+					"Id": 4364,
+					"Class": 1716,
+					"TeamName": "Clarion",
+					"drivers": [
+						{
+							"Forename": "Liang",
+							"Surname": "Tu",
+							"Id": 4458
 						}
 					]
 				}
@@ -3839,7 +4079,7 @@ var r3eData = {
 					"Car": 2116,
 					"Id": 3960,
 					"Class": 1712,
-					"TeamName": "Bloson and Hodges",
+					"TeamName": "Benson and Hedges Racing",
 					"drivers": [
 						{
 							"Forename": "Santiago",
@@ -3854,7 +4094,7 @@ var r3eData = {
 					"Car": 2116,
 					"Id": 3961,
 					"Class": 1712,
-					"TeamName": "Labouts",
+					"TeamName": "Labatt's Sports",
 					"drivers": [
 						{
 							"Forename": "Gyeong-su",
@@ -3884,7 +4124,7 @@ var r3eData = {
 					"Car": 2116,
 					"Id": 3963,
 					"Class": 1712,
-					"TeamName": "JFC Special",
+					"TeamName": "JPS Racing",
 					"drivers": [
 						{
 							"Forename": "Santiago",
@@ -5510,6 +5750,36 @@ var r3eData = {
 							"Forename": "Sam",
 							"Surname": "Wallace",
 							"Id": 2986
+						}
+					]
+				},
+				{
+					"Name": "YLH A",
+					"Team": 4725,
+					"Car": 2533,
+					"Id": 4723,
+					"Class": 1703,
+					"TeamName": "YLH Motorsports",
+					"drivers": [
+						{
+							"Forename": "Holger",
+							"Surname": "Stangl",
+							"Id": 4727
+						}
+					]
+				},
+				{
+					"Name": "YLH B",
+					"Team": 4725,
+					"Car": 2533,
+					"Id": 4724,
+					"Class": 1703,
+					"TeamName": "YLH Motorsports",
+					"drivers": [
+						{
+							"Forename": "Sebastian",
+							"Surname": "Knoblich",
+							"Id": 4728
 						}
 					]
 				}
@@ -8813,7 +9083,7 @@ var r3eData = {
 			]
 		},
 		"1698": {
-			"Name": "#1",
+			"Name": "#5",
 			"Team": 1697,
 			"Car": 1694,
 			"Id": 1698,
@@ -8888,7 +9158,7 @@ var r3eData = {
 			]
 		},
 		"1743": {
-			"Name": "#3",
+			"Name": "#9",
 			"Team": 1742,
 			"Car": 1741,
 			"Id": 1743,
@@ -8933,7 +9203,7 @@ var r3eData = {
 			]
 		},
 		"1752": {
-			"Name": "#5",
+			"Name": "#8",
 			"Team": 1751,
 			"Car": 1750,
 			"Id": 1752,
@@ -8948,7 +9218,7 @@ var r3eData = {
 			]
 		},
 		"1755": {
-			"Name": "#7",
+			"Name": "#14",
 			"Team": 1754,
 			"Car": 1753,
 			"Id": 1755,
@@ -9293,7 +9563,7 @@ var r3eData = {
 			]
 		},
 		"1883": {
-			"Name": "#2",
+			"Name": "#7",
 			"Team": 1697,
 			"Car": 1694,
 			"Id": 1883,
@@ -9503,7 +9773,7 @@ var r3eData = {
 			]
 		},
 		"2049": {
-			"Name": "#6",
+			"Name": "#13",
 			"Team": 1751,
 			"Car": 1750,
 			"Id": 2049,
@@ -9518,7 +9788,7 @@ var r3eData = {
 			]
 		},
 		"2051": {
-			"Name": "#8",
+			"Name": "#28",
 			"Team": 1754,
 			"Car": 1753,
 			"Id": 2051,
@@ -9533,7 +9803,7 @@ var r3eData = {
 			]
 		},
 		"2052": {
-			"Name": "#4",
+			"Name": "#10",
 			"Team": 1742,
 			"Car": 1741,
 			"Id": 2052,
@@ -15288,7 +15558,7 @@ var r3eData = {
 			"Car": 2116,
 			"Id": 3960,
 			"Class": 1712,
-			"TeamName": "Bloson and Hodges",
+			"TeamName": "Benson and Hedges Racing",
 			"drivers": [
 				{
 					"Forename": "Santiago",
@@ -15303,7 +15573,7 @@ var r3eData = {
 			"Car": 2116,
 			"Id": 3961,
 			"Class": 1712,
-			"TeamName": "Labouts",
+			"TeamName": "Labatt's Sports",
 			"drivers": [
 				{
 					"Forename": "Gyeong-su",
@@ -15333,7 +15603,7 @@ var r3eData = {
 			"Car": 2116,
 			"Id": 3963,
 			"Class": 1712,
-			"TeamName": "JFC Special",
+			"TeamName": "JPS Racing",
 			"drivers": [
 				{
 					"Forename": "Santiago",
@@ -16572,6 +16842,246 @@ var r3eData = {
 				}
 			]
 		},
+		"4344": {
+			"Name": "#5",
+			"Team": 4343,
+			"Car": 1756,
+			"Id": 4344,
+			"Class": 1716,
+			"TeamName": "FTS Racing",
+			"drivers": [
+				{
+					"Forename": "Jean",
+					"Surname": "Auger",
+					"Id": 4441
+				}
+			]
+		},
+		"4345": {
+			"Name": "#22",
+			"Team": 4576,
+			"Car": 1756,
+			"Id": 4345,
+			"Class": 1716,
+			"TeamName": "CT Dummies",
+			"drivers": [
+				{
+					"Forename": "Kathleen",
+					"Surname": "Cortez",
+					"Id": 4445
+				}
+			]
+		},
+		"4346": {
+			"Name": "#25",
+			"Team": 4577,
+			"Car": 1756,
+			"Id": 4346,
+			"Class": 1716,
+			"TeamName": "Kadoma Sports",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Lindberg",
+					"Id": 4448
+				}
+			]
+		},
+		"4347": {
+			"Name": "#28",
+			"Team": 4578,
+			"Car": 1756,
+			"Id": 4347,
+			"Class": 1716,
+			"TeamName": "Lynchburg Motors",
+			"drivers": [
+				{
+					"Forename": "Carlo",
+					"Surname": "Oliveira",
+					"Id": 4451
+				}
+			]
+		},
+		"4350": {
+			"Name": "#20",
+			"Team": 4348,
+			"Car": 1759,
+			"Id": 4350,
+			"Class": 1716,
+			"TeamName": "Gulf Racing",
+			"drivers": [
+				{
+					"Forename": "Patrick",
+					"Surname": "Vermolen",
+					"Id": 4461
+				}
+			]
+		},
+		"4351": {
+			"Name": "#31",
+			"Team": 4573,
+			"Car": 1759,
+			"Id": 4351,
+			"Class": 1716,
+			"TeamName": "Martini Racing",
+			"drivers": [
+				{
+					"Forename": "Johan",
+					"Surname": "Inberg",
+					"Id": 4463
+				}
+			]
+		},
+		"4352": {
+			"Name": "#45",
+			"Team": 4574,
+			"Car": 1759,
+			"Id": 4352,
+			"Class": 1716,
+			"TeamName": "FlexiCarb Sports",
+			"drivers": [
+				{
+					"Forename": "Leon",
+					"Surname": "Schneider",
+					"Id": 4466
+				}
+			]
+		},
+		"4353": {
+			"Name": "#60",
+			"Team": 4575,
+			"Car": 1759,
+			"Id": 4353,
+			"Class": 1716,
+			"TeamName": "Sublime Motorsports",
+			"drivers": [
+				{
+					"Forename": "Bruno",
+					"Surname": "Knežević",
+					"Id": 4469
+				}
+			]
+		},
+		"4356": {
+			"Name": "#8",
+			"Team": 4354,
+			"Car": 1800,
+			"Id": 4356,
+			"Class": 1716,
+			"TeamName": "Emirates",
+			"drivers": [
+				{
+					"Forename": "Mochihiro",
+					"Surname": "Nakamura",
+					"Id": 4459
+				}
+			]
+		},
+		"4357": {
+			"Name": "#10",
+			"Team": 4638,
+			"Car": 1800,
+			"Id": 4357,
+			"Class": 1716,
+			"TeamName": "Totor Racing",
+			"drivers": [
+				{
+					"Forename": "Johan",
+					"Surname": "Stoffels",
+					"Id": 4460
+				}
+			]
+		},
+		"4358": {
+			"Name": "#13",
+			"Team": 4639,
+			"Car": 1800,
+			"Id": 4358,
+			"Class": 1716,
+			"TeamName": "Puma",
+			"drivers": [
+				{
+					"Forename": "Luis",
+					"Surname": "Costa Gomez",
+					"Id": 4462
+				}
+			]
+		},
+		"4359": {
+			"Name": "#3",
+			"Team": 4640,
+			"Car": 1800,
+			"Id": 4359,
+			"Class": 1716,
+			"TeamName": "Koni",
+			"drivers": [
+				{
+					"Forename": "Robert",
+					"Surname": "Neumann",
+					"Id": 4465
+				}
+			]
+		},
+		"4361": {
+			"Name": "#33",
+			"Team": 4360,
+			"Car": 1803,
+			"Id": 4361,
+			"Class": 1716,
+			"TeamName": "GreyMatter Racing",
+			"drivers": [
+				{
+					"Forename": "Hugues",
+					"Surname": "Croteau",
+					"Id": 4442
+				}
+			]
+		},
+		"4362": {
+			"Name": "#38",
+			"Team": 4635,
+			"Car": 1803,
+			"Id": 4362,
+			"Class": 1716,
+			"TeamName": "DHL",
+			"drivers": [
+				{
+					"Forename": "Jakub",
+					"Surname": "Wieczorek",
+					"Id": 4447
+				}
+			]
+		},
+		"4363": {
+			"Name": "#63",
+			"Team": 4636,
+			"Car": 1803,
+			"Id": 4363,
+			"Class": 1716,
+			"TeamName": "Momo Racing",
+			"drivers": [
+				{
+					"Forename": "Louise",
+					"Surname": "Söderström",
+					"Id": 4450
+				}
+			]
+		},
+		"4364": {
+			"Name": "#77",
+			"Team": 4637,
+			"Car": 1803,
+			"Id": 4364,
+			"Class": 1716,
+			"TeamName": "Clarion",
+			"drivers": [
+				{
+					"Forename": "Liang",
+					"Surname": "Tu",
+					"Id": 4458
+				}
+			]
+		},
 		"4378": {
 			"Name": "#2",
 			"Team": 4375,
@@ -16721,6 +17231,36 @@ var r3eData = {
 					"Id": 4550
 				}
 			]
+		},
+		"4723": {
+			"Name": "YLH A",
+			"Team": 4725,
+			"Car": 2533,
+			"Id": 4723,
+			"Class": 1703,
+			"TeamName": "YLH Motorsports",
+			"drivers": [
+				{
+					"Forename": "Holger",
+					"Surname": "Stangl",
+					"Id": 4727
+				}
+			]
+		},
+		"4724": {
+			"Name": "YLH B",
+			"Team": 4725,
+			"Car": 2533,
+			"Id": 4724,
+			"Class": 1703,
+			"TeamName": "YLH Motorsports",
+			"drivers": [
+				{
+					"Forename": "Sebastian",
+					"Surname": "Knoblich",
+					"Id": 4728
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -16731,26 +17271,31 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 262,
+					"MaxNumberOfVehicles": 36,
 					"Id": 263
 				},
 				{
 					"Name": "Bridge",
 					"Track": 262,
+					"MaxNumberOfVehicles": 36,
 					"Id": 266
 				},
 				{
 					"Name": "Classic",
 					"Track": 262,
+					"MaxNumberOfVehicles": 36,
 					"Id": 264
 				},
 				{
 					"Name": "Classic Sprint",
 					"Track": 262,
+					"MaxNumberOfVehicles": 36,
 					"Id": 265
 				},
 				{
 					"Name": "National",
 					"Track": 262,
+					"MaxNumberOfVehicles": 36,
 					"Id": 267
 				}
 			]
@@ -16762,11 +17307,13 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1670,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1671
 				},
 				{
 					"Name": "Junior",
 					"Track": 1670,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1672
 				}
 			]
@@ -16778,16 +17325,19 @@ var r3eData = {
 				{
 					"Name": "Full",
 					"Track": 1673,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1674
 				},
 				{
 					"Name": "Chicane",
 					"Track": 1673,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1676
 				},
 				{
 					"Name": "Short",
 					"Track": 1673,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1675
 				}
 			]
@@ -16799,16 +17349,19 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1677,
+					"MaxNumberOfVehicles": 24,
 					"Id": 1678
 				},
 				{
 					"Name": "National",
 					"Track": 1677,
+					"MaxNumberOfVehicles": 24,
 					"Id": 1680
 				},
 				{
 					"Name": "Club",
 					"Track": 1677,
+					"MaxNumberOfVehicles": 24,
 					"Id": 1679
 				}
 			]
@@ -16820,11 +17373,13 @@ var r3eData = {
 				{
 					"Name": "Full Run",
 					"Track": 1681,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1682
 				},
 				{
 					"Name": "Reverse",
 					"Track": 1681,
+					"MaxNumberOfVehicles": 36,
 					"Id": 2181
 				}
 			]
@@ -16836,6 +17391,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1683,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1684
 				}
 			]
@@ -16847,16 +17403,19 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1690,
+					"MaxNumberOfVehicles": 25,
 					"Id": 1691
 				},
 				{
 					"Name": "Short",
 					"Track": 1690,
+					"MaxNumberOfVehicles": 25,
 					"Id": 2011
 				},
 				{
 					"Name": "Sprint",
 					"Track": 1690,
+					"MaxNumberOfVehicles": 24,
 					"Id": 3377
 				}
 			]
@@ -16868,16 +17427,19 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1692,
+					"MaxNumberOfVehicles": 24,
 					"Id": 1693
 				},
 				{
 					"Name": "National",
 					"Track": 1692,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1763
 				},
 				{
 					"Name": "Short",
 					"Track": 1692,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1764
 				}
 			]
@@ -16889,11 +17451,13 @@ var r3eData = {
 				{
 					"Name": "Full Run",
 					"Track": 1705,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1709
 				},
 				{
 					"Name": "Reverse",
 					"Track": 1705,
+					"MaxNumberOfVehicles": 36,
 					"Id": 2214
 				}
 			]
@@ -16905,21 +17469,25 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1771,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1778
 				},
 				{
 					"Name": "National",
 					"Track": 1771,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1783
 				},
 				{
 					"Name": "Club",
 					"Track": 1771,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1784
 				},
 				{
 					"Name": "Club Chicane",
 					"Track": 1771,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1785
 				}
 			]
@@ -16931,16 +17499,19 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1840,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1841
 				},
 				{
 					"Name": "East Course",
 					"Track": 1840,
+					"MaxNumberOfVehicles": 36,
 					"Id": 2012
 				},
 				{
 					"Name": "West Course",
 					"Track": 1840,
+					"MaxNumberOfVehicles": 36,
 					"Id": 2013
 				}
 			]
@@ -16952,6 +17523,7 @@ var r3eData = {
 				{
 					"Name": "Mount Panorama",
 					"Track": 1845,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1846
 				}
 			]
@@ -16963,11 +17535,13 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1851,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1852
 				},
 				{
 					"Name": "Moto",
 					"Track": 1851,
+					"MaxNumberOfVehicles": 36,
 					"Id": 2014
 				}
 			]
@@ -16979,21 +17553,25 @@ var r3eData = {
 				{
 					"Name": "WTCC",
 					"Track": 1853,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1854
 				},
 				{
 					"Name": "Sprint",
 					"Track": 1853,
+					"MaxNumberOfVehicles": 36,
 					"Id": 2016
 				},
 				{
 					"Name": "Long",
 					"Track": 1853,
+					"MaxNumberOfVehicles": 36,
 					"Id": 3912
 				},
 				{
 					"Name": "IRL",
 					"Track": 1853,
+					"MaxNumberOfVehicles": 36,
 					"Id": 3913
 				}
 			]
@@ -17005,6 +17583,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1855,
+					"MaxNumberOfVehicles": 36,
 					"Id": 1856
 				}
 			]
@@ -17016,6 +17595,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 1865,
+					"MaxNumberOfVehicles": 25,
 					"Id": 1866
 				}
 			]
@@ -17027,6 +17607,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2020,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2026
 				}
 			]
@@ -17038,16 +17619,19 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2021,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2027
 				},
 				{
 					"Name": "Intermediate (WTCC)",
 					"Track": 2021,
+					"MaxNumberOfVehicles": 24,
 					"Id": 4041
 				},
 				{
 					"Name": "West Long",
 					"Track": 2021,
+					"MaxNumberOfVehicles": 24,
 					"Id": 4042
 				}
 			]
@@ -17059,6 +17643,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2029,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2064
 				}
 			]
@@ -17070,6 +17655,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2122,
+					"MaxNumberOfVehicles": 41,
 					"Id": 2123
 				}
 			]
@@ -17081,6 +17667,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2383,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2384
 				}
 			]
@@ -17092,11 +17679,13 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2467,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2468
 				},
 				{
 					"Name": "Automobilsport",
 					"Track": 2467,
+					"MaxNumberOfVehicles": 24,
 					"Id": 3291
 				}
 			]
@@ -17108,16 +17697,19 @@ var r3eData = {
 				{
 					"Name": "Sprint",
 					"Track": 2472,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2473
 				},
 				{
 					"Name": "Full",
 					"Track": 2472,
+					"MaxNumberOfVehicles": 24,
 					"Id": 3383
 				},
 				{
 					"Name": "FIM",
 					"Track": 2472,
+					"MaxNumberOfVehicles": 24,
 					"Id": 3683
 				}
 			]
@@ -17129,6 +17721,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2517,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2518
 				}
 			]
@@ -17140,6 +17733,7 @@ var r3eData = {
 				{
 					"Name": "Indy",
 					"Track": 2519,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2520
 				}
 			]
@@ -17151,6 +17745,7 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 2521,
+					"MaxNumberOfVehicles": 24,
 					"Id": 2556
 				}
 			]
@@ -17162,21 +17757,25 @@ var r3eData = {
 				{
 					"Name": "Solution 3C",
 					"Track": 2866,
+					"MaxNumberOfVehicles": 44,
 					"Id": 2867
 				},
 				{
 					"Name": "Solution 1A",
 					"Track": 2866,
+					"MaxNumberOfVehicles": 44,
 					"Id": 4246
 				},
 				{
 					"Name": "Solution 1C-V2",
 					"Track": 2866,
+					"MaxNumberOfVehicles": 44,
 					"Id": 4247
 				},
 				{
 					"Name": "Solution 2A short",
 					"Track": 2866,
+					"MaxNumberOfVehicles": 44,
 					"Id": 4248
 				}
 			]
@@ -17188,7 +17787,32 @@ var r3eData = {
 				{
 					"Name": "Grand Prix",
 					"Track": 3537,
+					"MaxNumberOfVehicles": 42,
 					"Id": 3538
+				}
+			]
+		},
+		"3869": {
+			"Name": "Spa-Francorchamps",
+			"Id": 3869,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 3869,
+					"MaxNumberOfVehicles": 56,
+					"Id": 3870
+				},
+				{
+					"Name": "Classic",
+					"Track": 3869,
+					"MaxNumberOfVehicles": 48,
+					"Id": 4542
+				},
+				{
+					"Name": "Combined",
+					"Track": 3869,
+					"MaxNumberOfVehicles": 100,
+					"Id": 4543
 				}
 			]
 		}
@@ -17197,302 +17821,380 @@ var r3eData = {
 		"263": {
 			"Name": "Grand Prix",
 			"Track": 262,
+			"MaxNumberOfVehicles": 36,
 			"Id": 263
 		},
 		"264": {
 			"Name": "Classic",
 			"Track": 262,
+			"MaxNumberOfVehicles": 36,
 			"Id": 264
 		},
 		"265": {
 			"Name": "Classic Sprint",
 			"Track": 262,
+			"MaxNumberOfVehicles": 36,
 			"Id": 265
 		},
 		"266": {
 			"Name": "Bridge",
 			"Track": 262,
+			"MaxNumberOfVehicles": 36,
 			"Id": 266
 		},
 		"267": {
 			"Name": "National",
 			"Track": 262,
+			"MaxNumberOfVehicles": 36,
 			"Id": 267
 		},
 		"1671": {
 			"Name": "Grand Prix",
 			"Track": 1670,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1671
 		},
 		"1672": {
 			"Name": "Junior",
 			"Track": 1670,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1672
 		},
 		"1674": {
 			"Name": "Full",
 			"Track": 1673,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1674
 		},
 		"1675": {
 			"Name": "Short",
 			"Track": 1673,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1675
 		},
 		"1676": {
 			"Name": "Chicane",
 			"Track": 1673,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1676
 		},
 		"1678": {
 			"Name": "Grand Prix",
 			"Track": 1677,
+			"MaxNumberOfVehicles": 24,
 			"Id": 1678
 		},
 		"1679": {
 			"Name": "Club",
 			"Track": 1677,
+			"MaxNumberOfVehicles": 24,
 			"Id": 1679
 		},
 		"1680": {
 			"Name": "National",
 			"Track": 1677,
+			"MaxNumberOfVehicles": 24,
 			"Id": 1680
 		},
 		"1682": {
 			"Name": "Full Run",
 			"Track": 1681,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1682
 		},
 		"1684": {
 			"Name": "Grand Prix",
 			"Track": 1683,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1684
 		},
 		"1691": {
 			"Name": "Grand Prix",
 			"Track": 1690,
+			"MaxNumberOfVehicles": 25,
 			"Id": 1691
 		},
 		"1693": {
 			"Name": "Grand Prix",
 			"Track": 1692,
+			"MaxNumberOfVehicles": 24,
 			"Id": 1693
 		},
 		"1709": {
 			"Name": "Full Run",
 			"Track": 1705,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1709
 		},
 		"1763": {
 			"Name": "National",
 			"Track": 1692,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1763
 		},
 		"1764": {
 			"Name": "Short",
 			"Track": 1692,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1764
 		},
 		"1778": {
 			"Name": "Grand Prix",
 			"Track": 1771,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1778
 		},
 		"1783": {
 			"Name": "National",
 			"Track": 1771,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1783
 		},
 		"1784": {
 			"Name": "Club",
 			"Track": 1771,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1784
 		},
 		"1785": {
 			"Name": "Club Chicane",
 			"Track": 1771,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1785
 		},
 		"1841": {
 			"Name": "Grand Prix",
 			"Track": 1840,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1841
 		},
 		"1846": {
 			"Name": "Mount Panorama",
 			"Track": 1845,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1846
 		},
 		"1852": {
 			"Name": "Grand Prix",
 			"Track": 1851,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1852
 		},
 		"1854": {
 			"Name": "WTCC",
 			"Track": 1853,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1854
 		},
 		"1856": {
 			"Name": "Grand Prix",
 			"Track": 1855,
+			"MaxNumberOfVehicles": 36,
 			"Id": 1856
 		},
 		"1866": {
 			"Name": "Grand Prix",
 			"Track": 1865,
+			"MaxNumberOfVehicles": 25,
 			"Id": 1866
 		},
 		"2011": {
 			"Name": "Short",
 			"Track": 1690,
+			"MaxNumberOfVehicles": 25,
 			"Id": 2011
 		},
 		"2012": {
 			"Name": "East Course",
 			"Track": 1840,
+			"MaxNumberOfVehicles": 36,
 			"Id": 2012
 		},
 		"2013": {
 			"Name": "West Course",
 			"Track": 1840,
+			"MaxNumberOfVehicles": 36,
 			"Id": 2013
 		},
 		"2014": {
 			"Name": "Moto",
 			"Track": 1851,
+			"MaxNumberOfVehicles": 36,
 			"Id": 2014
 		},
 		"2016": {
 			"Name": "Sprint",
 			"Track": 1853,
+			"MaxNumberOfVehicles": 36,
 			"Id": 2016
 		},
 		"2026": {
 			"Name": "Grand Prix",
 			"Track": 2020,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2026
 		},
 		"2027": {
 			"Name": "Grand Prix",
 			"Track": 2021,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2027
 		},
 		"2064": {
 			"Name": "Grand Prix",
 			"Track": 2029,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2064
 		},
 		"2123": {
 			"Name": "Grand Prix",
 			"Track": 2122,
+			"MaxNumberOfVehicles": 41,
 			"Id": 2123
 		},
 		"2181": {
 			"Name": "Reverse",
 			"Track": 1681,
+			"MaxNumberOfVehicles": 36,
 			"Id": 2181
 		},
 		"2214": {
 			"Name": "Reverse",
 			"Track": 1705,
+			"MaxNumberOfVehicles": 36,
 			"Id": 2214
 		},
 		"2384": {
 			"Name": "Grand Prix",
 			"Track": 2383,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2384
 		},
 		"2468": {
 			"Name": "Grand Prix",
 			"Track": 2467,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2468
 		},
 		"2473": {
 			"Name": "Sprint",
 			"Track": 2472,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2473
 		},
 		"2518": {
 			"Name": "Grand Prix",
 			"Track": 2517,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2518
 		},
 		"2520": {
 			"Name": "Indy",
 			"Track": 2519,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2520
 		},
 		"2556": {
 			"Name": "Grand Prix",
 			"Track": 2521,
+			"MaxNumberOfVehicles": 24,
 			"Id": 2556
 		},
 		"2867": {
 			"Name": "Solution 3C",
 			"Track": 2866,
+			"MaxNumberOfVehicles": 44,
 			"Id": 2867
 		},
 		"3291": {
 			"Name": "Automobilsport",
 			"Track": 2467,
+			"MaxNumberOfVehicles": 24,
 			"Id": 3291
 		},
 		"3377": {
 			"Name": "Sprint",
 			"Track": 1690,
+			"MaxNumberOfVehicles": 24,
 			"Id": 3377
 		},
 		"3383": {
 			"Name": "Full",
 			"Track": 2472,
+			"MaxNumberOfVehicles": 24,
 			"Id": 3383
 		},
 		"3538": {
 			"Name": "Grand Prix",
 			"Track": 3537,
+			"MaxNumberOfVehicles": 42,
 			"Id": 3538
 		},
 		"3683": {
 			"Name": "FIM",
 			"Track": 2472,
+			"MaxNumberOfVehicles": 24,
 			"Id": 3683
+		},
+		"3870": {
+			"Name": "Grand Prix",
+			"Track": 3869,
+			"MaxNumberOfVehicles": 56,
+			"Id": 3870
 		},
 		"3912": {
 			"Name": "Long",
 			"Track": 1853,
+			"MaxNumberOfVehicles": 36,
 			"Id": 3912
 		},
 		"3913": {
 			"Name": "IRL",
 			"Track": 1853,
+			"MaxNumberOfVehicles": 36,
 			"Id": 3913
 		},
 		"4041": {
 			"Name": "Intermediate (WTCC)",
 			"Track": 2021,
+			"MaxNumberOfVehicles": 24,
 			"Id": 4041
 		},
 		"4042": {
 			"Name": "West Long",
 			"Track": 2021,
+			"MaxNumberOfVehicles": 24,
 			"Id": 4042
 		},
 		"4246": {
 			"Name": "Solution 1A",
 			"Track": 2866,
+			"MaxNumberOfVehicles": 44,
 			"Id": 4246
 		},
 		"4247": {
 			"Name": "Solution 1C-V2",
 			"Track": 2866,
+			"MaxNumberOfVehicles": 44,
 			"Id": 4247
 		},
 		"4248": {
 			"Name": "Solution 2A short",
 			"Track": 2866,
+			"MaxNumberOfVehicles": 44,
 			"Id": 4248
+		},
+		"4542": {
+			"Name": "Classic",
+			"Track": 3869,
+			"MaxNumberOfVehicles": 48,
+			"Id": 4542
+		},
+		"4543": {
+			"Name": "Combined",
+			"Track": 3869,
+			"MaxNumberOfVehicles": 100,
+			"Id": 4543
 		}
 	},
 	"classes": {
@@ -19245,12 +19947,12 @@ var r3eData = {
 		},
 		"3954": {
 			"Type": "CarTeam",
-			"Name": "Bloson and Hodges",
+			"Name": "Benson and Hedges Racing",
 			"Id": 3954
 		},
 		"3955": {
 			"Type": "CarTeam",
-			"Name": "Labouts",
+			"Name": "Labatt's Sports",
 			"Id": 3955
 		},
 		"3956": {
@@ -19260,7 +19962,7 @@ var r3eData = {
 		},
 		"3957": {
 			"Type": "CarTeam",
-			"Name": "JFC Special",
+			"Name": "JPS Racing",
 			"Id": 3957
 		},
 		"3965": {
@@ -19305,7 +20007,7 @@ var r3eData = {
 		},
 		"3978": {
 			"Type": "CarTeam",
-			"Name": "Barlos Juma Racing",
+			"Name": "Bastos Juma Racing",
 			"Id": 3978
 		},
 		"3979": {
@@ -19670,22 +20372,22 @@ var r3eData = {
 		},
 		"4343": {
 			"Type": "CarTeam",
-			"Name": "unnamed team",
+			"Name": "FTS Racing",
 			"Id": 4343
 		},
 		"4348": {
 			"Type": "CarTeam",
-			"Name": "unnamed team",
+			"Name": "Gulf Racing",
 			"Id": 4348
 		},
 		"4354": {
 			"Type": "CarTeam",
-			"Name": "unnamed team",
+			"Name": "Emirates",
 			"Id": 4354
 		},
 		"4360": {
 			"Type": "CarTeam",
-			"Name": "unnamed team",
+			"Name": "GreyMatter Racing",
 			"Id": 4360
 		},
 		"4375": {
@@ -19847,6 +20549,156 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Sidney Industries",
 			"Id": 4547
+		},
+		"4573": {
+			"Type": "CarTeam",
+			"Name": "Martini Racing",
+			"Id": 4573
+		},
+		"4574": {
+			"Type": "CarTeam",
+			"Name": "FlexiCarb Sports",
+			"Id": 4574
+		},
+		"4575": {
+			"Type": "CarTeam",
+			"Name": "Sublime Motorsports",
+			"Id": 4575
+		},
+		"4576": {
+			"Type": "CarTeam",
+			"Name": "CT Dummies",
+			"Id": 4576
+		},
+		"4577": {
+			"Type": "CarTeam",
+			"Name": "Kadoma Sports",
+			"Id": 4577
+		},
+		"4578": {
+			"Type": "CarTeam",
+			"Name": "Lynchburg Motors",
+			"Id": 4578
+		},
+		"4635": {
+			"Type": "CarTeam",
+			"Name": "DHL",
+			"Id": 4635
+		},
+		"4636": {
+			"Type": "CarTeam",
+			"Name": "Momo Racing",
+			"Id": 4636
+		},
+		"4637": {
+			"Type": "CarTeam",
+			"Name": "Clarion",
+			"Id": 4637
+		},
+		"4638": {
+			"Type": "CarTeam",
+			"Name": "Totor Racing",
+			"Id": 4638
+		},
+		"4639": {
+			"Type": "CarTeam",
+			"Name": "Puma",
+			"Id": 4639
+		},
+		"4640": {
+			"Type": "CarTeam",
+			"Name": "Koni",
+			"Id": 4640
+		},
+		"4686": {
+			"Type": "CarTeam",
+			"Name": "Masters Motorsport",
+			"Id": 4686
+		},
+		"4688": {
+			"Type": "CarTeam",
+			"Name": "RedBull Racing",
+			"Id": 4688
+		},
+		"4690": {
+			"Type": "CarTeam",
+			"Name": "Team Omega",
+			"Id": 4690
+		},
+		"4692": {
+			"Type": "CarTeam",
+			"Name": "Mobil 1 Racing",
+			"Id": 4692
+		},
+		"4694": {
+			"Type": "CarTeam",
+			"Name": "Samsung Motorsports",
+			"Id": 4694
+		},
+		"4696": {
+			"Type": "CarTeam",
+			"Name": "Team Etihad",
+			"Id": 4696
+		},
+		"4698": {
+			"Type": "CarTeam",
+			"Name": "Puma Racing",
+			"Id": 4698
+		},
+		"4700": {
+			"Type": "CarTeam",
+			"Name": "Elf Sport",
+			"Id": 4700
+		},
+		"4703": {
+			"Type": "CarTeam",
+			"Name": "BP Motorsports",
+			"Id": 4703
+		},
+		"4705": {
+			"Type": "CarTeam",
+			"Name": "Elf Sport",
+			"Id": 4705
+		},
+		"4707": {
+			"Type": "CarTeam",
+			"Name": "Edge Racing",
+			"Id": 4707
+		},
+		"4709": {
+			"Type": "CarTeam",
+			"Name": "Dunlop Motorsport",
+			"Id": 4709
+		},
+		"4711": {
+			"Type": "CarTeam",
+			"Name": "Castrol Racing",
+			"Id": 4711
+		},
+		"4713": {
+			"Type": "CarTeam",
+			"Name": "Sparco Racing",
+			"Id": 4713
+		},
+		"4715": {
+			"Type": "CarTeam",
+			"Name": "Team Mont Blanc",
+			"Id": 4715
+		},
+		"4717": {
+			"Type": "CarTeam",
+			"Name": "Burn Motorsports",
+			"Id": 4717
+		},
+		"4725": {
+			"Type": "CarTeam",
+			"Name": "YLH Motorsports",
+			"Id": 4725
+		},
+		"4791": {
+			"Type": "CarTeam",
+			"Name": "KW Automotive",
+			"Id": 4791
 		}
 	}
 };
