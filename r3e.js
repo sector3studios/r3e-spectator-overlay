@@ -7,6 +7,7 @@ window.r3e = (function r3eBridge() {
 		var requestPool = {
 			'vehicleInfo': {},
 			'pitInfo': {},
+			'ptpInfo': {},
 			'extendedInfo': {},
 			'driverInfo': {},
 			'driversInfo': [],
@@ -33,6 +34,12 @@ window.r3e = (function r3eBridge() {
 					requestPool.pitInfo[data.slotId] = [];
 				}
 				return requestPool.pitInfo[data.slotId];
+			},
+			'ptPInfo': function getPtpInfoPool(data) {
+				if (!requestPool.ptpInfo[data.slotId]) {
+					requestPool.ptpInfo[data.slotId] = [];
+				}
+				return requestPool.ptpInfo[data.slotId];
 			},
 			'extendedInfo': function getExtendedInfo(data) {
 				if (!requestPool.extendedInfo[data.slotId]) {
@@ -160,6 +167,11 @@ window.r3e = (function r3eBridge() {
 			'pool': 'pitInfo',
 			'requiresArguments': true
 		}),
+		'getPushToPassInfo': get({
+			'call': 'GetPtPInfo',
+			'pool': 'ptPInfo',
+			'requiresArguments': true
+		}),
 		'getExtendedInfo': get({
 			'call': 'GetExtendedInfo',
 			'pool': 'extendedInfo',
@@ -201,7 +213,19 @@ window.r3e = (function r3eBridge() {
 			'cockpit': cameraChanger('cockpit'),
 			'swingman': cameraChanger('swingman'),
 			'onboard': cameraChanger('onboard'),
-			'trackside': cameraChanger('trackside1')
+			'trackside': cameraChanger('trackside1'),
+			'onboard1': cameraChanger('onboard_1'),
+			'onboard2': cameraChanger('onboard_2'),
+			'frontCam': cameraChanger('front_cam'),
+			'rearCam': cameraChanger('rear_cam'),
+			'flFront': cameraChanger('fl_front'),
+			'frFront': cameraChanger('fr_front'),
+			'rlRear': cameraChanger('rl_rear'),
+			'rrRear': cameraChanger('rr_rear'),
+			'rlFront': cameraChanger('rl_front'),
+			'rrFront': cameraChanger('rr_front'),
+			'exhaust': cameraChanger('exhaust'),
+			'wing': cameraChanger('wing')
 		},
 		'on': {
 			'resultsUpdate': listener({

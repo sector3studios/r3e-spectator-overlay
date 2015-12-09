@@ -67,6 +67,27 @@ r3e.getPitInfo({
 });
 ```
 
+### r3e.getPushToPassInfo
+Get push to pass related data based on the slotId passed.
+
+```javascript
+r3e.getPushToPassInfo({
+    'slotId': 0
+}, function(pushToPassInfo) {
+    /*
+    // pushToPassInfo
+    {
+        "active": "bool",
+        "allowed": "bool",
+        "amountLeft": "int",
+        "durationTimer": "int",
+        "slotId": "int",
+        "waitTimer": "int"
+    }
+    */
+});
+```
+
 ### r3e.getExtendedInfo
 Get extended driver related data based on the slotId passed.
 
@@ -275,6 +296,55 @@ r3e.setCamera.onboard({'slotId': 0})
 #### trackside
 ```javascript
 r3e.setCamera.trackside({'slotId': 0})
+```
+
+#### onboard1
+```javascript
+r3e.setCamera.onboard1({'slotId': 0})
+```
+#### onboard2
+```javascript
+r3e.setCamera.onboard2({'slotId': 0})
+```
+#### frontCam
+```javascript
+r3e.setCamera.frontCam({'slotId': 0})
+```
+#### rearCam
+```javascript
+r3e.setCamera.rearCam({'slotId': 0})
+```
+#### flFront
+```javascript
+r3e.setCamera.flFront({'slotId': 0})
+```
+#### frFront
+```javascript
+r3e.setCamera.frFront({'slotId': 0})
+```
+#### rlRear
+```javascript
+r3e.setCamera.rlRear({'slotId': 0})
+```
+#### rrRear
+```javascript
+r3e.setCamera.rrRear({'slotId': 0})
+```
+#### rlFront
+```javascript
+r3e.setCamera.rlFront({'slotId': 0})
+```
+#### rrFront
+```javascript
+r3e.setCamera.rrFront({'slotId': 0})
+```
+#### exhaust
+```javascript
+r3e.setCamera.exhaust({'slotId': 0})
+```
+#### wing
+```javascript
+r3e.setCamera.wing({'slotId': 0})
 ```
 
 ### r3e.waitOnResults
