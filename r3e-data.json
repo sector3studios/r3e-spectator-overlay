@@ -14676,40 +14676,280 @@
 			]
 		},
 		"5259": {
-			"Name": "Mercedes-AMG C 63 DTM E-Game",
+			"Name": "Mercedes-AMG C 63 DTM",
 			"BrandName": "Mercedes",
 			"CarManufacturer": 2552,
-			"DefaultLivery": 5325,
+			"DefaultLivery": 5261,
 			"Id": 5259,
 			"Class": 5634,
 			"liveries": [
 				{
-					"Name": "#0",
-					"Team": 5260,
+					"Name": "#2",
+					"Team": 5593,
 					"Car": 5259,
 					"Id": 5261,
 					"Class": 5634,
-					"TeamName": "Mercedes-AMG DTM Team HWA",
+					"TeamName": "Mercedes-AMG Motorsport Mercedes me",
 					"drivers": [
 						{
-							"Forename": "Daniel",
-							"Surname": "Juncadella",
-							"Id": 5572
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#02",
+					"Team": 5593,
+					"Car": 5259,
+					"Id": 5325,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 5593,
+					"Car": 5259,
+					"Id": 5591,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
 						}
 					]
 				},
 				{
 					"Name": "#3",
-					"Team": 5260,
+					"Team": 5592,
 					"Car": 5259,
-					"Id": 5325,
+					"Id": 5598,
 					"Class": 5634,
-					"TeamName": "Mercedes-AMG DTM Team HWA",
+					"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
 					"drivers": [
 						{
-							"Forename": "Paul",
-							"Surname": "Di Resta",
-							"Id": 5565
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 5592,
+					"Car": 5259,
+					"Id": 5599,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 5592,
+					"Car": 5259,
+					"Id": 5600,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 5593,
+					"Car": 5259,
+					"Id": 5601,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#60",
+					"Team": 5593,
+					"Car": 5259,
+					"Id": 5602,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#66",
+					"Team": 5593,
+					"Car": 5259,
+					"Id": 5603,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 5260,
+					"Car": 5259,
+					"Id": 6265,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport BWT",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 5260,
+					"Car": 5259,
+					"Id": 6266,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport BWT",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#23",
+					"Team": 5260,
+					"Car": 5259,
+					"Id": 6267,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport BWT",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#48",
+					"Team": 5260,
+					"Car": 5259,
+					"Id": 6268,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport BWT",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#46",
+					"Team": 5260,
+					"Car": 5259,
+					"Id": 6269,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport BWT",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#47",
+					"Team": 5260,
+					"Car": 5259,
+					"Id": 6270,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport BWT",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#63",
+					"Team": 5592,
+					"Car": 5259,
+					"Id": 6271,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#61",
+					"Team": 5592,
+					"Car": 5259,
+					"Id": 6272,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
+						}
+					]
+				},
+				{
+					"Name": "#62",
+					"Team": 5592,
+					"Car": 5259,
+					"Id": 6273,
+					"Class": 5634,
+					"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+					"drivers": [
+						{
+							"Forename": "Mercedes",
+							"Surname": "AMG Academy",
+							"Id": 6274
 						}
 					]
 				}
@@ -15207,7 +15447,7 @@
 					"TeamName": "RaceRoom Racing",
 					"drivers": [
 						{
-							"Forename": "Philip",
+							"Forename": "Steinar",
 							"Surname": "Pladsen",
 							"Id": 5831
 						}
@@ -17067,6 +17307,346 @@
 							"Id": 5866
 						}
 					]
+				},
+				{
+					"Name": "#19",
+					"Team": 5994,
+					"Car": 5818,
+					"Id": 6224,
+					"Class": 1703,
+					"TeamName": "Schubert Motorsports",
+					"drivers": [
+						{
+							"Forename": "Jeroen",
+							"Surname": "den Boer",
+							"Id": 6227
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 5994,
+					"Car": 5818,
+					"Id": 6225,
+					"Class": 1703,
+					"TeamName": "Schubert Motorsports",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Tomczyk",
+							"Id": 6226
+						}
+					]
+				}
+			]
+		},
+		"5821": {
+			"Name": "Formula Raceroom X-17",
+			"BrandName": "RaceRoom",
+			"CarManufacturer": 4596,
+			"DefaultLivery": 6062,
+			"Id": 5821,
+			"Class": 5824,
+			"liveries": [
+				{
+					"Name": "#3",
+					"Team": 5822,
+					"Car": 5821,
+					"Id": 6062,
+					"Class": 5824,
+					"TeamName": "Hanergy",
+					"drivers": [
+						{
+							"Forename": "Felix",
+							"Surname": "Altmeier",
+							"Id": 5868
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 5822,
+					"Car": 5821,
+					"Id": 6063,
+					"Class": 5824,
+					"TeamName": "Hanergy",
+					"drivers": [
+						{
+							"Forename": "Russell",
+							"Surname": "Barrington",
+							"Id": 5869
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 6126,
+					"Car": 5821,
+					"Id": 6064,
+					"Class": 5824,
+					"TeamName": "Shell",
+					"drivers": [
+						{
+							"Forename": "Roger",
+							"Surname": "Seiter",
+							"Id": 5974
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 6126,
+					"Car": 5821,
+					"Id": 6065,
+					"Class": 5824,
+					"TeamName": "Shell",
+					"drivers": [
+						{
+							"Forename": "Denis",
+							"Surname": "Bernard",
+							"Id": 5976
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 6127,
+					"Car": 5821,
+					"Id": 6066,
+					"Class": 5824,
+					"TeamName": "GoPro",
+					"drivers": [
+						{
+							"Forename": "Michele",
+							"Surname": "Falcinelli",
+							"Id": 5978
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 6127,
+					"Car": 5821,
+					"Id": 6067,
+					"Class": 5824,
+					"TeamName": "GoPro",
+					"drivers": [
+						{
+							"Forename": "Robert",
+							"Surname": "Paquet",
+							"Id": 5977
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 6128,
+					"Car": 5821,
+					"Id": 6068,
+					"Class": 5824,
+					"TeamName": "Virgin",
+					"drivers": [
+						{
+							"Forename": "Mark",
+							"Surname": "Harrison",
+							"Id": 6042
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 6128,
+					"Car": 5821,
+					"Id": 6069,
+					"Class": 5824,
+					"TeamName": "Virgin",
+					"drivers": [
+						{
+							"Forename": "Artúr",
+							"Surname": "Kösztler",
+							"Id": 6043
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 6129,
+					"Car": 5821,
+					"Id": 6070,
+					"Class": 5824,
+					"TeamName": "Etihad",
+					"drivers": [
+						{
+							"Forename": "Andrew",
+							"Surname": "Martin",
+							"Id": 6046
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 6129,
+					"Car": 5821,
+					"Id": 6071,
+					"Class": 5824,
+					"TeamName": "Etihad",
+					"drivers": [
+						{
+							"Forename": "Stephanie",
+							"Surname": "Speck",
+							"Id": 6047
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 6130,
+					"Car": 5821,
+					"Id": 6072,
+					"Class": 5824,
+					"TeamName": "Samsung",
+					"drivers": [
+						{
+							"Forename": "Motoko",
+							"Surname": "Kusanagi",
+							"Id": 6044
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 6130,
+					"Car": 5821,
+					"Id": 6073,
+					"Class": 5824,
+					"TeamName": "Samsung",
+					"drivers": [
+						{
+							"Forename": "Douglas",
+							"Surname": "Rain",
+							"Id": 6048
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 6131,
+					"Car": 5821,
+					"Id": 6074,
+					"Class": 5824,
+					"TeamName": "Castrol",
+					"drivers": [
+						{
+							"Forename": "Alberto",
+							"Surname": "Seveso",
+							"Id": 6049
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 6131,
+					"Car": 5821,
+					"Id": 6075,
+					"Class": 5824,
+					"TeamName": "Castrol",
+					"drivers": [
+						{
+							"Forename": "Felix",
+							"Surname": "Dominguez",
+							"Id": 6050
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 6132,
+					"Car": 5821,
+					"Id": 6076,
+					"Class": 5824,
+					"TeamName": "Snap-On",
+					"drivers": [
+						{
+							"Forename": "Josh",
+							"Surname": "Rosenberg",
+							"Id": 6051
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 6132,
+					"Car": 5821,
+					"Id": 6077,
+					"Class": 5824,
+					"TeamName": "Snap-On",
+					"drivers": [
+						{
+							"Forename": "Theodor",
+							"Surname": "Fælgen",
+							"Id": 6104
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 6133,
+					"Car": 5821,
+					"Id": 6078,
+					"Class": 5824,
+					"TeamName": "Mobil1",
+					"drivers": [
+						{
+							"Forename": "Miyuki",
+							"Surname": "Tachikoma",
+							"Id": 6045
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 6133,
+					"Car": 5821,
+					"Id": 6079,
+					"Class": 5824,
+					"TeamName": "Mobil1",
+					"drivers": [
+						{
+							"Forename": "Pascal",
+							"Surname": "Malateste",
+							"Id": 6105
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 6134,
+					"Car": 5821,
+					"Id": 6080,
+					"Class": 5824,
+					"TeamName": "Monster Energy",
+					"drivers": [
+						{
+							"Forename": "Steven",
+							"Surname": "Hambley",
+							"Id": 6106
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 6134,
+					"Car": 5821,
+					"Id": 6081,
+					"Class": 5824,
+					"TeamName": "Monster Energy",
+					"drivers": [
+						{
+							"Forename": "Tomasz",
+							"Surname": "Zasada",
+							"Id": 6107
+						}
+					]
 				}
 			]
 		},
@@ -17195,7 +17775,7 @@
 				},
 				{
 					"Name": "#8",
-					"Team": 6012,
+					"Team": 6037,
 					"Car": 6011,
 					"Id": 6135,
 					"Class": 6036,
@@ -17214,7 +17794,7 @@
 			"Name": "Citroen C Elysee WTCC 2016",
 			"BrandName": "Citroën",
 			"CarManufacturer": 3909,
-			"DefaultLivery": 6019,
+			"DefaultLivery": 6022,
 			"Id": 6017,
 			"Class": 6036,
 			"liveries": [
@@ -17430,6 +18010,901 @@
 							"Forename": "Nicky",
 							"Surname": "Catsburg",
 							"Id": 6088
+						}
+					]
+				}
+			]
+		},
+		"6177": {
+			"Name": "Chevrolet RML Cruze eSports",
+			"BrandName": "Chevrolet",
+			"CarManufacturer": 2623,
+			"DefaultLivery": 6182,
+			"Id": 6177,
+			"Class": 6172,
+			"liveries": [
+				{
+					"Name": "#9 - 2016",
+					"Team": 6178,
+					"Car": 6177,
+					"Id": 6182,
+					"Class": 6172,
+					"TeamName": "Roal Motorsport",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Coronel",
+							"Id": 6087
+						}
+					]
+				},
+				{
+					"Name": "#8 - 2016",
+					"Team": 6179,
+					"Car": 6177,
+					"Id": 6183,
+					"Class": 6172,
+					"TeamName": "All-Inkl.com Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Sabine",
+							"Surname": "Schmitz",
+							"Id": 6086
+						}
+					]
+				},
+				{
+					"Name": "#15 - 2016",
+					"Team": 6179,
+					"Car": 6177,
+					"Id": 6184,
+					"Class": 6172,
+					"TeamName": "All-Inkl.com Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "James",
+							"Surname": "Thompson",
+							"Id": 6091
+						}
+					]
+				},
+				{
+					"Name": "#27 - 2016",
+					"Team": 6180,
+					"Car": 6177,
+					"Id": 6185,
+					"Class": 6172,
+					"TeamName": "Campos Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Filippi",
+							"Id": 6094
+						}
+					]
+				},
+				{
+					"Name": "#77 - 2016",
+					"Team": 6179,
+					"Car": 6177,
+					"Id": 6186,
+					"Class": 6172,
+					"TeamName": "All-Inkl.com Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "René",
+							"Surname": "Münnich",
+							"Id": 6100
+						}
+					]
+				},
+				{
+					"Name": "#9 - 2017",
+					"Team": 6178,
+					"Car": 6177,
+					"Id": 6289,
+					"Class": 6172,
+					"TeamName": "Roal Motorsport",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Coronel",
+							"Id": 6305
+						}
+					]
+				},
+				{
+					"Name": "#86 - 2017",
+					"Team": 6180,
+					"Car": 6177,
+					"Id": 6290,
+					"Class": 6172,
+					"TeamName": "Campos Racing",
+					"drivers": [
+						{
+							"Forename": "Esteban",
+							"Surname": "Guerrieri",
+							"Id": 6300
+						}
+					]
+				}
+			]
+		},
+		"6187": {
+			"Name": "Citroen C Elysee eSports",
+			"BrandName": "Citroën",
+			"CarManufacturer": 3909,
+			"DefaultLivery": 6193,
+			"Id": 6187,
+			"Class": 6172,
+			"liveries": [
+				{
+					"Name": "#3 - 2016",
+					"Team": 6188,
+					"Car": 6187,
+					"Id": 6190,
+					"Class": 6172,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Chilton",
+							"Id": 6083
+						}
+					]
+				},
+				{
+					"Name": "#11 - 2016",
+					"Team": 6188,
+					"Car": 6187,
+					"Id": 6191,
+					"Class": 6172,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Grégoire",
+							"Surname": "Demoustier",
+							"Id": 6089
+						}
+					]
+				},
+				{
+					"Name": "#25 - 2016",
+					"Team": 6188,
+					"Car": 6187,
+					"Id": 6192,
+					"Class": 6172,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Mehdi",
+							"Surname": "Bennani",
+							"Id": 6093
+						}
+					]
+				},
+				{
+					"Name": "#37 - 2016",
+					"Team": 6189,
+					"Car": 6187,
+					"Id": 6193,
+					"Class": 6172,
+					"TeamName": "Citroën Total WTCC",
+					"drivers": [
+						{
+							"Forename": "José María",
+							"Surname": "López",
+							"Id": 6095
+						}
+					]
+				},
+				{
+					"Name": "#68 - 2016",
+					"Team": 6189,
+					"Car": 6187,
+					"Id": 6194,
+					"Class": 6172,
+					"TeamName": "Citroën Total WTCC",
+					"drivers": [
+						{
+							"Forename": "Yvan",
+							"Surname": "Muller",
+							"Id": 6099
+						}
+					]
+				},
+				{
+					"Name": "#3 - 2017",
+					"Team": 6188,
+					"Car": 6187,
+					"Id": 6285,
+					"Class": 6172,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Chilton",
+							"Id": 6291
+						}
+					]
+				},
+				{
+					"Name": "#12 - 2017",
+					"Team": 6308,
+					"Car": 6187,
+					"Id": 6286,
+					"Class": 6172,
+					"TeamName": "ALL-INKL.COM Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Rob",
+							"Surname": "Huff",
+							"Id": 6304
+						}
+					]
+				},
+				{
+					"Name": "#25 - 2017",
+					"Team": 6188,
+					"Car": 6187,
+					"Id": 6287,
+					"Class": 6172,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Mehdi",
+							"Surname": "Bennani",
+							"Id": 6293
+						}
+					]
+				},
+				{
+					"Name": "#27 - 2017",
+					"Team": 6188,
+					"Car": 6187,
+					"Id": 6288,
+					"Class": 6172,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Filippi",
+							"Id": 6294
+						}
+					]
+				}
+			]
+		},
+		"6195": {
+			"Name": "Honda Civic eSports",
+			"BrandName": "Honda",
+			"CarManufacturer": 2738,
+			"DefaultLivery": 6198,
+			"Id": 6195,
+			"Class": 6172,
+			"liveries": [
+				{
+					"Name": "#5 - 2016 ",
+					"Team": 6196,
+					"Car": 6195,
+					"Id": 6198,
+					"Class": 6172,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Michelisz",
+							"Id": 6084
+						}
+					]
+				},
+				{
+					"Name": "#12 - 2016 ",
+					"Team": 6196,
+					"Car": 6195,
+					"Id": 6199,
+					"Class": 6172,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Rob",
+							"Surname": "Huff",
+							"Id": 6090
+						}
+					]
+				},
+				{
+					"Name": "#18 - 2016 ",
+					"Team": 6196,
+					"Car": 6195,
+					"Id": 6200,
+					"Class": 6172,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Tiago",
+							"Surname": "Monteiro",
+							"Id": 6092
+						}
+					]
+				},
+				{
+					"Name": "#55 - 2016 ",
+					"Team": 6197,
+					"Car": 6195,
+					"Id": 6201,
+					"Class": 6172,
+					"TeamName": "Zengö Motorsport",
+					"drivers": [
+						{
+							"Forename": "Ferenc",
+							"Surname": "Ficza",
+							"Id": 6096
+						}
+					]
+				},
+				{
+					"Name": "#99 - 2016 ",
+					"Team": 6197,
+					"Car": 6195,
+					"Id": 6202,
+					"Class": 6172,
+					"TeamName": "Zengö Motorsport",
+					"drivers": [
+						{
+							"Forename": "Dániel",
+							"Surname": "Nagy",
+							"Id": 6101
+						}
+					]
+				},
+				{
+					"Name": "#5 - 2017",
+					"Team": 6196,
+					"Car": 6195,
+					"Id": 6280,
+					"Class": 6172,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Michelisz",
+							"Id": 6292
+						}
+					]
+				},
+				{
+					"Name": "#8 - 2017",
+					"Team": 6197,
+					"Car": 6195,
+					"Id": 6281,
+					"Class": 6172,
+					"TeamName": "Zengö Motorsport",
+					"drivers": [
+						{
+							"Forename": "Aurélien",
+							"Surname": "Panis",
+							"Id": 6306
+						}
+					]
+				},
+				{
+					"Name": "#18 - 2017",
+					"Team": 6196,
+					"Car": 6195,
+					"Id": 6282,
+					"Class": 6172,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Tiago",
+							"Surname": "Monteiro",
+							"Id": 6303
+						}
+					]
+				},
+				{
+					"Name": "#34 - 2017",
+					"Team": 6196,
+					"Car": 6195,
+					"Id": 6283,
+					"Class": 6172,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Ryo",
+							"Surname": "Michigami",
+							"Id": 6295
+						}
+					]
+				},
+				{
+					"Name": "#99 - 2017",
+					"Team": 6197,
+					"Car": 6195,
+					"Id": 6284,
+					"Class": 6172,
+					"TeamName": "Zengö Motorsport",
+					"drivers": [
+						{
+							"Forename": "Dániel",
+							"Surname": "Nagy",
+							"Id": 6301
+						}
+					]
+				}
+			]
+		},
+		"6203": {
+			"Name": "Lada Vesta eSports",
+			"BrandName": "Lada",
+			"CarManufacturer": 3011,
+			"DefaultLivery": 6205,
+			"Id": 6203,
+			"Class": 6172,
+			"liveries": [
+				{
+					"Name": "#2 - 2016",
+					"Team": 6204,
+					"Car": 6203,
+					"Id": 6205,
+					"Class": 6172,
+					"TeamName": "LADA Sport Rosneft",
+					"drivers": [
+						{
+							"Forename": "Gabriele",
+							"Surname": "Tarquini",
+							"Id": 6052
+						}
+					]
+				},
+				{
+					"Name": "#7 - 2016",
+					"Team": 6204,
+					"Car": 6203,
+					"Id": 6206,
+					"Class": 6172,
+					"TeamName": "LADA Sport Rosneft",
+					"drivers": [
+						{
+							"Forename": "Hugo",
+							"Surname": "Valente",
+							"Id": 6085
+						}
+					]
+				},
+				{
+					"Name": "#10 - 2016",
+					"Team": 6204,
+					"Car": 6203,
+					"Id": 6207,
+					"Class": 6172,
+					"TeamName": "LADA Sport Rosneft",
+					"drivers": [
+						{
+							"Forename": "Nicky",
+							"Surname": "Catsburg",
+							"Id": 6088
+						}
+					]
+				},
+				{
+					"Name": "#24 - 2017",
+					"Team": 6331,
+					"Car": 6203,
+					"Id": 6278,
+					"Class": 6172,
+					"TeamName": "RC Motorsport",
+					"drivers": [
+						{
+							"Forename": "Kevin",
+							"Surname": "Gleason",
+							"Id": 6302
+						}
+					]
+				},
+				{
+					"Name": "#68 - 2017",
+					"Team": 6331,
+					"Car": 6203,
+					"Id": 6279,
+					"Class": 6172,
+					"TeamName": "RC Motorsport",
+					"drivers": [
+						{
+							"Forename": "Yann",
+							"Surname": "Ehrlacher",
+							"Id": 6299
+						}
+					]
+				}
+			]
+		},
+		"6208": {
+			"Name": "Volvo S60 Polestar eSports",
+			"BrandName": "Volvo",
+			"CarManufacturer": 2636,
+			"DefaultLivery": 6211,
+			"Id": 6208,
+			"Class": 6172,
+			"liveries": [
+				{
+					"Name": "#61 - 2016",
+					"Team": 6209,
+					"Car": 6208,
+					"Id": 6210,
+					"Class": 6172,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Fredrik",
+							"Surname": "Ekblom",
+							"Id": 6097
+						}
+					]
+				},
+				{
+					"Name": "#62 - 2016",
+					"Team": 6209,
+					"Car": 6208,
+					"Id": 6211,
+					"Class": 6172,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Thed",
+							"Surname": "Björk",
+							"Id": 6098
+						}
+					]
+				},
+				{
+					"Name": "#81 - 2016",
+					"Team": 6209,
+					"Car": 6208,
+					"Id": 6212,
+					"Class": 6172,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Néstor",
+							"Surname": "Girolami",
+							"Id": 6102
+						}
+					]
+				},
+				{
+					"Name": "#61 - 2017",
+					"Team": 6209,
+					"Car": 6208,
+					"Id": 6275,
+					"Class": 6172,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Néstor",
+							"Surname": "Girolami",
+							"Id": 6296
+						}
+					]
+				},
+				{
+					"Name": "#62 - 2017",
+					"Team": 6209,
+					"Car": 6208,
+					"Id": 6276,
+					"Class": 6172,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Thed",
+							"Surname": "Björk",
+							"Id": 6297
+						}
+					]
+				},
+				{
+					"Name": "#63 - 2017",
+					"Team": 6209,
+					"Car": 6208,
+					"Id": 6277,
+					"Class": 6172,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Nicky",
+							"Surname": "Catsburg",
+							"Id": 6298
+						}
+					]
+				}
+			]
+		},
+		"6310": {
+			"Name": "Chevrolet RML Cruze TC1 2017",
+			"BrandName": "Chevrolet",
+			"CarManufacturer": 2623,
+			"DefaultLivery": 6312,
+			"Id": 6310,
+			"Class": 6309,
+			"liveries": [
+				{
+					"Name": "#9",
+					"Team": 6311,
+					"Car": 6310,
+					"Id": 6312,
+					"Class": 6309,
+					"TeamName": "Roal Motorsport",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Coronel",
+							"Id": 6305
+						}
+					]
+				},
+				{
+					"Name": "#86",
+					"Team": 6339,
+					"Car": 6310,
+					"Id": 6313,
+					"Class": 6309,
+					"TeamName": "Campos Racing",
+					"drivers": [
+						{
+							"Forename": "Esteban",
+							"Surname": "Guerrieri",
+							"Id": 6300
+						}
+					]
+				}
+			]
+		},
+		"6314": {
+			"Name": "Citroen C Elysee WTCC 2017",
+			"BrandName": "Citroën",
+			"CarManufacturer": 3909,
+			"DefaultLivery": 6316,
+			"Id": 6314,
+			"Class": 6309,
+			"liveries": [
+				{
+					"Name": "#3",
+					"Team": 6315,
+					"Car": 6314,
+					"Id": 6316,
+					"Class": 6309,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Chilton",
+							"Id": 6291
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 6318,
+					"Car": 6314,
+					"Id": 6317,
+					"Class": 6309,
+					"TeamName": "ALL-INKL.COM Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Rob",
+							"Surname": "Huff",
+							"Id": 6304
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 6315,
+					"Car": 6314,
+					"Id": 6319,
+					"Class": 6309,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "Mehdi",
+							"Surname": "Bennani",
+							"Id": 6293
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 6315,
+					"Car": 6314,
+					"Id": 6320,
+					"Class": 6309,
+					"TeamName": "Sébastien Loeb Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Filippi",
+							"Id": 6294
+						}
+					]
+				}
+			]
+		},
+		"6321": {
+			"Name": "Honda Civic WTCC 2017",
+			"BrandName": "Honda",
+			"CarManufacturer": 2738,
+			"DefaultLivery": 6324,
+			"Id": 6321,
+			"Class": 6309,
+			"liveries": [
+				{
+					"Name": "#5",
+					"Team": 6322,
+					"Car": 6321,
+					"Id": 6324,
+					"Class": 6309,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Michelisz",
+							"Id": 6292
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 6323,
+					"Car": 6321,
+					"Id": 6325,
+					"Class": 6309,
+					"TeamName": "Zengö Motorsport",
+					"drivers": [
+						{
+							"Forename": "Aurélien",
+							"Surname": "Panis",
+							"Id": 6306
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 6322,
+					"Car": 6321,
+					"Id": 6326,
+					"Class": 6309,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Tiago",
+							"Surname": "Monteiro",
+							"Id": 6303
+						}
+					]
+				},
+				{
+					"Name": "#34",
+					"Team": 6322,
+					"Car": 6321,
+					"Id": 6327,
+					"Class": 6309,
+					"TeamName": "Honda Racing Team JAS",
+					"drivers": [
+						{
+							"Forename": "Ryo",
+							"Surname": "Michigami",
+							"Id": 6295
+						}
+					]
+				},
+				{
+					"Name": "#99",
+					"Team": 6323,
+					"Car": 6321,
+					"Id": 6328,
+					"Class": 6309,
+					"TeamName": "Zengö Motorsport",
+					"drivers": [
+						{
+							"Forename": "Dániel",
+							"Surname": "Nagy",
+							"Id": 6301
+						}
+					]
+				}
+			]
+		},
+		"6329": {
+			"Name": "Lada Vesta WTCC 2017",
+			"BrandName": "Lada",
+			"CarManufacturer": 3011,
+			"DefaultLivery": 6332,
+			"Id": 6329,
+			"Class": 6309,
+			"liveries": [
+				{
+					"Name": "#24",
+					"Team": 6330,
+					"Car": 6329,
+					"Id": 6332,
+					"Class": 6309,
+					"TeamName": "RC Motorsport",
+					"drivers": [
+						{
+							"Forename": "Kevin",
+							"Surname": "Gleason",
+							"Id": 6302
+						}
+					]
+				},
+				{
+					"Name": "#68",
+					"Team": 6330,
+					"Car": 6329,
+					"Id": 6333,
+					"Class": 6309,
+					"TeamName": "RC Motorsport",
+					"drivers": [
+						{
+							"Forename": "Yann",
+							"Surname": "Ehrlacher",
+							"Id": 6299
+						}
+					]
+				}
+			]
+		},
+		"6334": {
+			"Name": "Volvo S60 Polestar TC1",
+			"BrandName": "Volvo",
+			"CarManufacturer": 2636,
+			"DefaultLivery": 6336,
+			"Id": 6334,
+			"Class": 6309,
+			"liveries": [
+				{
+					"Name": "#61",
+					"Team": 6335,
+					"Car": 6334,
+					"Id": 6336,
+					"Class": 6309,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Néstor",
+							"Surname": "Girolami",
+							"Id": 6296
+						}
+					]
+				},
+				{
+					"Name": "#62",
+					"Team": 6335,
+					"Car": 6334,
+					"Id": 6337,
+					"Class": 6309,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Thed",
+							"Surname": "Björk",
+							"Id": 6297
+						}
+					]
+				},
+				{
+					"Name": "#63",
+					"Team": 6335,
+					"Car": 6334,
+					"Id": 6338,
+					"Class": 6309,
+					"TeamName": "Polestar Cyan Racing",
+					"drivers": [
+						{
+							"Forename": "Nicky",
+							"Surname": "Catsburg",
+							"Id": 6298
 						}
 					]
 				}
@@ -30078,17 +31553,17 @@
 			]
 		},
 		"5261": {
-			"Name": "#0",
-			"Team": 5260,
+			"Name": "#2",
+			"Team": 5593,
 			"Car": 5259,
 			"Id": 5261,
 			"Class": 5634,
-			"TeamName": "Mercedes-AMG DTM Team HWA",
+			"TeamName": "Mercedes-AMG Motorsport Mercedes me",
 			"drivers": [
 				{
-					"Forename": "Daniel",
-					"Surname": "Juncadella",
-					"Id": 5572
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
 				}
 			]
 		},
@@ -30543,17 +32018,17 @@
 			]
 		},
 		"5325": {
-			"Name": "#3",
-			"Team": 5260,
+			"Name": "#02",
+			"Team": 5593,
 			"Car": 5259,
 			"Id": 5325,
 			"Class": 5634,
-			"TeamName": "Mercedes-AMG DTM Team HWA",
+			"TeamName": "Mercedes-AMG Motorsport Mercedes me",
 			"drivers": [
 				{
-					"Forename": "Paul",
-					"Surname": "Di Resta",
-					"Id": 5565
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
 				}
 			]
 		},
@@ -31682,6 +33157,111 @@
 				}
 			]
 		},
+		"5591": {
+			"Name": "#20",
+			"Team": 5593,
+			"Car": 5259,
+			"Id": 5591,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"5598": {
+			"Name": "#3",
+			"Team": 5592,
+			"Car": 5259,
+			"Id": 5598,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"5599": {
+			"Name": "#30",
+			"Team": 5592,
+			"Car": 5259,
+			"Id": 5599,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"5600": {
+			"Name": "#33",
+			"Team": 5592,
+			"Car": 5259,
+			"Id": 5600,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"5601": {
+			"Name": "#6",
+			"Team": 5593,
+			"Car": 5259,
+			"Id": 5601,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"5602": {
+			"Name": "#60",
+			"Team": 5593,
+			"Car": 5259,
+			"Id": 5602,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"5603": {
+			"Name": "#66",
+			"Team": 5593,
+			"Car": 5259,
+			"Id": 5603,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport Mercedes me",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
 		"5624": {
 			"Name": "#34",
 			"Team": 5635,
@@ -32591,7 +34171,7 @@
 			"TeamName": "RaceRoom Racing",
 			"drivers": [
 				{
-					"Forename": "Philip",
+					"Forename": "Steinar",
 					"Surname": "Pladsen",
 					"Id": 5831
 				}
@@ -33617,9 +35197,309 @@
 				}
 			]
 		},
+		"6062": {
+			"Name": "#3",
+			"Team": 5822,
+			"Car": 5821,
+			"Id": 6062,
+			"Class": 5824,
+			"TeamName": "Hanergy",
+			"drivers": [
+				{
+					"Forename": "Felix",
+					"Surname": "Altmeier",
+					"Id": 5868
+				}
+			]
+		},
+		"6063": {
+			"Name": "#4",
+			"Team": 5822,
+			"Car": 5821,
+			"Id": 6063,
+			"Class": 5824,
+			"TeamName": "Hanergy",
+			"drivers": [
+				{
+					"Forename": "Russell",
+					"Surname": "Barrington",
+					"Id": 5869
+				}
+			]
+		},
+		"6064": {
+			"Name": "#5",
+			"Team": 6126,
+			"Car": 5821,
+			"Id": 6064,
+			"Class": 5824,
+			"TeamName": "Shell",
+			"drivers": [
+				{
+					"Forename": "Roger",
+					"Surname": "Seiter",
+					"Id": 5974
+				}
+			]
+		},
+		"6065": {
+			"Name": "#6",
+			"Team": 6126,
+			"Car": 5821,
+			"Id": 6065,
+			"Class": 5824,
+			"TeamName": "Shell",
+			"drivers": [
+				{
+					"Forename": "Denis",
+					"Surname": "Bernard",
+					"Id": 5976
+				}
+			]
+		},
+		"6066": {
+			"Name": "#7",
+			"Team": 6127,
+			"Car": 5821,
+			"Id": 6066,
+			"Class": 5824,
+			"TeamName": "GoPro",
+			"drivers": [
+				{
+					"Forename": "Michele",
+					"Surname": "Falcinelli",
+					"Id": 5978
+				}
+			]
+		},
+		"6067": {
+			"Name": "#8",
+			"Team": 6127,
+			"Car": 5821,
+			"Id": 6067,
+			"Class": 5824,
+			"TeamName": "GoPro",
+			"drivers": [
+				{
+					"Forename": "Robert",
+					"Surname": "Paquet",
+					"Id": 5977
+				}
+			]
+		},
+		"6068": {
+			"Name": "#9",
+			"Team": 6128,
+			"Car": 5821,
+			"Id": 6068,
+			"Class": 5824,
+			"TeamName": "Virgin",
+			"drivers": [
+				{
+					"Forename": "Mark",
+					"Surname": "Harrison",
+					"Id": 6042
+				}
+			]
+		},
+		"6069": {
+			"Name": "#10",
+			"Team": 6128,
+			"Car": 5821,
+			"Id": 6069,
+			"Class": 5824,
+			"TeamName": "Virgin",
+			"drivers": [
+				{
+					"Forename": "Artúr",
+					"Surname": "Kösztler",
+					"Id": 6043
+				}
+			]
+		},
+		"6070": {
+			"Name": "#11",
+			"Team": 6129,
+			"Car": 5821,
+			"Id": 6070,
+			"Class": 5824,
+			"TeamName": "Etihad",
+			"drivers": [
+				{
+					"Forename": "Andrew",
+					"Surname": "Martin",
+					"Id": 6046
+				}
+			]
+		},
+		"6071": {
+			"Name": "#12",
+			"Team": 6129,
+			"Car": 5821,
+			"Id": 6071,
+			"Class": 5824,
+			"TeamName": "Etihad",
+			"drivers": [
+				{
+					"Forename": "Stephanie",
+					"Surname": "Speck",
+					"Id": 6047
+				}
+			]
+		},
+		"6072": {
+			"Name": "#13",
+			"Team": 6130,
+			"Car": 5821,
+			"Id": 6072,
+			"Class": 5824,
+			"TeamName": "Samsung",
+			"drivers": [
+				{
+					"Forename": "Motoko",
+					"Surname": "Kusanagi",
+					"Id": 6044
+				}
+			]
+		},
+		"6073": {
+			"Name": "#14",
+			"Team": 6130,
+			"Car": 5821,
+			"Id": 6073,
+			"Class": 5824,
+			"TeamName": "Samsung",
+			"drivers": [
+				{
+					"Forename": "Douglas",
+					"Surname": "Rain",
+					"Id": 6048
+				}
+			]
+		},
+		"6074": {
+			"Name": "#15",
+			"Team": 6131,
+			"Car": 5821,
+			"Id": 6074,
+			"Class": 5824,
+			"TeamName": "Castrol",
+			"drivers": [
+				{
+					"Forename": "Alberto",
+					"Surname": "Seveso",
+					"Id": 6049
+				}
+			]
+		},
+		"6075": {
+			"Name": "#16",
+			"Team": 6131,
+			"Car": 5821,
+			"Id": 6075,
+			"Class": 5824,
+			"TeamName": "Castrol",
+			"drivers": [
+				{
+					"Forename": "Felix",
+					"Surname": "Dominguez",
+					"Id": 6050
+				}
+			]
+		},
+		"6076": {
+			"Name": "#17",
+			"Team": 6132,
+			"Car": 5821,
+			"Id": 6076,
+			"Class": 5824,
+			"TeamName": "Snap-On",
+			"drivers": [
+				{
+					"Forename": "Josh",
+					"Surname": "Rosenberg",
+					"Id": 6051
+				}
+			]
+		},
+		"6077": {
+			"Name": "#18",
+			"Team": 6132,
+			"Car": 5821,
+			"Id": 6077,
+			"Class": 5824,
+			"TeamName": "Snap-On",
+			"drivers": [
+				{
+					"Forename": "Theodor",
+					"Surname": "Fælgen",
+					"Id": 6104
+				}
+			]
+		},
+		"6078": {
+			"Name": "#19",
+			"Team": 6133,
+			"Car": 5821,
+			"Id": 6078,
+			"Class": 5824,
+			"TeamName": "Mobil1",
+			"drivers": [
+				{
+					"Forename": "Miyuki",
+					"Surname": "Tachikoma",
+					"Id": 6045
+				}
+			]
+		},
+		"6079": {
+			"Name": "#20",
+			"Team": 6133,
+			"Car": 5821,
+			"Id": 6079,
+			"Class": 5824,
+			"TeamName": "Mobil1",
+			"drivers": [
+				{
+					"Forename": "Pascal",
+					"Surname": "Malateste",
+					"Id": 6105
+				}
+			]
+		},
+		"6080": {
+			"Name": "#21",
+			"Team": 6134,
+			"Car": 5821,
+			"Id": 6080,
+			"Class": 5824,
+			"TeamName": "Monster Energy",
+			"drivers": [
+				{
+					"Forename": "Steven",
+					"Surname": "Hambley",
+					"Id": 6106
+				}
+			]
+		},
+		"6081": {
+			"Name": "#22",
+			"Team": 6134,
+			"Car": 5821,
+			"Id": 6081,
+			"Class": 5824,
+			"TeamName": "Monster Energy",
+			"drivers": [
+				{
+					"Forename": "Tomasz",
+					"Surname": "Zasada",
+					"Id": 6107
+				}
+			]
+		},
 		"6135": {
 			"Name": "#8",
-			"Team": 6012,
+			"Team": 6037,
 			"Car": 6011,
 			"Id": 6135,
 			"Class": 6036,
@@ -33629,6 +35509,966 @@
 					"Forename": "Sabine",
 					"Surname": "Schmitz",
 					"Id": 6086
+				}
+			]
+		},
+		"6182": {
+			"Name": "#9 - 2016",
+			"Team": 6178,
+			"Car": 6177,
+			"Id": 6182,
+			"Class": 6172,
+			"TeamName": "Roal Motorsport",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Coronel",
+					"Id": 6087
+				}
+			]
+		},
+		"6183": {
+			"Name": "#8 - 2016",
+			"Team": 6179,
+			"Car": 6177,
+			"Id": 6183,
+			"Class": 6172,
+			"TeamName": "All-Inkl.com Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Sabine",
+					"Surname": "Schmitz",
+					"Id": 6086
+				}
+			]
+		},
+		"6184": {
+			"Name": "#15 - 2016",
+			"Team": 6179,
+			"Car": 6177,
+			"Id": 6184,
+			"Class": 6172,
+			"TeamName": "All-Inkl.com Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "James",
+					"Surname": "Thompson",
+					"Id": 6091
+				}
+			]
+		},
+		"6185": {
+			"Name": "#27 - 2016",
+			"Team": 6180,
+			"Car": 6177,
+			"Id": 6185,
+			"Class": 6172,
+			"TeamName": "Campos Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Filippi",
+					"Id": 6094
+				}
+			]
+		},
+		"6186": {
+			"Name": "#77 - 2016",
+			"Team": 6179,
+			"Car": 6177,
+			"Id": 6186,
+			"Class": 6172,
+			"TeamName": "All-Inkl.com Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "René",
+					"Surname": "Münnich",
+					"Id": 6100
+				}
+			]
+		},
+		"6190": {
+			"Name": "#3 - 2016",
+			"Team": 6188,
+			"Car": 6187,
+			"Id": 6190,
+			"Class": 6172,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Chilton",
+					"Id": 6083
+				}
+			]
+		},
+		"6191": {
+			"Name": "#11 - 2016",
+			"Team": 6188,
+			"Car": 6187,
+			"Id": 6191,
+			"Class": 6172,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Grégoire",
+					"Surname": "Demoustier",
+					"Id": 6089
+				}
+			]
+		},
+		"6192": {
+			"Name": "#25 - 2016",
+			"Team": 6188,
+			"Car": 6187,
+			"Id": 6192,
+			"Class": 6172,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Mehdi",
+					"Surname": "Bennani",
+					"Id": 6093
+				}
+			]
+		},
+		"6193": {
+			"Name": "#37 - 2016",
+			"Team": 6189,
+			"Car": 6187,
+			"Id": 6193,
+			"Class": 6172,
+			"TeamName": "Citroën Total WTCC",
+			"drivers": [
+				{
+					"Forename": "José María",
+					"Surname": "López",
+					"Id": 6095
+				}
+			]
+		},
+		"6194": {
+			"Name": "#68 - 2016",
+			"Team": 6189,
+			"Car": 6187,
+			"Id": 6194,
+			"Class": 6172,
+			"TeamName": "Citroën Total WTCC",
+			"drivers": [
+				{
+					"Forename": "Yvan",
+					"Surname": "Muller",
+					"Id": 6099
+				}
+			]
+		},
+		"6198": {
+			"Name": "#5 - 2016 ",
+			"Team": 6196,
+			"Car": 6195,
+			"Id": 6198,
+			"Class": 6172,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Michelisz",
+					"Id": 6084
+				}
+			]
+		},
+		"6199": {
+			"Name": "#12 - 2016 ",
+			"Team": 6196,
+			"Car": 6195,
+			"Id": 6199,
+			"Class": 6172,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Rob",
+					"Surname": "Huff",
+					"Id": 6090
+				}
+			]
+		},
+		"6200": {
+			"Name": "#18 - 2016 ",
+			"Team": 6196,
+			"Car": 6195,
+			"Id": 6200,
+			"Class": 6172,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Tiago",
+					"Surname": "Monteiro",
+					"Id": 6092
+				}
+			]
+		},
+		"6201": {
+			"Name": "#55 - 2016 ",
+			"Team": 6197,
+			"Car": 6195,
+			"Id": 6201,
+			"Class": 6172,
+			"TeamName": "Zengö Motorsport",
+			"drivers": [
+				{
+					"Forename": "Ferenc",
+					"Surname": "Ficza",
+					"Id": 6096
+				}
+			]
+		},
+		"6202": {
+			"Name": "#99 - 2016 ",
+			"Team": 6197,
+			"Car": 6195,
+			"Id": 6202,
+			"Class": 6172,
+			"TeamName": "Zengö Motorsport",
+			"drivers": [
+				{
+					"Forename": "Dániel",
+					"Surname": "Nagy",
+					"Id": 6101
+				}
+			]
+		},
+		"6205": {
+			"Name": "#2 - 2016",
+			"Team": 6204,
+			"Car": 6203,
+			"Id": 6205,
+			"Class": 6172,
+			"TeamName": "LADA Sport Rosneft",
+			"drivers": [
+				{
+					"Forename": "Gabriele",
+					"Surname": "Tarquini",
+					"Id": 6052
+				}
+			]
+		},
+		"6206": {
+			"Name": "#7 - 2016",
+			"Team": 6204,
+			"Car": 6203,
+			"Id": 6206,
+			"Class": 6172,
+			"TeamName": "LADA Sport Rosneft",
+			"drivers": [
+				{
+					"Forename": "Hugo",
+					"Surname": "Valente",
+					"Id": 6085
+				}
+			]
+		},
+		"6207": {
+			"Name": "#10 - 2016",
+			"Team": 6204,
+			"Car": 6203,
+			"Id": 6207,
+			"Class": 6172,
+			"TeamName": "LADA Sport Rosneft",
+			"drivers": [
+				{
+					"Forename": "Nicky",
+					"Surname": "Catsburg",
+					"Id": 6088
+				}
+			]
+		},
+		"6210": {
+			"Name": "#61 - 2016",
+			"Team": 6209,
+			"Car": 6208,
+			"Id": 6210,
+			"Class": 6172,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Fredrik",
+					"Surname": "Ekblom",
+					"Id": 6097
+				}
+			]
+		},
+		"6211": {
+			"Name": "#62 - 2016",
+			"Team": 6209,
+			"Car": 6208,
+			"Id": 6211,
+			"Class": 6172,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Thed",
+					"Surname": "Björk",
+					"Id": 6098
+				}
+			]
+		},
+		"6212": {
+			"Name": "#81 - 2016",
+			"Team": 6209,
+			"Car": 6208,
+			"Id": 6212,
+			"Class": 6172,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Néstor",
+					"Surname": "Girolami",
+					"Id": 6102
+				}
+			]
+		},
+		"6224": {
+			"Name": "#19",
+			"Team": 5994,
+			"Car": 5818,
+			"Id": 6224,
+			"Class": 1703,
+			"TeamName": "Schubert Motorsports",
+			"drivers": [
+				{
+					"Forename": "Jeroen",
+					"Surname": "den Boer",
+					"Id": 6227
+				}
+			]
+		},
+		"6225": {
+			"Name": "#20",
+			"Team": 5994,
+			"Car": 5818,
+			"Id": 6225,
+			"Class": 1703,
+			"TeamName": "Schubert Motorsports",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Tomczyk",
+					"Id": 6226
+				}
+			]
+		},
+		"6265": {
+			"Name": "#22",
+			"Team": 5260,
+			"Car": 5259,
+			"Id": 6265,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport BWT",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6266": {
+			"Name": "#21",
+			"Team": 5260,
+			"Car": 5259,
+			"Id": 6266,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport BWT",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6267": {
+			"Name": "#23",
+			"Team": 5260,
+			"Car": 5259,
+			"Id": 6267,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport BWT",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6268": {
+			"Name": "#48",
+			"Team": 5260,
+			"Car": 5259,
+			"Id": 6268,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport BWT",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6269": {
+			"Name": "#46",
+			"Team": 5260,
+			"Car": 5259,
+			"Id": 6269,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport BWT",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6270": {
+			"Name": "#47",
+			"Team": 5260,
+			"Car": 5259,
+			"Id": 6270,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport BWT",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6271": {
+			"Name": "#63",
+			"Team": 5592,
+			"Car": 5259,
+			"Id": 6271,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6272": {
+			"Name": "#61",
+			"Team": 5592,
+			"Car": 5259,
+			"Id": 6272,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6273": {
+			"Name": "#62",
+			"Team": 5592,
+			"Car": 5259,
+			"Id": 6273,
+			"Class": 5634,
+			"TeamName": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
+			"drivers": [
+				{
+					"Forename": "Mercedes",
+					"Surname": "AMG Academy",
+					"Id": 6274
+				}
+			]
+		},
+		"6275": {
+			"Name": "#61 - 2017",
+			"Team": 6209,
+			"Car": 6208,
+			"Id": 6275,
+			"Class": 6172,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Néstor",
+					"Surname": "Girolami",
+					"Id": 6296
+				}
+			]
+		},
+		"6276": {
+			"Name": "#62 - 2017",
+			"Team": 6209,
+			"Car": 6208,
+			"Id": 6276,
+			"Class": 6172,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Thed",
+					"Surname": "Björk",
+					"Id": 6297
+				}
+			]
+		},
+		"6277": {
+			"Name": "#63 - 2017",
+			"Team": 6209,
+			"Car": 6208,
+			"Id": 6277,
+			"Class": 6172,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Nicky",
+					"Surname": "Catsburg",
+					"Id": 6298
+				}
+			]
+		},
+		"6278": {
+			"Name": "#24 - 2017",
+			"Team": 6331,
+			"Car": 6203,
+			"Id": 6278,
+			"Class": 6172,
+			"TeamName": "RC Motorsport",
+			"drivers": [
+				{
+					"Forename": "Kevin",
+					"Surname": "Gleason",
+					"Id": 6302
+				}
+			]
+		},
+		"6279": {
+			"Name": "#68 - 2017",
+			"Team": 6331,
+			"Car": 6203,
+			"Id": 6279,
+			"Class": 6172,
+			"TeamName": "RC Motorsport",
+			"drivers": [
+				{
+					"Forename": "Yann",
+					"Surname": "Ehrlacher",
+					"Id": 6299
+				}
+			]
+		},
+		"6280": {
+			"Name": "#5 - 2017",
+			"Team": 6196,
+			"Car": 6195,
+			"Id": 6280,
+			"Class": 6172,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Michelisz",
+					"Id": 6292
+				}
+			]
+		},
+		"6281": {
+			"Name": "#8 - 2017",
+			"Team": 6197,
+			"Car": 6195,
+			"Id": 6281,
+			"Class": 6172,
+			"TeamName": "Zengö Motorsport",
+			"drivers": [
+				{
+					"Forename": "Aurélien",
+					"Surname": "Panis",
+					"Id": 6306
+				}
+			]
+		},
+		"6282": {
+			"Name": "#18 - 2017",
+			"Team": 6196,
+			"Car": 6195,
+			"Id": 6282,
+			"Class": 6172,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Tiago",
+					"Surname": "Monteiro",
+					"Id": 6303
+				}
+			]
+		},
+		"6283": {
+			"Name": "#34 - 2017",
+			"Team": 6196,
+			"Car": 6195,
+			"Id": 6283,
+			"Class": 6172,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Ryo",
+					"Surname": "Michigami",
+					"Id": 6295
+				}
+			]
+		},
+		"6284": {
+			"Name": "#99 - 2017",
+			"Team": 6197,
+			"Car": 6195,
+			"Id": 6284,
+			"Class": 6172,
+			"TeamName": "Zengö Motorsport",
+			"drivers": [
+				{
+					"Forename": "Dániel",
+					"Surname": "Nagy",
+					"Id": 6301
+				}
+			]
+		},
+		"6285": {
+			"Name": "#3 - 2017",
+			"Team": 6188,
+			"Car": 6187,
+			"Id": 6285,
+			"Class": 6172,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Chilton",
+					"Id": 6291
+				}
+			]
+		},
+		"6286": {
+			"Name": "#12 - 2017",
+			"Team": 6308,
+			"Car": 6187,
+			"Id": 6286,
+			"Class": 6172,
+			"TeamName": "ALL-INKL.COM Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Rob",
+					"Surname": "Huff",
+					"Id": 6304
+				}
+			]
+		},
+		"6287": {
+			"Name": "#25 - 2017",
+			"Team": 6188,
+			"Car": 6187,
+			"Id": 6287,
+			"Class": 6172,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Mehdi",
+					"Surname": "Bennani",
+					"Id": 6293
+				}
+			]
+		},
+		"6288": {
+			"Name": "#27 - 2017",
+			"Team": 6188,
+			"Car": 6187,
+			"Id": 6288,
+			"Class": 6172,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Filippi",
+					"Id": 6294
+				}
+			]
+		},
+		"6289": {
+			"Name": "#9 - 2017",
+			"Team": 6178,
+			"Car": 6177,
+			"Id": 6289,
+			"Class": 6172,
+			"TeamName": "Roal Motorsport",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Coronel",
+					"Id": 6305
+				}
+			]
+		},
+		"6290": {
+			"Name": "#86 - 2017",
+			"Team": 6180,
+			"Car": 6177,
+			"Id": 6290,
+			"Class": 6172,
+			"TeamName": "Campos Racing",
+			"drivers": [
+				{
+					"Forename": "Esteban",
+					"Surname": "Guerrieri",
+					"Id": 6300
+				}
+			]
+		},
+		"6312": {
+			"Name": "#9",
+			"Team": 6311,
+			"Car": 6310,
+			"Id": 6312,
+			"Class": 6309,
+			"TeamName": "Roal Motorsport",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Coronel",
+					"Id": 6305
+				}
+			]
+		},
+		"6313": {
+			"Name": "#86",
+			"Team": 6339,
+			"Car": 6310,
+			"Id": 6313,
+			"Class": 6309,
+			"TeamName": "Campos Racing",
+			"drivers": [
+				{
+					"Forename": "Esteban",
+					"Surname": "Guerrieri",
+					"Id": 6300
+				}
+			]
+		},
+		"6316": {
+			"Name": "#3",
+			"Team": 6315,
+			"Car": 6314,
+			"Id": 6316,
+			"Class": 6309,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Chilton",
+					"Id": 6291
+				}
+			]
+		},
+		"6317": {
+			"Name": "#12",
+			"Team": 6318,
+			"Car": 6314,
+			"Id": 6317,
+			"Class": 6309,
+			"TeamName": "ALL-INKL.COM Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Rob",
+					"Surname": "Huff",
+					"Id": 6304
+				}
+			]
+		},
+		"6319": {
+			"Name": "#25",
+			"Team": 6315,
+			"Car": 6314,
+			"Id": 6319,
+			"Class": 6309,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "Mehdi",
+					"Surname": "Bennani",
+					"Id": 6293
+				}
+			]
+		},
+		"6320": {
+			"Name": "#27",
+			"Team": 6315,
+			"Car": 6314,
+			"Id": 6320,
+			"Class": 6309,
+			"TeamName": "Sébastien Loeb Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Filippi",
+					"Id": 6294
+				}
+			]
+		},
+		"6324": {
+			"Name": "#5",
+			"Team": 6322,
+			"Car": 6321,
+			"Id": 6324,
+			"Class": 6309,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Michelisz",
+					"Id": 6292
+				}
+			]
+		},
+		"6325": {
+			"Name": "#8",
+			"Team": 6323,
+			"Car": 6321,
+			"Id": 6325,
+			"Class": 6309,
+			"TeamName": "Zengö Motorsport",
+			"drivers": [
+				{
+					"Forename": "Aurélien",
+					"Surname": "Panis",
+					"Id": 6306
+				}
+			]
+		},
+		"6326": {
+			"Name": "#18",
+			"Team": 6322,
+			"Car": 6321,
+			"Id": 6326,
+			"Class": 6309,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Tiago",
+					"Surname": "Monteiro",
+					"Id": 6303
+				}
+			]
+		},
+		"6327": {
+			"Name": "#34",
+			"Team": 6322,
+			"Car": 6321,
+			"Id": 6327,
+			"Class": 6309,
+			"TeamName": "Honda Racing Team JAS",
+			"drivers": [
+				{
+					"Forename": "Ryo",
+					"Surname": "Michigami",
+					"Id": 6295
+				}
+			]
+		},
+		"6328": {
+			"Name": "#99",
+			"Team": 6323,
+			"Car": 6321,
+			"Id": 6328,
+			"Class": 6309,
+			"TeamName": "Zengö Motorsport",
+			"drivers": [
+				{
+					"Forename": "Dániel",
+					"Surname": "Nagy",
+					"Id": 6301
+				}
+			]
+		},
+		"6332": {
+			"Name": "#24",
+			"Team": 6330,
+			"Car": 6329,
+			"Id": 6332,
+			"Class": 6309,
+			"TeamName": "RC Motorsport",
+			"drivers": [
+				{
+					"Forename": "Kevin",
+					"Surname": "Gleason",
+					"Id": 6302
+				}
+			]
+		},
+		"6333": {
+			"Name": "#68",
+			"Team": 6330,
+			"Car": 6329,
+			"Id": 6333,
+			"Class": 6309,
+			"TeamName": "RC Motorsport",
+			"drivers": [
+				{
+					"Forename": "Yann",
+					"Surname": "Ehrlacher",
+					"Id": 6299
+				}
+			]
+		},
+		"6336": {
+			"Name": "#61",
+			"Team": 6335,
+			"Car": 6334,
+			"Id": 6336,
+			"Class": 6309,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Néstor",
+					"Surname": "Girolami",
+					"Id": 6296
+				}
+			]
+		},
+		"6337": {
+			"Name": "#62",
+			"Team": 6335,
+			"Car": 6334,
+			"Id": 6337,
+			"Class": 6309,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Thed",
+					"Surname": "Björk",
+					"Id": 6297
+				}
+			]
+		},
+		"6338": {
+			"Name": "#63",
+			"Team": 6335,
+			"Car": 6334,
+			"Id": 6338,
+			"Class": 6309,
+			"TeamName": "Polestar Cyan Racing",
+			"drivers": [
+				{
+					"Forename": "Nicky",
+					"Surname": "Catsburg",
+					"Id": 6298
 				}
 			]
 		}
@@ -34341,6 +37181,30 @@
 					"Id": 6056
 				}
 			]
+		},
+		"6136": {
+			"Name": "Knutstorp Ring",
+			"Id": 6136,
+			"layouts": [
+				{
+					"Name": "GP",
+					"Track": 6136,
+					"MaxNumberOfVehicles": 32,
+					"Id": 6137
+				}
+			]
+		},
+		"6139": {
+			"Name": "Falkenberg Motorbana",
+			"Id": 6139,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 6139,
+					"MaxNumberOfVehicles": 36,
+					"Id": 6140
+				}
+			]
 		}
 	},
 	"layouts": {
@@ -34818,11 +37682,23 @@
 			"MaxNumberOfVehicles": 30,
 			"Id": 6056
 		},
+		"6137": {
+			"Name": "GP",
+			"Track": 6136,
+			"MaxNumberOfVehicles": 32,
+			"Id": 6137
+		},
 		"6138": {
 			"Name": "Short Circuit",
 			"Track": 5924,
 			"MaxNumberOfVehicles": 36,
 			"Id": 6138
+		},
+		"6140": {
+			"Name": "Grand Prix",
+			"Track": 6139,
+			"MaxNumberOfVehicles": 36,
+			"Id": 6140
 		},
 		"6164": {
 			"Name": "South",
@@ -35391,7 +38267,7 @@
 			"Id": 5385
 		},
 		"5634": {
-			"Name": "Mercedes-AMG E-Game",
+			"Name": "Mercedes-AMG Motorsport",
 			"Cars": [
 				{
 					"Id": 5259
@@ -35417,6 +38293,15 @@
 			],
 			"Id": 5726
 		},
+		"5824": {
+			"Name": "FR X-17 Cup",
+			"Cars": [
+				{
+					"Id": 5821
+				}
+			],
+			"Id": 5824
+		},
 		"6036": {
 			"Name": "WTCC 2016",
 			"Cars": [
@@ -35437,6 +38322,48 @@
 				}
 			],
 			"Id": 6036
+		},
+		"6172": {
+			"Name": "eSports WTCC",
+			"Cars": [
+				{
+					"Id": 6177
+				},
+				{
+					"Id": 6187
+				},
+				{
+					"Id": 6195
+				},
+				{
+					"Id": 6203
+				},
+				{
+					"Id": 6208
+				}
+			],
+			"Id": 6172
+		},
+		"6309": {
+			"Name": "WTCC 2017",
+			"Cars": [
+				{
+					"Id": 6310
+				},
+				{
+					"Id": 6314
+				},
+				{
+					"Id": 6321
+				},
+				{
+					"Id": 6329
+				},
+				{
+					"Id": 6334
+				}
+			],
+			"Id": 6309
 		}
 	},
 	"manufacturers": {
@@ -38279,7 +41206,7 @@
 		},
 		"5260": {
 			"Type": "CarTeam",
-			"Name": "Mercedes-AMG DTM Team HWA",
+			"Name": "Mercedes-AMG Motorsport BWT",
 			"Id": 5260
 		},
 		"5343": {
@@ -38634,12 +41561,12 @@
 		},
 		"5592": {
 			"Type": "CarTeam",
-			"Name": "Mercedes-AMG DTM Team ART",
+			"Name": "Mercedes-AMG Motorsport SILBERPFEIL Energy",
 			"Id": 5592
 		},
 		"5593": {
 			"Type": "CarTeam",
-			"Name": "Mercedes-AMG DTM Team Mücke",
+			"Name": "Mercedes-AMG Motorsport Mercedes me",
 			"Id": 5593
 		},
 		"5604": {
@@ -38711,6 +41638,11 @@
 			"Type": "CarTeam",
 			"Name": "BMW Motorsport",
 			"Id": 5819
+		},
+		"5822": {
+			"Type": "CarTeam",
+			"Name": "Hanergy",
+			"Id": 5822
 		},
 		"5877": {
 			"Type": "CarTeam",
@@ -39106,6 +42038,151 @@
 			"Type": "CarTeam",
 			"Name": "Sunoco",
 			"Id": 6125
+		},
+		"6126": {
+			"Type": "CarTeam",
+			"Name": "Shell",
+			"Id": 6126
+		},
+		"6127": {
+			"Type": "CarTeam",
+			"Name": "GoPro",
+			"Id": 6127
+		},
+		"6128": {
+			"Type": "CarTeam",
+			"Name": "Virgin",
+			"Id": 6128
+		},
+		"6129": {
+			"Type": "CarTeam",
+			"Name": "Etihad",
+			"Id": 6129
+		},
+		"6130": {
+			"Type": "CarTeam",
+			"Name": "Samsung",
+			"Id": 6130
+		},
+		"6131": {
+			"Type": "CarTeam",
+			"Name": "Castrol",
+			"Id": 6131
+		},
+		"6132": {
+			"Type": "CarTeam",
+			"Name": "Snap-On",
+			"Id": 6132
+		},
+		"6133": {
+			"Type": "CarTeam",
+			"Name": "Mobil1",
+			"Id": 6133
+		},
+		"6134": {
+			"Type": "CarTeam",
+			"Name": "Monster Energy",
+			"Id": 6134
+		},
+		"6178": {
+			"Type": "CarTeam",
+			"Name": "Roal Motorsport",
+			"Id": 6178
+		},
+		"6179": {
+			"Type": "CarTeam",
+			"Name": "All-Inkl.com Münnich Motorsport",
+			"Id": 6179
+		},
+		"6180": {
+			"Type": "CarTeam",
+			"Name": "Campos Racing",
+			"Id": 6180
+		},
+		"6181": {
+			"Type": "CarTeam",
+			"Name": "Nika International",
+			"Id": 6181
+		},
+		"6188": {
+			"Type": "CarTeam",
+			"Name": "Sébastien Loeb Racing",
+			"Id": 6188
+		},
+		"6189": {
+			"Type": "CarTeam",
+			"Name": "Citroën Total WTCC",
+			"Id": 6189
+		},
+		"6196": {
+			"Type": "CarTeam",
+			"Name": "Honda Racing Team JAS",
+			"Id": 6196
+		},
+		"6197": {
+			"Type": "CarTeam",
+			"Name": "Zengö Motorsport",
+			"Id": 6197
+		},
+		"6204": {
+			"Type": "CarTeam",
+			"Name": "LADA Sport Rosneft",
+			"Id": 6204
+		},
+		"6209": {
+			"Type": "CarTeam",
+			"Name": "Polestar Cyan Racing",
+			"Id": 6209
+		},
+		"6308": {
+			"Type": "CarTeam",
+			"Name": "ALL-INKL.COM Münnich Motorsport",
+			"Id": 6308
+		},
+		"6311": {
+			"Type": "CarTeam",
+			"Name": "Roal Motorsport",
+			"Id": 6311
+		},
+		"6315": {
+			"Type": "CarTeam",
+			"Name": "Sébastien Loeb Racing",
+			"Id": 6315
+		},
+		"6318": {
+			"Type": "CarTeam",
+			"Name": "ALL-INKL.COM Münnich Motorsport",
+			"Id": 6318
+		},
+		"6322": {
+			"Type": "CarTeam",
+			"Name": "Honda Racing Team JAS",
+			"Id": 6322
+		},
+		"6323": {
+			"Type": "CarTeam",
+			"Name": "Zengö Motorsport",
+			"Id": 6323
+		},
+		"6330": {
+			"Type": "CarTeam",
+			"Name": "RC Motorsport",
+			"Id": 6330
+		},
+		"6331": {
+			"Type": "CarTeam",
+			"Name": "RC Motorsport",
+			"Id": 6331
+		},
+		"6335": {
+			"Type": "CarTeam",
+			"Name": "Polestar Cyan Racing",
+			"Id": 6335
+		},
+		"6339": {
+			"Type": "CarTeam",
+			"Name": "Campos Racing",
+			"Id": 6339
 		}
 	}
 };
