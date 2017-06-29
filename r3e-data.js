@@ -36553,7 +36553,7 @@ var r3eData = {
 			]
 		},
 		"1677": {
-			"Name": "Circuit Park Zandvoort",
+			"Name": "Circuit Zandvoort",
 			"Id": 1677,
 			"layouts": [
 				{
