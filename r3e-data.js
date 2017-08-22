@@ -9977,7 +9977,7 @@ var r3eData = {
 					"TeamName": "BMW M Team Schnitzer",
 					"drivers": [
 						{
-							"Forename": "Robert",
+							"Forename": "Roberto",
 							"Surname": "Ravaglia",
 							"Id": 3733
 						}
@@ -17272,9 +17272,9 @@ var r3eData = {
 					"TeamName": "BMW Team SRM",
 					"drivers": [
 						{
-							"Forename": "Marco",
-							"Surname": "Wittmann",
-							"Id": 5571
+							"Forename": "Steve",
+							"Surname": "Richards",
+							"Id": 6514
 						}
 					]
 				},
@@ -17309,6 +17309,51 @@ var r3eData = {
 					]
 				},
 				{
+					"Name": "#7a",
+					"Team": 5999,
+					"Car": 5818,
+					"Id": 6214,
+					"Class": 1703,
+					"TeamName": "BMW Team SRM",
+					"drivers": [
+						{
+							"Forename": "Timo",
+							"Surname": "Glock",
+							"Id": 6508
+						}
+					]
+				},
+				{
+					"Name": "#60a",
+					"Team": 5999,
+					"Car": 5818,
+					"Id": 6215,
+					"Class": 1703,
+					"TeamName": "BMW Team SRM",
+					"drivers": [
+						{
+							"Forename": "Marco",
+							"Surname": "Wittmann",
+							"Id": 6509
+						}
+					]
+				},
+				{
+					"Name": "#90a",
+					"Team": 6511,
+					"Car": 5818,
+					"Id": 6216,
+					"Class": 1703,
+					"TeamName": "MARC Cars Australia",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Twigg",
+							"Id": 6510
+						}
+					]
+				},
+				{
 					"Name": "#19",
 					"Team": 5994,
 					"Car": 5818,
@@ -17335,6 +17380,21 @@ var r3eData = {
 							"Forename": "Martin",
 							"Surname": "Tomczyk",
 							"Id": 6226
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 6513,
+					"Car": 5818,
+					"Id": 6398,
+					"Class": 1703,
+					"TeamName": "Falken Motorsport",
+					"drivers": [
+						{
+							"Forename": "Alexandre",
+							"Surname": "Imperatori",
+							"Id": 6512
 						}
 					]
 				}
@@ -18615,6 +18675,361 @@ var r3eData = {
 							"Forename": "Nicky",
 							"Surname": "Catsburg",
 							"Id": 6298
+						}
+					]
+				}
+			]
+		},
+		"6262": {
+			"Name": "BMW M235i Racing",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
+			"DefaultLivery": 6264,
+			"Id": 6262,
+			"Class": 6344,
+			"liveries": [
+				{
+					"Name": "#235",
+					"Team": 6505,
+					"Car": 6262,
+					"Id": 6264,
+					"Class": 6344,
+					"TeamName": "BMW Motorsport",
+					"drivers": [
+						{
+							"Forename": "Jethro",
+							"Surname": "Bovingdon",
+							"Id": 6491
+						}
+					]
+				},
+				{
+					"Name": "#148",
+					"Team": 6263,
+					"Car": 6262,
+					"Id": 6352,
+					"Class": 6344,
+					"TeamName": "QSR Racing Team",
+					"drivers": [
+						{
+							"Forename": "Mario",
+							"Surname": "Timmers",
+							"Id": 6372
+						}
+					]
+				},
+				{
+					"Name": "#151",
+					"Team": 6420,
+					"Car": 6262,
+					"Id": 6353,
+					"Class": 6344,
+					"TeamName": "Sorg Rennsport",
+					"drivers": [
+						{
+							"Forename": "Oskar",
+							"Surname": "Sandberg",
+							"Id": 6373
+						}
+					]
+				},
+				{
+					"Name": "#152",
+					"Team": 6420,
+					"Car": 6262,
+					"Id": 6354,
+					"Class": 6344,
+					"TeamName": "Sorg Rennsport",
+					"drivers": [
+						{
+							"Forename": "George",
+							"Surname": "Richardson",
+							"Id": 6391
+						}
+					]
+				},
+				{
+					"Name": "#235",
+					"Team": 6421,
+					"Car": 6262,
+					"Id": 6355,
+					"Class": 6344,
+					"TeamName": "Duwo Racing",
+					"drivers": [
+						{
+							"Forename": "Jean-Marie",
+							"Surname": "Dumont",
+							"Id": 6396
+						}
+					]
+				},
+				{
+					"Name": "#302",
+					"Team": 6420,
+					"Car": 6262,
+					"Id": 6356,
+					"Class": 6344,
+					"TeamName": "Sorg Rennsport",
+					"drivers": [
+						{
+							"Forename": "Anders",
+							"Surname": "Fjordbach",
+							"Id": 6393
+						}
+					]
+				},
+				{
+					"Name": "#303",
+					"Team": 6423,
+					"Car": 6262,
+					"Id": 6357,
+					"Class": 6344,
+					"TeamName": "Team Scheid-Honert Motorsport",
+					"drivers": [
+						{
+							"Forename": "Maximilian",
+							"Surname": "Partl",
+							"Id": 6392
+						}
+					]
+				},
+				{
+					"Name": "#305",
+					"Team": 6424,
+					"Car": 6262,
+					"Id": 6358,
+					"Class": 6344,
+					"TeamName": "Bonk Motorsport",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Schrey",
+							"Id": 6374
+						}
+					]
+				},
+				{
+					"Name": "#307",
+					"Team": 6424,
+					"Car": 6262,
+					"Id": 6359,
+					"Class": 6344,
+					"TeamName": "Bonk Motorsport",
+					"drivers": [
+						{
+							"Forename": "Jens",
+							"Surname": "Moetefindt",
+							"Id": 6375
+						}
+					]
+				},
+				{
+					"Name": "#308",
+					"Team": 6425,
+					"Car": 6262,
+					"Id": 6360,
+					"Class": 6344,
+					"TeamName": "Pixum Team Adrenalin Motorsport",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Fischer",
+							"Id": 6376
+						}
+					]
+				},
+				{
+					"Name": "#311",
+					"Team": 6426,
+					"Car": 6262,
+					"Id": 6361,
+					"Class": 6344,
+					"TeamName": "Mathol Racing",
+					"drivers": [
+						{
+							"Forename": "Rüdiger",
+							"Surname": "Schicht",
+							"Id": 6377
+						}
+					]
+				},
+				{
+					"Name": "#313",
+					"Team": 6422,
+					"Car": 6262,
+					"Id": 6362,
+					"Class": 6344,
+					"TeamName": "Walkenhorst Motorsport",
+					"drivers": [
+						{
+							"Forename": "Emin",
+							"Surname": "Akata",
+							"Id": 6378
+						}
+					]
+				},
+				{
+					"Name": "#668",
+					"Team": 6425,
+					"Car": 6262,
+					"Id": 6363,
+					"Class": 6344,
+					"TeamName": "Pixum Team Adrenalin Motorsport",
+					"drivers": [
+						{
+							"Forename": "Einar",
+							"Surname": "Thorsen",
+							"Id": 6379
+						}
+					]
+				},
+				{
+					"Name": "#671",
+					"Team": 6427,
+					"Car": 6262,
+					"Id": 6364,
+					"Class": 6344,
+					"TeamName": "Ehret Motorsport",
+					"drivers": [
+						{
+							"Forename": "Alex",
+							"Surname": "Lambertz",
+							"Id": 6380
+						}
+					]
+				},
+				{
+					"Name": "#674",
+					"Team": 6428,
+					"Car": 6262,
+					"Id": 6365,
+					"Class": 6344,
+					"TeamName": "Race-House Motorsport",
+					"drivers": [
+						{
+							"Forename": "Olivier",
+							"Surname": "Fourcade",
+							"Id": 6381
+						}
+					]
+				},
+				{
+					"Name": "#235",
+					"Team": 6422,
+					"Car": 6262,
+					"Id": 6366,
+					"Class": 6344,
+					"TeamName": "Walkenhorst Motorsport",
+					"drivers": [
+						{
+							"Forename": "Bernd",
+							"Surname": "Ostmann",
+							"Id": 6395
+						}
+					]
+				},
+				{
+					"Name": "#677",
+					"Team": 6429,
+					"Car": 6262,
+					"Id": 6367,
+					"Class": 6344,
+					"TeamName": "FK Performance",
+					"drivers": [
+						{
+							"Forename": "Thomas",
+							"Surname": "Müller",
+							"Id": 6382
+						}
+					]
+				},
+				{
+					"Name": "#678",
+					"Team": 6429,
+					"Car": 6262,
+					"Id": 6368,
+					"Class": 6344,
+					"TeamName": "FK Performance",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Kaemena",
+							"Id": 6383
+						}
+					]
+				},
+				{
+					"Name": "#679",
+					"Team": 6426,
+					"Car": 6262,
+					"Id": 6369,
+					"Class": 6344,
+					"TeamName": "Mathol Racing",
+					"drivers": [
+						{
+							"Forename": "Mathias",
+							"Surname": "Mettlich",
+							"Id": 6384
+						}
+					]
+				},
+				{
+					"Name": "#687",
+					"Team": 6430,
+					"Car": 6262,
+					"Id": 6370,
+					"Class": 6344,
+					"TeamName": "TKS Motorsport",
+					"drivers": [
+						{
+							"Forename": "Michele",
+							"Surname": "di Martino",
+							"Id": 6385
+						}
+					]
+				},
+				{
+					"Name": "#696",
+					"Team": 6431,
+					"Car": 6262,
+					"Id": 6371,
+					"Class": 6344,
+					"TeamName": "Racing One",
+					"drivers": [
+						{
+							"Forename": "Frédéric",
+							"Surname": "Vervisch",
+							"Id": 6386
+						}
+					]
+				},
+				{
+					"Name": "#235",
+					"Team": 6505,
+					"Car": 6262,
+					"Id": 6503,
+					"Class": 6344,
+					"TeamName": "BMW Motorsport",
+					"drivers": [
+						{
+							"Forename": "Marcus",
+							"Surname": "Schurig",
+							"Id": 6506
+						}
+					]
+				},
+				{
+					"Name": "#306",
+					"Team": 6424,
+					"Car": 6262,
+					"Id": 6504,
+					"Class": 6344,
+					"TeamName": "Bonk Motorsport",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Bonk",
+							"Id": 6507
 						}
 					]
 				}
@@ -24106,7 +24521,7 @@ var r3eData = {
 			"TeamName": "BMW M Team Schnitzer",
 			"drivers": [
 				{
-					"Forename": "Robert",
+					"Forename": "Roberto",
 					"Surname": "Ravaglia",
 					"Id": 3733
 				}
@@ -34861,9 +35276,9 @@ var r3eData = {
 			"TeamName": "BMW Team SRM",
 			"drivers": [
 				{
-					"Forename": "Marco",
-					"Surname": "Wittmann",
-					"Id": 5571
+					"Forename": "Steve",
+					"Surname": "Richards",
+					"Id": 6514
 				}
 			]
 		},
@@ -35827,6 +36242,51 @@ var r3eData = {
 				}
 			]
 		},
+		"6214": {
+			"Name": "#7a",
+			"Team": 5999,
+			"Car": 5818,
+			"Id": 6214,
+			"Class": 1703,
+			"TeamName": "BMW Team SRM",
+			"drivers": [
+				{
+					"Forename": "Timo",
+					"Surname": "Glock",
+					"Id": 6508
+				}
+			]
+		},
+		"6215": {
+			"Name": "#60a",
+			"Team": 5999,
+			"Car": 5818,
+			"Id": 6215,
+			"Class": 1703,
+			"TeamName": "BMW Team SRM",
+			"drivers": [
+				{
+					"Forename": "Marco",
+					"Surname": "Wittmann",
+					"Id": 6509
+				}
+			]
+		},
+		"6216": {
+			"Name": "#90a",
+			"Team": 6511,
+			"Car": 5818,
+			"Id": 6216,
+			"Class": 1703,
+			"TeamName": "MARC Cars Australia",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Twigg",
+					"Id": 6510
+				}
+			]
+		},
 		"6224": {
 			"Name": "#19",
 			"Team": 5994,
@@ -35854,6 +36314,21 @@ var r3eData = {
 					"Forename": "Martin",
 					"Surname": "Tomczyk",
 					"Id": 6226
+				}
+			]
+		},
+		"6264": {
+			"Name": "#235",
+			"Team": 6505,
+			"Car": 6262,
+			"Id": 6264,
+			"Class": 6344,
+			"TeamName": "BMW Motorsport",
+			"drivers": [
+				{
+					"Forename": "Jethro",
+					"Surname": "Bovingdon",
+					"Id": 6491
 				}
 			]
 		},
@@ -36469,6 +36944,351 @@ var r3eData = {
 					"Forename": "Nicky",
 					"Surname": "Catsburg",
 					"Id": 6298
+				}
+			]
+		},
+		"6352": {
+			"Name": "#148",
+			"Team": 6263,
+			"Car": 6262,
+			"Id": 6352,
+			"Class": 6344,
+			"TeamName": "QSR Racing Team",
+			"drivers": [
+				{
+					"Forename": "Mario",
+					"Surname": "Timmers",
+					"Id": 6372
+				}
+			]
+		},
+		"6353": {
+			"Name": "#151",
+			"Team": 6420,
+			"Car": 6262,
+			"Id": 6353,
+			"Class": 6344,
+			"TeamName": "Sorg Rennsport",
+			"drivers": [
+				{
+					"Forename": "Oskar",
+					"Surname": "Sandberg",
+					"Id": 6373
+				}
+			]
+		},
+		"6354": {
+			"Name": "#152",
+			"Team": 6420,
+			"Car": 6262,
+			"Id": 6354,
+			"Class": 6344,
+			"TeamName": "Sorg Rennsport",
+			"drivers": [
+				{
+					"Forename": "George",
+					"Surname": "Richardson",
+					"Id": 6391
+				}
+			]
+		},
+		"6355": {
+			"Name": "#235",
+			"Team": 6421,
+			"Car": 6262,
+			"Id": 6355,
+			"Class": 6344,
+			"TeamName": "Duwo Racing",
+			"drivers": [
+				{
+					"Forename": "Jean-Marie",
+					"Surname": "Dumont",
+					"Id": 6396
+				}
+			]
+		},
+		"6356": {
+			"Name": "#302",
+			"Team": 6420,
+			"Car": 6262,
+			"Id": 6356,
+			"Class": 6344,
+			"TeamName": "Sorg Rennsport",
+			"drivers": [
+				{
+					"Forename": "Anders",
+					"Surname": "Fjordbach",
+					"Id": 6393
+				}
+			]
+		},
+		"6357": {
+			"Name": "#303",
+			"Team": 6423,
+			"Car": 6262,
+			"Id": 6357,
+			"Class": 6344,
+			"TeamName": "Team Scheid-Honert Motorsport",
+			"drivers": [
+				{
+					"Forename": "Maximilian",
+					"Surname": "Partl",
+					"Id": 6392
+				}
+			]
+		},
+		"6358": {
+			"Name": "#305",
+			"Team": 6424,
+			"Car": 6262,
+			"Id": 6358,
+			"Class": 6344,
+			"TeamName": "Bonk Motorsport",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Schrey",
+					"Id": 6374
+				}
+			]
+		},
+		"6359": {
+			"Name": "#307",
+			"Team": 6424,
+			"Car": 6262,
+			"Id": 6359,
+			"Class": 6344,
+			"TeamName": "Bonk Motorsport",
+			"drivers": [
+				{
+					"Forename": "Jens",
+					"Surname": "Moetefindt",
+					"Id": 6375
+				}
+			]
+		},
+		"6360": {
+			"Name": "#308",
+			"Team": 6425,
+			"Car": 6262,
+			"Id": 6360,
+			"Class": 6344,
+			"TeamName": "Pixum Team Adrenalin Motorsport",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Fischer",
+					"Id": 6376
+				}
+			]
+		},
+		"6361": {
+			"Name": "#311",
+			"Team": 6426,
+			"Car": 6262,
+			"Id": 6361,
+			"Class": 6344,
+			"TeamName": "Mathol Racing",
+			"drivers": [
+				{
+					"Forename": "Rüdiger",
+					"Surname": "Schicht",
+					"Id": 6377
+				}
+			]
+		},
+		"6362": {
+			"Name": "#313",
+			"Team": 6422,
+			"Car": 6262,
+			"Id": 6362,
+			"Class": 6344,
+			"TeamName": "Walkenhorst Motorsport",
+			"drivers": [
+				{
+					"Forename": "Emin",
+					"Surname": "Akata",
+					"Id": 6378
+				}
+			]
+		},
+		"6363": {
+			"Name": "#668",
+			"Team": 6425,
+			"Car": 6262,
+			"Id": 6363,
+			"Class": 6344,
+			"TeamName": "Pixum Team Adrenalin Motorsport",
+			"drivers": [
+				{
+					"Forename": "Einar",
+					"Surname": "Thorsen",
+					"Id": 6379
+				}
+			]
+		},
+		"6364": {
+			"Name": "#671",
+			"Team": 6427,
+			"Car": 6262,
+			"Id": 6364,
+			"Class": 6344,
+			"TeamName": "Ehret Motorsport",
+			"drivers": [
+				{
+					"Forename": "Alex",
+					"Surname": "Lambertz",
+					"Id": 6380
+				}
+			]
+		},
+		"6365": {
+			"Name": "#674",
+			"Team": 6428,
+			"Car": 6262,
+			"Id": 6365,
+			"Class": 6344,
+			"TeamName": "Race-House Motorsport",
+			"drivers": [
+				{
+					"Forename": "Olivier",
+					"Surname": "Fourcade",
+					"Id": 6381
+				}
+			]
+		},
+		"6366": {
+			"Name": "#235",
+			"Team": 6422,
+			"Car": 6262,
+			"Id": 6366,
+			"Class": 6344,
+			"TeamName": "Walkenhorst Motorsport",
+			"drivers": [
+				{
+					"Forename": "Bernd",
+					"Surname": "Ostmann",
+					"Id": 6395
+				}
+			]
+		},
+		"6367": {
+			"Name": "#677",
+			"Team": 6429,
+			"Car": 6262,
+			"Id": 6367,
+			"Class": 6344,
+			"TeamName": "FK Performance",
+			"drivers": [
+				{
+					"Forename": "Thomas",
+					"Surname": "Müller",
+					"Id": 6382
+				}
+			]
+		},
+		"6368": {
+			"Name": "#678",
+			"Team": 6429,
+			"Car": 6262,
+			"Id": 6368,
+			"Class": 6344,
+			"TeamName": "FK Performance",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Kaemena",
+					"Id": 6383
+				}
+			]
+		},
+		"6369": {
+			"Name": "#679",
+			"Team": 6426,
+			"Car": 6262,
+			"Id": 6369,
+			"Class": 6344,
+			"TeamName": "Mathol Racing",
+			"drivers": [
+				{
+					"Forename": "Mathias",
+					"Surname": "Mettlich",
+					"Id": 6384
+				}
+			]
+		},
+		"6370": {
+			"Name": "#687",
+			"Team": 6430,
+			"Car": 6262,
+			"Id": 6370,
+			"Class": 6344,
+			"TeamName": "TKS Motorsport",
+			"drivers": [
+				{
+					"Forename": "Michele",
+					"Surname": "di Martino",
+					"Id": 6385
+				}
+			]
+		},
+		"6371": {
+			"Name": "#696",
+			"Team": 6431,
+			"Car": 6262,
+			"Id": 6371,
+			"Class": 6344,
+			"TeamName": "Racing One",
+			"drivers": [
+				{
+					"Forename": "Frédéric",
+					"Surname": "Vervisch",
+					"Id": 6386
+				}
+			]
+		},
+		"6398": {
+			"Name": "#33",
+			"Team": 6513,
+			"Car": 5818,
+			"Id": 6398,
+			"Class": 1703,
+			"TeamName": "Falken Motorsport",
+			"drivers": [
+				{
+					"Forename": "Alexandre",
+					"Surname": "Imperatori",
+					"Id": 6512
+				}
+			]
+		},
+		"6503": {
+			"Name": "#235",
+			"Team": 6505,
+			"Car": 6262,
+			"Id": 6503,
+			"Class": 6344,
+			"TeamName": "BMW Motorsport",
+			"drivers": [
+				{
+					"Forename": "Marcus",
+					"Surname": "Schurig",
+					"Id": 6506
+				}
+			]
+		},
+		"6504": {
+			"Name": "#306",
+			"Team": 6424,
+			"Car": 6262,
+			"Id": 6504,
+			"Class": 6344,
+			"TeamName": "Bonk Motorsport",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Bonk",
+					"Id": 6507
 				}
 			]
 		}
@@ -38364,6 +39184,15 @@ var r3eData = {
 				}
 			],
 			"Id": 6309
+		},
+		"6344": {
+			"Name": "BMW M235i Racing Cup",
+			"Cars": [
+				{
+					"Id": 6262
+				}
+			],
+			"Id": 6344
 		}
 	},
 	"manufacturers": {
@@ -42134,6 +42963,11 @@ var r3eData = {
 			"Name": "Polestar Cyan Racing",
 			"Id": 6209
 		},
+		"6263": {
+			"Type": "CarTeam",
+			"Name": "QSR Racing Team",
+			"Id": 6263
+		},
 		"6308": {
 			"Type": "CarTeam",
 			"Name": "ALL-INKL.COM Münnich Motorsport",
@@ -42183,6 +43017,81 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Campos Racing",
 			"Id": 6339
+		},
+		"6420": {
+			"Type": "CarTeam",
+			"Name": "Sorg Rennsport",
+			"Id": 6420
+		},
+		"6421": {
+			"Type": "CarTeam",
+			"Name": "Duwo Racing",
+			"Id": 6421
+		},
+		"6422": {
+			"Type": "CarTeam",
+			"Name": "Walkenhorst Motorsport",
+			"Id": 6422
+		},
+		"6423": {
+			"Type": "CarTeam",
+			"Name": "Team Scheid-Honert Motorsport",
+			"Id": 6423
+		},
+		"6424": {
+			"Type": "CarTeam",
+			"Name": "Bonk motorsport",
+			"Id": 6424
+		},
+		"6425": {
+			"Type": "CarTeam",
+			"Name": "Pixum Team Adrenalin Motorsport",
+			"Id": 6425
+		},
+		"6426": {
+			"Type": "CarTeam",
+			"Name": "Mathol Racing",
+			"Id": 6426
+		},
+		"6427": {
+			"Type": "CarTeam",
+			"Name": "Ehret Motorsport",
+			"Id": 6427
+		},
+		"6428": {
+			"Type": "CarTeam",
+			"Name": "Race-House Motorsport",
+			"Id": 6428
+		},
+		"6429": {
+			"Type": "CarTeam",
+			"Name": "FK Performance",
+			"Id": 6429
+		},
+		"6430": {
+			"Type": "CarTeam",
+			"Name": "TKS Motorsport",
+			"Id": 6430
+		},
+		"6431": {
+			"Type": "CarTeam",
+			"Name": "Racing One",
+			"Id": 6431
+		},
+		"6505": {
+			"Type": "CarTeam",
+			"Name": "BMW Motorsport",
+			"Id": 6505
+		},
+		"6511": {
+			"Type": "CarTeam",
+			"Name": "MARC Cars Australia",
+			"Id": 6511
+		},
+		"6513": {
+			"Type": "CarTeam",
+			"Name": "Falken Motorsport",
+			"Id": 6513
 		}
 	}
 };
