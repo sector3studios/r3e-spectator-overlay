@@ -22616,9 +22616,9 @@
 			]
 		},
 		"7005": {
-			"Name": "Seat Cupra TCR",
-			"BrandName": "Seat",
-			"CarManufacturer": 2814,
+			"Name": "Cupra TCR",
+			"BrandName": "Cupra",
+			"CarManufacturer": 7159,
 			"DefaultLivery": 7035,
 			"Id": 7005,
 			"Class": 7009,
@@ -47893,6 +47893,10 @@
 		"7116": {
 			"Name": "Hyundai",
 			"Id": 7116
+		},
+		"7159": {
+			"Name": "CUPRA",
+			"Id": 7159
 		}
 	},
 	"teams": {
