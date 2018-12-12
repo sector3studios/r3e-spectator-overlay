@@ -137,6 +137,7 @@ r3e.getDriverInfo({
         "manufacturerId": "int",
         "liveryId": "int",
         "performanceIndex": "int",
+        "mandatoryPitstopPerformed": "int",
         "scoreInfo": {
             "positionOverall": "int",
             "positionClass": "int",
@@ -151,7 +152,12 @@ r3e.getDriverInfo({
             },
             "distanceDiff": "int", //meters
             "timeDiff": "int", //milliseconds
-            "lapDiff": "int"
+            "lapDiff": "int",
+            "flagInfo": {
+                "black": "int",
+                "blue": "int",
+                "yellow": "int"
+            }
         }
     }
     */
@@ -175,6 +181,7 @@ r3e.getDriversInfo(function(driversInfo) {
             "manufacturerId": "int",
             "liveryId": "int",
             "performanceIndex": "int",
+            "mandatoryPitstopPerformed": "int",
             "scoreInfo": {
                 "positionOverall": "int",
                 "positionClass": "int",
@@ -189,7 +196,12 @@ r3e.getDriversInfo(function(driversInfo) {
                 },
                 "distanceDiff": "int", //meters
                 "timeDiff": "int", //milliseconds
-                "lapDiff": "int"
+                "lapDiff": "int",
+                "flagInfo": {
+                    "black": "int",
+                    "blue": "int",
+                    "yellow": "int"
+                }
             }
         },
         ...
@@ -394,6 +406,7 @@ r3e.on.resultsUpdate(function(results) {
                 "positionClass": "int",
                 "finishStatus": "string",
                 "totalTime": "int", // milliseconds
+                "lapsBehind": "int",
                 "penaltyTime": "int",
                 "penaltyWeight": "int",
                 "bestLapInfo": {
@@ -405,6 +418,80 @@ r3e.on.resultsUpdate(function(results) {
             },
             ...
         ]
+    }
+    */
+});
+```
+
+
+### r3e.on.eventOccurred
+Pass r3e.on.eventOccurred a callback which will get executed when the game client has an event to show.
+
+```javascript
+r3e.on.eventOccurred(function(event) {
+    /*
+    // event
+    {
+        "slotId": "int",
+
+        // DriveThrough = 0,
+        // StopAndGo = 1,
+        // Pitstop = 2,
+        // Time = 3,
+        // Slowdown = 4,
+        // Disqualify = 5,
+        "type": "int",
+
+        // Based on the type you can assume the reason is:
+        // DriveThroughPenaltyInvalid = 0,
+        // DriveThroughPenaltyCutTrack = 1,
+        // DriveThroughPenaltyPitSpeeding = 2,
+        // DriveThroughPenaltyFalseStart = 3,
+        // DriveThroughPenaltyIgnoredBlue = 4,
+        // DriveThroughPenaltyDrivingTooSlow = 5,
+        // DriveThroughPenaltyIllegallyPassedBeforeGreen = 6,
+        // DriveThroughPenaltyIllegallyPassedBeforeFinish = 7,
+        // DriveThroughPenaltyIllegallyPassedBeforePitEntrance = 8,
+        // DriveThroughPenaltyIgnoredSlowDown = 9,
+        // DriveThroughPenaltyMax = 10
+
+        // StopAndGoPenaltyInvalid = 0,
+        // StopAndGoPenaltyCutTrack1st = 1,
+        // StopAndGoPenaltyCutTrackMult = 2,
+        // StopAndGoPenaltyYellowFlagOvertake = 3,
+        // StopAndGoPenaltyMax = 4
+
+        // PitstopPenaltyInvalid = 0,
+        // PitstopPenaltyIgnoredPitstopWindow = 1,
+        // PitstopPenaltyMax = 2
+
+        // ServableTimePenaltyInvalid = 0,
+        // ServableTimePenaltyServedMandatoryPitstopLate = 1,
+        // ServableTimePenaltyIgnoredMinimumPitstopDuration = 2,
+        // ServableTimePenaltyMax = 3
+
+        // SlowDownPenaltyInvalid = 0,
+        // SlowDownPenaltyCutTrack1st = 1,
+        // SlowDownPenaltyCutTrackMult = 2,
+        // SlowDownPenaltyMax = 3
+
+        // DisqualifyPenaltyInvalid = -1,
+        // DisqualifyPenaltyFalseStart = 0,
+        // DisqualifyPenaltyPitlaneSpeeding = 1,
+        // DisqualifyPenaltyWrongWay = 2,
+        // DisqualifyPenaltyEnteringPitsUnderRed = 3,
+        // DisqualifyPenaltyExitingPitsUnderRed = 4,
+        // DisqualifyPenaltyFailedDriverChange = 5,
+        // DisqualifyPenaltyThreeDriveThroughsInLap = 6,
+        // DisqualifyPenaltyLappedFieldMultipleTimes = 7,
+        // DisqualifyPenaltyIgnoredDriveThroughPenalty = 8,
+        // DisqualifyPenaltyIgnoredStopAndGoPenalty = 9,
+        // DisqualifyPenaltyIgnoredPitStopPenalty = 10,
+        // DisqualifyPenaltyIgnoredTimePenalty = 11,
+        // DisqualifyPenaltyExcessiveCutting = 12,
+        // DisqualifyPenaltyIgnoredBlueFlag = 13,
+        // DisqualifyPenaltyMax = 14
+        "reason": "int"
     }
     */
 });
