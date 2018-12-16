@@ -13669,7 +13669,7 @@
 					"Car": 4675,
 					"Id": 7001,
 					"Class": 6345,
-					"TeamName": "Porsche Russia",
+					"TeamName": "Porsche Motorsport",
 					"drivers": [
 						{
 							"Forename": "Robert",
@@ -13684,7 +13684,7 @@
 					"Car": 4675,
 					"Id": 7002,
 					"Class": 6345,
-					"TeamName": "Porsche Russia",
+					"TeamName": "Porsche Motorsport",
 					"drivers": [
 						{
 							"Forename": "José",
@@ -13699,7 +13699,7 @@
 					"Car": 4675,
 					"Id": 7003,
 					"Class": 6345,
-					"TeamName": "Porsche Russia",
+					"TeamName": "Porsche Motorsport",
 					"drivers": [
 						{
 							"Forename": "Henrique",
@@ -46958,7 +46958,7 @@
 			"Car": 4675,
 			"Id": 7001,
 			"Class": 6345,
-			"TeamName": "Porsche Russia",
+			"TeamName": "Porsche Motorsport",
 			"drivers": [
 				{
 					"Forename": "Robert",
@@ -46973,7 +46973,7 @@
 			"Car": 4675,
 			"Id": 7002,
 			"Class": 6345,
-			"TeamName": "Porsche Russia",
+			"TeamName": "Porsche Motorsport",
 			"drivers": [
 				{
 					"Forename": "José",
@@ -46988,7 +46988,7 @@
 			"Car": 4675,
 			"Id": 7003,
 			"Class": 6345,
-			"TeamName": "Porsche Russia",
+			"TeamName": "Porsche Motorsport",
 			"drivers": [
 				{
 					"Forename": "Henrique",
@@ -55252,7 +55252,7 @@
 		},
 		"7004": {
 			"Type": "CarTeam",
-			"Name": "Porsche Russia",
+			"Name": "Porsche Motorsport",
 			"Id": 7004
 		},
 		"7006": {
