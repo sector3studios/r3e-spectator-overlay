@@ -13,7 +13,8 @@ window.r3e = (function r3eBridge() {
 			'driversInfo': [],
 			'sessionInfo': [],
 			'eventInfo': [],
-			'resultsUpdate': []
+			'resultsUpdate': [],
+			'eventOccurred': []
 		};
 
 		return {
@@ -56,8 +57,11 @@ window.r3e = (function r3eBridge() {
 			'eventInfo': function getEventInfoPool() {
 				return requestPool.eventInfo;
 			},
-			'resultsUpdate': function getEventInfoPool() {
+			'resultsUpdate': function getResultsUpdatePool() {
 				return requestPool.resultsUpdate;
+			},
+			'eventOccurred': function getEventOccurredPool() {
+				return requestPool.eventOccurred;
 			}
 		};
 	})();
@@ -230,6 +234,9 @@ window.r3e = (function r3eBridge() {
 		'on': {
 			'resultsUpdate': listener({
 				'pool': 'resultsUpdate'
+			}),
+			'eventOccurred': listener({
+				pool: 'eventOccurred'
 			})
 		},
 		'gameClient': window.gameClient
