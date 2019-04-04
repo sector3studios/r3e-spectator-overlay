@@ -11050,6 +11050,181 @@
 				}
 			]
 		},
+		"4114": {
+			"Name": "Nissan R90CK",
+			"BrandName": "Nissan",
+			"CarManufacturer": 2620,
+			"DefaultLivery": 4116,
+			"Id": 4114,
+			"Class": 4121,
+			"liveries": [
+				{
+					"Name": "#23",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 4116,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Mark",
+							"Surname": "Blundell",
+							"Id": 4091
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 4117,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Kenny",
+							"Surname": "Acheson",
+							"Id": 4093
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 4118,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Donnelly",
+							"Id": 4094
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 4119,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Masahiro",
+							"Surname": "Hasemi",
+							"Id": 4097
+						}
+					]
+				},
+				{
+					"Name": "#83",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 4120,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Geoff",
+							"Surname": "Brabham",
+							"Id": 4100
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 4235,
+					"Car": 4114,
+					"Id": 4239,
+					"Class": 4121,
+					"TeamName": "Team Italiya Sports",
+					"drivers": [
+						{
+							"Forename": "Takao ",
+							"Surname": "Wada",
+							"Id": 4478
+						}
+					]
+				},
+				{
+					"Name": "#82",
+					"Team": 4236,
+					"Car": 4114,
+					"Id": 4240,
+					"Class": 4121,
+					"TeamName": "Courage Competition",
+					"drivers": [
+						{
+							"Forename": "Alain",
+							"Surname": "Cudini",
+							"Id": 7804
+						}
+					]
+				},
+				{
+					"Name": "#85",
+					"Team": 4237,
+					"Car": 4114,
+					"Id": 4241,
+					"Class": 4121,
+					"TeamName": "Team Le Mans",
+					"drivers": [
+						{
+							"Forename": "Anders ",
+							"Surname": "Olofsson",
+							"Id": 4473
+						}
+					]
+				},
+				{
+					"Name": "#87",
+					"Team": 4238,
+					"Car": 4114,
+					"Id": 4242,
+					"Class": 4121,
+					"TeamName": "Cabin Racing Team",
+					"drivers": [
+						{
+							"Forename": "Osamu ",
+							"Surname": "Nakako",
+							"Id": 4477
+						}
+					]
+				},
+				{
+					"Name": "#84",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 7763,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Jeremy ",
+							"Surname": "Dale",
+							"Id": 7749
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 4115,
+					"Car": 4114,
+					"Id": 7764,
+					"Class": 4121,
+					"TeamName": "Nissan Motorsport",
+					"drivers": [
+						{
+							"Forename": "Arie ",
+							"Surname": "Luyendyk",
+							"Id": 7748
+						}
+					]
+				}
+			]
+		},
 		"4145": {
 			"Name": "Chevrolet Dekon Monza",
 			"BrandName": "Chevrolet",
@@ -24732,7 +24907,7 @@
 		},
 		"7162": {
 			"Name": "Lotus Evora GT4",
-			"BrandName": "Lotus",
+			"BrandName": "Lotus Cars",
 			"CarManufacturer": 7182,
 			"DefaultLivery": 7230,
 			"Id": 7162,
@@ -25650,6 +25825,521 @@
 							"Forename": "Jacques",
 							"Surname": "Alméras",
 							"Id": 7483
+						}
+					]
+				}
+			]
+		},
+		"7396": {
+			"Name": "Porsche 911 Carrera Cup (964)",
+			"BrandName": "Porsche",
+			"CarManufacturer": 3013,
+			"DefaultLivery": 7440,
+			"Id": 7396,
+			"Class": 7287,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7439,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Walter",
+							"Surname": "Röhrl",
+							"Id": 7484
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7440,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Heinz",
+							"Surname": "Siegert",
+							"Id": 7543
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7441,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Walter",
+							"Surname": "Röhrl",
+							"Id": 7485
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7442,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Uwe",
+							"Surname": "Alzen",
+							"Id": 7486
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7443,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Altfrid",
+							"Surname": "Heger",
+							"Id": 7487
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7444,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Harald",
+							"Surname": "Grohs",
+							"Id": 7488
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7445,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Bruno",
+							"Surname": "Eichmann",
+							"Id": 7489
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7446,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Wolfgang",
+							"Surname": "Land",
+							"Id": 7491
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7447,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Mike",
+							"Surname": "Hezemans",
+							"Id": 7490
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7448,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Giovanna",
+							"Surname": "Amati",
+							"Id": 7492
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7449,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Oscar",
+							"Surname": "Larrauri",
+							"Id": 7493
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7450,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Hans-Bernd",
+							"Surname": "Kamps",
+							"Id": 7494
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7451,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Andreas",
+							"Surname": "Fuchs",
+							"Id": 7495
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7452,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Harald",
+							"Surname": "Grohs",
+							"Id": 7496
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7453,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Altfrid",
+							"Surname": "Heger",
+							"Id": 7497
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7454,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Olaf",
+							"Surname": "Manthey",
+							"Id": 7498
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7455,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Roland",
+							"Surname": "Asch",
+							"Id": 7499
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7456,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Rüdiger",
+							"Surname": "Schmitt",
+							"Id": 7500
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7457,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Jürgen",
+							"Surname": "von Gartzen",
+							"Id": 7501
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7458,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Wolfgang",
+							"Surname": "Land",
+							"Id": 7502
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7459,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Gerhard",
+							"Surname": "Müller",
+							"Id": 7503
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7460,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Philip",
+							"Surname": "Müller",
+							"Id": 7504
+						}
+					]
+				},
+				{
+					"Name": "#29",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7461,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Toni",
+							"Surname": "Seiler",
+							"Id": 7505
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7462,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Jürgen",
+							"Surname": "von Gartzen",
+							"Id": 7506
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 7397,
+					"Car": 7396,
+					"Id": 7463,
+					"Class": 7287,
+					"TeamName": "Porsche Motorsport",
+					"drivers": [
+						{
+							"Forename": "Mika",
+							"Surname": "Häkkinen",
+							"Id": 7507
+						}
+					]
+				}
+			]
+		},
+		"7399": {
+			"Name": "Porsche 962 C Team Joest",
+			"BrandName": "Porsche",
+			"CarManufacturer": 3013,
+			"DefaultLivery": 7464,
+			"Id": 7399,
+			"Class": 4121,
+			"liveries": [
+				{
+					"Name": "#7",
+					"Team": 7511,
+					"Car": 7399,
+					"Id": 7401,
+					"Class": 4121,
+					"TeamName": "Joest Racing",
+					"drivers": [
+						{
+							"Forename": "Manuel",
+							"Surname": "Reuter",
+							"Id": 7347
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 7400,
+					"Car": 7399,
+					"Id": 7464,
+					"Class": 4121,
+					"TeamName": "Joest Porsche Racing",
+					"drivers": [
+						{
+							"Forename": "Bob",
+							"Surname": "Wollek",
+							"Id": 7350
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 7511,
+					"Car": 7399,
+					"Id": 7465,
+					"Class": 4121,
+					"TeamName": "Joest Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Winter",
+							"Id": 7351
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 7511,
+					"Car": 7399,
+					"Id": 7466,
+					"Class": 4121,
+					"TeamName": "Joest Racing",
+					"drivers": [
+						{
+							"Forename": "Oscar",
+							"Surname": "Larrauri",
+							"Id": 7348
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 7511,
+					"Car": 7399,
+					"Id": 7467,
+					"Class": 4121,
+					"TeamName": "Joest Racing",
+					"drivers": [
+						{
+							"Forename": "Gianpiero",
+							"Surname": "Moretti",
+							"Id": 7349
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 7400,
+					"Car": 7399,
+					"Id": 7541,
+					"Class": 4121,
+					"TeamName": "Joest Porsche Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Winter",
+							"Id": 7544
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 7400,
+					"Car": 7399,
+					"Id": 7542,
+					"Class": 4121,
+					"TeamName": "Joest Porsche Racing",
+					"drivers": [
+						{
+							"Forename": "Henri",
+							"Surname": "Pescarolo",
+							"Id": 7508
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 7400,
+					"Car": 7399,
+					"Id": 7628,
+					"Class": 4121,
+					"TeamName": "Joest Porsche Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Paul Jr",
+							"Id": 7651
 						}
 					]
 				}
@@ -34022,6 +34712,81 @@
 				}
 			]
 		},
+		"4116": {
+			"Name": "#23",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 4116,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Mark",
+					"Surname": "Blundell",
+					"Id": 4091
+				}
+			]
+		},
+		"4117": {
+			"Name": "#24",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 4117,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Kenny",
+					"Surname": "Acheson",
+					"Id": 4093
+				}
+			]
+		},
+		"4118": {
+			"Name": "#25",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 4118,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Donnelly",
+					"Id": 4094
+				}
+			]
+		},
+		"4119": {
+			"Name": "#27",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 4119,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Masahiro",
+					"Surname": "Hasemi",
+					"Id": 4097
+				}
+			]
+		},
+		"4120": {
+			"Name": "#83",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 4120,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Geoff",
+					"Surname": "Brabham",
+					"Id": 4100
+				}
+			]
+		},
 		"4147": {
 			"Name": "#14",
 			"Team": 4271,
@@ -34499,6 +35264,66 @@
 					"Forename": "Norbert",
 					"Surname": "Michelisz",
 					"Id": 4234
+				}
+			]
+		},
+		"4239": {
+			"Name": "#28",
+			"Team": 4235,
+			"Car": 4114,
+			"Id": 4239,
+			"Class": 4121,
+			"TeamName": "Team Italiya Sports",
+			"drivers": [
+				{
+					"Forename": "Takao ",
+					"Surname": "Wada",
+					"Id": 4478
+				}
+			]
+		},
+		"4240": {
+			"Name": "#82",
+			"Team": 4236,
+			"Car": 4114,
+			"Id": 4240,
+			"Class": 4121,
+			"TeamName": "Courage Competition",
+			"drivers": [
+				{
+					"Forename": "Alain",
+					"Surname": "Cudini",
+					"Id": 7804
+				}
+			]
+		},
+		"4241": {
+			"Name": "#85",
+			"Team": 4237,
+			"Car": 4114,
+			"Id": 4241,
+			"Class": 4121,
+			"TeamName": "Team Le Mans",
+			"drivers": [
+				{
+					"Forename": "Anders ",
+					"Surname": "Olofsson",
+					"Id": 4473
+				}
+			]
+		},
+		"4242": {
+			"Name": "#87",
+			"Team": 4238,
+			"Car": 4114,
+			"Id": 4242,
+			"Class": 4121,
+			"TeamName": "Cabin Racing Team",
+			"drivers": [
+				{
+					"Forename": "Osamu ",
+					"Surname": "Nakako",
+					"Id": 4477
 				}
 			]
 		},
@@ -49717,6 +50542,21 @@
 				}
 			]
 		},
+		"7401": {
+			"Name": "#7",
+			"Team": 7511,
+			"Car": 7399,
+			"Id": 7401,
+			"Class": 4121,
+			"TeamName": "Joest Racing",
+			"drivers": [
+				{
+					"Forename": "Manuel",
+					"Surname": "Reuter",
+					"Id": 7347
+				}
+			]
+		},
 		"7402": {
 			"Name": "#00",
 			"Team": 7283,
@@ -50269,6 +51109,486 @@
 					"Forename": "Jacques",
 					"Surname": "Alméras",
 					"Id": 7483
+				}
+			]
+		},
+		"7439": {
+			"Name": "#1",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7439,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Walter",
+					"Surname": "Röhrl",
+					"Id": 7484
+				}
+			]
+		},
+		"7440": {
+			"Name": "#1",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7440,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Heinz",
+					"Surname": "Siegert",
+					"Id": 7543
+				}
+			]
+		},
+		"7441": {
+			"Name": "#1",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7441,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Walter",
+					"Surname": "Röhrl",
+					"Id": 7485
+				}
+			]
+		},
+		"7442": {
+			"Name": "#2",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7442,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Uwe",
+					"Surname": "Alzen",
+					"Id": 7486
+				}
+			]
+		},
+		"7443": {
+			"Name": "#3",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7443,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Altfrid",
+					"Surname": "Heger",
+					"Id": 7487
+				}
+			]
+		},
+		"7444": {
+			"Name": "#4",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7444,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Harald",
+					"Surname": "Grohs",
+					"Id": 7488
+				}
+			]
+		},
+		"7445": {
+			"Name": "#6",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7445,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Bruno",
+					"Surname": "Eichmann",
+					"Id": 7489
+				}
+			]
+		},
+		"7446": {
+			"Name": "#8",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7446,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Wolfgang",
+					"Surname": "Land",
+					"Id": 7491
+				}
+			]
+		},
+		"7447": {
+			"Name": "#9",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7447,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Mike",
+					"Surname": "Hezemans",
+					"Id": 7490
+				}
+			]
+		},
+		"7448": {
+			"Name": "#9",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7448,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Giovanna",
+					"Surname": "Amati",
+					"Id": 7492
+				}
+			]
+		},
+		"7449": {
+			"Name": "#11",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7449,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Oscar",
+					"Surname": "Larrauri",
+					"Id": 7493
+				}
+			]
+		},
+		"7450": {
+			"Name": "#12",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7450,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Hans-Bernd",
+					"Surname": "Kamps",
+					"Id": 7494
+				}
+			]
+		},
+		"7451": {
+			"Name": "#13",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7451,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Andreas",
+					"Surname": "Fuchs",
+					"Id": 7495
+				}
+			]
+		},
+		"7452": {
+			"Name": "#14",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7452,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Harald",
+					"Surname": "Grohs",
+					"Id": 7496
+				}
+			]
+		},
+		"7453": {
+			"Name": "#15",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7453,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Altfrid",
+					"Surname": "Heger",
+					"Id": 7497
+				}
+			]
+		},
+		"7454": {
+			"Name": "#16",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7454,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Olaf",
+					"Surname": "Manthey",
+					"Id": 7498
+				}
+			]
+		},
+		"7455": {
+			"Name": "#16",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7455,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Roland",
+					"Surname": "Asch",
+					"Id": 7499
+				}
+			]
+		},
+		"7456": {
+			"Name": "#17",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7456,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Rüdiger",
+					"Surname": "Schmitt",
+					"Id": 7500
+				}
+			]
+		},
+		"7457": {
+			"Name": "#22",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7457,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Jürgen",
+					"Surname": "von Gartzen",
+					"Id": 7501
+				}
+			]
+		},
+		"7458": {
+			"Name": "#24",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7458,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Wolfgang",
+					"Surname": "Land",
+					"Id": 7502
+				}
+			]
+		},
+		"7459": {
+			"Name": "#25",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7459,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Gerhard",
+					"Surname": "Müller",
+					"Id": 7503
+				}
+			]
+		},
+		"7460": {
+			"Name": "#28",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7460,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Philip",
+					"Surname": "Müller",
+					"Id": 7504
+				}
+			]
+		},
+		"7461": {
+			"Name": "#29",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7461,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Toni",
+					"Surname": "Seiler",
+					"Id": 7505
+				}
+			]
+		},
+		"7462": {
+			"Name": "#30",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7462,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Jürgen",
+					"Surname": "von Gartzen",
+					"Id": 7506
+				}
+			]
+		},
+		"7463": {
+			"Name": "#33",
+			"Team": 7397,
+			"Car": 7396,
+			"Id": 7463,
+			"Class": 7287,
+			"TeamName": "Porsche Motorsport",
+			"drivers": [
+				{
+					"Forename": "Mika",
+					"Surname": "Häkkinen",
+					"Id": 7507
+				}
+			]
+		},
+		"7464": {
+			"Name": "#7",
+			"Team": 7400,
+			"Car": 7399,
+			"Id": 7464,
+			"Class": 4121,
+			"TeamName": "Joest Porsche Racing",
+			"drivers": [
+				{
+					"Forename": "Bob",
+					"Surname": "Wollek",
+					"Id": 7350
+				}
+			]
+		},
+		"7465": {
+			"Name": "#7",
+			"Team": 7511,
+			"Car": 7399,
+			"Id": 7465,
+			"Class": 4121,
+			"TeamName": "Joest Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Winter",
+					"Id": 7351
+				}
+			]
+		},
+		"7466": {
+			"Name": "#8",
+			"Team": 7511,
+			"Car": 7399,
+			"Id": 7466,
+			"Class": 4121,
+			"TeamName": "Joest Racing",
+			"drivers": [
+				{
+					"Forename": "Oscar",
+					"Surname": "Larrauri",
+					"Id": 7348
+				}
+			]
+		},
+		"7467": {
+			"Name": "#30",
+			"Team": 7511,
+			"Car": 7399,
+			"Id": 7467,
+			"Class": 4121,
+			"TeamName": "Joest Racing",
+			"drivers": [
+				{
+					"Forename": "Gianpiero",
+					"Surname": "Moretti",
+					"Id": 7349
+				}
+			]
+		},
+		"7541": {
+			"Name": "#7",
+			"Team": 7400,
+			"Car": 7399,
+			"Id": 7541,
+			"Class": 4121,
+			"TeamName": "Joest Porsche Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Winter",
+					"Id": 7544
+				}
+			]
+		},
+		"7542": {
+			"Name": "#6",
+			"Team": 7400,
+			"Car": 7399,
+			"Id": 7542,
+			"Class": 4121,
+			"TeamName": "Joest Porsche Racing",
+			"drivers": [
+				{
+					"Forename": "Henri",
+					"Surname": "Pescarolo",
+					"Id": 7508
+				}
+			]
+		},
+		"7628": {
+			"Name": "#77",
+			"Team": 7400,
+			"Car": 7399,
+			"Id": 7628,
+			"Class": 4121,
+			"TeamName": "Joest Porsche Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Paul Jr",
+					"Id": 7651
 				}
 			]
 		},
@@ -50829,6 +52149,36 @@
 					"Forename": "Jens",
 					"Surname": "Klingmann",
 					"Id": 7712
+				}
+			]
+		},
+		"7763": {
+			"Name": "#84",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 7763,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Jeremy ",
+					"Surname": "Dale",
+					"Id": 7749
+				}
+			]
+		},
+		"7764": {
+			"Name": "#1",
+			"Team": 4115,
+			"Car": 4114,
+			"Id": 7764,
+			"Class": 4121,
+			"TeamName": "Nissan Motorsport",
+			"drivers": [
+				{
+					"Forename": "Arie ",
+					"Surname": "Luyendyk",
+					"Id": 7748
 				}
 			]
 		}
@@ -52665,6 +54015,18 @@
 			],
 			"Id": 3905
 		},
+		"4121": {
+			"Name": "Group C",
+			"Cars": [
+				{
+					"Id": 4114
+				},
+				{
+					"Id": 7399
+				}
+			],
+			"Id": 4121
+		},
 		"4260": {
 			"Name": "DTM 2015",
 			"Cars": [
@@ -53066,6 +54428,15 @@
 				}
 			],
 			"Id": 7278
+		},
+		"7287": {
+			"Name": "Porsche Carrera Cup Classic",
+			"Cars": [
+				{
+					"Id": 7396
+				}
+			],
+			"Id": 7287
 		},
 		"7304": {
 			"Name": "Group 4",
@@ -54788,6 +56159,11 @@
 			"Name": "VIP Petfood",
 			"Id": 4108
 		},
+		"4115": {
+			"Type": "CarTeam",
+			"Name": "Nissan Motorsport",
+			"Id": 4115
+		},
 		"4146": {
 			"Type": "CarTeam",
 			"Name": "Dekon Engineering",
@@ -54897,6 +56273,26 @@
 			"Type": "CarTeam",
 			"Name": "Castrol Honda World Touring Car Team",
 			"Id": 4198
+		},
+		"4235": {
+			"Type": "CarTeam",
+			"Name": "Team Italiya Sports",
+			"Id": 4235
+		},
+		"4236": {
+			"Type": "CarTeam",
+			"Name": "Courage Competition",
+			"Id": 4236
+		},
+		"4237": {
+			"Type": "CarTeam",
+			"Name": "Team Le Mans",
+			"Id": 4237
+		},
+		"4238": {
+			"Type": "CarTeam",
+			"Name": "Cabin Racing Team",
+			"Id": 4238
 		},
 		"4262": {
 			"Type": "CarTeam",
@@ -57928,6 +59324,21 @@
 			"Name": "ISSY Racing",
 			"Id": 7395
 		},
+		"7397": {
+			"Type": "CarTeam",
+			"Name": "Porsche Motorsport",
+			"Id": 7397
+		},
+		"7400": {
+			"Type": "CarTeam",
+			"Name": "Joest Porsche Racing",
+			"Id": 7400
+		},
+		"7511": {
+			"Type": "CarTeam",
+			"Name": "Joest Racing",
+			"Id": 7511
+		},
 		"7512": {
 			"Type": "CarTeam",
 			"Name": "J.M.S. Racing Team",
@@ -58177,6 +59588,11 @@
 			"Type": "CarTeam",
 			"Name": "Itzehoer",
 			"Id": 7762
+		},
+		"7778": {
+			"Type": "CarTeam",
+			"Name": "Team Zexel",
+			"Id": 7778
 		}
 	}
 }
