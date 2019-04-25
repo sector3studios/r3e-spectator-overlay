@@ -20707,6 +20707,111 @@
 							"Id": 6299
 						}
 					]
+				},
+				{
+					"Name": "#5",
+					"Team": 7833,
+					"Car": 6203,
+					"Id": 7825,
+					"Class": 6172,
+					"TeamName": "eMotorsport.ru",
+					"drivers": [
+						{
+							"Forename": "Dmitriy",
+							"Surname": "Soldatov",
+							"Id": 7832
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 6204,
+					"Car": 6203,
+					"Id": 7826,
+					"Class": 6172,
+					"TeamName": "LADA Sport Rosneft",
+					"drivers": [
+						{
+							"Forename": "Kyril",
+							"Surname": "Ladygin",
+							"Id": 7842
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 6204,
+					"Car": 6203,
+					"Id": 7827,
+					"Class": 6172,
+					"TeamName": "LADA Sport Rosneft",
+					"drivers": [
+						{
+							"Forename": "Mikhail",
+							"Surname": "Grachev",
+							"Id": 7841
+						}
+					]
+				},
+				{
+					"Name": "#42",
+					"Team": 7834,
+					"Car": 6203,
+					"Id": 7828,
+					"Class": 6172,
+					"TeamName": "Motor.ru",
+					"drivers": [
+						{
+							"Forename": "Andrey",
+							"Surname": "Motorov",
+							"Id": 7838
+						}
+					]
+				},
+				{
+					"Name": "#43",
+					"Team": 7836,
+					"Car": 6203,
+					"Id": 7829,
+					"Class": 6172,
+					"TeamName": "Lg.com",
+					"drivers": [
+						{
+							"Forename": "Elena",
+							"Surname": "Masko",
+							"Id": 7840
+						}
+					]
+				},
+				{
+					"Name": "#59",
+					"Team": 7835,
+					"Car": 6203,
+					"Id": 7830,
+					"Class": 6172,
+					"TeamName": "Autosport.com.ru",
+					"drivers": [
+						{
+							"Forename": "Victoria",
+							"Surname": "Melik-Ganeeva",
+							"Id": 7839
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 7834,
+					"Car": 6203,
+					"Id": 7831,
+					"Class": 6172,
+					"TeamName": "Motor.ru",
+					"drivers": [
+						{
+							"Forename": "Aleksandr",
+							"Surname": "Tichinin",
+							"Id": 7837
+						}
+					]
 				}
 			]
 		},
@@ -26950,6 +27055,46 @@
 							"Forename": "Mathieu",
 							"Surname": "Jaminet",
 							"Id": 7706
+						}
+					]
+				}
+			]
+		},
+		"7810": {
+			"Name": "Volkswagen ID. R",
+			"BrandName": "Volkswagen",
+			"CarManufacturer": 7109,
+			"DefaultLivery": 7812,
+			"Id": 7810,
+			"Class": 7765,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 7811,
+					"Car": 7810,
+					"Id": 7812,
+					"Class": 7765,
+					"TeamName": "Volkswagen",
+					"drivers": [
+						{
+							"Forename": "Romain",
+							"Surname": "Dumas",
+							"Id": 4500
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 7811,
+					"Car": 7810,
+					"Id": 7823,
+					"Class": 7765,
+					"TeamName": "Volkswagen",
+					"drivers": [
+						{
+							"Forename": "Romain",
+							"Surname": "Dumas",
+							"Id": 4500
 						}
 					]
 				}
@@ -52181,6 +52326,141 @@
 					"Id": 7748
 				}
 			]
+		},
+		"7812": {
+			"Name": "#1",
+			"Team": 7811,
+			"Car": 7810,
+			"Id": 7812,
+			"Class": 7765,
+			"TeamName": "Volkswagen",
+			"drivers": [
+				{
+					"Forename": "Romain",
+					"Surname": "Dumas",
+					"Id": 4500
+				}
+			]
+		},
+		"7823": {
+			"Name": "#2",
+			"Team": 7811,
+			"Car": 7810,
+			"Id": 7823,
+			"Class": 7765,
+			"TeamName": "Volkswagen",
+			"drivers": [
+				{
+					"Forename": "Romain",
+					"Surname": "Dumas",
+					"Id": 4500
+				}
+			]
+		},
+		"7825": {
+			"Name": "#5",
+			"Team": 7833,
+			"Car": 6203,
+			"Id": 7825,
+			"Class": 6172,
+			"TeamName": "eMotorsport.ru",
+			"drivers": [
+				{
+					"Forename": "Dmitriy",
+					"Surname": "Soldatov",
+					"Id": 7832
+				}
+			]
+		},
+		"7826": {
+			"Name": "#11",
+			"Team": 6204,
+			"Car": 6203,
+			"Id": 7826,
+			"Class": 6172,
+			"TeamName": "LADA Sport Rosneft",
+			"drivers": [
+				{
+					"Forename": "Kyril",
+					"Surname": "Ladygin",
+					"Id": 7842
+				}
+			]
+		},
+		"7827": {
+			"Name": "#27",
+			"Team": 6204,
+			"Car": 6203,
+			"Id": 7827,
+			"Class": 6172,
+			"TeamName": "LADA Sport Rosneft",
+			"drivers": [
+				{
+					"Forename": "Mikhail",
+					"Surname": "Grachev",
+					"Id": 7841
+				}
+			]
+		},
+		"7828": {
+			"Name": "#42",
+			"Team": 7834,
+			"Car": 6203,
+			"Id": 7828,
+			"Class": 6172,
+			"TeamName": "Motor.ru",
+			"drivers": [
+				{
+					"Forename": "Andrey",
+					"Surname": "Motorov",
+					"Id": 7838
+				}
+			]
+		},
+		"7829": {
+			"Name": "#43",
+			"Team": 7836,
+			"Car": 6203,
+			"Id": 7829,
+			"Class": 6172,
+			"TeamName": "Lg.com",
+			"drivers": [
+				{
+					"Forename": "Elena",
+					"Surname": "Masko",
+					"Id": 7840
+				}
+			]
+		},
+		"7830": {
+			"Name": "#59",
+			"Team": 7835,
+			"Car": 6203,
+			"Id": 7830,
+			"Class": 6172,
+			"TeamName": "Autosport.com.ru",
+			"drivers": [
+				{
+					"Forename": "Victoria",
+					"Surname": "Melik-Ganeeva",
+					"Id": 7839
+				}
+			]
+		},
+		"7831": {
+			"Name": "#77",
+			"Team": 7834,
+			"Car": 6203,
+			"Id": 7831,
+			"Class": 6172,
+			"TeamName": "Motor.ru",
+			"drivers": [
+				{
+					"Forename": "Aleksandr",
+					"Surname": "Tichinin",
+					"Id": 7837
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -52601,6 +52881,24 @@
 					"Track": 2383,
 					"MaxNumberOfVehicles": 36,
 					"Id": 2384
+				},
+				{
+					"Name": "B Course",
+					"Track": 2383,
+					"MaxNumberOfVehicles": 36,
+					"Id": 7753
+				},
+				{
+					"Name": "Motorcycle A Course",
+					"Track": 2383,
+					"MaxNumberOfVehicles": 36,
+					"Id": 7754
+				},
+				{
+					"Name": "Motorcycle B Course",
+					"Track": 2383,
+					"MaxNumberOfVehicles": 36,
+					"Id": 7755
 				}
 			]
 		},
@@ -53589,6 +53887,24 @@
 			"Track": 7111,
 			"MaxNumberOfVehicles": 32,
 			"Id": 7112
+		},
+		"7753": {
+			"Name": "B Course",
+			"Track": 2383,
+			"MaxNumberOfVehicles": 36,
+			"Id": 7753
+		},
+		"7754": {
+			"Name": "Motorcycle A Course",
+			"Track": 2383,
+			"MaxNumberOfVehicles": 36,
+			"Id": 7754
+		},
+		"7755": {
+			"Name": "Motorcycle B Course",
+			"Track": 2383,
+			"MaxNumberOfVehicles": 36,
+			"Id": 7755
 		}
 	},
 	"classes": {
@@ -54238,7 +54554,7 @@
 			"Id": 6036
 		},
 		"6172": {
-			"Name": "eSports WTCC",
+			"Name": "eSports Touring",
 			"Cars": [
 				{
 					"Id": 6177
@@ -54446,6 +54762,15 @@
 				}
 			],
 			"Id": 7304
+		},
+		"7765": {
+			"Name": "Volkswagen ID. R",
+			"Cars": [
+				{
+					"Id": 7810
+				}
+			],
+			"Id": 7765
 		}
 	},
 	"manufacturers": {
@@ -59593,6 +59918,31 @@
 			"Type": "CarTeam",
 			"Name": "Team Zexel",
 			"Id": 7778
+		},
+		"7811": {
+			"Type": "CarTeam",
+			"Name": "Volkswagen",
+			"Id": 7811
+		},
+		"7833": {
+			"Type": "CarTeam",
+			"Name": "eMotosport.ru",
+			"Id": 7833
+		},
+		"7834": {
+			"Type": "CarTeam",
+			"Name": "Motor.ru",
+			"Id": 7834
+		},
+		"7835": {
+			"Type": "CarTeam",
+			"Name": "Autosport.com.ru",
+			"Id": 7835
+		},
+		"7836": {
+			"Type": "CarTeam",
+			"Name": "Lg.com",
+			"Id": 7836
 		}
 	}
 }
