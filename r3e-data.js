@@ -18767,6 +18767,21 @@ var r3eData = {
 							"Id": 8695
 						}
 					]
+				},
+				{
+					"Name": "#3",
+					"Team": 8710,
+					"Car": 5818,
+					"Id": 8709,
+					"Class": 1703,
+					"TeamName": "Senkyr.cz Motorsport",
+					"drivers": [
+						{
+							"Forename": "Richard",
+							"Surname": "Gonda",
+							"Id": 8755
+						}
+					]
 				}
 			]
 		},
@@ -31154,7 +31169,7 @@ var r3eData = {
 					"Car": 8661,
 					"Id": 8664,
 					"Class": 8660,
-					"TeamName": "Team OMV Maxxmotion",
+					"TeamName": "Team OMV MaxxMotion",
 					"drivers": [
 						{
 							"Forename": "Next",
@@ -31220,6 +31235,391 @@ var r3eData = {
 							"Forename": "Next",
 							"Surname": "Michelisz",
 							"Id": 8688
+						}
+					]
+				}
+			]
+		},
+		"8726": {
+			"Name": "CUPRA Leon Competición",
+			"BrandName": "CUPRA",
+			"CarManufacturer": 7159,
+			"DefaultLivery": 8728,
+			"Id": 8726,
+			"Class": 8660,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8728,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#01",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8729,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#02",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8730,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#03",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8731,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#04",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8732,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#05",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8733,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#06",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8734,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#07",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8735,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#08",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8736,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#09",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8737,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8738,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8739,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8740,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8741,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8742,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8743,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8744,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8745,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8746,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8747,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8748,
+					"Class": 8660,
+					"TeamName": "2Cupra Factory Team",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8749,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8750,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#23",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8751,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 8752,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
 						}
 					]
 				}
@@ -60418,7 +60818,7 @@ var r3eData = {
 			"Car": 8661,
 			"Id": 8664,
 			"Class": 8660,
-			"TeamName": "Team OMV Maxxmotion",
+			"TeamName": "Team OMV MaxxMotion",
 			"drivers": [
 				{
 					"Forename": "Next",
@@ -60499,6 +60899,396 @@ var r3eData = {
 					"Forename": "Stefan",
 					"Surname": "Varga",
 					"Id": 8695
+				}
+			]
+		},
+		"8709": {
+			"Name": "#3",
+			"Team": 8710,
+			"Car": 5818,
+			"Id": 8709,
+			"Class": 1703,
+			"TeamName": "Senkyr.cz Motorsport",
+			"drivers": [
+				{
+					"Forename": "Richard",
+					"Surname": "Gonda",
+					"Id": 8755
+				}
+			]
+		},
+		"8728": {
+			"Name": "#1",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8728,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8729": {
+			"Name": "#01",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8729,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8730": {
+			"Name": "#02",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8730,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8731": {
+			"Name": "#03",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8731,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8732": {
+			"Name": "#04",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8732,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8733": {
+			"Name": "#05",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8733,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8734": {
+			"Name": "#06",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8734,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8735": {
+			"Name": "#07",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8735,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8736": {
+			"Name": "#08",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8736,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8737": {
+			"Name": "#09",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8737,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8738": {
+			"Name": "#10",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8738,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8739": {
+			"Name": "#11",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8739,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8740": {
+			"Name": "#12",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8740,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8741": {
+			"Name": "#13",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8741,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8742": {
+			"Name": "#14",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8742,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8743": {
+			"Name": "#15",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8743,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8744": {
+			"Name": "#16",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8744,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8745": {
+			"Name": "#17",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8745,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8746": {
+			"Name": "#18",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8746,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8747": {
+			"Name": "#19",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8747,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8748": {
+			"Name": "#20",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8748,
+			"Class": 8660,
+			"TeamName": "2Cupra Factory Team",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8749": {
+			"Name": "#21",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8749,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8750": {
+			"Name": "#22",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8750,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8751": {
+			"Name": "#23",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8751,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8752": {
+			"Name": "#24",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 8752,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
 				}
 			]
 		}
@@ -63175,6 +63965,9 @@ var r3eData = {
 		"8660": {
 			"Name": "Touring Cars Cup",
 			"Cars": [
+				{
+					"Id": 8726
+				},
 				{
 					"Id": 8661
 				}
@@ -69175,7 +69968,7 @@ var r3eData = {
 		},
 		"8692": {
 			"Type": "CarTeam",
-			"Name": "Team OMV Maxxmotion",
+			"Name": "Team OMV MaxxMotion",
 			"Id": 8692
 		},
 		"8693": {
@@ -69192,6 +69985,16 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Varga Simracing",
 			"Id": 8696
+		},
+		"8710": {
+			"Type": "CarTeam",
+			"Name": "Senkyr.cz Motorsport",
+			"Id": 8710
+		},
+		"8727": {
+			"Type": "CarTeam",
+			"Name": "CUPRA Leon Competición",
+			"Id": 8727
 		}
 	}
 };
