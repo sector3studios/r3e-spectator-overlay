@@ -20092,9 +20092,9 @@
 					"TeamName": "Zhejiang International Circuit",
 					"drivers": [
 						{
-							"Forename": "Michael",
-							"Surname": "Leary",
-							"Id": 8637
+							"Forename": "Bence",
+							"Surname": "Bánki",
+							"Id": 8843
 						}
 					]
 				}
@@ -21735,6 +21735,36 @@
 							"Forename": "Michael",
 							"Surname": "Bonk",
 							"Id": 6507
+						}
+					]
+				},
+				{
+					"Name": "#514",
+					"Team": 8832,
+					"Car": 6262,
+					"Id": 8724,
+					"Class": 6344,
+					"TeamName": "Smyrlis Racing",
+					"drivers": [
+						{
+							"Forename": "Justin",
+							"Surname": "Wiechmann",
+							"Id": 8834
+						}
+					]
+				},
+				{
+					"Name": "#516",
+					"Team": 8832,
+					"Car": 6262,
+					"Id": 8725,
+					"Class": 6344,
+					"TeamName": "Smyrlis Racing",
+					"drivers": [
+						{
+							"Forename": "Ioannis",
+							"Surname": "Smyrlis",
+							"Id": 8833
 						}
 					]
 				}
@@ -24536,7 +24566,7 @@
 			]
 		},
 		"7005": {
-			"Name": "Cupra TCR",
+			"Name": "CUPRA TCR",
 			"BrandName": "Cupra",
 			"CarManufacturer": 7159,
 			"DefaultLivery": 7035,
@@ -24749,7 +24779,7 @@
 			"Name": "Peugeot 308 TCR",
 			"BrandName": "Peugeot",
 			"CarManufacturer": 7074,
-			"DefaultLivery": 7039,
+			"DefaultLivery": 7038,
 			"Id": 7036,
 			"Class": 7009,
 			"liveries": [
@@ -28329,7 +28359,7 @@
 			"Name": "Audi RS 3 LMS",
 			"BrandName": "Audi",
 			"CarManufacturer": 2551,
-			"DefaultLivery": 7868,
+			"DefaultLivery": 7862,
 			"Id": 7847,
 			"Class": 7844,
 			"liveries": [
@@ -28396,7 +28426,7 @@
 			]
 		},
 		"7850": {
-			"Name": "Cupra TCR",
+			"Name": "CUPRA TCR",
 			"BrandName": "Cupra",
 			"CarManufacturer": 7159,
 			"DefaultLivery": 7864,
@@ -28469,7 +28499,7 @@
 			"Name": "Honda Civic TCR",
 			"BrandName": "Honda",
 			"CarManufacturer": 2738,
-			"DefaultLivery": 7865,
+			"DefaultLivery": 7874,
 			"Id": 7853,
 			"Class": 7844,
 			"liveries": [
@@ -29221,7 +29251,7 @@
 			]
 		},
 		"8006": {
-			"Name": "Cupra TCR",
+			"Name": "CUPRA TCR",
 			"BrandName": "Cupra",
 			"CarManufacturer": 7159,
 			"DefaultLivery": 8118,
@@ -31140,6 +31170,61 @@
 				}
 			]
 		},
+		"8657": {
+			"Name": "Audi RS 3 LMS",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 8659,
+			"Id": 8657,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#31",
+					"Team": 8658,
+					"Car": 8657,
+					"Id": 8659,
+					"Class": 8656,
+					"TeamName": "COMTOYOU TEAM AUDI SPORT",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Coronel",
+							"Id": 7948
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 8658,
+					"Car": 8657,
+					"Id": 8771,
+					"Class": 8656,
+					"TeamName": "COMTOYOU TEAM AUDI SPORT",
+					"drivers": [
+						{
+							"Forename": "Niels",
+							"Surname": "Langeveld",
+							"Id": 7936
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 8658,
+					"Car": 8657,
+					"Id": 8772,
+					"Class": 8656,
+					"TeamName": "COMTOYOU TEAM AUDI SPORT",
+					"drivers": [
+						{
+							"Forename": "Frédéric",
+							"Surname": "Vervisch",
+							"Id": 7730
+						}
+					]
+				}
+			]
+		},
 		"8661": {
 			"Name": "Hyundai i30 N TCR",
 			"BrandName": "Hyundai",
@@ -31235,6 +31320,276 @@
 							"Forename": "Next",
 							"Surname": "Michelisz",
 							"Id": 8688
+						}
+					]
+				}
+			]
+		},
+		"8698": {
+			"Name": "Lada Vesta",
+			"BrandName": "Lada",
+			"CarManufacturer": 3011,
+			"DefaultLivery": 8713,
+			"Id": 8698,
+			"Class": 8660,
+			"liveries": [
+				{
+					"Name": "#11",
+					"Team": 8711,
+					"Car": 8698,
+					"Id": 8713,
+					"Class": 8660,
+					"TeamName": "LADA Sport ROSNEFT",
+					"drivers": [
+						{
+							"Forename": "Kyril",
+							"Surname": "Ladygin",
+							"Id": 7842
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 8711,
+					"Car": 8698,
+					"Id": 8714,
+					"Class": 8660,
+					"TeamName": "LADA Sport ROSNEFT",
+					"drivers": [
+						{
+							"Forename": "Michail",
+							"Surname": "Mityaev",
+							"Id": 8842
+						}
+					]
+				},
+				{
+					"Name": "#45",
+					"Team": 8802,
+					"Car": 8698,
+					"Id": 8753,
+					"Class": 8660,
+					"TeamName": "Lecar Team",
+					"drivers": [
+						{
+							"Forename": "Evgeniy",
+							"Surname": "Meites",
+							"Id": 8801
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 8803,
+					"Car": 8698,
+					"Id": 8754,
+					"Class": 8660,
+					"TeamName": "Magnum Rosneft",
+					"drivers": [
+						{
+							"Forename": "Dmitriy",
+							"Surname": "Soldatov",
+							"Id": 7832
+						}
+					]
+				},
+				{
+					"Name": "#42",
+					"Team": 8805,
+					"Car": 8698,
+					"Id": 8804,
+					"Class": 8660,
+					"TeamName": "Motor.ru",
+					"drivers": [
+						{
+							"Forename": "Andrey",
+							"Surname": "Motorov",
+							"Id": 7838
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 8805,
+					"Car": 8698,
+					"Id": 8806,
+					"Class": 8660,
+					"TeamName": "Motor.ru",
+					"drivers": [
+						{
+							"Forename": "Vladimir",
+							"Surname": "Kostin",
+							"Id": 7837
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 8819,
+					"Car": 8698,
+					"Id": 8816,
+					"Class": 8660,
+					"TeamName": "eMotorsport.ru",
+					"drivers": [
+						{
+							"Forename": "Dmitriy",
+							"Surname": "Soldatov",
+							"Id": 7832
+						}
+					]
+				},
+				{
+					"Name": "#59",
+					"Team": 8820,
+					"Car": 8698,
+					"Id": 8817,
+					"Class": 8660,
+					"TeamName": "Autosport.com.ru",
+					"drivers": [
+						{
+							"Forename": "Aleksandr",
+							"Surname": "Autosportov",
+							"Id": 7839
+						}
+					]
+				},
+				{
+					"Name": "#43",
+					"Team": 8822,
+					"Car": 8698,
+					"Id": 8821,
+					"Class": 8660,
+					"TeamName": "Lg.com",
+					"drivers": [
+						{
+							"Forename": "Ilya",
+							"Surname": "Monitorov",
+							"Id": 7840
+						}
+					]
+				}
+			]
+		},
+		"8715": {
+			"Name": "Hyundai i30 N TCR",
+			"BrandName": "Hyundai",
+			"CarManufacturer": 7116,
+			"DefaultLivery": 8717,
+			"Id": 8715,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 8716,
+					"Car": 8715,
+					"Id": 8717,
+					"Class": 8656,
+					"TeamName": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Michelisz",
+							"Id": 7933
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 8808,
+					"Car": 8715,
+					"Id": 8718,
+					"Class": 8656,
+					"TeamName": "ENGSTLER HYUNDAI N LIQUI MOLY",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Engstler",
+							"Id": 8799
+						}
+					]
+				},
+				{
+					"Name": "#70",
+					"Team": 8807,
+					"Car": 8715,
+					"Id": 8769,
+					"Class": 8656,
+					"TeamName": "BRC RACING TEAM",
+					"drivers": [
+						{
+							"Forename": "Mato",
+							"Surname": "Homola",
+							"Id": 7147
+						}
+					]
+				}
+			]
+		},
+		"8719": {
+			"Name": "Lynk & Co 03 TCR",
+			"BrandName": "Lynk & Co",
+			"CarManufacturer": 7929,
+			"DefaultLivery": 8722,
+			"Id": 8719,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#11",
+					"Team": 8720,
+					"Car": 8719,
+					"Id": 8722,
+					"Class": 8656,
+					"TeamName": "CYAN PERFORMANCE LYNK & CO",
+					"drivers": [
+						{
+							"Forename": "Thed",
+							"Surname": "Björk",
+							"Id": 7937
+						}
+					]
+				},
+				{
+					"Name": "#100",
+					"Team": 8721,
+					"Car": 8719,
+					"Id": 8723,
+					"Class": 8656,
+					"TeamName": "CYAN RACING LYNK & CO",
+					"drivers": [
+						{
+							"Forename": "Yvan",
+							"Surname": "Muller",
+							"Id": 7956
+						}
+					]
+				},
+				{
+					"Name": "#68",
+					"Team": 8721,
+					"Car": 8719,
+					"Id": 8760,
+					"Class": 8656,
+					"TeamName": "CYAN RACING LYNK & CO",
+					"drivers": [
+						{
+							"Forename": "Yann",
+							"Surname": "Ehrlacher",
+							"Id": 7951
+						}
+					]
+				},
+				{
+					"Name": "#111",
+					"Team": 8720,
+					"Car": 8719,
+					"Id": 8761,
+					"Class": 8656,
+					"TeamName": "CYAN PERFORMANCE LYNK & CO",
+					"drivers": [
+						{
+							"Forename": "Andy",
+							"Surname": "Priaulx",
+							"Id": 7957
 						}
 					]
 				}
@@ -31554,7 +31909,7 @@
 					"Car": 8726,
 					"Id": 8748,
 					"Class": 8660,
-					"TeamName": "2Cupra Factory Team",
+					"TeamName": "CUPRA",
 					"drivers": [
 						{
 							"Forename": "CUPRA",
@@ -31620,6 +31975,1376 @@
 							"Forename": "CUPRA",
 							"Surname": "Driver",
 							"Id": 8756
+						}
+					]
+				}
+			]
+		},
+		"8757": {
+			"Name": "CUPRA Leon e-Racer",
+			"BrandName": "CUPRA",
+			"CarManufacturer": 7159,
+			"DefaultLivery": 8759,
+			"Id": 8757,
+			"Class": 8682,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8759,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#01",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8849,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#02",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8850,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#03",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8851,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#04",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8852,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#05",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8853,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#06",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8854,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#07",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8855,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#08",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8856,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#09",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8857,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8858,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8859,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8860,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8861,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8862,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8863,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8864,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8865,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8866,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8867,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8868,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8869,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8870,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#23",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8871,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 8758,
+					"Car": 8757,
+					"Id": 8872,
+					"Class": 8682,
+					"TeamName": "CUPRA Leon e-Racer",
+					"drivers": [
+						{
+							"Forename": "CUPRA",
+							"Surname": "Driver",
+							"Id": 8756
+						}
+					]
+				}
+			]
+		},
+		"8776": {
+			"Name": "Honda Civic TCR",
+			"BrandName": "Honda",
+			"CarManufacturer": 2738,
+			"DefaultLivery": 8779,
+			"Id": 8776,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#9",
+					"Team": 8777,
+					"Car": 8776,
+					"Id": 8778,
+					"Class": 8656,
+					"TeamName": "ALL INKL.DE MUNNICH MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Attila",
+							"Surname": "Tassi",
+							"Id": 7935
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 8777,
+					"Car": 8776,
+					"Id": 8779,
+					"Class": 8656,
+					"TeamName": "ALL INKL.DE MUNNICH MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Tiago",
+							"Surname": "Monteiro",
+							"Id": 7940
+						}
+					]
+				},
+				{
+					"Name": "#29",
+					"Team": 8845,
+					"Car": 8776,
+					"Id": 8780,
+					"Class": 8656,
+					"TeamName": "ALL INKL.COM MUNNICH MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Nestor",
+							"Surname": "Girolami",
+							"Id": 4843
+						}
+					]
+				},
+				{
+					"Name": "#86",
+					"Team": 8845,
+					"Car": 8776,
+					"Id": 8781,
+					"Class": 8656,
+					"TeamName": "ALL INKL.COM MUNNICH MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Esteban",
+							"Surname": "Guerrieri",
+							"Id": 7953
+						}
+					]
+				}
+			]
+		},
+		"8782": {
+			"Name": "Alfa Romeo Giulietta TCR",
+			"BrandName": "Romeo Ferraris",
+			"CarManufacturer": 7032,
+			"DefaultLivery": 8784,
+			"Id": 8782,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#65",
+					"Team": 8783,
+					"Car": 8782,
+					"Id": 8784,
+					"Class": 8656,
+					"TeamName": "TEAM MULSANNE",
+					"drivers": [
+						{
+							"Forename": "Kevin",
+							"Surname": "Ceccon",
+							"Id": 7945
+						}
+					]
+				}
+			]
+		},
+		"8785": {
+			"Name": "Peugeot 308",
+			"BrandName": "Peugeot",
+			"CarManufacturer": 7074,
+			"DefaultLivery": 8787,
+			"Id": 8785,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#7",
+					"Team": 8786,
+					"Car": 8785,
+					"Id": 8787,
+					"Class": 8656,
+					"TeamName": "DG SPORT",
+					"drivers": [
+						{
+							"Forename": "Aurélien",
+							"Surname": "Comte",
+							"Id": 6919
+						}
+					]
+				}
+			]
+		},
+		"8788": {
+			"Name": "CUPRA Leon Competición",
+			"BrandName": "CUPRA",
+			"CarManufacturer": 7159,
+			"DefaultLivery": 8790,
+			"Id": 8788,
+			"Class": 8656,
+			"liveries": [
+				{
+					"Name": "#96",
+					"Team": 8844,
+					"Car": 8788,
+					"Id": 8790,
+					"Class": 8656,
+					"TeamName": "CUPRA RACING",
+					"drivers": [
+						{
+							"Forename": "Mikel",
+							"Surname": "Azcona",
+							"Id": 7955
+						}
+					]
+				},
+				{
+					"Name": "#55",
+					"Team": 8789,
+					"Car": 8788,
+					"Id": 8791,
+					"Class": 8656,
+					"TeamName": "ZENGO MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Boldizs",
+							"Id": 8798
+						}
+					]
+				},
+				{
+					"Name": "#96b",
+					"Team": 8844,
+					"Car": 8788,
+					"Id": 8800,
+					"Class": 8656,
+					"TeamName": "CUPRA RACING",
+					"drivers": [
+						{
+							"Forename": "Mikel",
+							"Surname": "Azcona",
+							"Id": 7955
+						}
+					]
+				}
+			]
+		},
+		"8792": {
+			"Name": "Porsche 911 GT3 Cup",
+			"BrandName": "Porsche",
+			"CarManufacturer": 3013,
+			"DefaultLivery": 8794,
+			"Id": 8792,
+			"Class": 8681,
+			"liveries": [
+				{
+					"Name": "#01",
+					"Team": 8912,
+					"Car": 8792,
+					"Id": 8794,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Wiesbaden",
+					"drivers": [
+						{
+							"Forename": "Mathieu",
+							"Surname": "Wacker",
+							"Id": 8895
+						}
+					]
+				},
+				{
+					"Name": "#02",
+					"Team": 8793,
+					"Car": 8792,
+					"Id": 8795,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Frankfurt",
+					"drivers": [
+						{
+							"Forename": "Dylan",
+							"Surname": "Pereira",
+							"Id": 8023
+						}
+					]
+				},
+				{
+					"Name": "#03",
+					"Team": 8913,
+					"Car": 8792,
+					"Id": 8796,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Nürnberg-Fürth-Erlangen",
+					"drivers": [
+						{
+							"Forename": "David",
+							"Surname": "Karapetian",
+							"Id": 8896
+						}
+					]
+				},
+				{
+					"Name": "#04",
+					"Team": 8914,
+					"Car": 8792,
+					"Id": 8797,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum München Süd",
+					"drivers": [
+						{
+							"Forename": "Georgi",
+							"Surname": "Donchev",
+							"Id": 8897
+						}
+					]
+				},
+				{
+					"Name": "#09",
+					"Team": 8916,
+					"Car": 8792,
+					"Id": 8874,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Karlsruhe",
+					"drivers": [
+						{
+							"Forename": "Alex",
+							"Surname": "Arkin Aka",
+							"Id": 8051
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 8917,
+					"Car": 8792,
+					"Id": 8875,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Magdeburg",
+					"drivers": [
+						{
+							"Forename": "Matthias",
+							"Surname": "Jeserich",
+							"Id": 8030
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 8919,
+					"Car": 8792,
+					"Id": 8876,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Limburg",
+					"drivers": [
+						{
+							"Forename": "Kay",
+							"Surname": "van Berlo",
+							"Id": 8899
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 8920,
+					"Car": 8792,
+					"Id": 8877,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Augsburg",
+					"drivers": [
+						{
+							"Forename": "Larry",
+							"Surname": "ten Voorde",
+							"Id": 8031
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 8921,
+					"Car": 8792,
+					"Id": 8878,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Niederrhein",
+					"drivers": [
+						{
+							"Forename": "Jukka",
+							"Surname": "Honkavuori",
+							"Id": 8903
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 8922,
+					"Car": 8792,
+					"Id": 8879,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Dortmund",
+					"drivers": [
+						{
+							"Forename": "Berkay",
+							"Surname": "Besler",
+							"Id": 8033
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 8923,
+					"Car": 8792,
+					"Id": 8880,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Lennetal",
+					"drivers": [
+						{
+							"Forename": "Glenn",
+							"Surname": "van Parijs",
+							"Id": 8904
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 8924,
+					"Car": 8792,
+					"Id": 8881,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Göppingen",
+					"drivers": [
+						{
+							"Forename": "Lukas",
+							"Surname": "Ertl",
+							"Id": 8034
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 8925,
+					"Car": 8792,
+					"Id": 8882,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Berlin",
+					"drivers": [
+						{
+							"Forename": "Emil",
+							"Surname": "Heyerdahl",
+							"Id": 8905
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 8928,
+					"Car": 8792,
+					"Id": 8883,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Aachen",
+					"drivers": [
+						{
+							"Forename": "Diego",
+							"Surname": "Bertonelli",
+							"Id": 8907
+						}
+					]
+				},
+				{
+					"Name": "#26",
+					"Team": 8933,
+					"Car": 8792,
+					"Id": 8884,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Bamberg",
+					"drivers": [
+						{
+							"Forename": "Laurin",
+							"Surname": "Heinrich",
+							"Id": 8909
+						}
+					]
+				},
+				{
+					"Name": "#29",
+					"Team": 8934,
+					"Car": 8792,
+					"Id": 8885,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Ulm Neu-Ulm",
+					"drivers": [
+						{
+							"Forename": "Donar",
+							"Surname": "Munding",
+							"Id": 8910
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 8935,
+					"Car": 8792,
+					"Id": 8886,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Trier",
+					"drivers": [
+						{
+							"Forename": "Felix",
+							"Surname": "Hirsiger",
+							"Id": 8911
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 8915,
+					"Car": 8792,
+					"Id": 8887,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Stuttgart-Flughafen",
+					"drivers": [
+						{
+							"Forename": "Stefan",
+							"Surname": "Rehkopf",
+							"Id": 8039
+						}
+					]
+				},
+				{
+					"Name": "#54",
+					"Team": 8918,
+					"Car": 8792,
+					"Id": 8888,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Recklinghausen",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Essmann",
+							"Id": 8898
+						}
+					]
+				},
+				{
+					"Name": "#57",
+					"Team": 8926,
+					"Car": 8792,
+					"Id": 8889,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Olympiapark",
+					"drivers": [
+						{
+							"Forename": "Rudy",
+							"Surname": "van Buren",
+							"Id": 8906
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 8929,
+					"Car": 8792,
+					"Id": 8890,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Kiel",
+					"drivers": [
+						{
+							"Forename": "Leon",
+							"Surname": "Köhler",
+							"Id": 8045
+						}
+					]
+				},
+				{
+					"Name": "#81",
+					"Team": 8793,
+					"Car": 8792,
+					"Id": 8891,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Frankfurt",
+					"drivers": [
+						{
+							"Forename": "Julian",
+							"Surname": "Hanses",
+							"Id": 8908
+						}
+					]
+				},
+				{
+					"Name": "#87",
+					"Team": 8931,
+					"Car": 8792,
+					"Id": 8892,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Schwäbisch Gmünd ",
+					"drivers": [
+						{
+							"Forename": "Richard",
+							"Surname": "Wagner",
+							"Id": 8046
+						}
+					]
+				},
+				{
+					"Name": "#92",
+					"Team": 8932,
+					"Car": 8792,
+					"Id": 8893,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Gießen",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Rettenbacher",
+							"Id": 8048
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 8927,
+					"Car": 8792,
+					"Id": 8894,
+					"Class": 8681,
+					"TeamName": "Porsche Zentrum Mannheim",
+					"drivers": [
+						{
+							"Forename": "Timo",
+							"Surname": "Bernhard",
+							"Id": 8354
+						}
+					]
+				}
+			]
+		},
+		"8936": {
+			"Name": "BMW M6 GT3",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
+			"DefaultLivery": 9024,
+			"Id": 8936,
+			"Class": 7767,
+			"liveries": [
+				{
+					"Name": "#8",
+					"Team": 8937,
+					"Car": 8936,
+					"Id": 8965,
+					"Class": 7767,
+					"TeamName": "R8G Esports",
+					"drivers": [
+						{
+							"Forename": "Risto",
+							"Surname": "Kappet",
+							"Id": 9010
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 8955,
+					"Car": 8936,
+					"Id": 8966,
+					"Class": 7767,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "Gergo",
+							"Surname": "Baldi",
+							"Id": 9016
+						}
+					]
+				},
+				{
+					"Name": "#74",
+					"Team": 8956,
+					"Car": 8936,
+					"Id": 8967,
+					"Class": 7767,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Christopher",
+							"Surname": "Högfeldt",
+							"Id": 9019
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 9022,
+					"Car": 8936,
+					"Id": 9024,
+					"Class": 7767,
+					"TeamName": "ADAC",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"8938": {
+			"Name": "Porsche 911 GT3 R (2019)",
+			"BrandName": "Porsche",
+			"CarManufacturer": 3013,
+			"DefaultLivery": 9030,
+			"Id": 8938,
+			"Class": 7767,
+			"liveries": [
+				{
+					"Name": "#6",
+					"Team": 8939,
+					"Car": 8938,
+					"Id": 8979,
+					"Class": 7767,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Kuba",
+							"Surname": "Brzezinski",
+							"Id": 9005
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 8945,
+					"Car": 8938,
+					"Id": 8980,
+					"Class": 7767,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Jesper",
+							"Surname": "Eriksson",
+							"Id": 9009
+						}
+					]
+				},
+				{
+					"Name": "#69",
+					"Team": 8944,
+					"Car": 8938,
+					"Id": 8981,
+					"Class": 7767,
+					"TeamName": "Veloce Esports",
+					"drivers": [
+						{
+							"Forename": "Alexander",
+							"Surname": "Dornieden",
+							"Id": 9008
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 9034,
+					"Car": 8938,
+					"Id": 9030,
+					"Class": 7767,
+					"TeamName": "ADAC",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"8940": {
+			"Name": "Mercedes AMG GT3",
+			"BrandName": "Mercedes",
+			"CarManufacturer": 2552,
+			"DefaultLivery": 9033,
+			"Id": 8940,
+			"Class": 7767,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 8941,
+					"Car": 8940,
+					"Id": 8968,
+					"Class": 7767,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Moritz",
+							"Surname": "Löhner",
+							"Id": 9011
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 8941,
+					"Car": 8940,
+					"Id": 8969,
+					"Class": 7767,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Niko",
+							"Surname": "Wisniewski",
+							"Id": 9006
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 8954,
+					"Car": 8940,
+					"Id": 8970,
+					"Class": 7767,
+					"TeamName": "Williams JIM Esports",
+					"drivers": [
+						{
+							"Forename": "Marc",
+							"Surname": "Gassner",
+							"Id": 9018
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 8946,
+					"Car": 8940,
+					"Id": 8971,
+					"Class": 7767,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "David",
+							"Surname": "Nagy",
+							"Id": 9007
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 8950,
+					"Car": 8940,
+					"Id": 8972,
+					"Class": 7767,
+					"TeamName": "R8G Esports",
+					"drivers": [
+						{
+							"Forename": "Erhan",
+							"Surname": "Jajovski",
+							"Id": 9012
+						}
+					]
+				},
+				{
+					"Name": "#44",
+					"Team": 8941,
+					"Car": 8940,
+					"Id": 8973,
+					"Class": 7767,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Jack",
+							"Surname": "Keithley",
+							"Id": 7153
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 8948,
+					"Car": 8940,
+					"Id": 8974,
+					"Class": 7767,
+					"TeamName": "Team Redline",
+					"drivers": [
+						{
+							"Forename": "Kevin",
+							"Surname": "Siggy",
+							"Id": 7158
+						}
+					]
+				},
+				{
+					"Name": "#91",
+					"Team": 8951,
+					"Car": 8940,
+					"Id": 8975,
+					"Class": 7767,
+					"TeamName": "Red Bull Racing Esports",
+					"drivers": [
+						{
+							"Forename": "Néstor",
+							"Surname": "García",
+							"Id": 9015
+						}
+					]
+				},
+				{
+					"Name": "#92",
+					"Team": 8947,
+					"Car": 8940,
+					"Id": 8976,
+					"Class": 7767,
+					"TeamName": "EURONICS Gaming",
+					"drivers": [
+						{
+							"Forename": "André",
+							"Surname": "Santos",
+							"Id": 7157
+						}
+					]
+				},
+				{
+					"Name": "#97",
+					"Team": 8953,
+					"Car": 8940,
+					"Id": 8977,
+					"Class": 7767,
+					"TeamName": "Triple A Esports",
+					"drivers": [
+						{
+							"Forename": "Adam",
+							"Surname": "Pinczes",
+							"Id": 9017
+						}
+					]
+				},
+				{
+					"Name": "#99",
+					"Team": 8947,
+					"Car": 8940,
+					"Id": 8978,
+					"Class": 7767,
+					"TeamName": "EURONICS Gaming",
+					"drivers": [
+						{
+							"Forename": "Julian",
+							"Surname": "Kunze",
+							"Id": 7156
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 9036,
+					"Car": 8940,
+					"Id": 9033,
+					"Class": 7767,
+					"TeamName": "ADAC",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"8942": {
+			"Name": "Callaway Corvette C7 GT3-R",
+			"BrandName": "Chevrolet",
+			"CarManufacturer": 2623,
+			"DefaultLivery": 9029,
+			"Id": 8942,
+			"Class": 7767,
+			"liveries": [
+				{
+					"Name": "#33",
+					"Team": 8943,
+					"Car": 8942,
+					"Id": 8962,
+					"Class": 7767,
+					"TeamName": "Red Bull Racing Esports",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Bánki",
+							"Id": 8843
+						}
+					]
+				},
+				{
+					"Name": "#53",
+					"Team": 8957,
+					"Car": 8942,
+					"Id": 8963,
+					"Class": 7767,
+					"TeamName": "EURONICS Gaming",
+					"drivers": [
+						{
+							"Forename": "Tim",
+							"Surname": "Jarschel",
+							"Id": 9013
+						}
+					]
+				},
+				{
+					"Name": "#67",
+					"Team": 8957,
+					"Car": 8942,
+					"Id": 8964,
+					"Class": 7767,
+					"TeamName": "EURONICS Gaming",
+					"drivers": [
+						{
+							"Forename": "Florian",
+							"Surname": "Hasse",
+							"Id": 9014
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 9035,
+					"Car": 8942,
+					"Id": 9029,
+					"Class": 7767,
+					"TeamName": "ADAC",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"9031": {
+			"Name": "Audi R8 LMS",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 9037,
+			"Id": 9031,
+			"Class": 7767,
+			"liveries": [
+				{
+					"Name": "#999",
+					"Team": 9032,
+					"Car": 9031,
+					"Id": 9037,
+					"Class": 7767,
+					"TeamName": "ADAC",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
 						}
 					]
 				}
@@ -60776,9 +62501,9 @@
 			"TeamName": "Zhejiang International Circuit",
 			"drivers": [
 				{
-					"Forename": "Michael",
-					"Surname": "Leary",
-					"Id": 8637
+					"Forename": "Bence",
+					"Surname": "Bánki",
+					"Id": 8843
 				}
 			]
 		},
@@ -60794,6 +62519,21 @@
 					"Forename": "Michael",
 					"Surname": "Knodel",
 					"Id": 8639
+				}
+			]
+		},
+		"8659": {
+			"Name": "#31",
+			"Team": 8658,
+			"Car": 8657,
+			"Id": 8659,
+			"Class": 8656,
+			"TeamName": "COMTOYOU TEAM AUDI SPORT",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Coronel",
+					"Id": 7948
 				}
 			]
 		},
@@ -60914,6 +62654,126 @@
 					"Forename": "Richard",
 					"Surname": "Gonda",
 					"Id": 8755
+				}
+			]
+		},
+		"8713": {
+			"Name": "#11",
+			"Team": 8711,
+			"Car": 8698,
+			"Id": 8713,
+			"Class": 8660,
+			"TeamName": "LADA Sport ROSNEFT",
+			"drivers": [
+				{
+					"Forename": "Kyril",
+					"Surname": "Ladygin",
+					"Id": 7842
+				}
+			]
+		},
+		"8714": {
+			"Name": "#30",
+			"Team": 8711,
+			"Car": 8698,
+			"Id": 8714,
+			"Class": 8660,
+			"TeamName": "LADA Sport ROSNEFT",
+			"drivers": [
+				{
+					"Forename": "Michail",
+					"Surname": "Mityaev",
+					"Id": 8842
+				}
+			]
+		},
+		"8717": {
+			"Name": "#1",
+			"Team": 8716,
+			"Car": 8715,
+			"Id": 8717,
+			"Class": 8656,
+			"TeamName": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Michelisz",
+					"Id": 7933
+				}
+			]
+		},
+		"8718": {
+			"Name": "#8",
+			"Team": 8808,
+			"Car": 8715,
+			"Id": 8718,
+			"Class": 8656,
+			"TeamName": "ENGSTLER HYUNDAI N LIQUI MOLY",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Engstler",
+					"Id": 8799
+				}
+			]
+		},
+		"8722": {
+			"Name": "#11",
+			"Team": 8720,
+			"Car": 8719,
+			"Id": 8722,
+			"Class": 8656,
+			"TeamName": "CYAN PERFORMANCE LYNK & CO",
+			"drivers": [
+				{
+					"Forename": "Thed",
+					"Surname": "Björk",
+					"Id": 7937
+				}
+			]
+		},
+		"8723": {
+			"Name": "#100",
+			"Team": 8721,
+			"Car": 8719,
+			"Id": 8723,
+			"Class": 8656,
+			"TeamName": "CYAN RACING LYNK & CO",
+			"drivers": [
+				{
+					"Forename": "Yvan",
+					"Surname": "Muller",
+					"Id": 7956
+				}
+			]
+		},
+		"8724": {
+			"Name": "#514",
+			"Team": 8832,
+			"Car": 6262,
+			"Id": 8724,
+			"Class": 6344,
+			"TeamName": "Smyrlis Racing",
+			"drivers": [
+				{
+					"Forename": "Justin",
+					"Surname": "Wiechmann",
+					"Id": 8834
+				}
+			]
+		},
+		"8725": {
+			"Name": "#516",
+			"Team": 8832,
+			"Car": 6262,
+			"Id": 8725,
+			"Class": 6344,
+			"TeamName": "Smyrlis Racing",
+			"drivers": [
+				{
+					"Forename": "Ioannis",
+					"Surname": "Smyrlis",
+					"Id": 8833
 				}
 			]
 		},
@@ -61223,7 +63083,7 @@
 			"Car": 8726,
 			"Id": 8748,
 			"Class": 8660,
-			"TeamName": "2Cupra Factory Team",
+			"TeamName": "CUPRA",
 			"drivers": [
 				{
 					"Forename": "CUPRA",
@@ -61289,6 +63149,1446 @@
 					"Forename": "CUPRA",
 					"Surname": "Driver",
 					"Id": 8756
+				}
+			]
+		},
+		"8753": {
+			"Name": "#45",
+			"Team": 8802,
+			"Car": 8698,
+			"Id": 8753,
+			"Class": 8660,
+			"TeamName": "Lecar Team",
+			"drivers": [
+				{
+					"Forename": "Evgeniy",
+					"Surname": "Meites",
+					"Id": 8801
+				}
+			]
+		},
+		"8754": {
+			"Name": "#3",
+			"Team": 8803,
+			"Car": 8698,
+			"Id": 8754,
+			"Class": 8660,
+			"TeamName": "Magnum Rosneft",
+			"drivers": [
+				{
+					"Forename": "Dmitriy",
+					"Surname": "Soldatov",
+					"Id": 7832
+				}
+			]
+		},
+		"8759": {
+			"Name": "#1",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8759,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8760": {
+			"Name": "#68",
+			"Team": 8721,
+			"Car": 8719,
+			"Id": 8760,
+			"Class": 8656,
+			"TeamName": "CYAN RACING LYNK & CO",
+			"drivers": [
+				{
+					"Forename": "Yann",
+					"Surname": "Ehrlacher",
+					"Id": 7951
+				}
+			]
+		},
+		"8761": {
+			"Name": "#111",
+			"Team": 8720,
+			"Car": 8719,
+			"Id": 8761,
+			"Class": 8656,
+			"TeamName": "CYAN PERFORMANCE LYNK & CO",
+			"drivers": [
+				{
+					"Forename": "Andy",
+					"Surname": "Priaulx",
+					"Id": 7957
+				}
+			]
+		},
+		"8769": {
+			"Name": "#70",
+			"Team": 8807,
+			"Car": 8715,
+			"Id": 8769,
+			"Class": 8656,
+			"TeamName": "BRC RACING TEAM",
+			"drivers": [
+				{
+					"Forename": "Mato",
+					"Surname": "Homola",
+					"Id": 7147
+				}
+			]
+		},
+		"8771": {
+			"Name": "#10",
+			"Team": 8658,
+			"Car": 8657,
+			"Id": 8771,
+			"Class": 8656,
+			"TeamName": "COMTOYOU TEAM AUDI SPORT",
+			"drivers": [
+				{
+					"Forename": "Niels",
+					"Surname": "Langeveld",
+					"Id": 7936
+				}
+			]
+		},
+		"8772": {
+			"Name": "#22",
+			"Team": 8658,
+			"Car": 8657,
+			"Id": 8772,
+			"Class": 8656,
+			"TeamName": "COMTOYOU TEAM AUDI SPORT",
+			"drivers": [
+				{
+					"Forename": "Frédéric",
+					"Surname": "Vervisch",
+					"Id": 7730
+				}
+			]
+		},
+		"8778": {
+			"Name": "#9",
+			"Team": 8777,
+			"Car": 8776,
+			"Id": 8778,
+			"Class": 8656,
+			"TeamName": "ALL INKL.DE MUNNICH MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Attila",
+					"Surname": "Tassi",
+					"Id": 7935
+				}
+			]
+		},
+		"8779": {
+			"Name": "#18",
+			"Team": 8777,
+			"Car": 8776,
+			"Id": 8779,
+			"Class": 8656,
+			"TeamName": "ALL INKL.DE MUNNICH MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Tiago",
+					"Surname": "Monteiro",
+					"Id": 7940
+				}
+			]
+		},
+		"8780": {
+			"Name": "#29",
+			"Team": 8845,
+			"Car": 8776,
+			"Id": 8780,
+			"Class": 8656,
+			"TeamName": "ALL INKL.COM MUNNICH MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Nestor",
+					"Surname": "Girolami",
+					"Id": 4843
+				}
+			]
+		},
+		"8781": {
+			"Name": "#86",
+			"Team": 8845,
+			"Car": 8776,
+			"Id": 8781,
+			"Class": 8656,
+			"TeamName": "ALL INKL.COM MUNNICH MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Esteban",
+					"Surname": "Guerrieri",
+					"Id": 7953
+				}
+			]
+		},
+		"8784": {
+			"Name": "#65",
+			"Team": 8783,
+			"Car": 8782,
+			"Id": 8784,
+			"Class": 8656,
+			"TeamName": "TEAM MULSANNE",
+			"drivers": [
+				{
+					"Forename": "Kevin",
+					"Surname": "Ceccon",
+					"Id": 7945
+				}
+			]
+		},
+		"8787": {
+			"Name": "#7",
+			"Team": 8786,
+			"Car": 8785,
+			"Id": 8787,
+			"Class": 8656,
+			"TeamName": "DG SPORT",
+			"drivers": [
+				{
+					"Forename": "Aurélien",
+					"Surname": "Comte",
+					"Id": 6919
+				}
+			]
+		},
+		"8790": {
+			"Name": "#96",
+			"Team": 8844,
+			"Car": 8788,
+			"Id": 8790,
+			"Class": 8656,
+			"TeamName": "CUPRA RACING",
+			"drivers": [
+				{
+					"Forename": "Mikel",
+					"Surname": "Azcona",
+					"Id": 7955
+				}
+			]
+		},
+		"8791": {
+			"Name": "#55",
+			"Team": 8789,
+			"Car": 8788,
+			"Id": 8791,
+			"Class": 8656,
+			"TeamName": "ZENGO MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Boldizs",
+					"Id": 8798
+				}
+			]
+		},
+		"8794": {
+			"Name": "#01",
+			"Team": 8912,
+			"Car": 8792,
+			"Id": 8794,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Wiesbaden",
+			"drivers": [
+				{
+					"Forename": "Mathieu",
+					"Surname": "Wacker",
+					"Id": 8895
+				}
+			]
+		},
+		"8795": {
+			"Name": "#02",
+			"Team": 8793,
+			"Car": 8792,
+			"Id": 8795,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Frankfurt",
+			"drivers": [
+				{
+					"Forename": "Dylan",
+					"Surname": "Pereira",
+					"Id": 8023
+				}
+			]
+		},
+		"8796": {
+			"Name": "#03",
+			"Team": 8913,
+			"Car": 8792,
+			"Id": 8796,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Nürnberg-Fürth-Erlangen",
+			"drivers": [
+				{
+					"Forename": "David",
+					"Surname": "Karapetian",
+					"Id": 8896
+				}
+			]
+		},
+		"8797": {
+			"Name": "#04",
+			"Team": 8914,
+			"Car": 8792,
+			"Id": 8797,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum München Süd",
+			"drivers": [
+				{
+					"Forename": "Georgi",
+					"Surname": "Donchev",
+					"Id": 8897
+				}
+			]
+		},
+		"8800": {
+			"Name": "#96b",
+			"Team": 8844,
+			"Car": 8788,
+			"Id": 8800,
+			"Class": 8656,
+			"TeamName": "CUPRA RACING",
+			"drivers": [
+				{
+					"Forename": "Mikel",
+					"Surname": "Azcona",
+					"Id": 7955
+				}
+			]
+		},
+		"8804": {
+			"Name": "#42",
+			"Team": 8805,
+			"Car": 8698,
+			"Id": 8804,
+			"Class": 8660,
+			"TeamName": "Motor.ru",
+			"drivers": [
+				{
+					"Forename": "Andrey",
+					"Surname": "Motorov",
+					"Id": 7838
+				}
+			]
+		},
+		"8806": {
+			"Name": "#77",
+			"Team": 8805,
+			"Car": 8698,
+			"Id": 8806,
+			"Class": 8660,
+			"TeamName": "Motor.ru",
+			"drivers": [
+				{
+					"Forename": "Vladimir",
+					"Surname": "Kostin",
+					"Id": 7837
+				}
+			]
+		},
+		"8816": {
+			"Name": "#5",
+			"Team": 8819,
+			"Car": 8698,
+			"Id": 8816,
+			"Class": 8660,
+			"TeamName": "eMotorsport.ru",
+			"drivers": [
+				{
+					"Forename": "Dmitriy",
+					"Surname": "Soldatov",
+					"Id": 7832
+				}
+			]
+		},
+		"8817": {
+			"Name": "#59",
+			"Team": 8820,
+			"Car": 8698,
+			"Id": 8817,
+			"Class": 8660,
+			"TeamName": "Autosport.com.ru",
+			"drivers": [
+				{
+					"Forename": "Aleksandr",
+					"Surname": "Autosportov",
+					"Id": 7839
+				}
+			]
+		},
+		"8821": {
+			"Name": "#43",
+			"Team": 8822,
+			"Car": 8698,
+			"Id": 8821,
+			"Class": 8660,
+			"TeamName": "Lg.com",
+			"drivers": [
+				{
+					"Forename": "Ilya",
+					"Surname": "Monitorov",
+					"Id": 7840
+				}
+			]
+		},
+		"8849": {
+			"Name": "#01",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8849,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8850": {
+			"Name": "#02",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8850,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8851": {
+			"Name": "#03",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8851,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8852": {
+			"Name": "#04",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8852,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8853": {
+			"Name": "#05",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8853,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8854": {
+			"Name": "#06",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8854,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8855": {
+			"Name": "#07",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8855,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8856": {
+			"Name": "#08",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8856,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8857": {
+			"Name": "#09",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8857,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8858": {
+			"Name": "#10",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8858,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8859": {
+			"Name": "#11",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8859,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8860": {
+			"Name": "#12",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8860,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8861": {
+			"Name": "#13",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8861,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8862": {
+			"Name": "#14",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8862,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8863": {
+			"Name": "#15",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8863,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8864": {
+			"Name": "#16",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8864,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8865": {
+			"Name": "#17",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8865,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8866": {
+			"Name": "#18",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8866,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8867": {
+			"Name": "#19",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8867,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8868": {
+			"Name": "#20",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8868,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8869": {
+			"Name": "#21",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8869,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8870": {
+			"Name": "#22",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8870,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8871": {
+			"Name": "#23",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8871,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8872": {
+			"Name": "#24",
+			"Team": 8758,
+			"Car": 8757,
+			"Id": 8872,
+			"Class": 8682,
+			"TeamName": "CUPRA Leon e-Racer",
+			"drivers": [
+				{
+					"Forename": "CUPRA",
+					"Surname": "Driver",
+					"Id": 8756
+				}
+			]
+		},
+		"8874": {
+			"Name": "#09",
+			"Team": 8916,
+			"Car": 8792,
+			"Id": 8874,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Karlsruhe",
+			"drivers": [
+				{
+					"Forename": "Alex",
+					"Surname": "Arkin Aka",
+					"Id": 8051
+				}
+			]
+		},
+		"8875": {
+			"Name": "#10",
+			"Team": 8917,
+			"Car": 8792,
+			"Id": 8875,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Magdeburg",
+			"drivers": [
+				{
+					"Forename": "Matthias",
+					"Surname": "Jeserich",
+					"Id": 8030
+				}
+			]
+		},
+		"8876": {
+			"Name": "#12",
+			"Team": 8919,
+			"Car": 8792,
+			"Id": 8876,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Limburg",
+			"drivers": [
+				{
+					"Forename": "Kay",
+					"Surname": "van Berlo",
+					"Id": 8899
+				}
+			]
+		},
+		"8877": {
+			"Name": "#13",
+			"Team": 8920,
+			"Car": 8792,
+			"Id": 8877,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Augsburg",
+			"drivers": [
+				{
+					"Forename": "Larry",
+					"Surname": "ten Voorde",
+					"Id": 8031
+				}
+			]
+		},
+		"8878": {
+			"Name": "#14",
+			"Team": 8921,
+			"Car": 8792,
+			"Id": 8878,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Niederrhein",
+			"drivers": [
+				{
+					"Forename": "Jukka",
+					"Surname": "Honkavuori",
+					"Id": 8903
+				}
+			]
+		},
+		"8879": {
+			"Name": "#15",
+			"Team": 8922,
+			"Car": 8792,
+			"Id": 8879,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Dortmund",
+			"drivers": [
+				{
+					"Forename": "Berkay",
+					"Surname": "Besler",
+					"Id": 8033
+				}
+			]
+		},
+		"8880": {
+			"Name": "#16",
+			"Team": 8923,
+			"Car": 8792,
+			"Id": 8880,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Lennetal",
+			"drivers": [
+				{
+					"Forename": "Glenn",
+					"Surname": "van Parijs",
+					"Id": 8904
+				}
+			]
+		},
+		"8881": {
+			"Name": "#17",
+			"Team": 8924,
+			"Car": 8792,
+			"Id": 8881,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Göppingen",
+			"drivers": [
+				{
+					"Forename": "Lukas",
+					"Surname": "Ertl",
+					"Id": 8034
+				}
+			]
+		},
+		"8882": {
+			"Name": "#18",
+			"Team": 8925,
+			"Car": 8792,
+			"Id": 8882,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Berlin",
+			"drivers": [
+				{
+					"Forename": "Emil",
+					"Surname": "Heyerdahl",
+					"Id": 8905
+				}
+			]
+		},
+		"8883": {
+			"Name": "#21",
+			"Team": 8928,
+			"Car": 8792,
+			"Id": 8883,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Aachen",
+			"drivers": [
+				{
+					"Forename": "Diego",
+					"Surname": "Bertonelli",
+					"Id": 8907
+				}
+			]
+		},
+		"8884": {
+			"Name": "#26",
+			"Team": 8933,
+			"Car": 8792,
+			"Id": 8884,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Bamberg",
+			"drivers": [
+				{
+					"Forename": "Laurin",
+					"Surname": "Heinrich",
+					"Id": 8909
+				}
+			]
+		},
+		"8885": {
+			"Name": "#29",
+			"Team": 8934,
+			"Car": 8792,
+			"Id": 8885,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Ulm Neu-Ulm",
+			"drivers": [
+				{
+					"Forename": "Donar",
+					"Surname": "Munding",
+					"Id": 8910
+				}
+			]
+		},
+		"8886": {
+			"Name": "#30",
+			"Team": 8935,
+			"Car": 8792,
+			"Id": 8886,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Trier",
+			"drivers": [
+				{
+					"Forename": "Felix",
+					"Surname": "Hirsiger",
+					"Id": 8911
+				}
+			]
+		},
+		"8887": {
+			"Name": "#33",
+			"Team": 8915,
+			"Car": 8792,
+			"Id": 8887,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Stuttgart-Flughafen",
+			"drivers": [
+				{
+					"Forename": "Stefan",
+					"Surname": "Rehkopf",
+					"Id": 8039
+				}
+			]
+		},
+		"8888": {
+			"Name": "#54",
+			"Team": 8918,
+			"Car": 8792,
+			"Id": 8888,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Recklinghausen",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Essmann",
+					"Id": 8898
+				}
+			]
+		},
+		"8889": {
+			"Name": "#57",
+			"Team": 8926,
+			"Car": 8792,
+			"Id": 8889,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Olympiapark",
+			"drivers": [
+				{
+					"Forename": "Rudy",
+					"Surname": "van Buren",
+					"Id": 8906
+				}
+			]
+		},
+		"8890": {
+			"Name": "#77",
+			"Team": 8929,
+			"Car": 8792,
+			"Id": 8890,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Kiel",
+			"drivers": [
+				{
+					"Forename": "Leon",
+					"Surname": "Köhler",
+					"Id": 8045
+				}
+			]
+		},
+		"8891": {
+			"Name": "#81",
+			"Team": 8793,
+			"Car": 8792,
+			"Id": 8891,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Frankfurt",
+			"drivers": [
+				{
+					"Forename": "Julian",
+					"Surname": "Hanses",
+					"Id": 8908
+				}
+			]
+		},
+		"8892": {
+			"Name": "#87",
+			"Team": 8931,
+			"Car": 8792,
+			"Id": 8892,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Schwäbisch Gmünd ",
+			"drivers": [
+				{
+					"Forename": "Richard",
+					"Surname": "Wagner",
+					"Id": 8046
+				}
+			]
+		},
+		"8893": {
+			"Name": "#92",
+			"Team": 8932,
+			"Car": 8792,
+			"Id": 8893,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Gießen",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Rettenbacher",
+					"Id": 8048
+				}
+			]
+		},
+		"8894": {
+			"Name": "#20",
+			"Team": 8927,
+			"Car": 8792,
+			"Id": 8894,
+			"Class": 8681,
+			"TeamName": "Porsche Zentrum Mannheim",
+			"drivers": [
+				{
+					"Forename": "Timo",
+					"Surname": "Bernhard",
+					"Id": 8354
+				}
+			]
+		},
+		"8962": {
+			"Name": "#33",
+			"Team": 8943,
+			"Car": 8942,
+			"Id": 8962,
+			"Class": 7767,
+			"TeamName": "Red Bull Racing Esports",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Bánki",
+					"Id": 8843
+				}
+			]
+		},
+		"8963": {
+			"Name": "#53",
+			"Team": 8957,
+			"Car": 8942,
+			"Id": 8963,
+			"Class": 7767,
+			"TeamName": "EURONICS Gaming",
+			"drivers": [
+				{
+					"Forename": "Tim",
+					"Surname": "Jarschel",
+					"Id": 9013
+				}
+			]
+		},
+		"8964": {
+			"Name": "#67",
+			"Team": 8957,
+			"Car": 8942,
+			"Id": 8964,
+			"Class": 7767,
+			"TeamName": "EURONICS Gaming",
+			"drivers": [
+				{
+					"Forename": "Florian",
+					"Surname": "Hasse",
+					"Id": 9014
+				}
+			]
+		},
+		"8965": {
+			"Name": "#8",
+			"Team": 8937,
+			"Car": 8936,
+			"Id": 8965,
+			"Class": 7767,
+			"TeamName": "R8G Esports",
+			"drivers": [
+				{
+					"Forename": "Risto",
+					"Surname": "Kappet",
+					"Id": 9010
+				}
+			]
+		},
+		"8966": {
+			"Name": "#13",
+			"Team": 8955,
+			"Car": 8936,
+			"Id": 8966,
+			"Class": 7767,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "Gergo",
+					"Surname": "Baldi",
+					"Id": 9016
+				}
+			]
+		},
+		"8967": {
+			"Name": "#74",
+			"Team": 8956,
+			"Car": 8936,
+			"Id": 8967,
+			"Class": 7767,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Christopher",
+					"Surname": "Högfeldt",
+					"Id": 9019
+				}
+			]
+		},
+		"8968": {
+			"Name": "#1",
+			"Team": 8941,
+			"Car": 8940,
+			"Id": 8968,
+			"Class": 7767,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Moritz",
+					"Surname": "Löhner",
+					"Id": 9011
+				}
+			]
+		},
+		"8969": {
+			"Name": "#3",
+			"Team": 8941,
+			"Car": 8940,
+			"Id": 8969,
+			"Class": 7767,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Niko",
+					"Surname": "Wisniewski",
+					"Id": 9006
+				}
+			]
+		},
+		"8970": {
+			"Name": "#4",
+			"Team": 8954,
+			"Car": 8940,
+			"Id": 8970,
+			"Class": 7767,
+			"TeamName": "Williams JIM Esports",
+			"drivers": [
+				{
+					"Forename": "Marc",
+					"Surname": "Gassner",
+					"Id": 9018
+				}
+			]
+		},
+		"8971": {
+			"Name": "#11",
+			"Team": 8946,
+			"Car": 8940,
+			"Id": 8971,
+			"Class": 7767,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "David",
+					"Surname": "Nagy",
+					"Id": 9007
+				}
+			]
+		},
+		"8972": {
+			"Name": "#7",
+			"Team": 8950,
+			"Car": 8940,
+			"Id": 8972,
+			"Class": 7767,
+			"TeamName": "R8G Esports",
+			"drivers": [
+				{
+					"Forename": "Erhan",
+					"Surname": "Jajovski",
+					"Id": 9012
+				}
+			]
+		},
+		"8973": {
+			"Name": "#44",
+			"Team": 8941,
+			"Car": 8940,
+			"Id": 8973,
+			"Class": 7767,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Jack",
+					"Surname": "Keithley",
+					"Id": 7153
+				}
+			]
+		},
+		"8974": {
+			"Name": "#88",
+			"Team": 8948,
+			"Car": 8940,
+			"Id": 8974,
+			"Class": 7767,
+			"TeamName": "Team Redline",
+			"drivers": [
+				{
+					"Forename": "Kevin",
+					"Surname": "Siggy",
+					"Id": 7158
+				}
+			]
+		},
+		"8975": {
+			"Name": "#91",
+			"Team": 8951,
+			"Car": 8940,
+			"Id": 8975,
+			"Class": 7767,
+			"TeamName": "Red Bull Racing Esports",
+			"drivers": [
+				{
+					"Forename": "Néstor",
+					"Surname": "García",
+					"Id": 9015
+				}
+			]
+		},
+		"8976": {
+			"Name": "#92",
+			"Team": 8947,
+			"Car": 8940,
+			"Id": 8976,
+			"Class": 7767,
+			"TeamName": "EURONICS Gaming",
+			"drivers": [
+				{
+					"Forename": "André",
+					"Surname": "Santos",
+					"Id": 7157
+				}
+			]
+		},
+		"8977": {
+			"Name": "#97",
+			"Team": 8953,
+			"Car": 8940,
+			"Id": 8977,
+			"Class": 7767,
+			"TeamName": "Triple A Esports",
+			"drivers": [
+				{
+					"Forename": "Adam",
+					"Surname": "Pinczes",
+					"Id": 9017
+				}
+			]
+		},
+		"8978": {
+			"Name": "#99",
+			"Team": 8947,
+			"Car": 8940,
+			"Id": 8978,
+			"Class": 7767,
+			"TeamName": "EURONICS Gaming",
+			"drivers": [
+				{
+					"Forename": "Julian",
+					"Surname": "Kunze",
+					"Id": 7156
+				}
+			]
+		},
+		"8979": {
+			"Name": "#6",
+			"Team": 8939,
+			"Car": 8938,
+			"Id": 8979,
+			"Class": 7767,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Kuba",
+					"Surname": "Brzezinski",
+					"Id": 9005
+				}
+			]
+		},
+		"8980": {
+			"Name": "#24",
+			"Team": 8945,
+			"Car": 8938,
+			"Id": 8980,
+			"Class": 7767,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Jesper",
+					"Surname": "Eriksson",
+					"Id": 9009
+				}
+			]
+		},
+		"8981": {
+			"Name": "#69",
+			"Team": 8944,
+			"Car": 8938,
+			"Id": 8981,
+			"Class": 7767,
+			"TeamName": "Veloce Esports",
+			"drivers": [
+				{
+					"Forename": "Alexander",
+					"Surname": "Dornieden",
+					"Id": 9008
+				}
+			]
+		},
+		"9024": {
+			"Name": "#999",
+			"Team": 9022,
+			"Car": 8936,
+			"Id": 9024,
+			"Class": 7767,
+			"TeamName": "ADAC",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"9029": {
+			"Name": "#999",
+			"Team": 9035,
+			"Car": 8942,
+			"Id": 9029,
+			"Class": 7767,
+			"TeamName": "ADAC",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"9030": {
+			"Name": "#999",
+			"Team": 9034,
+			"Car": 8938,
+			"Id": 9030,
+			"Class": 7767,
+			"TeamName": "ADAC",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"9033": {
+			"Name": "#999",
+			"Team": 9036,
+			"Car": 8940,
+			"Id": 9033,
+			"Class": 7767,
+			"TeamName": "ADAC",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"9037": {
+			"Name": "#999",
+			"Team": 9032,
+			"Car": 9031,
+			"Id": 9037,
+			"Class": 7767,
+			"TeamName": "ADAC",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
 				}
 			]
 		}
@@ -63899,6 +67199,27 @@
 			],
 			"Id": 7765
 		},
+		"7767": {
+			"Name": "ADAC GT Masters 2020",
+			"Cars": [
+				{
+					"Id": 9031
+				},
+				{
+					"Id": 8936
+				},
+				{
+					"Id": 8942
+				},
+				{
+					"Id": 8940
+				},
+				{
+					"Id": 8938
+				}
+			],
+			"Id": 7767
+		},
 		"7844": {
 			"Name": "WTCR 2019",
 			"Cars": [
@@ -63927,7 +67248,7 @@
 			"Id": 7844
 		},
 		"7982": {
-			"Name": "Porsche Carrera Cup Deutschland",
+			"Name": "Porsche Carrera Cup Deutschland 2019",
 			"Cars": [
 				{
 					"Id": 7983
@@ -63962,6 +67283,33 @@
 			],
 			"Id": 8600
 		},
+		"8656": {
+			"Name": "WTCR 2020",
+			"Cars": [
+				{
+					"Id": 8782
+				},
+				{
+					"Id": 8657
+				},
+				{
+					"Id": 8788
+				},
+				{
+					"Id": 8776
+				},
+				{
+					"Id": 8715
+				},
+				{
+					"Id": 8719
+				},
+				{
+					"Id": 8785
+				}
+			],
+			"Id": 8656
+		},
 		"8660": {
 			"Name": "Touring Cars Cup",
 			"Cars": [
@@ -63970,9 +67318,30 @@
 				},
 				{
 					"Id": 8661
+				},
+				{
+					"Id": 8698
 				}
 			],
 			"Id": 8660
+		},
+		"8681": {
+			"Name": "Porsche Carrera Cup Deutschland 2020",
+			"Cars": [
+				{
+					"Id": 8792
+				}
+			],
+			"Id": 8681
+		},
+		"8682": {
+			"Name": "CUPRA Leon e-Racer",
+			"Cars": [
+				{
+					"Id": 8757
+				}
+			],
+			"Id": 8682
 		}
 	},
 	"manufacturers": {
@@ -69951,6 +73320,11 @@
 			"Name": "NKPP Racing by Bas Koeten Racing",
 			"Id": 8644
 		},
+		"8658": {
+			"Type": "CarTeam",
+			"Name": "COMTOYOU TEAM AUDI SPORT",
+			"Id": 8658
+		},
 		"8689": {
 			"Type": "CarTeam",
 			"Name": "Team Hungaroring",
@@ -69986,15 +73360,365 @@
 			"Name": "Varga Simracing",
 			"Id": 8696
 		},
+		"8699": {
+			"Type": "CarTeam",
+			"Name": "LADA Sport ROSNEFT",
+			"Id": 8699
+		},
 		"8710": {
 			"Type": "CarTeam",
 			"Name": "Senkyr.cz Motorsport",
 			"Id": 8710
 		},
+		"8711": {
+			"Type": "CarTeam",
+			"Name": "LADA Sport ROSNEFT",
+			"Id": 8711
+		},
+		"8712": {
+			"Type": "CarTeam",
+			"Name": "Rosneft",
+			"Id": 8712
+		},
+		"8716": {
+			"Type": "CarTeam",
+			"Name": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+			"Id": 8716
+		},
+		"8720": {
+			"Type": "CarTeam",
+			"Name": "CYAN PERFORMANCE LYNK & CO",
+			"Id": 8720
+		},
+		"8721": {
+			"Type": "CarTeam",
+			"Name": "CYAN RACING LYNK & CO",
+			"Id": 8721
+		},
 		"8727": {
 			"Type": "CarTeam",
 			"Name": "CUPRA Leon Competición",
 			"Id": 8727
+		},
+		"8758": {
+			"Type": "CarTeam",
+			"Name": "CUPRA Leon e-Racer",
+			"Id": 8758
+		},
+		"8777": {
+			"Type": "CarTeam",
+			"Name": "ALL INKL.DE MUNNICH MOTORSPORT",
+			"Id": 8777
+		},
+		"8783": {
+			"Type": "CarTeam",
+			"Name": "TEAM MULSANNE",
+			"Id": 8783
+		},
+		"8786": {
+			"Type": "CarTeam",
+			"Name": "DG SPORT",
+			"Id": 8786
+		},
+		"8789": {
+			"Type": "CarTeam",
+			"Name": "ZENGO MOTORSPORT",
+			"Id": 8789
+		},
+		"8793": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Frankfurt",
+			"Id": 8793
+		},
+		"8802": {
+			"Type": "CarTeam",
+			"Name": "Lecar team",
+			"Id": 8802
+		},
+		"8803": {
+			"Type": "CarTeam",
+			"Name": "Magnum Rosneft",
+			"Id": 8803
+		},
+		"8805": {
+			"Type": "CarTeam",
+			"Name": "Motor.ru",
+			"Id": 8805
+		},
+		"8807": {
+			"Type": "CarTeam",
+			"Name": "BRC RACING TEAM",
+			"Id": 8807
+		},
+		"8808": {
+			"Type": "CarTeam",
+			"Name": "ENGSTLER HYUNDAI N LIQUI MOLY",
+			"Id": 8808
+		},
+		"8819": {
+			"Type": "CarTeam",
+			"Name": "eMotorsport.ru",
+			"Id": 8819
+		},
+		"8820": {
+			"Type": "CarTeam",
+			"Name": "Autosport.com.ru",
+			"Id": 8820
+		},
+		"8822": {
+			"Type": "CarTeam",
+			"Name": "Lg.com",
+			"Id": 8822
+		},
+		"8832": {
+			"Type": "CarTeam",
+			"Name": "Smyrlis Racing",
+			"Id": 8832
+		},
+		"8844": {
+			"Type": "CarTeam",
+			"Name": "CUPRA RACING",
+			"Id": 8844
+		},
+		"8845": {
+			"Type": "CarTeam",
+			"Name": "ALL INKL.COM MUNNICH MOTORSPORT",
+			"Id": 8845
+		},
+		"8912": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Wiesbaden",
+			"Id": 8912
+		},
+		"8913": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Nürnberg-Fürth-Erlangen",
+			"Id": 8913
+		},
+		"8914": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum München Süd",
+			"Id": 8914
+		},
+		"8915": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Stuttgart-Flughafen",
+			"Id": 8915
+		},
+		"8916": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Karlsruhe",
+			"Id": 8916
+		},
+		"8917": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Magdeburg",
+			"Id": 8917
+		},
+		"8918": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Recklinghausen",
+			"Id": 8918
+		},
+		"8919": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Limburg",
+			"Id": 8919
+		},
+		"8920": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Augsburg",
+			"Id": 8920
+		},
+		"8921": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Niederrhein",
+			"Id": 8921
+		},
+		"8922": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Dortmund",
+			"Id": 8922
+		},
+		"8923": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Lennetal",
+			"Id": 8923
+		},
+		"8924": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Göppingen",
+			"Id": 8924
+		},
+		"8925": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Berlin",
+			"Id": 8925
+		},
+		"8926": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Olympiapark",
+			"Id": 8926
+		},
+		"8927": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Mannheim",
+			"Id": 8927
+		},
+		"8928": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Aachen",
+			"Id": 8928
+		},
+		"8929": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Kiel",
+			"Id": 8929
+		},
+		"8930": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Essen",
+			"Id": 8930
+		},
+		"8931": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Schwäbisch Gmünd",
+			"Id": 8931
+		},
+		"8932": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Gießen",
+			"Id": 8932
+		},
+		"8933": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Bamberg",
+			"Id": 8933
+		},
+		"8934": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Ulm Neu-Ulm",
+			"Id": 8934
+		},
+		"8935": {
+			"Type": "CarTeam",
+			"Name": "Porsche Zentrum Trier",
+			"Id": 8935
+		},
+		"8937": {
+			"Type": "CarTeam",
+			"Name": "R8G Esports",
+			"Id": 8937
+		},
+		"8939": {
+			"Type": "CarTeam",
+			"Name": "Williams Esports",
+			"Id": 8939
+		},
+		"8941": {
+			"Type": "CarTeam",
+			"Name": "Williams Esports",
+			"Id": 8941
+		},
+		"8943": {
+			"Type": "CarTeam",
+			"Name": "Red Bull Racing Esports",
+			"Id": 8943
+		},
+		"8944": {
+			"Type": "CarTeam",
+			"Name": "Veloce Esports",
+			"Id": 8944
+		},
+		"8945": {
+			"Type": "CarTeam",
+			"Name": "Virtualdrivers by TX3",
+			"Id": 8945
+		},
+		"8946": {
+			"Type": "CarTeam",
+			"Name": "M1RA Esports",
+			"Id": 8946
+		},
+		"8947": {
+			"Type": "CarTeam",
+			"Name": "EURONICS Gaming",
+			"Id": 8947
+		},
+		"8948": {
+			"Type": "CarTeam",
+			"Name": "Team Redline",
+			"Id": 8948
+		},
+		"8949": {
+			"Type": "CarTeam",
+			"Name": "MAHLE Racing Team",
+			"Id": 8949
+		},
+		"8950": {
+			"Type": "CarTeam",
+			"Name": "R8G Esports",
+			"Id": 8950
+		},
+		"8951": {
+			"Type": "CarTeam",
+			"Name": "Red Bull Racing Esports",
+			"Id": 8951
+		},
+		"8952": {
+			"Type": "CarTeam",
+			"Name": "EURONICS Gaming",
+			"Id": 8952
+		},
+		"8953": {
+			"Type": "CarTeam",
+			"Name": "Triple A Esports",
+			"Id": 8953
+		},
+		"8954": {
+			"Type": "CarTeam",
+			"Name": "Williams JIM Esports",
+			"Id": 8954
+		},
+		"8955": {
+			"Type": "CarTeam",
+			"Name": "M1RA Esports",
+			"Id": 8955
+		},
+		"8956": {
+			"Type": "CarTeam",
+			"Name": "Virtualdrivers by TX3",
+			"Id": 8956
+		},
+		"8957": {
+			"Type": "CarTeam",
+			"Name": "EURONICS Gaming",
+			"Id": 8957
+		},
+		"9022": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9022
+		},
+		"9032": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9032
+		},
+		"9034": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9034
+		},
+		"9035": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9035
+		},
+		"9036": {
+			"Type": "CarTeam",
+			"Name": "ADAC",
+			"Id": 9036
 		}
 	}
 }
