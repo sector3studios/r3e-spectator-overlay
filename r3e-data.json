@@ -33501,7 +33501,7 @@
 			]
 		},
 		"9094": {
-			"Name": "BMW M4 DTM 2020",
+			"Name": "BMW M4 DTM 2020e",
 			"BrandName": "BMW",
 			"CarManufacturer": 2550,
 			"DefaultLivery": 9127,
@@ -33584,21 +33584,6 @@
 					]
 				},
 				{
-					"Name": "#0",
-					"Team": 9095,
-					"Car": 9094,
-					"Id": 9117,
-					"Class": 9101,
-					"TeamName": "BMW Lifestyle",
-					"drivers": [
-						{
-							"Forename": "BMW",
-							"Surname": "Lifestyle",
-							"Id": 9151
-						}
-					]
-				},
-				{
 					"Name": "#16",
 					"Team": 9098,
 					"Car": 9094,
@@ -33629,24 +33614,129 @@
 					]
 				},
 				{
-					"Name": "#00",
+					"Name": "#86",
+					"Team": 9184,
+					"Car": 9094,
+					"Id": 9178,
+					"Class": 9101,
+					"TeamName": "BOSCH Motorsport",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#01",
+					"Team": 9182,
+					"Car": 9094,
+					"Id": 9181,
+					"Class": 9101,
+					"TeamName": "MediaMarkt",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#42",
+					"Team": 9183,
+					"Car": 9094,
+					"Id": 9185,
+					"Class": 9101,
+					"TeamName": "BMW Lifestyle",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#43",
 					"Team": 9099,
 					"Car": 9094,
-					"Id": 9128,
+					"Id": 9186,
 					"Class": 9101,
 					"TeamName": "BMW Motorsport SIM Racing",
 					"drivers": [
 						{
-							"Forename": "BMW Motorsport",
-							"Surname": "Sim Racing",
-							"Id": 9152
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 9184,
+					"Car": 9094,
+					"Id": 9187,
+					"Class": 9101,
+					"TeamName": "BOSCH Motorsport",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#84",
+					"Team": 9193,
+					"Car": 9094,
+					"Id": 9192,
+					"Class": 9101,
+					"TeamName": "DTM",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#89",
+					"Team": 9197,
+					"Car": 9094,
+					"Id": 9196,
+					"Class": 9101,
+					"TeamName": "Formula Medicine NEL Motorsport",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 9204,
+					"Car": 9094,
+					"Id": 9202,
+					"Class": 9101,
+					"TeamName": "KW Automotive",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
 						}
 					]
 				}
 			]
 		},
 		"9102": {
-			"Name": "Audi RS 5 DTM 2020",
+			"Name": "Audi RS 5 DTM 2020e",
 			"BrandName": "Audi",
 			"CarManufacturer": 2551,
 			"DefaultLivery": 9119,
@@ -33785,6 +33875,81 @@
 							"Forename": "Ferdinand",
 							"Surname": "Habsburg",
 							"Id": 9144
+						}
+					]
+				},
+				{
+					"Name": "#73",
+					"Team": 9189,
+					"Car": 9102,
+					"Id": 9188,
+					"Class": 9101,
+					"TeamName": "MediaMarkt",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 9200,
+					"Car": 9102,
+					"Id": 9194,
+					"Class": 9101,
+					"TeamName": "DTM",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 9200,
+					"Car": 9102,
+					"Id": 9195,
+					"Class": 9101,
+					"TeamName": "DTM",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 9199,
+					"Car": 9102,
+					"Id": 9198,
+					"Class": 9101,
+					"TeamName": "Formula Medicine NEL Motorsport",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
+						}
+					]
+				},
+				{
+					"Name": "#92",
+					"Team": 9203,
+					"Car": 9102,
+					"Id": 9201,
+					"Class": 9101,
+					"TeamName": "KW Automotive",
+					"drivers": [
+						{
+							"Forename": "DTM",
+							"Surname": "Racer",
+							"Id": 9190
 						}
 					]
 				}
@@ -33945,6 +34110,266 @@
 							"Forename": "Cyan",
 							"Surname": "Racer",
 							"Id": 9173
+						}
+					]
+				}
+			]
+		},
+		"9206": {
+			"Name": "Audi RS 5 DTM 2020",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 9215,
+			"Id": 9206,
+			"Class": 9205,
+			"liveries": [
+				{
+					"Name": "#4",
+					"Team": 9208,
+					"Car": 9206,
+					"Id": 9211,
+					"Class": 9205,
+					"TeamName": "Audi Sport Team ABT Sportsline",
+					"drivers": [
+						{
+							"Forename": "Robin",
+							"Surname": "Frijns",
+							"Id": 9134
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 9210,
+					"Car": 9206,
+					"Id": 9212,
+					"Class": 9205,
+					"TeamName": "WRT Team Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Harrison",
+							"Surname": "Newey",
+							"Id": 9146
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 9210,
+					"Car": 9206,
+					"Id": 9213,
+					"Class": 9205,
+					"TeamName": "WRT Team Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Fabio",
+							"Surname": "Scherer",
+							"Id": 9147
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 9209,
+					"Car": 9206,
+					"Id": 9214,
+					"Class": 9205,
+					"TeamName": "Audi Sport Team Phoenix",
+					"drivers": [
+						{
+							"Forename": "Loïc",
+							"Surname": "Duval",
+							"Id": 9140
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 9207,
+					"Car": 9206,
+					"Id": 9215,
+					"Class": 9205,
+					"TeamName": "Audi Sport Team Rosberg",
+					"drivers": [
+						{
+							"Forename": "René",
+							"Surname": "Rast",
+							"Id": 9135
+						}
+					]
+				},
+				{
+					"Name": "#51",
+					"Team": 9208,
+					"Car": 9206,
+					"Id": 9216,
+					"Class": 9205,
+					"TeamName": "Audi Sport Team ABT Sportsline",
+					"drivers": [
+						{
+							"Forename": "Nico",
+							"Surname": "Müller",
+							"Id": 9133
+						}
+					]
+				},
+				{
+					"Name": "#53",
+					"Team": 9207,
+					"Car": 9206,
+					"Id": 9217,
+					"Class": 9205,
+					"TeamName": "Audi Sport Team Rosberg",
+					"drivers": [
+						{
+							"Forename": "Jamie",
+							"Surname": "Green",
+							"Id": 9136
+						}
+					]
+				},
+				{
+					"Name": "#62",
+					"Team": 9210,
+					"Car": 9206,
+					"Id": 9218,
+					"Class": 9205,
+					"TeamName": "WRT Team Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Ferdinand",
+							"Surname": "Habsburg",
+							"Id": 9144
+						}
+					]
+				},
+				{
+					"Name": "#99",
+					"Team": 9209,
+					"Car": 9206,
+					"Id": 9219,
+					"Class": 9205,
+					"TeamName": "Audi Sport Team Phoenix",
+					"drivers": [
+						{
+							"Forename": "Mike",
+							"Surname": "Rockenfeller",
+							"Id": 9137
+						}
+					]
+				}
+			]
+		},
+		"9220": {
+			"Name": "BMW M4 DTM 2020",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
+			"DefaultLivery": 9228,
+			"Id": 9220,
+			"Class": 9205,
+			"liveries": [
+				{
+					"Name": "#8",
+					"Team": 9224,
+					"Car": 9220,
+					"Id": 9225,
+					"Class": 9205,
+					"TeamName": "ART Grand Prix",
+					"drivers": [
+						{
+							"Forename": "Robert",
+							"Surname": "Kubica",
+							"Id": 9148
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 9222,
+					"Car": 9220,
+					"Id": 9226,
+					"Class": 9205,
+					"TeamName": "BMW Team RMG",
+					"drivers": [
+						{
+							"Forename": "Marco",
+							"Surname": "Wittmann",
+							"Id": 9138
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 9222,
+					"Car": 9220,
+					"Id": 9227,
+					"Class": 9205,
+					"TeamName": "BMW Team RMG",
+					"drivers": [
+						{
+							"Forename": "Timo",
+							"Surname": "Glock",
+							"Id": 9141
+						}
+					]
+				},
+				{
+					"Name": "#22",
+					"Team": 9223,
+					"Car": 9220,
+					"Id": 9228,
+					"Class": 9205,
+					"TeamName": "BMW Team RMR",
+					"drivers": [
+						{
+							"Forename": "Lucas",
+							"Surname": "Auer",
+							"Id": 9143
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 9221,
+					"Car": 9220,
+					"Id": 9229,
+					"Class": 9205,
+					"TeamName": "BMW Team RBM",
+					"drivers": [
+						{
+							"Forename": "Philipp",
+							"Surname": "Eng",
+							"Id": 9142
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 9223,
+					"Car": 9220,
+					"Id": 9230,
+					"Class": 9205,
+					"TeamName": "BMW Team RMR",
+					"drivers": [
+						{
+							"Forename": "Jonathan",
+							"Surname": "Aberdein",
+							"Id": 9145
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 9221,
+					"Car": 9220,
+					"Id": 9231,
+					"Class": 9205,
+					"TeamName": "BMW Team RBM",
+					"drivers": [
+						{
+							"Forename": "Sheldon",
+							"Surname": "van der Linde",
+							"Id": 9139
 						}
 					]
 				}
@@ -65417,21 +65842,6 @@
 				}
 			]
 		},
-		"9117": {
-			"Name": "#0",
-			"Team": 9095,
-			"Car": 9094,
-			"Id": 9117,
-			"Class": 9101,
-			"TeamName": "BMW Lifestyle",
-			"drivers": [
-				{
-					"Forename": "BMW",
-					"Surname": "Lifestyle",
-					"Id": 9151
-				}
-			]
-		},
 		"9118": {
 			"Name": "#4",
 			"Team": 9105,
@@ -65564,21 +65974,6 @@
 					"Forename": "Lucas",
 					"Surname": "Auer",
 					"Id": 9143
-				}
-			]
-		},
-		"9128": {
-			"Name": "#00",
-			"Team": 9099,
-			"Car": 9094,
-			"Id": 9128,
-			"Class": 9101,
-			"TeamName": "BMW Motorsport SIM Racing",
-			"drivers": [
-				{
-					"Forename": "BMW Motorsport",
-					"Surname": "Sim Racing",
-					"Id": 9152
 				}
 			]
 		},
@@ -65759,6 +66154,441 @@
 					"Forename": "Cyan",
 					"Surname": "Racer",
 					"Id": 9173
+				}
+			]
+		},
+		"9178": {
+			"Name": "#86",
+			"Team": 9184,
+			"Car": 9094,
+			"Id": 9178,
+			"Class": 9101,
+			"TeamName": "BOSCH Motorsport",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9181": {
+			"Name": "#01",
+			"Team": 9182,
+			"Car": 9094,
+			"Id": 9181,
+			"Class": 9101,
+			"TeamName": "MediaMarkt",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9185": {
+			"Name": "#42",
+			"Team": 9183,
+			"Car": 9094,
+			"Id": 9185,
+			"Class": 9101,
+			"TeamName": "BMW Lifestyle",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9186": {
+			"Name": "#43",
+			"Team": 9099,
+			"Car": 9094,
+			"Id": 9186,
+			"Class": 9101,
+			"TeamName": "BMW Motorsport SIM Racing",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9187": {
+			"Name": "#18",
+			"Team": 9184,
+			"Car": 9094,
+			"Id": 9187,
+			"Class": 9101,
+			"TeamName": "BOSCH Motorsport",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9188": {
+			"Name": "#73",
+			"Team": 9189,
+			"Car": 9102,
+			"Id": 9188,
+			"Class": 9101,
+			"TeamName": "MediaMarkt",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9192": {
+			"Name": "#84",
+			"Team": 9193,
+			"Car": 9094,
+			"Id": 9192,
+			"Class": 9101,
+			"TeamName": "DTM",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9194": {
+			"Name": "#20",
+			"Team": 9200,
+			"Car": 9102,
+			"Id": 9194,
+			"Class": 9101,
+			"TeamName": "DTM",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9195": {
+			"Name": "#21",
+			"Team": 9200,
+			"Car": 9102,
+			"Id": 9195,
+			"Class": 9101,
+			"TeamName": "DTM",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9196": {
+			"Name": "#89",
+			"Team": 9197,
+			"Car": 9094,
+			"Id": 9196,
+			"Class": 9101,
+			"TeamName": "Formula Medicine NEL Motorsport",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9198": {
+			"Name": "#19",
+			"Team": 9199,
+			"Car": 9102,
+			"Id": 9198,
+			"Class": 9101,
+			"TeamName": "Formula Medicine NEL Motorsport",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9201": {
+			"Name": "#92",
+			"Team": 9203,
+			"Car": 9102,
+			"Id": 9201,
+			"Class": 9101,
+			"TeamName": "KW Automotive",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9202": {
+			"Name": "#14",
+			"Team": 9204,
+			"Car": 9094,
+			"Id": 9202,
+			"Class": 9101,
+			"TeamName": "KW Automotive",
+			"drivers": [
+				{
+					"Forename": "DTM",
+					"Surname": "Racer",
+					"Id": 9190
+				}
+			]
+		},
+		"9211": {
+			"Name": "#4",
+			"Team": 9208,
+			"Car": 9206,
+			"Id": 9211,
+			"Class": 9205,
+			"TeamName": "Audi Sport Team ABT Sportsline",
+			"drivers": [
+				{
+					"Forename": "Robin",
+					"Surname": "Frijns",
+					"Id": 9134
+				}
+			]
+		},
+		"9212": {
+			"Name": "#10",
+			"Team": 9210,
+			"Car": 9206,
+			"Id": 9212,
+			"Class": 9205,
+			"TeamName": "WRT Team Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Harrison",
+					"Surname": "Newey",
+					"Id": 9146
+				}
+			]
+		},
+		"9213": {
+			"Name": "#13",
+			"Team": 9210,
+			"Car": 9206,
+			"Id": 9213,
+			"Class": 9205,
+			"TeamName": "WRT Team Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Fabio",
+					"Surname": "Scherer",
+					"Id": 9147
+				}
+			]
+		},
+		"9214": {
+			"Name": "#28",
+			"Team": 9209,
+			"Car": 9206,
+			"Id": 9214,
+			"Class": 9205,
+			"TeamName": "Audi Sport Team Phoenix",
+			"drivers": [
+				{
+					"Forename": "Loïc",
+					"Surname": "Duval",
+					"Id": 9140
+				}
+			]
+		},
+		"9215": {
+			"Name": "#33",
+			"Team": 9207,
+			"Car": 9206,
+			"Id": 9215,
+			"Class": 9205,
+			"TeamName": "Audi Sport Team Rosberg",
+			"drivers": [
+				{
+					"Forename": "René",
+					"Surname": "Rast",
+					"Id": 9135
+				}
+			]
+		},
+		"9216": {
+			"Name": "#51",
+			"Team": 9208,
+			"Car": 9206,
+			"Id": 9216,
+			"Class": 9205,
+			"TeamName": "Audi Sport Team ABT Sportsline",
+			"drivers": [
+				{
+					"Forename": "Nico",
+					"Surname": "Müller",
+					"Id": 9133
+				}
+			]
+		},
+		"9217": {
+			"Name": "#53",
+			"Team": 9207,
+			"Car": 9206,
+			"Id": 9217,
+			"Class": 9205,
+			"TeamName": "Audi Sport Team Rosberg",
+			"drivers": [
+				{
+					"Forename": "Jamie",
+					"Surname": "Green",
+					"Id": 9136
+				}
+			]
+		},
+		"9218": {
+			"Name": "#62",
+			"Team": 9210,
+			"Car": 9206,
+			"Id": 9218,
+			"Class": 9205,
+			"TeamName": "WRT Team Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Ferdinand",
+					"Surname": "Habsburg",
+					"Id": 9144
+				}
+			]
+		},
+		"9219": {
+			"Name": "#99",
+			"Team": 9209,
+			"Car": 9206,
+			"Id": 9219,
+			"Class": 9205,
+			"TeamName": "Audi Sport Team Phoenix",
+			"drivers": [
+				{
+					"Forename": "Mike",
+					"Surname": "Rockenfeller",
+					"Id": 9137
+				}
+			]
+		},
+		"9225": {
+			"Name": "#8",
+			"Team": 9224,
+			"Car": 9220,
+			"Id": 9225,
+			"Class": 9205,
+			"TeamName": "ART Grand Prix",
+			"drivers": [
+				{
+					"Forename": "Robert",
+					"Surname": "Kubica",
+					"Id": 9148
+				}
+			]
+		},
+		"9226": {
+			"Name": "#11",
+			"Team": 9222,
+			"Car": 9220,
+			"Id": 9226,
+			"Class": 9205,
+			"TeamName": "BMW Team RMG",
+			"drivers": [
+				{
+					"Forename": "Marco",
+					"Surname": "Wittmann",
+					"Id": 9138
+				}
+			]
+		},
+		"9227": {
+			"Name": "#16",
+			"Team": 9222,
+			"Car": 9220,
+			"Id": 9227,
+			"Class": 9205,
+			"TeamName": "BMW Team RMG",
+			"drivers": [
+				{
+					"Forename": "Timo",
+					"Surname": "Glock",
+					"Id": 9141
+				}
+			]
+		},
+		"9228": {
+			"Name": "#22",
+			"Team": 9223,
+			"Car": 9220,
+			"Id": 9228,
+			"Class": 9205,
+			"TeamName": "BMW Team RMR",
+			"drivers": [
+				{
+					"Forename": "Lucas",
+					"Surname": "Auer",
+					"Id": 9143
+				}
+			]
+		},
+		"9229": {
+			"Name": "#25",
+			"Team": 9221,
+			"Car": 9220,
+			"Id": 9229,
+			"Class": 9205,
+			"TeamName": "BMW Team RBM",
+			"drivers": [
+				{
+					"Forename": "Philipp",
+					"Surname": "Eng",
+					"Id": 9142
+				}
+			]
+		},
+		"9230": {
+			"Name": "#27",
+			"Team": 9223,
+			"Car": 9220,
+			"Id": 9230,
+			"Class": 9205,
+			"TeamName": "BMW Team RMR",
+			"drivers": [
+				{
+					"Forename": "Jonathan",
+					"Surname": "Aberdein",
+					"Id": 9145
+				}
+			]
+		},
+		"9231": {
+			"Name": "#31",
+			"Team": 9221,
+			"Car": 9220,
+			"Id": 9231,
+			"Class": 9205,
+			"TeamName": "BMW Team RBM",
+			"drivers": [
+				{
+					"Forename": "Sheldon",
+					"Surname": "van der Linde",
+					"Id": 9139
 				}
 			]
 		}
@@ -68595,7 +69425,7 @@
 			"Id": 8682
 		},
 		"9101": {
-			"Name": "DTM 2020",
+			"Name": "DTM 2020 Esport",
 			"Cars": [
 				{
 					"Id": 9102
@@ -68605,6 +69435,18 @@
 				}
 			],
 			"Id": 9101
+		},
+		"9205": {
+			"Name": "DTM 2020",
+			"Cars": [
+				{
+					"Id": 9206
+				},
+				{
+					"Id": 9220
+				}
+			],
+			"Id": 9205
 		}
 	},
 	"manufacturers": {
@@ -75097,6 +75939,96 @@
 			"Type": "CarTeam",
 			"Name": "Cyan Racing Lynk & Co",
 			"Id": 9155
+		},
+		"9182": {
+			"Type": "CarTeam",
+			"Name": "MediaMarkt",
+			"Id": 9182
+		},
+		"9183": {
+			"Type": "CarTeam",
+			"Name": "BMW Lifestyle",
+			"Id": 9183
+		},
+		"9184": {
+			"Type": "CarTeam",
+			"Name": "Bosch Motorsport",
+			"Id": 9184
+		},
+		"9189": {
+			"Type": "CarTeam",
+			"Name": "MediaMarkt",
+			"Id": 9189
+		},
+		"9193": {
+			"Type": "CarTeam",
+			"Name": "DTM",
+			"Id": 9193
+		},
+		"9197": {
+			"Type": "CarTeam",
+			"Name": "Formula Medicine NEL Motorsport",
+			"Id": 9197
+		},
+		"9199": {
+			"Type": "CarTeam",
+			"Name": "Formula Medicine NEL Motorsport",
+			"Id": 9199
+		},
+		"9200": {
+			"Type": "CarTeam",
+			"Name": "DTM",
+			"Id": 9200
+		},
+		"9203": {
+			"Type": "CarTeam",
+			"Name": "KW Automotive",
+			"Id": 9203
+		},
+		"9204": {
+			"Type": "CarTeam",
+			"Name": "KW Automotive",
+			"Id": 9204
+		},
+		"9207": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Rosberg",
+			"Id": 9207
+		},
+		"9208": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team ABT Sportsline",
+			"Id": 9208
+		},
+		"9209": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Phoenix",
+			"Id": 9209
+		},
+		"9210": {
+			"Type": "CarTeam",
+			"Name": "WRT Team Audi Sport",
+			"Id": 9210
+		},
+		"9221": {
+			"Type": "CarTeam",
+			"Name": "BMW Team RBM",
+			"Id": 9221
+		},
+		"9222": {
+			"Type": "CarTeam",
+			"Name": "BMW Team RMG",
+			"Id": 9222
+		},
+		"9223": {
+			"Type": "CarTeam",
+			"Name": "BMW Team RMR",
+			"Id": 9223
+		},
+		"9224": {
+			"Type": "CarTeam",
+			"Name": "ART Grand Prix",
+			"Id": 9224
 		}
 	}
 }
