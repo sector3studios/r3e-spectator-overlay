@@ -31237,6 +31237,36 @@ var r3eData = {
 							"Id": 7730
 						}
 					]
+				},
+				{
+					"Name": "#17",
+					"Team": 8658,
+					"Car": 8657,
+					"Id": 9052,
+					"Class": 8656,
+					"TeamName": "COMTOYOU TEAM AUDI SPORT",
+					"drivers": [
+						{
+							"Forename": "Nathanaël",
+							"Surname": "Berthon",
+							"Id": 9262
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 8658,
+					"Car": 8657,
+					"Id": 9249,
+					"Class": 8656,
+					"TeamName": "COMTOYOU RACING",
+					"drivers": [
+						{
+							"Forename": "Gilles",
+							"Surname": "Magnus",
+							"Id": 9260
+						}
+					]
 				}
 			]
 		},
@@ -31524,6 +31554,21 @@ var r3eData = {
 					]
 				},
 				{
+					"Name": "#30",
+					"Team": 8716,
+					"Car": 8715,
+					"Id": 8768,
+					"Class": 8656,
+					"TeamName": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+					"drivers": [
+						{
+							"Forename": "Gabriele",
+							"Surname": "Tarquini",
+							"Id": 7932
+						}
+					]
+				},
+				{
 					"Name": "#70",
 					"Team": 8807,
 					"Car": 8715,
@@ -31535,6 +31580,21 @@ var r3eData = {
 							"Forename": "Mato",
 							"Surname": "Homola",
 							"Id": 7147
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 8716,
+					"Car": 8715,
+					"Id": 8770,
+					"Class": 8656,
+					"TeamName": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+					"drivers": [
+						{
+							"Forename": "Nicky",
+							"Surname": "Catsburg",
+							"Id": 7954
 						}
 					]
 				}
@@ -31605,6 +31665,21 @@ var r3eData = {
 							"Forename": "Andy",
 							"Surname": "Priaulx",
 							"Id": 7957
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 8720,
+					"Car": 8719,
+					"Id": 9232,
+					"Class": 8656,
+					"TeamName": "CYAN PERFORMANCE LYNK & CO",
+					"drivers": [
+						{
+							"Forename": "Santiago",
+							"Surname": "Urrutia",
+							"Id": 9246
 						}
 					]
 				}
@@ -32484,7 +32559,7 @@ var r3eData = {
 			"Name": "Alfa Romeo Giulietta TCR",
 			"BrandName": "Romeo Ferraris",
 			"CarManufacturer": 7032,
-			"DefaultLivery": 8784,
+			"DefaultLivery": 9295,
 			"Id": 8782,
 			"Class": 8656,
 			"liveries": [
@@ -32500,6 +32575,36 @@ var r3eData = {
 							"Forename": "Kevin",
 							"Surname": "Ceccon",
 							"Id": 7945
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 8783,
+					"Car": 8782,
+					"Id": 9290,
+					"Class": 8656,
+					"TeamName": "Mulsanne Srl",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Filippi",
+							"Id": 9288
+						}
+					]
+				},
+				{
+					"Name": "#69",
+					"Team": 8783,
+					"Car": 8782,
+					"Id": 9295,
+					"Class": 8656,
+					"TeamName": "TEAM MULSANNE",
+					"drivers": [
+						{
+							"Forename": "Jean-Karl",
+							"Surname": "Vernay",
+							"Id": 9294
 						}
 					]
 				}
@@ -32580,6 +32685,36 @@ var r3eData = {
 							"Forename": "Mikel",
 							"Surname": "Azcona",
 							"Id": 7955
+						}
+					]
+				},
+				{
+					"Name": "#55c",
+					"Team": 8789,
+					"Car": 8788,
+					"Id": 9254,
+					"Class": 8656,
+					"TeamName": "ZENGO MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Boldizs",
+							"Id": 8798
+						}
+					]
+				},
+				{
+					"Name": "#96c",
+					"Team": 8789,
+					"Car": 8788,
+					"Id": 9255,
+					"Class": 8656,
+					"TeamName": "ZENGO MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Mikel",
+							"Surname": "Azcona",
+							"Id": 9283
 						}
 					]
 				}
@@ -33140,6 +33275,21 @@ var r3eData = {
 							"Forename": "Guest",
 							"Surname": "Driver",
 							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#999a",
+					"Team": 9291,
+					"Car": 8936,
+					"Id": 9250,
+					"Class": 7767,
+					"TeamName": "Team Fordzilla",
+					"drivers": [
+						{
+							"Forename": "Emre",
+							"Surname": "Cihan",
+							"Id": 9292
 						}
 					]
 				}
@@ -34370,6 +34520,381 @@ var r3eData = {
 							"Forename": "Sheldon",
 							"Surname": "van der Linde",
 							"Id": 9139
+						}
+					]
+				}
+			]
+		},
+		"9234": {
+			"Name": "Hyundai i30 N TCR",
+			"BrandName": "Hyundai",
+			"CarManufacturer": 7116,
+			"DefaultLivery": 9237,
+			"Id": 9234,
+			"Class": 9233,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 9235,
+					"Car": 9234,
+					"Id": 9237,
+					"Class": 9233,
+					"TeamName": "BRC Hyundai N LUKOIL Squadra Corse",
+					"drivers": [
+						{
+							"Forename": "Norbert",
+							"Surname": "Michelisz",
+							"Id": 7933
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 9236,
+					"Car": 9234,
+					"Id": 9238,
+					"Class": 9233,
+					"TeamName": "Engstler Hyundai N Liqui Moly Racing Team",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Engstler",
+							"Id": 8799
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 9235,
+					"Car": 9234,
+					"Id": 9239,
+					"Class": 9233,
+					"TeamName": "BRC Hyundai N LUKOIL Squadra Corse",
+					"drivers": [
+						{
+							"Forename": "Gabriele",
+							"Surname": "Tarquini",
+							"Id": 7932
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 9236,
+					"Car": 9234,
+					"Id": 9240,
+					"Class": 9233,
+					"TeamName": "Engstler Hyundai N Liqui Moly Racing Team",
+					"drivers": [
+						{
+							"Forename": "Nicky",
+							"Surname": "Catsburg",
+							"Id": 7954
+						}
+					]
+				}
+			]
+		},
+		"9241": {
+			"Name": "Lynk & Co 03 TCR",
+			"BrandName": "Lynk & Co",
+			"CarManufacturer": 7929,
+			"DefaultLivery": 9244,
+			"Id": 9241,
+			"Class": 9233,
+			"liveries": [
+				{
+					"Name": "#11",
+					"Team": 9243,
+					"Car": 9241,
+					"Id": 9244,
+					"Class": 9233,
+					"TeamName": "Cyan Performance Lynk & Co",
+					"drivers": [
+						{
+							"Forename": "Thed",
+							"Surname": "Björk",
+							"Id": 7937
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 9243,
+					"Car": 9241,
+					"Id": 9245,
+					"Class": 9233,
+					"TeamName": "Cyan Performance Lynk & Co",
+					"drivers": [
+						{
+							"Forename": "Santiago",
+							"Surname": "Urrutia",
+							"Id": 9246
+						}
+					]
+				},
+				{
+					"Name": "#68",
+					"Team": 9242,
+					"Car": 9241,
+					"Id": 9247,
+					"Class": 9233,
+					"TeamName": "Cyan Racing Lynk & Co",
+					"drivers": [
+						{
+							"Forename": "Yann",
+							"Surname": "Ehrlacher",
+							"Id": 7951
+						}
+					]
+				},
+				{
+					"Name": "#100",
+					"Team": 9242,
+					"Car": 9241,
+					"Id": 9248,
+					"Class": 9233,
+					"TeamName": "Cyan Racing Lynk & Co",
+					"drivers": [
+						{
+							"Forename": "Yvan",
+							"Surname": "Muller",
+							"Id": 7956
+						}
+					]
+				}
+			]
+		},
+		"9252": {
+			"Name": "Alfa Romeo Giulietta TCR",
+			"BrandName": "Romeo Ferraris",
+			"CarManufacturer": 7032,
+			"DefaultLivery": 9293,
+			"Id": 9252,
+			"Class": 9233,
+			"liveries": [
+				{
+					"Name": "#25",
+					"Team": 9253,
+					"Car": 9252,
+					"Id": 9287,
+					"Class": 9233,
+					"TeamName": "Mulsanne Srl",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Filippi",
+							"Id": 9288
+						}
+					]
+				},
+				{
+					"Name": "#69",
+					"Team": 9253,
+					"Car": 9252,
+					"Id": 9293,
+					"Class": 9233,
+					"TeamName": "Mulsanne Srl",
+					"drivers": [
+						{
+							"Forename": "Jean-Karl",
+							"Surname": "Vernay",
+							"Id": 9294
+						}
+					]
+				}
+			]
+		},
+		"9256": {
+			"Name": "Audi RS 3 LMS",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 9264,
+			"Id": 9256,
+			"Class": 9233,
+			"liveries": [
+				{
+					"Name": "#16",
+					"Team": 9258,
+					"Car": 9256,
+					"Id": 9259,
+					"Class": 9233,
+					"TeamName": "Comtoyou Racing",
+					"drivers": [
+						{
+							"Forename": "Gilles",
+							"Surname": "Magnus",
+							"Id": 9260
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 9257,
+					"Car": 9256,
+					"Id": 9263,
+					"Class": 9233,
+					"TeamName": "Comtoyou DHL Team Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Nathanaël",
+							"Surname": "Berthon",
+							"Id": 9262
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 9257,
+					"Car": 9256,
+					"Id": 9264,
+					"Class": 9233,
+					"TeamName": "Comtoyou DHL Team Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Coronel",
+							"Id": 9265
+						}
+					]
+				}
+			]
+		},
+		"9266": {
+			"Name": "Honda Civic TCR",
+			"BrandName": "Honda",
+			"CarManufacturer": 2738,
+			"DefaultLivery": 9271,
+			"Id": 9266,
+			"Class": 9233,
+			"liveries": [
+				{
+					"Name": "#9",
+					"Team": 9268,
+					"Car": 9266,
+					"Id": 9269,
+					"Class": 9233,
+					"TeamName": "ALL-INKL.DE Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Attila",
+							"Surname": "Tassi",
+							"Id": 9270
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 9268,
+					"Car": 9266,
+					"Id": 9271,
+					"Class": 9233,
+					"TeamName": "ALL-INKL.DE Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Tiago",
+							"Surname": "Monteiro",
+							"Id": 9272
+						}
+					]
+				},
+				{
+					"Name": "#29",
+					"Team": 9267,
+					"Car": 9266,
+					"Id": 9273,
+					"Class": 9233,
+					"TeamName": "ALL-INKL.COM Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Néstor",
+							"Surname": "Girolami",
+							"Id": 9274
+						}
+					]
+				},
+				{
+					"Name": "#86",
+					"Team": 9267,
+					"Car": 9266,
+					"Id": 9276,
+					"Class": 9233,
+					"TeamName": "ALL-INKL.COM Münnich Motorsport",
+					"drivers": [
+						{
+							"Forename": "Esteban",
+							"Surname": "Guerrieri",
+							"Id": 9275
+						}
+					]
+				}
+			]
+		},
+		"9278": {
+			"Name": "CUPRA Leon Competición",
+			"BrandName": "CUPRA",
+			"CarManufacturer": 7159,
+			"DefaultLivery": 9282,
+			"Id": 9278,
+			"Class": 9233,
+			"liveries": [
+				{
+					"Name": "#55",
+					"Team": 9279,
+					"Car": 9278,
+					"Id": 9280,
+					"Class": 9233,
+					"TeamName": "Zengo Motorsport Services KFT",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Boldizs",
+							"Id": 8798
+						}
+					]
+				},
+				{
+					"Name": "#55 - Original",
+					"Team": 9279,
+					"Car": 9278,
+					"Id": 9281,
+					"Class": 9233,
+					"TeamName": "Zengo Motorsport Services KFT",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Boldizs",
+							"Id": 8798
+						}
+					]
+				},
+				{
+					"Name": "#96",
+					"Team": 9279,
+					"Car": 9278,
+					"Id": 9282,
+					"Class": 9233,
+					"TeamName": "Zengo Motorsport Services KFT",
+					"drivers": [
+						{
+							"Forename": "Mikel",
+							"Surname": "Azcona",
+							"Id": 9283
+						}
+					]
+				},
+				{
+					"Name": "#96 - Original",
+					"Team": 9279,
+					"Car": 9278,
+					"Id": 9284,
+					"Class": 9233,
+					"TeamName": "Zengo Motorsport Services KFT",
+					"drivers": [
+						{
+							"Forename": "Mikel",
+							"Surname": "Azcona",
+							"Id": 9283
 						}
 					]
 				}
@@ -64252,6 +64777,21 @@ var r3eData = {
 				}
 			]
 		},
+		"8768": {
+			"Name": "#30",
+			"Team": 8716,
+			"Car": 8715,
+			"Id": 8768,
+			"Class": 8656,
+			"TeamName": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+			"drivers": [
+				{
+					"Forename": "Gabriele",
+					"Surname": "Tarquini",
+					"Id": 7932
+				}
+			]
+		},
 		"8769": {
 			"Name": "#70",
 			"Team": 8807,
@@ -64264,6 +64804,21 @@ var r3eData = {
 					"Forename": "Mato",
 					"Surname": "Homola",
 					"Id": 7147
+				}
+			]
+		},
+		"8770": {
+			"Name": "#88",
+			"Team": 8716,
+			"Car": 8715,
+			"Id": 8770,
+			"Class": 8656,
+			"TeamName": "BRC HYUNDAI N LUKOIL SQUADRA CORSE",
+			"drivers": [
+				{
+					"Forename": "Nicky",
+					"Surname": "Catsburg",
+					"Id": 7954
 				}
 			]
 		},
@@ -65632,6 +66187,21 @@ var r3eData = {
 				}
 			]
 		},
+		"9052": {
+			"Name": "#17",
+			"Team": 8658,
+			"Car": 8657,
+			"Id": 9052,
+			"Class": 8656,
+			"TeamName": "COMTOYOU TEAM AUDI SPORT",
+			"drivers": [
+				{
+					"Forename": "Nathanaël",
+					"Surname": "Berthon",
+					"Id": 9262
+				}
+			]
+		},
 		"9064": {
 			"Name": "#06",
 			"Team": 9071,
@@ -66589,6 +67159,426 @@ var r3eData = {
 					"Forename": "Sheldon",
 					"Surname": "van der Linde",
 					"Id": 9139
+				}
+			]
+		},
+		"9232": {
+			"Name": "#12",
+			"Team": 8720,
+			"Car": 8719,
+			"Id": 9232,
+			"Class": 8656,
+			"TeamName": "CYAN PERFORMANCE LYNK & CO",
+			"drivers": [
+				{
+					"Forename": "Santiago",
+					"Surname": "Urrutia",
+					"Id": 9246
+				}
+			]
+		},
+		"9237": {
+			"Name": "#1",
+			"Team": 9235,
+			"Car": 9234,
+			"Id": 9237,
+			"Class": 9233,
+			"TeamName": "BRC Hyundai N LUKOIL Squadra Corse",
+			"drivers": [
+				{
+					"Forename": "Norbert",
+					"Surname": "Michelisz",
+					"Id": 7933
+				}
+			]
+		},
+		"9238": {
+			"Name": "#8",
+			"Team": 9236,
+			"Car": 9234,
+			"Id": 9238,
+			"Class": 9233,
+			"TeamName": "Engstler Hyundai N Liqui Moly Racing Team",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Engstler",
+					"Id": 8799
+				}
+			]
+		},
+		"9239": {
+			"Name": "#30",
+			"Team": 9235,
+			"Car": 9234,
+			"Id": 9239,
+			"Class": 9233,
+			"TeamName": "BRC Hyundai N LUKOIL Squadra Corse",
+			"drivers": [
+				{
+					"Forename": "Gabriele",
+					"Surname": "Tarquini",
+					"Id": 7932
+				}
+			]
+		},
+		"9240": {
+			"Name": "#88",
+			"Team": 9236,
+			"Car": 9234,
+			"Id": 9240,
+			"Class": 9233,
+			"TeamName": "Engstler Hyundai N Liqui Moly Racing Team",
+			"drivers": [
+				{
+					"Forename": "Nicky",
+					"Surname": "Catsburg",
+					"Id": 7954
+				}
+			]
+		},
+		"9244": {
+			"Name": "#11",
+			"Team": 9243,
+			"Car": 9241,
+			"Id": 9244,
+			"Class": 9233,
+			"TeamName": "Cyan Performance Lynk & Co",
+			"drivers": [
+				{
+					"Forename": "Thed",
+					"Surname": "Björk",
+					"Id": 7937
+				}
+			]
+		},
+		"9245": {
+			"Name": "#12",
+			"Team": 9243,
+			"Car": 9241,
+			"Id": 9245,
+			"Class": 9233,
+			"TeamName": "Cyan Performance Lynk & Co",
+			"drivers": [
+				{
+					"Forename": "Santiago",
+					"Surname": "Urrutia",
+					"Id": 9246
+				}
+			]
+		},
+		"9247": {
+			"Name": "#68",
+			"Team": 9242,
+			"Car": 9241,
+			"Id": 9247,
+			"Class": 9233,
+			"TeamName": "Cyan Racing Lynk & Co",
+			"drivers": [
+				{
+					"Forename": "Yann",
+					"Surname": "Ehrlacher",
+					"Id": 7951
+				}
+			]
+		},
+		"9248": {
+			"Name": "#100",
+			"Team": 9242,
+			"Car": 9241,
+			"Id": 9248,
+			"Class": 9233,
+			"TeamName": "Cyan Racing Lynk & Co",
+			"drivers": [
+				{
+					"Forename": "Yvan",
+					"Surname": "Muller",
+					"Id": 7956
+				}
+			]
+		},
+		"9249": {
+			"Name": "#16",
+			"Team": 8658,
+			"Car": 8657,
+			"Id": 9249,
+			"Class": 8656,
+			"TeamName": "COMTOYOU RACING",
+			"drivers": [
+				{
+					"Forename": "Gilles",
+					"Surname": "Magnus",
+					"Id": 9260
+				}
+			]
+		},
+		"9250": {
+			"Name": "#999a",
+			"Team": 9291,
+			"Car": 8936,
+			"Id": 9250,
+			"Class": 7767,
+			"TeamName": "Team Fordzilla",
+			"drivers": [
+				{
+					"Forename": "Emre",
+					"Surname": "Cihan",
+					"Id": 9292
+				}
+			]
+		},
+		"9254": {
+			"Name": "#55c",
+			"Team": 8789,
+			"Car": 8788,
+			"Id": 9254,
+			"Class": 8656,
+			"TeamName": "ZENGO MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Boldizs",
+					"Id": 8798
+				}
+			]
+		},
+		"9255": {
+			"Name": "#96c",
+			"Team": 8789,
+			"Car": 8788,
+			"Id": 9255,
+			"Class": 8656,
+			"TeamName": "ZENGO MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Mikel",
+					"Surname": "Azcona",
+					"Id": 9283
+				}
+			]
+		},
+		"9259": {
+			"Name": "#16",
+			"Team": 9258,
+			"Car": 9256,
+			"Id": 9259,
+			"Class": 9233,
+			"TeamName": "Comtoyou Racing",
+			"drivers": [
+				{
+					"Forename": "Gilles",
+					"Surname": "Magnus",
+					"Id": 9260
+				}
+			]
+		},
+		"9263": {
+			"Name": "#17",
+			"Team": 9257,
+			"Car": 9256,
+			"Id": 9263,
+			"Class": 9233,
+			"TeamName": "Comtoyou DHL Team Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Nathanaël",
+					"Surname": "Berthon",
+					"Id": 9262
+				}
+			]
+		},
+		"9264": {
+			"Name": "#31",
+			"Team": 9257,
+			"Car": 9256,
+			"Id": 9264,
+			"Class": 9233,
+			"TeamName": "Comtoyou DHL Team Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Coronel",
+					"Id": 9265
+				}
+			]
+		},
+		"9269": {
+			"Name": "#9",
+			"Team": 9268,
+			"Car": 9266,
+			"Id": 9269,
+			"Class": 9233,
+			"TeamName": "ALL-INKL.DE Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Attila",
+					"Surname": "Tassi",
+					"Id": 9270
+				}
+			]
+		},
+		"9271": {
+			"Name": "#18",
+			"Team": 9268,
+			"Car": 9266,
+			"Id": 9271,
+			"Class": 9233,
+			"TeamName": "ALL-INKL.DE Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Tiago",
+					"Surname": "Monteiro",
+					"Id": 9272
+				}
+			]
+		},
+		"9273": {
+			"Name": "#29",
+			"Team": 9267,
+			"Car": 9266,
+			"Id": 9273,
+			"Class": 9233,
+			"TeamName": "ALL-INKL.COM Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Néstor",
+					"Surname": "Girolami",
+					"Id": 9274
+				}
+			]
+		},
+		"9276": {
+			"Name": "#86",
+			"Team": 9267,
+			"Car": 9266,
+			"Id": 9276,
+			"Class": 9233,
+			"TeamName": "ALL-INKL.COM Münnich Motorsport",
+			"drivers": [
+				{
+					"Forename": "Esteban",
+					"Surname": "Guerrieri",
+					"Id": 9275
+				}
+			]
+		},
+		"9280": {
+			"Name": "#55",
+			"Team": 9279,
+			"Car": 9278,
+			"Id": 9280,
+			"Class": 9233,
+			"TeamName": "Zengo Motorsport Services KFT",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Boldizs",
+					"Id": 8798
+				}
+			]
+		},
+		"9281": {
+			"Name": "#55 - Original",
+			"Team": 9279,
+			"Car": 9278,
+			"Id": 9281,
+			"Class": 9233,
+			"TeamName": "Zengo Motorsport Services KFT",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Boldizs",
+					"Id": 8798
+				}
+			]
+		},
+		"9282": {
+			"Name": "#96",
+			"Team": 9279,
+			"Car": 9278,
+			"Id": 9282,
+			"Class": 9233,
+			"TeamName": "Zengo Motorsport Services KFT",
+			"drivers": [
+				{
+					"Forename": "Mikel",
+					"Surname": "Azcona",
+					"Id": 9283
+				}
+			]
+		},
+		"9284": {
+			"Name": "#96 - Original",
+			"Team": 9279,
+			"Car": 9278,
+			"Id": 9284,
+			"Class": 9233,
+			"TeamName": "Zengo Motorsport Services KFT",
+			"drivers": [
+				{
+					"Forename": "Mikel",
+					"Surname": "Azcona",
+					"Id": 9283
+				}
+			]
+		},
+		"9287": {
+			"Name": "#25",
+			"Team": 9253,
+			"Car": 9252,
+			"Id": 9287,
+			"Class": 9233,
+			"TeamName": "Mulsanne Srl",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Filippi",
+					"Id": 9288
+				}
+			]
+		},
+		"9290": {
+			"Name": "#25",
+			"Team": 8783,
+			"Car": 8782,
+			"Id": 9290,
+			"Class": 8656,
+			"TeamName": "Mulsanne Srl",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Filippi",
+					"Id": 9288
+				}
+			]
+		},
+		"9293": {
+			"Name": "#69",
+			"Team": 9253,
+			"Car": 9252,
+			"Id": 9293,
+			"Class": 9233,
+			"TeamName": "Mulsanne Srl",
+			"drivers": [
+				{
+					"Forename": "Jean-Karl",
+					"Surname": "Vernay",
+					"Id": 9294
+				}
+			]
+		},
+		"9295": {
+			"Name": "#69",
+			"Team": 8783,
+			"Car": 8782,
+			"Id": 9295,
+			"Class": 8656,
+			"TeamName": "TEAM MULSANNE",
+			"drivers": [
+				{
+					"Forename": "Jean-Karl",
+					"Surname": "Vernay",
+					"Id": 9294
 				}
 			]
 		}
@@ -69362,7 +70352,7 @@ var r3eData = {
 			"Id": 8600
 		},
 		"8656": {
-			"Name": "WTCR 2020",
+			"Name": "eSports WTCR",
 			"Cars": [
 				{
 					"Id": 8782
@@ -69447,6 +70437,30 @@ var r3eData = {
 				}
 			],
 			"Id": 9205
+		},
+		"9233": {
+			"Name": "WTCR 2020",
+			"Cars": [
+				{
+					"Id": 9252
+				},
+				{
+					"Id": 9256
+				},
+				{
+					"Id": 9278
+				},
+				{
+					"Id": 9266
+				},
+				{
+					"Id": 9234
+				},
+				{
+					"Id": 9241
+				}
+			],
+			"Id": 9233
 		}
 	},
 	"manufacturers": {
@@ -76029,6 +77043,66 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "ART Grand Prix",
 			"Id": 9224
+		},
+		"9235": {
+			"Type": "CarTeam",
+			"Name": "BRC Hyundai N LUKOIL Squadra Corse",
+			"Id": 9235
+		},
+		"9236": {
+			"Type": "CarTeam",
+			"Name": "Engstler Hyundai N Liqui Moly Racing Team",
+			"Id": 9236
+		},
+		"9242": {
+			"Type": "CarTeam",
+			"Name": "Cyan Racing Lynk & Co",
+			"Id": 9242
+		},
+		"9243": {
+			"Type": "CarTeam",
+			"Name": "Cyan Performance Lynk & Co",
+			"Id": 9243
+		},
+		"9253": {
+			"Type": "CarTeam",
+			"Name": "Mulsanne Srl",
+			"Id": 9253
+		},
+		"9257": {
+			"Type": "CarTeam",
+			"Name": "Comtoyou DHL Team Audi Sport",
+			"Id": 9257
+		},
+		"9258": {
+			"Type": "CarTeam",
+			"Name": "Comtoyou Racing",
+			"Id": 9258
+		},
+		"9261": {
+			"Type": "CarTeam",
+			"Name": "COMTOYOU RACING",
+			"Id": 9261
+		},
+		"9267": {
+			"Type": "CarTeam",
+			"Name": "ALL-INKL.COM Münnich Motorsport",
+			"Id": 9267
+		},
+		"9268": {
+			"Type": "CarTeam",
+			"Name": "ALL-INKL.DE Münnich Motorsport",
+			"Id": 9268
+		},
+		"9279": {
+			"Type": "CarTeam",
+			"Name": "Zengo Motorsport Services KFT",
+			"Id": 9279
+		},
+		"9291": {
+			"Type": "CarTeam",
+			"Name": "Team Fordzilla",
+			"Id": 9291
 		}
 	}
 };
