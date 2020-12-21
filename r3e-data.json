@@ -19137,6 +19137,246 @@
 							"Id": 7746
 						}
 					]
+				},
+				{
+					"Name": "#17",
+					"Team": 9390,
+					"Car": 5821,
+					"Id": 9329,
+					"Class": 5824,
+					"TeamName": "Stratos Motorsports",
+					"drivers": [
+						{
+							"Forename": "Muhammad Naquib",
+							"Surname": "bin Nor Azlan",
+							"Id": 9403
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 9390,
+					"Car": 5821,
+					"Id": 9330,
+					"Class": 5824,
+					"TeamName": "Stratos Motorsports",
+					"drivers": [
+						{
+							"Forename": "Yevan",
+							"Surname": "David",
+							"Id": 9404
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 9391,
+					"Car": 5821,
+					"Id": 9331,
+					"Class": 5824,
+					"TeamName": "Scuderia Stratos",
+					"drivers": [
+						{
+							"Forename": "Troy",
+							"Surname": "Eimann",
+							"Id": 9405
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 9391,
+					"Car": 5821,
+					"Id": 9332,
+					"Class": 5824,
+					"TeamName": "Scuderia Stratos",
+					"drivers": [
+						{
+							"Forename": "Raja Ariff",
+							"Surname": "bin Raja Azmi",
+							"Id": 9406
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 9392,
+					"Car": 5821,
+					"Id": 9335,
+					"Class": 5824,
+					"TeamName": "Blackwolf Racing",
+					"drivers": [
+						{
+							"Forename": "Daniel Rein",
+							"Surname": "Ooi",
+							"Id": 9396
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 9387,
+					"Car": 5821,
+					"Id": 9338,
+					"Class": 5824,
+					"TeamName": "Team RSG",
+					"drivers": [
+						{
+							"Forename": "Ayman Aqeem",
+							"Surname": "bin Abas",
+							"Id": 9397
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 9387,
+					"Car": 5821,
+					"Id": 9339,
+					"Class": 5824,
+					"TeamName": "Team RSG",
+					"drivers": [
+						{
+							"Forename": "Ahmad Mikael Hakimi",
+							"Surname": "bin Rosyadin",
+							"Id": 9398
+						}
+					]
+				},
+				{
+					"Name": "#66",
+					"Team": 9392,
+					"Car": 5821,
+					"Id": 9357,
+					"Class": 5824,
+					"TeamName": "Blackwolf Racing",
+					"drivers": [
+						{
+							"Forename": "Kalen",
+							"Surname": "Chin",
+							"Id": 9407
+						}
+					]
+				},
+				{
+					"Name": "#07",
+					"Team": 9388,
+					"Car": 5821,
+					"Id": 9368,
+					"Class": 5824,
+					"TeamName": "Wulf Virtual Racing",
+					"drivers": [
+						{
+							"Forename": "Colin Kah Chun",
+							"Surname": "Lee",
+							"Id": 9399
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 9388,
+					"Car": 5821,
+					"Id": 9369,
+					"Class": 5824,
+					"TeamName": "Wulf Virtual Racing",
+					"drivers": [
+						{
+							"Forename": "Alvin Yee Siang",
+							"Surname": "Yak",
+							"Id": 9400
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 9389,
+					"Car": 5821,
+					"Id": 9370,
+					"Class": 5824,
+					"TeamName": "GT Radial Eurasia Motorsport",
+					"drivers": [
+						{
+							"Forename": "Inigo",
+							"Surname": "Anton",
+							"Id": 9401
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 9389,
+					"Car": 5821,
+					"Id": 9371,
+					"Class": 5824,
+					"TeamName": "GT Radial Eurasia Motorsport",
+					"drivers": [
+						{
+							"Forename": "Don",
+							"Surname": "Tacos",
+							"Id": 9402
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 9393,
+					"Car": 5821,
+					"Id": 9372,
+					"Class": 5824,
+					"TeamName": "i1 Racing",
+					"drivers": [
+						{
+							"Forename": "Chern Yang",
+							"Surname": "Loo",
+							"Id": 9395
+						}
+					]
+				},
+				{
+					"Name": "#188",
+					"Team": 9393,
+					"Car": 5821,
+					"Id": 9373,
+					"Class": 5824,
+					"TeamName": "i1 Racing",
+					"drivers": [
+						{
+							"Forename": "Benjamin James",
+							"Surname": "Seek",
+							"Id": 9394
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 9513,
+					"Car": 5821,
+					"Id": 9484,
+					"Class": 5824,
+					"TeamName": "Safehouse",
+					"drivers": [
+						{
+							"Forename": "Alister",
+							"Surname": "Yoong",
+							"Id": 9514
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 9513,
+					"Car": 5821,
+					"Id": 9485,
+					"Class": 5824,
+					"TeamName": "Safehouse",
+					"drivers": [
+						{
+							"Forename": "Mikko",
+							"Surname": "Nassi",
+							"Id": 9515
+						}
+					]
 				}
 			]
 		},
@@ -20477,7 +20717,7 @@
 					"TeamName": "Team Zakspeed BKK Mobil Oil Racing",
 					"drivers": [
 						{
-							"Forename": "Kim Luis",
+							"Forename": "Kim-Luis",
 							"Surname": "Schramm",
 							"Id": 7735
 						}
@@ -20540,6 +20780,186 @@
 							"Forename": "Dominik",
 							"Surname": "Baumann",
 							"Id": 7685
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 9385,
+					"Car": 6168,
+					"Id": 9325,
+					"Class": 1703,
+					"TeamName": "Legacy Racing Team",
+					"drivers": [
+						{
+							"Forename": "Tengku",
+							"Surname": "Djan Ley",
+							"Id": 9386
+						}
+					]
+				},
+				{
+					"Name": "#76",
+					"Team": 9385,
+					"Car": 6168,
+					"Id": 9326,
+					"Class": 1703,
+					"TeamName": "Legacy Racing Team",
+					"drivers": [
+						{
+							"Forename": "Leona",
+							"Surname": "Chin",
+							"Id": 6565
+						}
+					]
+				},
+				{
+					"Name": "#95",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9327,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Darryl",
+							"Surname": "O'Young",
+							"Id": 9381
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9348,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Jason",
+							"Surname": "Mok",
+							"Id": 9374
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9349,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Angel",
+							"Surname": "Ann",
+							"Id": 9375
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9350,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Denise",
+							"Surname": "Yeung",
+							"Id": 9376
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9351,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Kelvin",
+							"Surname": "Lau",
+							"Id": 9377
+						}
+					]
+				},
+				{
+					"Name": "#30",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9352,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Senna",
+							"Surname": "Sin",
+							"Id": 9378
+						}
+					]
+				},
+				{
+					"Name": "#68",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9353,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Evan",
+							"Surname": "Chen",
+							"Id": 9379
+						}
+					]
+				},
+				{
+					"Name": "#79",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9354,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Pluto",
+							"Surname": "Mok",
+							"Id": 9380
+						}
+					]
+				},
+				{
+					"Name": "#96",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9355,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Carson",
+							"Surname": "Tang",
+							"Id": 9382
+						}
+					]
+				},
+				{
+					"Name": "#712",
+					"Team": 9384,
+					"Car": 6168,
+					"Id": 9356,
+					"Class": 1703,
+					"TeamName": "Craft-Bamboo Challenger",
+					"drivers": [
+						{
+							"Forename": "Trefer",
+							"Surname": "Ting",
+							"Id": 9383
 						}
 					]
 				}
@@ -27532,6 +27952,21 @@
 							"Id": 7651
 						}
 					]
+				},
+				{
+					"Name": "#17",
+					"Team": 7400,
+					"Car": 7399,
+					"Id": 7821,
+					"Class": 4121,
+					"TeamName": "Joest Porsche Racing",
+					"drivers": [
+						{
+							"Forename": "Frank",
+							"Surname": "Jelinski",
+							"Id": 9333
+						}
+					]
 				}
 			]
 		},
@@ -27962,7 +28397,7 @@
 					"TeamName": "Team Zakspeed BKK Mobil Oil Racing",
 					"drivers": [
 						{
-							"Forename": "Kim Luis",
+							"Forename": "Kim-Luis",
 							"Surname": "Schramm",
 							"Id": 7735
 						},
@@ -28279,17 +28714,17 @@
 			"Name": "Volkswagen ID. R",
 			"BrandName": "Volkswagen",
 			"CarManufacturer": 7109,
-			"DefaultLivery": 7823,
+			"DefaultLivery": 9319,
 			"Id": 7810,
 			"Class": 7765,
 			"liveries": [
 				{
-					"Name": "#1",
+					"Name": "#Carbon",
 					"Team": 7811,
 					"Car": 7810,
 					"Id": 7812,
 					"Class": 7765,
-					"TeamName": "Volkswagen",
+					"TeamName": "Volkswagen Motorsport",
 					"drivers": [
 						{
 							"Forename": "Romain",
@@ -28304,7 +28739,52 @@
 					"Car": 7810,
 					"Id": 7823,
 					"Class": 7765,
+					"TeamName": "Volkswagen Motorsport",
+					"drivers": [
+						{
+							"Forename": "Romain",
+							"Surname": "Dumas",
+							"Id": 4500
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 7811,
+					"Car": 7810,
+					"Id": 8683,
+					"Class": 7765,
+					"TeamName": "Volkswagen Motorsport",
+					"drivers": [
+						{
+							"Forename": "Romain",
+							"Surname": "Dumas",
+							"Id": 4500
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 7811,
+					"Car": 7810,
+					"Id": 9319,
+					"Class": 7765,
 					"TeamName": "Volkswagen",
+					"drivers": [
+						{
+							"Forename": "Romain",
+							"Surname": "Dumas",
+							"Id": 4500
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 7811,
+					"Car": 7810,
+					"Id": 9322,
+					"Class": 7765,
+					"TeamName": "Volkswagen Motorsport",
 					"drivers": [
 						{
 							"Forename": "Romain",
@@ -31185,6 +31665,966 @@
 				}
 			]
 		},
+		"8498": {
+			"Name": "Volkswagen Scirocco Gr2",
+			"BrandName": "Volkswagen",
+			"CarManufacturer": 7109,
+			"DefaultLivery": 8541,
+			"Id": 8498,
+			"Class": 8483,
+			"liveries": [
+				{
+					"Name": "#53",
+					"Team": 8532,
+					"Car": 8498,
+					"Id": 8518,
+					"Class": 8483,
+					"TeamName": "Schlafgut",
+					"drivers": [
+						{
+							"Forename": "Erich",
+							"Surname": "Kornmann",
+							"Id": 9435
+						}
+					]
+				},
+				{
+					"Name": "#53",
+					"Team": 8525,
+					"Car": 8498,
+					"Id": 8519,
+					"Class": 8483,
+					"TeamName": "Jägermeister",
+					"drivers": [
+						{
+							"Forename": "Helmut",
+							"Surname": "Henzler",
+							"Id": 9443
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 8530,
+					"Car": 8498,
+					"Id": 8535,
+					"Class": 8483,
+					"TeamName": "Valvoline Team",
+					"drivers": [
+						{
+							"Forename": "Josef",
+							"Surname": "Saibel",
+							"Id": 9437
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 9447,
+					"Car": 8498,
+					"Id": 8536,
+					"Class": 8483,
+					"TeamName": "Bill Scott Racing",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Davey",
+							"Id": 9428
+						}
+					]
+				},
+				{
+					"Name": "#43",
+					"Team": 8520,
+					"Car": 8498,
+					"Id": 8537,
+					"Class": 8483,
+					"TeamName": "TL RACING AB",
+					"drivers": [
+						{
+							"Forename": "Thomas",
+							"Surname": "Lindström",
+							"Id": 8846
+						}
+					]
+				},
+				{
+					"Name": "#49",
+					"Team": 8530,
+					"Car": 8498,
+					"Id": 8538,
+					"Class": 8483,
+					"TeamName": "Valvoline Team",
+					"drivers": [
+						{
+							"Forename": "Josef",
+							"Surname": "Saibel",
+							"Id": 9437
+						}
+					]
+				},
+				{
+					"Name": "#55",
+					"Team": 8524,
+					"Car": 8498,
+					"Id": 8539,
+					"Class": 8483,
+					"TeamName": "Arlt",
+					"drivers": [
+						{
+							"Forename": "Klaus",
+							"Surname": "Bieler",
+							"Id": 9444
+						}
+					]
+				},
+				{
+					"Name": "#56",
+					"Team": 8522,
+					"Car": 8498,
+					"Id": 8540,
+					"Class": 8483,
+					"TeamName": " AC Dinamo Slovenijaauto",
+					"drivers": [
+						{
+							"Forename": "Drago",
+							"Surname": "Regvart",
+							"Id": 9334
+						}
+					]
+				},
+				{
+					"Name": "#57",
+					"Team": 8531,
+					"Car": 8498,
+					"Id": 8541,
+					"Class": 8483,
+					"TeamName": "Klaus Liegensa",
+					"drivers": [
+						{
+							"Forename": "Klaus",
+							"Surname": "Liegensa",
+							"Id": 9436
+						}
+					]
+				},
+				{
+					"Name": "#60",
+					"Team": 8529,
+					"Car": 8498,
+					"Id": 8542,
+					"Class": 8483,
+					"TeamName": "VW-Motorsport Hannover",
+					"drivers": [
+						{
+							"Forename": "Anton",
+							"Surname": "Stocker",
+							"Id": 9439
+						}
+					]
+				},
+				{
+					"Name": "#61",
+					"Team": 8523,
+					"Car": 8498,
+					"Id": 8543,
+					"Class": 8483,
+					"TeamName": "Team Menden",
+					"drivers": [
+						{
+							"Forename": "Helmut",
+							"Surname": "Hinse",
+							"Id": 9445
+						}
+					]
+				},
+				{
+					"Name": "#72",
+					"Team": 9447,
+					"Car": 8498,
+					"Id": 8544,
+					"Class": 8483,
+					"TeamName": "Bill Scott Racing",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Davey",
+							"Id": 9428
+						}
+					]
+				},
+				{
+					"Name": "#78",
+					"Team": 8526,
+					"Car": 8498,
+					"Id": 8545,
+					"Class": 8483,
+					"TeamName": "MSC Bad Canstatt",
+					"drivers": [
+						{
+							"Forename": "Paul",
+							"Surname": "Wunsch",
+							"Id": 9442
+						}
+					]
+				},
+				{
+					"Name": "#81",
+					"Team": 8499,
+					"Car": 8498,
+					"Id": 8546,
+					"Class": 8483,
+					"TeamName": "Zender GmbH",
+					"drivers": [
+						{
+							"Forename": "Werner",
+							"Surname": "Dittert",
+							"Id": 8848
+						}
+					]
+				},
+				{
+					"Name": "#108",
+					"Team": 8527,
+					"Car": 8498,
+					"Id": 8547,
+					"Class": 8483,
+					"TeamName": "Fenstermann Rennsport",
+					"drivers": [
+						{
+							"Forename": "Hans-Werner",
+							"Surname": "Hilger",
+							"Id": 9441
+						}
+					]
+				},
+				{
+					"Name": "#133",
+					"Team": 8521,
+					"Car": 8498,
+					"Id": 8548,
+					"Class": 8483,
+					"TeamName": "Müller-Tuning GmbH",
+					"drivers": [
+						{
+							"Forename": "Walter",
+							"Surname": "Struckmann",
+							"Id": 9446
+						}
+					]
+				},
+				{
+					"Name": "#135",
+					"Team": 8534,
+					"Car": 8498,
+					"Id": 8549,
+					"Class": 8483,
+					"TeamName": "Klaus Peter",
+					"drivers": [
+						{
+							"Forename": "Klaus",
+							"Surname": "Peter",
+							"Id": 9433
+						}
+					]
+				},
+				{
+					"Name": "#173",
+					"Team": 8533,
+					"Car": 8498,
+					"Id": 8550,
+					"Class": 8483,
+					"TeamName": "KWL-Motorsport",
+					"drivers": [
+						{
+							"Forename": "Heinz",
+							"Surname": "Stüber",
+							"Id": 9434
+						}
+					]
+				},
+				{
+					"Name": "#266",
+					"Team": 8521,
+					"Car": 8498,
+					"Id": 8551,
+					"Class": 8483,
+					"TeamName": "Müller-Tuning GmbH",
+					"drivers": [
+						{
+							"Forename": "Frank",
+							"Surname": "Jelinski",
+							"Id": 9333
+						}
+					]
+				},
+				{
+					"Name": "#302",
+					"Team": 8525,
+					"Car": 8498,
+					"Id": 8552,
+					"Class": 8483,
+					"TeamName": "Jägermeister",
+					"drivers": [
+						{
+							"Forename": "Viviane",
+							"Surname": "Bonnardel",
+							"Id": 9438
+						}
+					]
+				},
+				{
+					"Name": "#55",
+					"Team": 8554,
+					"Car": 8498,
+					"Id": 8553,
+					"Class": 8483,
+					"TeamName": "KW Suspension",
+					"drivers": [
+						{
+							"Forename": "Manuel",
+							"Surname": "Staedel",
+							"Id": 7924
+						}
+					]
+				},
+				{
+					"Name": "#42",
+					"Team": 9448,
+					"Car": 8498,
+					"Id": 8555,
+					"Class": 8483,
+					"TeamName": "Scott Racing Associates Ltd.",
+					"drivers": [
+						{
+							"Forename": "Bill",
+							"Surname": "Scott",
+							"Id": 9430
+						}
+					]
+				},
+				{
+					"Name": "#43",
+					"Team": 9448,
+					"Car": 8498,
+					"Id": 8556,
+					"Class": 8483,
+					"TeamName": "Scott Racing Associates Ltd.",
+					"drivers": [
+						{
+							"Forename": "Milt",
+							"Surname": "Minter",
+							"Id": 9429
+						}
+					]
+				},
+				{
+					"Name": "#72",
+					"Team": 8528,
+					"Car": 8498,
+					"Id": 8557,
+					"Class": 8483,
+					"TeamName": "Oettinger",
+					"drivers": [
+						{
+							"Forename": "Rüdiger",
+							"Surname": "Dahlhäuser",
+							"Id": 9440
+						}
+					]
+				},
+				{
+					"Name": "#70",
+					"Team": 8521,
+					"Car": 8498,
+					"Id": 8590,
+					"Class": 8483,
+					"TeamName": "Müller-Tuning GmbH",
+					"drivers": [
+						{
+							"Forename": "Manfred",
+							"Surname": "Pape",
+							"Id": 9432
+						}
+					]
+				},
+				{
+					"Name": "#73",
+					"Team": 9449,
+					"Car": 8498,
+					"Id": 8591,
+					"Class": 8483,
+					"TeamName": "Ronny Hering",
+					"drivers": [
+						{
+							"Forename": "Ronny",
+							"Surname": "Hering",
+							"Id": 9431
+						}
+					]
+				}
+			]
+		},
+		"8604": {
+			"Name": "Audi R8 LMS GT3 EVO",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 8606,
+			"Id": 8604,
+			"Class": 1703,
+			"liveries": [
+				{
+					"Name": "#0",
+					"Team": 8605,
+					"Car": 8604,
+					"Id": 8606,
+					"Class": 1703,
+					"TeamName": "Audi Sport Customer Racing",
+					"drivers": [
+						{
+							"Forename": "Kai",
+							"Surname": "Mensing",
+							"Id": 9048
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 8632,
+					"Car": 8604,
+					"Id": 8631,
+					"Class": 1703,
+					"TeamName": "Audi Sport WRT Speedstar",
+					"drivers": [
+						{
+							"Forename": "Daniel",
+							"Surname": "Morad",
+							"Id": 9520
+						}
+					]
+				},
+				{
+					"Name": "#22a",
+					"Team": 8633,
+					"Car": 8604,
+					"Id": 8705,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team Valvoline",
+					"drivers": [
+						{
+							"Forename": "Garth",
+							"Surname": "Tander",
+							"Id": 9523
+						}
+					]
+				},
+				{
+					"Name": "#222",
+					"Team": 8633,
+					"Car": 8604,
+					"Id": 8706,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team Valvoline",
+					"drivers": [
+						{
+							"Forename": "Mattia",
+							"Surname": "Drudi",
+							"Id": 9524
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 8633,
+					"Car": 8604,
+					"Id": 8707,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team Valvoline",
+					"drivers": [
+						{
+							"Forename": "Frédéric",
+							"Surname": "Vervisch",
+							"Id": 6386
+						}
+					]
+				},
+				{
+					"Name": "#9a",
+					"Team": 8635,
+					"Car": 8604,
+					"Id": 8991,
+					"Class": 1703,
+					"TeamName": "Hallmarc Racing",
+					"drivers": [
+						{
+							"Forename": "Lee",
+							"Surname": "Holdsworth",
+							"Id": 9525
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 8634,
+					"Car": 8604,
+					"Id": 9000,
+					"Class": 1703,
+					"TeamName": "Bostik Australia",
+					"drivers": [
+						{
+							"Forename": "Dylan",
+							"Surname": "O'Keeffe",
+							"Id": 9526
+						}
+					]
+				},
+				{
+					"Name": "#4",
+					"Team": 9527,
+					"Car": 8604,
+					"Id": 9091,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team Phoenix Racing",
+					"drivers": [
+						{
+							"Forename": "Dries",
+							"Surname": "Vanthoor",
+							"Id": 9519
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 9502,
+					"Car": 8604,
+					"Id": 9296,
+					"Class": 1703,
+					"TeamName": "Phoenix Racing",
+					"drivers": [
+						{
+							"Forename": "Christopher",
+							"Surname": "Haase",
+							"Id": 7292
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 8996,
+					"Car": 8604,
+					"Id": 9297,
+					"Class": 1703,
+					"TeamName": "BWT Mücke Motorsport",
+					"drivers": [
+						{
+							"Forename": "Andreas",
+							"Surname": "Weishaupt",
+							"Id": 9528
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 9516,
+					"Car": 8604,
+					"Id": 9298,
+					"Class": 1703,
+					"TeamName": "Team WRT",
+					"drivers": [
+						{
+							"Forename": "Mark",
+							"Surname": "Ineichen",
+							"Id": 9529
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 9530,
+					"Car": 8604,
+					"Id": 9299,
+					"Class": 1703,
+					"TeamName": "Car Collection Motorsport",
+					"drivers": [
+						{
+							"Forename": "Dimitri",
+							"Surname": "Parhofer",
+							"Id": 9531
+						}
+					]
+				},
+				{
+					"Name": "#99",
+					"Team": 8605,
+					"Car": 8604,
+					"Id": 9300,
+					"Class": 1703,
+					"TeamName": "Team Portugal",
+					"drivers": [
+						{
+							"Forename": "Henrique",
+							"Surname": "Chaves",
+							"Id": 9532
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 9313,
+					"Car": 8604,
+					"Id": 9312,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team Car Collection",
+					"drivers": [
+						{
+							"Forename": "René",
+							"Surname": "Rast",
+							"Id": 6450
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 8632,
+					"Car": 8604,
+					"Id": 9314,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team WRT",
+					"drivers": [
+						{
+							"Forename": "Dries",
+							"Surname": "Vanthoor",
+							"Id": 9519
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 9516,
+					"Car": 8604,
+					"Id": 9493,
+					"Class": 1703,
+					"TeamName": "Team WRT",
+					"drivers": [
+						{
+							"Forename": "Charles",
+							"Surname": "Weerts",
+							"Id": 9517
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 9534,
+					"Car": 8604,
+					"Id": 9494,
+					"Class": 1703,
+					"TeamName": "Audi Sport Team Rutronik",
+					"drivers": [
+						{
+							"Forename": "Kelvin",
+							"Surname": "van der Linde",
+							"Id": 9460
+						}
+					]
+				},
+				{
+					"Name": "#34",
+					"Team": 9530,
+					"Car": 8604,
+					"Id": 9495,
+					"Class": 1703,
+					"TeamName": "Car Collection Motorsport",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Edelhoff",
+							"Id": 9535
+						}
+					]
+				},
+				{
+					"Name": "#66",
+					"Team": 9536,
+					"Car": 8604,
+					"Id": 9496,
+					"Class": 1703,
+					"TeamName": "Audi Sport Asia Team TSRT",
+					"drivers": [
+						{
+							"Forename": "Weian",
+							"Surname": "Chen",
+							"Id": 9537
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 9538,
+					"Car": 8604,
+					"Id": 9497,
+					"Class": 1703,
+					"TeamName": "Team Belgium",
+					"drivers": [
+						{
+							"Forename": "Louis",
+							"Surname": "Machiels",
+							"Id": 9539
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 9502,
+					"Car": 8604,
+					"Id": 9498,
+					"Class": 1703,
+					"TeamName": "Phoenix Racing",
+					"drivers": [
+						{
+							"Forename": "Kim-Luis",
+							"Surname": "Schramm",
+							"Id": 9540
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 9521,
+					"Car": 8604,
+					"Id": 9499,
+					"Class": 1703,
+					"TeamName": "MS7 by WRT",
+					"drivers": [
+						{
+							"Forename": "Mohammed Saud",
+							"Surname": "Fahad",
+							"Id": 9522
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 9502,
+					"Car": 8604,
+					"Id": 9500,
+					"Class": 1703,
+					"TeamName": "Phoenix Racing",
+					"drivers": [
+						{
+							"Forename": "Michele",
+							"Surname": "Beretta",
+							"Id": 9518
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 9502,
+					"Car": 8604,
+					"Id": 9501,
+					"Class": 1703,
+					"TeamName": "Phoenix Racing",
+					"drivers": [
+						{
+							"Forename": "Kim-Luis",
+							"Surname": "Schramm",
+							"Id": 9540
+						}
+					]
+				},
+				{
+					"Name": "#26",
+					"Team": 9504,
+					"Car": 8604,
+					"Id": 9503,
+					"Class": 1703,
+					"TeamName": "Saintéloc Racing",
+					"drivers": [
+						{
+							"Forename": "Steven",
+							"Surname": "Palette",
+							"Id": 7322
+						}
+					]
+				},
+				{
+					"Name": "#99",
+					"Team": 9506,
+					"Car": 8604,
+					"Id": 9505,
+					"Class": 1703,
+					"TeamName": "Attempto Racing",
+					"drivers": [
+						{
+							"Forename": "Nicolas",
+							"Surname": "Schöll",
+							"Id": 8036
+						}
+					]
+				}
+			]
+		},
+		"8652": {
+			"Name": "Audi R8 LMS GT2 2019",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 8697,
+			"Id": 8652,
+			"Class": 8248,
+			"liveries": [
+				{
+					"Name": "#0",
+					"Team": 9452,
+					"Car": 8652,
+					"Id": 8654,
+					"Class": 8248,
+					"TeamName": "Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Kai",
+							"Surname": "Mensing",
+							"Id": 9048
+						}
+					]
+				},
+				{
+					"Name": "#0",
+					"Team": 9452,
+					"Car": 8652,
+					"Id": 8697,
+					"Class": 8248,
+					"TeamName": "Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Tom",
+							"Surname": "Kristensen",
+							"Id": 4498
+						}
+					]
+				},
+				{
+					"Name": "#95",
+					"Team": 8960,
+					"Car": 8652,
+					"Id": 8958,
+					"Class": 8248,
+					"TeamName": "Arctic Lupus Energy",
+					"drivers": [
+						{
+							"Forename": "Ame",
+							"Surname": "Ookami",
+							"Id": 9453
+						}
+					]
+				},
+				{
+					"Name": "#96",
+					"Team": 8961,
+					"Car": 8652,
+					"Id": 8959,
+					"Class": 8248,
+					"TeamName": "Weasel Energy",
+					"drivers": [
+						{
+							"Forename": "Osamu",
+							"Surname": "Itachi",
+							"Id": 9454
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 8983,
+					"Car": 8652,
+					"Id": 8982,
+					"Class": 8248,
+					"TeamName": "ADVAN Racing",
+					"drivers": [
+						{
+							"Forename": "Renato",
+							"Surname": "Lipi",
+							"Id": 9455
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 8984,
+					"Car": 8652,
+					"Id": 8986,
+					"Class": 8248,
+					"TeamName": "RaceRoom",
+					"drivers": [
+						{
+							"Forename": "Holger",
+							"Surname": "Stangl",
+							"Id": 4727
+						}
+					]
+				},
+				{
+					"Name": "#97",
+					"Team": 9347,
+					"Car": 8652,
+					"Id": 9021,
+					"Class": 8248,
+					"TeamName": "Sector3 Studios",
+					"drivers": [
+						{
+							"Forename": "Marcus",
+							"Surname": "Dempwolf",
+							"Id": 9456
+						}
+					]
+				},
+				{
+					"Name": "#125",
+					"Team": 9047,
+					"Car": 8652,
+					"Id": 9046,
+					"Class": 8248,
+					"TeamName": "GMG Racing",
+					"drivers": [
+						{
+							"Forename": "James",
+							"Surname": "Sofronas",
+							"Id": 8434
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 9346,
+					"Car": 8652,
+					"Id": 9345,
+					"Class": 8248,
+					"TeamName": "SakuraGear",
+					"drivers": [
+						{
+							"Forename": "Viktor",
+							"Surname": "Öfjäll",
+							"Id": 9337
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 9471,
+					"Car": 8652,
+					"Id": 9361,
+					"Class": 8248,
+					"TeamName": "Big Kusa Racing",
+					"drivers": [
+						{
+							"Forename": "Kitsune",
+							"Surname": "Magyar",
+							"Id": 9470
+						}
+					]
+				}
+			]
+		},
 		"8657": {
 			"Name": "Audi RS 3 LMS",
 			"BrandName": "Audi",
@@ -32717,6 +34157,36 @@
 							"Id": 9283
 						}
 					]
+				},
+				{
+					"Name": "#99",
+					"Team": 8789,
+					"Car": 8788,
+					"Id": 9286,
+					"Class": 8656,
+					"TeamName": "ZENGO MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Gábor",
+							"Surname": "Kismarty-Lechner",
+							"Id": 9307
+						}
+					]
+				},
+				{
+					"Name": "#99c",
+					"Team": 8789,
+					"Car": 8788,
+					"Id": 9306,
+					"Class": 8656,
+					"TeamName": "ZENGO MOTORSPORT",
+					"drivers": [
+						{
+							"Forename": "Gábor",
+							"Surname": "Kismarty-Lechner",
+							"Id": 9307
+						}
+					]
 				}
 			]
 		},
@@ -33210,6 +34680,151 @@
 				}
 			]
 		},
+		"8900": {
+			"Name": "Audi R8 LMS GT4 2020",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 9180,
+			"Id": 8900,
+			"Class": 5825,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 8901,
+					"Car": 8900,
+					"Id": 8902,
+					"Class": 5825,
+					"TeamName": "Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Kai",
+							"Surname": "Mensing",
+							"Id": 9048
+						}
+					]
+				},
+				{
+					"Name": "#0",
+					"Team": 8901,
+					"Car": 8900,
+					"Id": 9180,
+					"Class": 5825,
+					"TeamName": "Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Kelvin",
+							"Surname": "van der Linde",
+							"Id": 9460
+						}
+					]
+				},
+				{
+					"Name": "#1",
+					"Team": 9417,
+					"Car": 8900,
+					"Id": 9277,
+					"Class": 5825,
+					"TeamName": "Absolute Racing",
+					"drivers": [
+						{
+							"Forename": "Nicolaj Møller",
+							"Surname": "Madsen",
+							"Id": 9541
+						}
+					]
+				},
+				{
+					"Name": "#05",
+					"Team": 9420,
+					"Car": 8900,
+					"Id": 9415,
+					"Class": 5825,
+					"TeamName": "Hella Pagid - Racing One",
+					"drivers": [
+						{
+							"Forename": "Lucas",
+							"Surname": "Mauron",
+							"Id": 9542
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 9420,
+					"Car": 8900,
+					"Id": 9416,
+					"Class": 5825,
+					"TeamName": "Hella Pagid - Racing One",
+					"drivers": [
+						{
+							"Forename": "Cristian",
+							"Surname": "Stingu",
+							"Id": 9543
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 9420,
+					"Car": 8900,
+					"Id": 9424,
+					"Class": 5825,
+					"TeamName": "Hella Pagid - Racing One",
+					"drivers": [
+						{
+							"Forename": "Kelvin",
+							"Surname": "Snoeks",
+							"Id": 9544
+						}
+					]
+				},
+				{
+					"Name": "#71",
+					"Team": 9419,
+					"Car": 8900,
+					"Id": 9425,
+					"Class": 5825,
+					"TeamName": "T3-HRT-Motorsport",
+					"drivers": [
+						{
+							"Forename": "William",
+							"Surname": "Tregurtha",
+							"Id": 8198
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 9422,
+					"Car": 8900,
+					"Id": 9426,
+					"Class": 5825,
+					"TeamName": "Carbogaz Racing",
+					"drivers": [
+						{
+							"Forename": "David",
+							"Surname": "Serban",
+							"Id": 9545
+						}
+					]
+				},
+				{
+					"Name": "#402",
+					"Team": 9418,
+					"Car": 8900,
+					"Id": 9427,
+					"Class": 5825,
+					"TeamName": "Heide Motorsport",
+					"drivers": [
+						{
+							"Forename": "Rahel",
+							"Surname": "Frey",
+							"Id": 9546
+						}
+					]
+				}
+			]
+		},
 		"8936": {
 			"Name": "BMW M6 GT3",
 			"BrandName": "BMW",
@@ -33679,7 +35294,7 @@
 					"Car": 9094,
 					"Id": 9110,
 					"Class": 9101,
-					"TeamName": "BMW Team RMG",
+					"TeamName": "Team Glock",
 					"drivers": [
 						{
 							"Forename": "Marco",
@@ -33694,7 +35309,7 @@
 					"Car": 9094,
 					"Id": 9114,
 					"Class": 9101,
-					"TeamName": "BMW Team RBM",
+					"TeamName": "Team Auer",
 					"drivers": [
 						{
 							"Forename": "Philipp",
@@ -33709,7 +35324,7 @@
 					"Car": 9094,
 					"Id": 9115,
 					"Class": 9101,
-					"TeamName": "BMW Team RMR",
+					"TeamName": "Team S. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "Jonathan",
@@ -33720,11 +35335,11 @@
 				},
 				{
 					"Name": "#31",
-					"Team": 9097,
+					"Team": 9150,
 					"Car": 9094,
 					"Id": 9116,
 					"Class": 9101,
-					"TeamName": "BMW Team RBM",
+					"TeamName": "Team S. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "Sheldon",
@@ -33739,7 +35354,7 @@
 					"Car": 9094,
 					"Id": 9123,
 					"Class": 9101,
-					"TeamName": "BMW Team RMG",
+					"TeamName": "Team Glock",
 					"drivers": [
 						{
 							"Forename": "Timo",
@@ -33750,11 +35365,11 @@
 				},
 				{
 					"Name": "#22",
-					"Team": 9150,
+					"Team": 9097,
 					"Car": 9094,
 					"Id": 9127,
 					"Class": 9101,
-					"TeamName": "BMW Team RMR",
+					"TeamName": "Team Auer",
 					"drivers": [
 						{
 							"Forename": "Lucas",
@@ -33765,11 +35380,11 @@
 				},
 				{
 					"Name": "#86",
-					"Team": 9184,
+					"Team": 9150,
 					"Car": 9094,
 					"Id": 9178,
 					"Class": 9101,
-					"TeamName": "BOSCH Motorsport",
+					"TeamName": "Team S. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33780,11 +35395,11 @@
 				},
 				{
 					"Name": "#01",
-					"Team": 9182,
+					"Team": 9098,
 					"Car": 9094,
 					"Id": 9181,
 					"Class": 9101,
-					"TeamName": "MediaMarkt",
+					"TeamName": "Team Glock",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33795,11 +35410,11 @@
 				},
 				{
 					"Name": "#42",
-					"Team": 9183,
+					"Team": 9097,
 					"Car": 9094,
 					"Id": 9185,
 					"Class": 9101,
-					"TeamName": "BMW Lifestyle",
+					"TeamName": "Team Auer",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33814,7 +35429,7 @@
 					"Car": 9094,
 					"Id": 9186,
 					"Class": 9101,
-					"TeamName": "BMW Motorsport SIM Racing",
+					"TeamName": "Wildcard",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33825,11 +35440,11 @@
 				},
 				{
 					"Name": "#18",
-					"Team": 9184,
+					"Team": 9150,
 					"Car": 9094,
 					"Id": 9187,
 					"Class": 9101,
-					"TeamName": "BOSCH Motorsport",
+					"TeamName": "Team S. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33840,11 +35455,11 @@
 				},
 				{
 					"Name": "#84",
-					"Team": 9193,
+					"Team": 9097,
 					"Car": 9094,
 					"Id": 9192,
 					"Class": 9101,
-					"TeamName": "DTM",
+					"TeamName": "Team Auer",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33855,11 +35470,11 @@
 				},
 				{
 					"Name": "#89",
-					"Team": 9197,
+					"Team": 9098,
 					"Car": 9094,
 					"Id": 9196,
 					"Class": 9101,
-					"TeamName": "Formula Medicine NEL Motorsport",
+					"TeamName": "Team Glock",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -33899,7 +35514,7 @@
 					"Car": 9102,
 					"Id": 9111,
 					"Class": 9101,
-					"TeamName": "WRT Team Audi Sport",
+					"TeamName": "Team Scherer",
 					"drivers": [
 						{
 							"Forename": "Fabio",
@@ -33914,7 +35529,7 @@
 					"Car": 9102,
 					"Id": 9112,
 					"Class": 9101,
-					"TeamName": "Audi Sport Team Phoenix",
+					"TeamName": "Team Bortolotti",
 					"drivers": [
 						{
 							"Forename": "Loïc",
@@ -33925,11 +35540,11 @@
 				},
 				{
 					"Name": "#4",
-					"Team": 9105,
+					"Team": 9106,
 					"Car": 9102,
 					"Id": 9118,
 					"Class": 9101,
-					"TeamName": "Audi Sport Team ABT Sportsline",
+					"TeamName": "Team Bortolotti",
 					"drivers": [
 						{
 							"Forename": "Robin",
@@ -33944,7 +35559,7 @@
 					"Car": 9102,
 					"Id": 9119,
 					"Class": 9101,
-					"TeamName": "Audi Sport Team Rosberg",
+					"TeamName": "Team K. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "René",
@@ -33955,11 +35570,11 @@
 				},
 				{
 					"Name": "#51",
-					"Team": 9105,
+					"Team": 9106,
 					"Car": 9102,
 					"Id": 9120,
 					"Class": 9101,
-					"TeamName": "Audi Sport Team ABT Sportsline",
+					"TeamName": "Team Bortolotti",
 					"drivers": [
 						{
 							"Forename": "Nico",
@@ -33974,7 +35589,7 @@
 					"Car": 9102,
 					"Id": 9121,
 					"Class": 9101,
-					"TeamName": "Audi Sport Team Rosberg",
+					"TeamName": "Team K. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "Jamie",
@@ -33985,11 +35600,11 @@
 				},
 				{
 					"Name": "#99",
-					"Team": 9106,
+					"Team": 9107,
 					"Car": 9102,
 					"Id": 9122,
 					"Class": 9101,
-					"TeamName": "Audi Sport Team Phoenix",
+					"TeamName": "Team K. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "Mike",
@@ -34004,7 +35619,7 @@
 					"Car": 9102,
 					"Id": 9125,
 					"Class": 9101,
-					"TeamName": "WRT Team Audi Sport",
+					"TeamName": "Team Scherer",
 					"drivers": [
 						{
 							"Forename": "Harrison",
@@ -34019,7 +35634,7 @@
 					"Car": 9102,
 					"Id": 9126,
 					"Class": 9101,
-					"TeamName": "WRT Team Audi Sport",
+					"TeamName": "Team Scherer",
 					"drivers": [
 						{
 							"Forename": "Ferdinand",
@@ -34030,11 +35645,11 @@
 				},
 				{
 					"Name": "#73",
-					"Team": 9189,
+					"Team": 9106,
 					"Car": 9102,
 					"Id": 9188,
 					"Class": 9101,
-					"TeamName": "MediaMarkt",
+					"TeamName": "Team Bortolotti",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -34075,11 +35690,11 @@
 				},
 				{
 					"Name": "#19",
-					"Team": 9199,
+					"Team": 9107,
 					"Car": 9102,
 					"Id": 9198,
 					"Class": 9101,
-					"TeamName": "Formula Medicine NEL Motorsport",
+					"TeamName": "Team K. vd. Linde",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -34090,11 +35705,11 @@
 				},
 				{
 					"Name": "#92",
-					"Team": 9203,
+					"Team": 9108,
 					"Car": 9102,
 					"Id": 9201,
 					"Class": 9101,
-					"TeamName": "KW Automotive",
+					"TeamName": "Team Scherer",
 					"drivers": [
 						{
 							"Forename": "DTM",
@@ -34895,6 +36510,36 @@
 							"Forename": "Mikel",
 							"Surname": "Azcona",
 							"Id": 9283
+						}
+					]
+				},
+				{
+					"Name": "#99",
+					"Team": 9279,
+					"Car": 9278,
+					"Id": 9285,
+					"Class": 9233,
+					"TeamName": "Zengo Motorsport Services KFT",
+					"drivers": [
+						{
+							"Forename": "Gábor",
+							"Surname": "Kismarty-Lechner",
+							"Id": 9307
+						}
+					]
+				},
+				{
+					"Name": "#99 - Original",
+					"Team": 9279,
+					"Car": 9278,
+					"Id": 9305,
+					"Class": 9233,
+					"TeamName": "Zengo Motorsport Services KFT",
+					"drivers": [
+						{
+							"Forename": "Gábor",
+							"Surname": "Kismarty-Lechner",
+							"Id": 9307
 						}
 					]
 				}
@@ -60046,7 +61691,7 @@
 			"TeamName": "Team Zakspeed BKK Mobil Oil Racing",
 			"drivers": [
 				{
-					"Forename": "Kim Luis",
+					"Forename": "Kim-Luis",
 					"Surname": "Schramm",
 					"Id": 7735
 				},
@@ -60263,12 +61908,12 @@
 			]
 		},
 		"7812": {
-			"Name": "#1",
+			"Name": "#Carbon",
 			"Team": 7811,
 			"Car": 7810,
 			"Id": 7812,
 			"Class": 7765,
-			"TeamName": "Volkswagen",
+			"TeamName": "Volkswagen Motorsport",
 			"drivers": [
 				{
 					"Forename": "Romain",
@@ -60292,13 +61937,28 @@
 				}
 			]
 		},
+		"7821": {
+			"Name": "#17",
+			"Team": 7400,
+			"Car": 7399,
+			"Id": 7821,
+			"Class": 4121,
+			"TeamName": "Joest Porsche Racing",
+			"drivers": [
+				{
+					"Forename": "Frank",
+					"Surname": "Jelinski",
+					"Id": 9333
+				}
+			]
+		},
 		"7823": {
 			"Name": "#2",
 			"Team": 7811,
 			"Car": 7810,
 			"Id": 7823,
 			"Class": 7765,
-			"TeamName": "Volkswagen",
+			"TeamName": "Volkswagen Motorsport",
 			"drivers": [
 				{
 					"Forename": "Romain",
@@ -63757,6 +65417,366 @@
 				}
 			]
 		},
+		"8518": {
+			"Name": "#53",
+			"Team": 8532,
+			"Car": 8498,
+			"Id": 8518,
+			"Class": 8483,
+			"TeamName": "Schlafgut",
+			"drivers": [
+				{
+					"Forename": "Erich",
+					"Surname": "Kornmann",
+					"Id": 9435
+				}
+			]
+		},
+		"8519": {
+			"Name": "#53",
+			"Team": 8525,
+			"Car": 8498,
+			"Id": 8519,
+			"Class": 8483,
+			"TeamName": "Jägermeister",
+			"drivers": [
+				{
+					"Forename": "Helmut",
+					"Surname": "Henzler",
+					"Id": 9443
+				}
+			]
+		},
+		"8535": {
+			"Name": "#16",
+			"Team": 8530,
+			"Car": 8498,
+			"Id": 8535,
+			"Class": 8483,
+			"TeamName": "Valvoline Team",
+			"drivers": [
+				{
+					"Forename": "Josef",
+					"Surname": "Saibel",
+					"Id": 9437
+				}
+			]
+		},
+		"8536": {
+			"Name": "#31",
+			"Team": 9447,
+			"Car": 8498,
+			"Id": 8536,
+			"Class": 8483,
+			"TeamName": "Bill Scott Racing",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Davey",
+					"Id": 9428
+				}
+			]
+		},
+		"8537": {
+			"Name": "#43",
+			"Team": 8520,
+			"Car": 8498,
+			"Id": 8537,
+			"Class": 8483,
+			"TeamName": "TL RACING AB",
+			"drivers": [
+				{
+					"Forename": "Thomas",
+					"Surname": "Lindström",
+					"Id": 8846
+				}
+			]
+		},
+		"8538": {
+			"Name": "#49",
+			"Team": 8530,
+			"Car": 8498,
+			"Id": 8538,
+			"Class": 8483,
+			"TeamName": "Valvoline Team",
+			"drivers": [
+				{
+					"Forename": "Josef",
+					"Surname": "Saibel",
+					"Id": 9437
+				}
+			]
+		},
+		"8539": {
+			"Name": "#55",
+			"Team": 8524,
+			"Car": 8498,
+			"Id": 8539,
+			"Class": 8483,
+			"TeamName": "Arlt",
+			"drivers": [
+				{
+					"Forename": "Klaus",
+					"Surname": "Bieler",
+					"Id": 9444
+				}
+			]
+		},
+		"8540": {
+			"Name": "#56",
+			"Team": 8522,
+			"Car": 8498,
+			"Id": 8540,
+			"Class": 8483,
+			"TeamName": " AC Dinamo Slovenijaauto",
+			"drivers": [
+				{
+					"Forename": "Drago",
+					"Surname": "Regvart",
+					"Id": 9334
+				}
+			]
+		},
+		"8541": {
+			"Name": "#57",
+			"Team": 8531,
+			"Car": 8498,
+			"Id": 8541,
+			"Class": 8483,
+			"TeamName": "Klaus Liegensa",
+			"drivers": [
+				{
+					"Forename": "Klaus",
+					"Surname": "Liegensa",
+					"Id": 9436
+				}
+			]
+		},
+		"8542": {
+			"Name": "#60",
+			"Team": 8529,
+			"Car": 8498,
+			"Id": 8542,
+			"Class": 8483,
+			"TeamName": "VW-Motorsport Hannover",
+			"drivers": [
+				{
+					"Forename": "Anton",
+					"Surname": "Stocker",
+					"Id": 9439
+				}
+			]
+		},
+		"8543": {
+			"Name": "#61",
+			"Team": 8523,
+			"Car": 8498,
+			"Id": 8543,
+			"Class": 8483,
+			"TeamName": "Team Menden",
+			"drivers": [
+				{
+					"Forename": "Helmut",
+					"Surname": "Hinse",
+					"Id": 9445
+				}
+			]
+		},
+		"8544": {
+			"Name": "#72",
+			"Team": 9447,
+			"Car": 8498,
+			"Id": 8544,
+			"Class": 8483,
+			"TeamName": "Bill Scott Racing",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Davey",
+					"Id": 9428
+				}
+			]
+		},
+		"8545": {
+			"Name": "#78",
+			"Team": 8526,
+			"Car": 8498,
+			"Id": 8545,
+			"Class": 8483,
+			"TeamName": "MSC Bad Canstatt",
+			"drivers": [
+				{
+					"Forename": "Paul",
+					"Surname": "Wunsch",
+					"Id": 9442
+				}
+			]
+		},
+		"8546": {
+			"Name": "#81",
+			"Team": 8499,
+			"Car": 8498,
+			"Id": 8546,
+			"Class": 8483,
+			"TeamName": "Zender GmbH",
+			"drivers": [
+				{
+					"Forename": "Werner",
+					"Surname": "Dittert",
+					"Id": 8848
+				}
+			]
+		},
+		"8547": {
+			"Name": "#108",
+			"Team": 8527,
+			"Car": 8498,
+			"Id": 8547,
+			"Class": 8483,
+			"TeamName": "Fenstermann Rennsport",
+			"drivers": [
+				{
+					"Forename": "Hans-Werner",
+					"Surname": "Hilger",
+					"Id": 9441
+				}
+			]
+		},
+		"8548": {
+			"Name": "#133",
+			"Team": 8521,
+			"Car": 8498,
+			"Id": 8548,
+			"Class": 8483,
+			"TeamName": "Müller-Tuning GmbH",
+			"drivers": [
+				{
+					"Forename": "Walter",
+					"Surname": "Struckmann",
+					"Id": 9446
+				}
+			]
+		},
+		"8549": {
+			"Name": "#135",
+			"Team": 8534,
+			"Car": 8498,
+			"Id": 8549,
+			"Class": 8483,
+			"TeamName": "Klaus Peter",
+			"drivers": [
+				{
+					"Forename": "Klaus",
+					"Surname": "Peter",
+					"Id": 9433
+				}
+			]
+		},
+		"8550": {
+			"Name": "#173",
+			"Team": 8533,
+			"Car": 8498,
+			"Id": 8550,
+			"Class": 8483,
+			"TeamName": "KWL-Motorsport",
+			"drivers": [
+				{
+					"Forename": "Heinz",
+					"Surname": "Stüber",
+					"Id": 9434
+				}
+			]
+		},
+		"8551": {
+			"Name": "#266",
+			"Team": 8521,
+			"Car": 8498,
+			"Id": 8551,
+			"Class": 8483,
+			"TeamName": "Müller-Tuning GmbH",
+			"drivers": [
+				{
+					"Forename": "Frank",
+					"Surname": "Jelinski",
+					"Id": 9333
+				}
+			]
+		},
+		"8552": {
+			"Name": "#302",
+			"Team": 8525,
+			"Car": 8498,
+			"Id": 8552,
+			"Class": 8483,
+			"TeamName": "Jägermeister",
+			"drivers": [
+				{
+					"Forename": "Viviane",
+					"Surname": "Bonnardel",
+					"Id": 9438
+				}
+			]
+		},
+		"8553": {
+			"Name": "#55",
+			"Team": 8554,
+			"Car": 8498,
+			"Id": 8553,
+			"Class": 8483,
+			"TeamName": "KW Suspension",
+			"drivers": [
+				{
+					"Forename": "Manuel",
+					"Surname": "Staedel",
+					"Id": 7924
+				}
+			]
+		},
+		"8555": {
+			"Name": "#42",
+			"Team": 9448,
+			"Car": 8498,
+			"Id": 8555,
+			"Class": 8483,
+			"TeamName": "Scott Racing Associates Ltd.",
+			"drivers": [
+				{
+					"Forename": "Bill",
+					"Surname": "Scott",
+					"Id": 9430
+				}
+			]
+		},
+		"8556": {
+			"Name": "#43",
+			"Team": 9448,
+			"Car": 8498,
+			"Id": 8556,
+			"Class": 8483,
+			"TeamName": "Scott Racing Associates Ltd.",
+			"drivers": [
+				{
+					"Forename": "Milt",
+					"Surname": "Minter",
+					"Id": 9429
+				}
+			]
+		},
+		"8557": {
+			"Name": "#72",
+			"Team": 8528,
+			"Car": 8498,
+			"Id": 8557,
+			"Class": 8483,
+			"TeamName": "Oettinger",
+			"drivers": [
+				{
+					"Forename": "Rüdiger",
+					"Surname": "Dahlhäuser",
+					"Id": 9440
+				}
+			]
+		},
 		"8571": {
 			"Name": "#91",
 			"Team": 8602,
@@ -63901,7 +65921,7 @@
 			"TeamName": "Team Zakspeed BKK Mobil Oil Racing",
 			"drivers": [
 				{
-					"Forename": "Kim Luis",
+					"Forename": "Kim-Luis",
 					"Surname": "Schramm",
 					"Id": 7735
 				}
@@ -63967,6 +65987,36 @@
 				}
 			]
 		},
+		"8590": {
+			"Name": "#70",
+			"Team": 8521,
+			"Car": 8498,
+			"Id": 8590,
+			"Class": 8483,
+			"TeamName": "Müller-Tuning GmbH",
+			"drivers": [
+				{
+					"Forename": "Manfred",
+					"Surname": "Pape",
+					"Id": 9432
+				}
+			]
+		},
+		"8591": {
+			"Name": "#73",
+			"Team": 9449,
+			"Car": 8498,
+			"Id": 8591,
+			"Class": 8483,
+			"TeamName": "Ronny Hering",
+			"drivers": [
+				{
+					"Forename": "Ronny",
+					"Surname": "Hering",
+					"Id": 9431
+				}
+			]
+		},
 		"8592": {
 			"Name": "#20",
 			"Team": 8597,
@@ -64009,6 +66059,21 @@
 					"Forename": "Earl",
 					"Surname": "Bamber",
 					"Id": 6726
+				}
+			]
+		},
+		"8606": {
+			"Name": "#0",
+			"Team": 8605,
+			"Car": 8604,
+			"Id": 8606,
+			"Class": 1703,
+			"TeamName": "Audi Sport Customer Racing",
+			"drivers": [
+				{
+					"Forename": "Kai",
+					"Surname": "Mensing",
+					"Id": 9048
 				}
 			]
 		},
@@ -64069,6 +66134,36 @@
 					"Forename": "Michael",
 					"Surname": "Knodel",
 					"Id": 8639
+				}
+			]
+		},
+		"8631": {
+			"Name": "#88",
+			"Team": 8632,
+			"Car": 8604,
+			"Id": 8631,
+			"Class": 1703,
+			"TeamName": "Audi Sport WRT Speedstar",
+			"drivers": [
+				{
+					"Forename": "Daniel",
+					"Surname": "Morad",
+					"Id": 9520
+				}
+			]
+		},
+		"8654": {
+			"Name": "#0",
+			"Team": 9452,
+			"Car": 8652,
+			"Id": 8654,
+			"Class": 8248,
+			"TeamName": "Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Kai",
+					"Surname": "Mensing",
+					"Id": 9048
 				}
 			]
 		},
@@ -64147,6 +66242,21 @@
 				}
 			]
 		},
+		"8683": {
+			"Name": "#3",
+			"Team": 7811,
+			"Car": 7810,
+			"Id": 8683,
+			"Class": 7765,
+			"TeamName": "Volkswagen Motorsport",
+			"drivers": [
+				{
+					"Forename": "Romain",
+					"Surname": "Dumas",
+					"Id": 4500
+				}
+			]
+		},
 		"8685": {
 			"Name": "#1",
 			"Team": 8689,
@@ -64189,6 +66299,66 @@
 					"Forename": "Stefan",
 					"Surname": "Varga",
 					"Id": 8695
+				}
+			]
+		},
+		"8697": {
+			"Name": "#0",
+			"Team": 9452,
+			"Car": 8652,
+			"Id": 8697,
+			"Class": 8248,
+			"TeamName": "Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Tom",
+					"Surname": "Kristensen",
+					"Id": 4498
+				}
+			]
+		},
+		"8705": {
+			"Name": "#22a",
+			"Team": 8633,
+			"Car": 8604,
+			"Id": 8705,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team Valvoline",
+			"drivers": [
+				{
+					"Forename": "Garth",
+					"Surname": "Tander",
+					"Id": 9523
+				}
+			]
+		},
+		"8706": {
+			"Name": "#222",
+			"Team": 8633,
+			"Car": 8604,
+			"Id": 8706,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team Valvoline",
+			"drivers": [
+				{
+					"Forename": "Mattia",
+					"Surname": "Drudi",
+					"Id": 9524
+				}
+			]
+		},
+		"8707": {
+			"Name": "#2",
+			"Team": 8633,
+			"Car": 8604,
+			"Id": 8707,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team Valvoline",
+			"drivers": [
+				{
+					"Forename": "Frédéric",
+					"Surname": "Vervisch",
+					"Id": 6386
 				}
 			]
 		},
@@ -65797,6 +67967,51 @@
 				}
 			]
 		},
+		"8902": {
+			"Name": "#1",
+			"Team": 8901,
+			"Car": 8900,
+			"Id": 8902,
+			"Class": 5825,
+			"TeamName": "Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Kai",
+					"Surname": "Mensing",
+					"Id": 9048
+				}
+			]
+		},
+		"8958": {
+			"Name": "#95",
+			"Team": 8960,
+			"Car": 8652,
+			"Id": 8958,
+			"Class": 8248,
+			"TeamName": "Arctic Lupus Energy",
+			"drivers": [
+				{
+					"Forename": "Ame",
+					"Surname": "Ookami",
+					"Id": 9453
+				}
+			]
+		},
+		"8959": {
+			"Name": "#96",
+			"Team": 8961,
+			"Car": 8652,
+			"Id": 8959,
+			"Class": 8248,
+			"TeamName": "Weasel Energy",
+			"drivers": [
+				{
+					"Forename": "Osamu",
+					"Surname": "Itachi",
+					"Id": 9454
+				}
+			]
+		},
 		"8962": {
 			"Name": "#33",
 			"Team": 8943,
@@ -66097,6 +68312,81 @@
 				}
 			]
 		},
+		"8982": {
+			"Name": "#88",
+			"Team": 8983,
+			"Car": 8652,
+			"Id": 8982,
+			"Class": 8248,
+			"TeamName": "ADVAN Racing",
+			"drivers": [
+				{
+					"Forename": "Renato",
+					"Surname": "Lipi",
+					"Id": 9455
+				}
+			]
+		},
+		"8986": {
+			"Name": "#2",
+			"Team": 8984,
+			"Car": 8652,
+			"Id": 8986,
+			"Class": 8248,
+			"TeamName": "RaceRoom",
+			"drivers": [
+				{
+					"Forename": "Holger",
+					"Surname": "Stangl",
+					"Id": 4727
+				}
+			]
+		},
+		"8991": {
+			"Name": "#9a",
+			"Team": 8635,
+			"Car": 8604,
+			"Id": 8991,
+			"Class": 1703,
+			"TeamName": "Hallmarc Racing",
+			"drivers": [
+				{
+					"Forename": "Lee",
+					"Surname": "Holdsworth",
+					"Id": 9525
+				}
+			]
+		},
+		"9000": {
+			"Name": "#24",
+			"Team": 8634,
+			"Car": 8604,
+			"Id": 9000,
+			"Class": 1703,
+			"TeamName": "Bostik Australia",
+			"drivers": [
+				{
+					"Forename": "Dylan",
+					"Surname": "O'Keeffe",
+					"Id": 9526
+				}
+			]
+		},
+		"9021": {
+			"Name": "#97",
+			"Team": 9347,
+			"Car": 8652,
+			"Id": 9021,
+			"Class": 8248,
+			"TeamName": "Sector3 Studios",
+			"drivers": [
+				{
+					"Forename": "Marcus",
+					"Surname": "Dempwolf",
+					"Id": 9456
+				}
+			]
+		},
 		"9024": {
 			"Name": "#999",
 			"Team": 9022,
@@ -66184,6 +68474,21 @@
 					"Forename": "Michael",
 					"Surname": "Knodel",
 					"Id": 8639
+				}
+			]
+		},
+		"9046": {
+			"Name": "#125",
+			"Team": 9047,
+			"Car": 8652,
+			"Id": 9046,
+			"Class": 8248,
+			"TeamName": "GMG Racing",
+			"drivers": [
+				{
+					"Forename": "James",
+					"Surname": "Sofronas",
+					"Id": 8434
 				}
 			]
 		},
@@ -66307,6 +68612,21 @@
 				}
 			]
 		},
+		"9091": {
+			"Name": "#4",
+			"Team": 9527,
+			"Car": 8604,
+			"Id": 9091,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team Phoenix Racing",
+			"drivers": [
+				{
+					"Forename": "Dries",
+					"Surname": "Vanthoor",
+					"Id": 9519
+				}
+			]
+		},
 		"9109": {
 			"Name": "#8",
 			"Team": 9149,
@@ -66328,7 +68648,7 @@
 			"Car": 9094,
 			"Id": 9110,
 			"Class": 9101,
-			"TeamName": "BMW Team RMG",
+			"TeamName": "Team Glock",
 			"drivers": [
 				{
 					"Forename": "Marco",
@@ -66343,7 +68663,7 @@
 			"Car": 9102,
 			"Id": 9111,
 			"Class": 9101,
-			"TeamName": "WRT Team Audi Sport",
+			"TeamName": "Team Scherer",
 			"drivers": [
 				{
 					"Forename": "Fabio",
@@ -66358,7 +68678,7 @@
 			"Car": 9102,
 			"Id": 9112,
 			"Class": 9101,
-			"TeamName": "Audi Sport Team Phoenix",
+			"TeamName": "Team Bortolotti",
 			"drivers": [
 				{
 					"Forename": "Loïc",
@@ -66373,7 +68693,7 @@
 			"Car": 9094,
 			"Id": 9114,
 			"Class": 9101,
-			"TeamName": "BMW Team RBM",
+			"TeamName": "Team Auer",
 			"drivers": [
 				{
 					"Forename": "Philipp",
@@ -66388,7 +68708,7 @@
 			"Car": 9094,
 			"Id": 9115,
 			"Class": 9101,
-			"TeamName": "BMW Team RMR",
+			"TeamName": "Team S. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "Jonathan",
@@ -66399,11 +68719,11 @@
 		},
 		"9116": {
 			"Name": "#31",
-			"Team": 9097,
+			"Team": 9150,
 			"Car": 9094,
 			"Id": 9116,
 			"Class": 9101,
-			"TeamName": "BMW Team RBM",
+			"TeamName": "Team S. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "Sheldon",
@@ -66414,11 +68734,11 @@
 		},
 		"9118": {
 			"Name": "#4",
-			"Team": 9105,
+			"Team": 9106,
 			"Car": 9102,
 			"Id": 9118,
 			"Class": 9101,
-			"TeamName": "Audi Sport Team ABT Sportsline",
+			"TeamName": "Team Bortolotti",
 			"drivers": [
 				{
 					"Forename": "Robin",
@@ -66433,7 +68753,7 @@
 			"Car": 9102,
 			"Id": 9119,
 			"Class": 9101,
-			"TeamName": "Audi Sport Team Rosberg",
+			"TeamName": "Team K. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "René",
@@ -66444,11 +68764,11 @@
 		},
 		"9120": {
 			"Name": "#51",
-			"Team": 9105,
+			"Team": 9106,
 			"Car": 9102,
 			"Id": 9120,
 			"Class": 9101,
-			"TeamName": "Audi Sport Team ABT Sportsline",
+			"TeamName": "Team Bortolotti",
 			"drivers": [
 				{
 					"Forename": "Nico",
@@ -66463,7 +68783,7 @@
 			"Car": 9102,
 			"Id": 9121,
 			"Class": 9101,
-			"TeamName": "Audi Sport Team Rosberg",
+			"TeamName": "Team K. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "Jamie",
@@ -66474,11 +68794,11 @@
 		},
 		"9122": {
 			"Name": "#99",
-			"Team": 9106,
+			"Team": 9107,
 			"Car": 9102,
 			"Id": 9122,
 			"Class": 9101,
-			"TeamName": "Audi Sport Team Phoenix",
+			"TeamName": "Team K. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "Mike",
@@ -66493,7 +68813,7 @@
 			"Car": 9094,
 			"Id": 9123,
 			"Class": 9101,
-			"TeamName": "BMW Team RMG",
+			"TeamName": "Team Glock",
 			"drivers": [
 				{
 					"Forename": "Timo",
@@ -66508,7 +68828,7 @@
 			"Car": 9102,
 			"Id": 9125,
 			"Class": 9101,
-			"TeamName": "WRT Team Audi Sport",
+			"TeamName": "Team Scherer",
 			"drivers": [
 				{
 					"Forename": "Harrison",
@@ -66523,7 +68843,7 @@
 			"Car": 9102,
 			"Id": 9126,
 			"Class": 9101,
-			"TeamName": "WRT Team Audi Sport",
+			"TeamName": "Team Scherer",
 			"drivers": [
 				{
 					"Forename": "Ferdinand",
@@ -66534,11 +68854,11 @@
 		},
 		"9127": {
 			"Name": "#22",
-			"Team": 9150,
+			"Team": 9097,
 			"Car": 9094,
 			"Id": 9127,
 			"Class": 9101,
-			"TeamName": "BMW Team RMR",
+			"TeamName": "Team Auer",
 			"drivers": [
 				{
 					"Forename": "Lucas",
@@ -66729,11 +69049,11 @@
 		},
 		"9178": {
 			"Name": "#86",
-			"Team": 9184,
+			"Team": 9150,
 			"Car": 9094,
 			"Id": 9178,
 			"Class": 9101,
-			"TeamName": "BOSCH Motorsport",
+			"TeamName": "Team S. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66742,13 +69062,28 @@
 				}
 			]
 		},
+		"9180": {
+			"Name": "#0",
+			"Team": 8901,
+			"Car": 8900,
+			"Id": 9180,
+			"Class": 5825,
+			"TeamName": "Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Kelvin",
+					"Surname": "van der Linde",
+					"Id": 9460
+				}
+			]
+		},
 		"9181": {
 			"Name": "#01",
-			"Team": 9182,
+			"Team": 9098,
 			"Car": 9094,
 			"Id": 9181,
 			"Class": 9101,
-			"TeamName": "MediaMarkt",
+			"TeamName": "Team Glock",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66759,11 +69094,11 @@
 		},
 		"9185": {
 			"Name": "#42",
-			"Team": 9183,
+			"Team": 9097,
 			"Car": 9094,
 			"Id": 9185,
 			"Class": 9101,
-			"TeamName": "BMW Lifestyle",
+			"TeamName": "Team Auer",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66778,7 +69113,7 @@
 			"Car": 9094,
 			"Id": 9186,
 			"Class": 9101,
-			"TeamName": "BMW Motorsport SIM Racing",
+			"TeamName": "Wildcard",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66789,11 +69124,11 @@
 		},
 		"9187": {
 			"Name": "#18",
-			"Team": 9184,
+			"Team": 9150,
 			"Car": 9094,
 			"Id": 9187,
 			"Class": 9101,
-			"TeamName": "BOSCH Motorsport",
+			"TeamName": "Team S. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66804,11 +69139,11 @@
 		},
 		"9188": {
 			"Name": "#73",
-			"Team": 9189,
+			"Team": 9106,
 			"Car": 9102,
 			"Id": 9188,
 			"Class": 9101,
-			"TeamName": "MediaMarkt",
+			"TeamName": "Team Bortolotti",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66819,11 +69154,11 @@
 		},
 		"9192": {
 			"Name": "#84",
-			"Team": 9193,
+			"Team": 9097,
 			"Car": 9094,
 			"Id": 9192,
 			"Class": 9101,
-			"TeamName": "DTM",
+			"TeamName": "Team Auer",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66864,11 +69199,11 @@
 		},
 		"9196": {
 			"Name": "#89",
-			"Team": 9197,
+			"Team": 9098,
 			"Car": 9094,
 			"Id": 9196,
 			"Class": 9101,
-			"TeamName": "Formula Medicine NEL Motorsport",
+			"TeamName": "Team Glock",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66879,11 +69214,11 @@
 		},
 		"9198": {
 			"Name": "#19",
-			"Team": 9199,
+			"Team": 9107,
 			"Car": 9102,
 			"Id": 9198,
 			"Class": 9101,
-			"TeamName": "Formula Medicine NEL Motorsport",
+			"TeamName": "Team K. vd. Linde",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -66894,11 +69229,11 @@
 		},
 		"9201": {
 			"Name": "#92",
-			"Team": 9203,
+			"Team": 9108,
 			"Car": 9102,
 			"Id": 9201,
 			"Class": 9101,
-			"TeamName": "KW Automotive",
+			"TeamName": "Team Scherer",
 			"drivers": [
 				{
 					"Forename": "DTM",
@@ -67462,6 +69797,21 @@
 				}
 			]
 		},
+		"9277": {
+			"Name": "#1",
+			"Team": 9417,
+			"Car": 8900,
+			"Id": 9277,
+			"Class": 5825,
+			"TeamName": "Absolute Racing",
+			"drivers": [
+				{
+					"Forename": "Nicolaj Møller",
+					"Surname": "Madsen",
+					"Id": 9541
+				}
+			]
+		},
 		"9280": {
 			"Name": "#55",
 			"Team": 9279,
@@ -67522,6 +69872,36 @@
 				}
 			]
 		},
+		"9285": {
+			"Name": "#99",
+			"Team": 9279,
+			"Car": 9278,
+			"Id": 9285,
+			"Class": 9233,
+			"TeamName": "Zengo Motorsport Services KFT",
+			"drivers": [
+				{
+					"Forename": "Gábor",
+					"Surname": "Kismarty-Lechner",
+					"Id": 9307
+				}
+			]
+		},
+		"9286": {
+			"Name": "#99",
+			"Team": 8789,
+			"Car": 8788,
+			"Id": 9286,
+			"Class": 8656,
+			"TeamName": "ZENGO MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Gábor",
+					"Surname": "Kismarty-Lechner",
+					"Id": 9307
+				}
+			]
+		},
 		"9287": {
 			"Name": "#25",
 			"Team": 9253,
@@ -67579,6 +69959,876 @@
 					"Forename": "Jean-Karl",
 					"Surname": "Vernay",
 					"Id": 9294
+				}
+			]
+		},
+		"9296": {
+			"Name": "#5",
+			"Team": 9502,
+			"Car": 8604,
+			"Id": 9296,
+			"Class": 1703,
+			"TeamName": "Phoenix Racing",
+			"drivers": [
+				{
+					"Forename": "Christopher",
+					"Surname": "Haase",
+					"Id": 7292
+				}
+			]
+		},
+		"9297": {
+			"Name": "#9",
+			"Team": 8996,
+			"Car": 8604,
+			"Id": 9297,
+			"Class": 1703,
+			"TeamName": "BWT Mücke Motorsport",
+			"drivers": [
+				{
+					"Forename": "Andreas",
+					"Surname": "Weishaupt",
+					"Id": 9528
+				}
+			]
+		},
+		"9298": {
+			"Name": "#31",
+			"Team": 9516,
+			"Car": 8604,
+			"Id": 9298,
+			"Class": 1703,
+			"TeamName": "Team WRT",
+			"drivers": [
+				{
+					"Forename": "Mark",
+					"Surname": "Ineichen",
+					"Id": 9529
+				}
+			]
+		},
+		"9299": {
+			"Name": "#88",
+			"Team": 9530,
+			"Car": 8604,
+			"Id": 9299,
+			"Class": 1703,
+			"TeamName": "Car Collection Motorsport",
+			"drivers": [
+				{
+					"Forename": "Dimitri",
+					"Surname": "Parhofer",
+					"Id": 9531
+				}
+			]
+		},
+		"9300": {
+			"Name": "#99",
+			"Team": 8605,
+			"Car": 8604,
+			"Id": 9300,
+			"Class": 1703,
+			"TeamName": "Team Portugal",
+			"drivers": [
+				{
+					"Forename": "Henrique",
+					"Surname": "Chaves",
+					"Id": 9532
+				}
+			]
+		},
+		"9305": {
+			"Name": "#99 - Original",
+			"Team": 9279,
+			"Car": 9278,
+			"Id": 9305,
+			"Class": 9233,
+			"TeamName": "Zengo Motorsport Services KFT",
+			"drivers": [
+				{
+					"Forename": "Gábor",
+					"Surname": "Kismarty-Lechner",
+					"Id": 9307
+				}
+			]
+		},
+		"9306": {
+			"Name": "#99c",
+			"Team": 8789,
+			"Car": 8788,
+			"Id": 9306,
+			"Class": 8656,
+			"TeamName": "ZENGO MOTORSPORT",
+			"drivers": [
+				{
+					"Forename": "Gábor",
+					"Surname": "Kismarty-Lechner",
+					"Id": 9307
+				}
+			]
+		},
+		"9312": {
+			"Name": "#14",
+			"Team": 9313,
+			"Car": 8604,
+			"Id": 9312,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team Car Collection",
+			"drivers": [
+				{
+					"Forename": "René",
+					"Surname": "Rast",
+					"Id": 6450
+				}
+			]
+		},
+		"9314": {
+			"Name": "#25",
+			"Team": 8632,
+			"Car": 8604,
+			"Id": 9314,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team WRT",
+			"drivers": [
+				{
+					"Forename": "Dries",
+					"Surname": "Vanthoor",
+					"Id": 9519
+				}
+			]
+		},
+		"9319": {
+			"Name": "#4",
+			"Team": 7811,
+			"Car": 7810,
+			"Id": 9319,
+			"Class": 7765,
+			"TeamName": "Volkswagen",
+			"drivers": [
+				{
+					"Forename": "Romain",
+					"Surname": "Dumas",
+					"Id": 4500
+				}
+			]
+		},
+		"9322": {
+			"Name": "#5",
+			"Team": 7811,
+			"Car": 7810,
+			"Id": 9322,
+			"Class": 7765,
+			"TeamName": "Volkswagen Motorsport",
+			"drivers": [
+				{
+					"Forename": "Romain",
+					"Surname": "Dumas",
+					"Id": 4500
+				}
+			]
+		},
+		"9325": {
+			"Name": "#12",
+			"Team": 9385,
+			"Car": 6168,
+			"Id": 9325,
+			"Class": 1703,
+			"TeamName": "Legacy Racing Team",
+			"drivers": [
+				{
+					"Forename": "Tengku",
+					"Surname": "Djan Ley",
+					"Id": 9386
+				}
+			]
+		},
+		"9326": {
+			"Name": "#76",
+			"Team": 9385,
+			"Car": 6168,
+			"Id": 9326,
+			"Class": 1703,
+			"TeamName": "Legacy Racing Team",
+			"drivers": [
+				{
+					"Forename": "Leona",
+					"Surname": "Chin",
+					"Id": 6565
+				}
+			]
+		},
+		"9327": {
+			"Name": "#95",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9327,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Darryl",
+					"Surname": "O'Young",
+					"Id": 9381
+				}
+			]
+		},
+		"9329": {
+			"Name": "#17",
+			"Team": 9390,
+			"Car": 5821,
+			"Id": 9329,
+			"Class": 5824,
+			"TeamName": "Stratos Motorsports",
+			"drivers": [
+				{
+					"Forename": "Muhammad Naquib",
+					"Surname": "bin Nor Azlan",
+					"Id": 9403
+				}
+			]
+		},
+		"9330": {
+			"Name": "#21",
+			"Team": 9390,
+			"Car": 5821,
+			"Id": 9330,
+			"Class": 5824,
+			"TeamName": "Stratos Motorsports",
+			"drivers": [
+				{
+					"Forename": "Yevan",
+					"Surname": "David",
+					"Id": 9404
+				}
+			]
+		},
+		"9331": {
+			"Name": "#27",
+			"Team": 9391,
+			"Car": 5821,
+			"Id": 9331,
+			"Class": 5824,
+			"TeamName": "Scuderia Stratos",
+			"drivers": [
+				{
+					"Forename": "Troy",
+					"Surname": "Eimann",
+					"Id": 9405
+				}
+			]
+		},
+		"9332": {
+			"Name": "#33",
+			"Team": 9391,
+			"Car": 5821,
+			"Id": 9332,
+			"Class": 5824,
+			"TeamName": "Scuderia Stratos",
+			"drivers": [
+				{
+					"Forename": "Raja Ariff",
+					"Surname": "bin Raja Azmi",
+					"Id": 9406
+				}
+			]
+		},
+		"9335": {
+			"Name": "#77",
+			"Team": 9392,
+			"Car": 5821,
+			"Id": 9335,
+			"Class": 5824,
+			"TeamName": "Blackwolf Racing",
+			"drivers": [
+				{
+					"Forename": "Daniel Rein",
+					"Surname": "Ooi",
+					"Id": 9396
+				}
+			]
+		},
+		"9338": {
+			"Name": "#1",
+			"Team": 9387,
+			"Car": 5821,
+			"Id": 9338,
+			"Class": 5824,
+			"TeamName": "Team RSG",
+			"drivers": [
+				{
+					"Forename": "Ayman Aqeem",
+					"Surname": "bin Abas",
+					"Id": 9397
+				}
+			]
+		},
+		"9339": {
+			"Name": "#2",
+			"Team": 9387,
+			"Car": 5821,
+			"Id": 9339,
+			"Class": 5824,
+			"TeamName": "Team RSG",
+			"drivers": [
+				{
+					"Forename": "Ahmad Mikael Hakimi",
+					"Surname": "bin Rosyadin",
+					"Id": 9398
+				}
+			]
+		},
+		"9345": {
+			"Name": "#19",
+			"Team": 9346,
+			"Car": 8652,
+			"Id": 9345,
+			"Class": 8248,
+			"TeamName": "SakuraGear",
+			"drivers": [
+				{
+					"Forename": "Viktor",
+					"Surname": "Öfjäll",
+					"Id": 9337
+				}
+			]
+		},
+		"9348": {
+			"Name": "#13",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9348,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Jason",
+					"Surname": "Mok",
+					"Id": 9374
+				}
+			]
+		},
+		"9349": {
+			"Name": "#16",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9349,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Angel",
+					"Surname": "Ann",
+					"Id": 9375
+				}
+			]
+		},
+		"9350": {
+			"Name": "#18",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9350,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Denise",
+					"Surname": "Yeung",
+					"Id": 9376
+				}
+			]
+		},
+		"9351": {
+			"Name": "#28",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9351,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Kelvin",
+					"Surname": "Lau",
+					"Id": 9377
+				}
+			]
+		},
+		"9352": {
+			"Name": "#30",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9352,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Senna",
+					"Surname": "Sin",
+					"Id": 9378
+				}
+			]
+		},
+		"9353": {
+			"Name": "#68",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9353,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Evan",
+					"Surname": "Chen",
+					"Id": 9379
+				}
+			]
+		},
+		"9354": {
+			"Name": "#79",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9354,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Pluto",
+					"Surname": "Mok",
+					"Id": 9380
+				}
+			]
+		},
+		"9355": {
+			"Name": "#96",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9355,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Carson",
+					"Surname": "Tang",
+					"Id": 9382
+				}
+			]
+		},
+		"9356": {
+			"Name": "#712",
+			"Team": 9384,
+			"Car": 6168,
+			"Id": 9356,
+			"Class": 1703,
+			"TeamName": "Craft-Bamboo Challenger",
+			"drivers": [
+				{
+					"Forename": "Trefer",
+					"Surname": "Ting",
+					"Id": 9383
+				}
+			]
+		},
+		"9357": {
+			"Name": "#66",
+			"Team": 9392,
+			"Car": 5821,
+			"Id": 9357,
+			"Class": 5824,
+			"TeamName": "Blackwolf Racing",
+			"drivers": [
+				{
+					"Forename": "Kalen",
+					"Surname": "Chin",
+					"Id": 9407
+				}
+			]
+		},
+		"9361": {
+			"Name": "#20",
+			"Team": 9471,
+			"Car": 8652,
+			"Id": 9361,
+			"Class": 8248,
+			"TeamName": "Big Kusa Racing",
+			"drivers": [
+				{
+					"Forename": "Kitsune",
+					"Surname": "Magyar",
+					"Id": 9470
+				}
+			]
+		},
+		"9368": {
+			"Name": "#07",
+			"Team": 9388,
+			"Car": 5821,
+			"Id": 9368,
+			"Class": 5824,
+			"TeamName": "Wulf Virtual Racing",
+			"drivers": [
+				{
+					"Forename": "Colin Kah Chun",
+					"Surname": "Lee",
+					"Id": 9399
+				}
+			]
+		},
+		"9369": {
+			"Name": "#8",
+			"Team": 9388,
+			"Car": 5821,
+			"Id": 9369,
+			"Class": 5824,
+			"TeamName": "Wulf Virtual Racing",
+			"drivers": [
+				{
+					"Forename": "Alvin Yee Siang",
+					"Surname": "Yak",
+					"Id": 9400
+				}
+			]
+		},
+		"9370": {
+			"Name": "#11",
+			"Team": 9389,
+			"Car": 5821,
+			"Id": 9370,
+			"Class": 5824,
+			"TeamName": "GT Radial Eurasia Motorsport",
+			"drivers": [
+				{
+					"Forename": "Inigo",
+					"Surname": "Anton",
+					"Id": 9401
+				}
+			]
+		},
+		"9371": {
+			"Name": "#12",
+			"Team": 9389,
+			"Car": 5821,
+			"Id": 9371,
+			"Class": 5824,
+			"TeamName": "GT Radial Eurasia Motorsport",
+			"drivers": [
+				{
+					"Forename": "Don",
+					"Surname": "Tacos",
+					"Id": 9402
+				}
+			]
+		},
+		"9372": {
+			"Name": "#88",
+			"Team": 9393,
+			"Car": 5821,
+			"Id": 9372,
+			"Class": 5824,
+			"TeamName": "i1 Racing",
+			"drivers": [
+				{
+					"Forename": "Chern Yang",
+					"Surname": "Loo",
+					"Id": 9395
+				}
+			]
+		},
+		"9373": {
+			"Name": "#188",
+			"Team": 9393,
+			"Car": 5821,
+			"Id": 9373,
+			"Class": 5824,
+			"TeamName": "i1 Racing",
+			"drivers": [
+				{
+					"Forename": "Benjamin James",
+					"Surname": "Seek",
+					"Id": 9394
+				}
+			]
+		},
+		"9415": {
+			"Name": "#05",
+			"Team": 9420,
+			"Car": 8900,
+			"Id": 9415,
+			"Class": 5825,
+			"TeamName": "Hella Pagid - Racing One",
+			"drivers": [
+				{
+					"Forename": "Lucas",
+					"Surname": "Mauron",
+					"Id": 9542
+				}
+			]
+		},
+		"9416": {
+			"Name": "#5",
+			"Team": 9420,
+			"Car": 8900,
+			"Id": 9416,
+			"Class": 5825,
+			"TeamName": "Hella Pagid - Racing One",
+			"drivers": [
+				{
+					"Forename": "Cristian",
+					"Surname": "Stingu",
+					"Id": 9543
+				}
+			]
+		},
+		"9424": {
+			"Name": "#6",
+			"Team": 9420,
+			"Car": 8900,
+			"Id": 9424,
+			"Class": 5825,
+			"TeamName": "Hella Pagid - Racing One",
+			"drivers": [
+				{
+					"Forename": "Kelvin",
+					"Surname": "Snoeks",
+					"Id": 9544
+				}
+			]
+		},
+		"9425": {
+			"Name": "#71",
+			"Team": 9419,
+			"Car": 8900,
+			"Id": 9425,
+			"Class": 5825,
+			"TeamName": "T3-HRT-Motorsport",
+			"drivers": [
+				{
+					"Forename": "William",
+					"Surname": "Tregurtha",
+					"Id": 8198
+				}
+			]
+		},
+		"9426": {
+			"Name": "#77",
+			"Team": 9422,
+			"Car": 8900,
+			"Id": 9426,
+			"Class": 5825,
+			"TeamName": "Carbogaz Racing",
+			"drivers": [
+				{
+					"Forename": "David",
+					"Surname": "Serban",
+					"Id": 9545
+				}
+			]
+		},
+		"9427": {
+			"Name": "#402",
+			"Team": 9418,
+			"Car": 8900,
+			"Id": 9427,
+			"Class": 5825,
+			"TeamName": "Heide Motorsport",
+			"drivers": [
+				{
+					"Forename": "Rahel",
+					"Surname": "Frey",
+					"Id": 9546
+				}
+			]
+		},
+		"9484": {
+			"Name": "#3",
+			"Team": 9513,
+			"Car": 5821,
+			"Id": 9484,
+			"Class": 5824,
+			"TeamName": "Safehouse",
+			"drivers": [
+				{
+					"Forename": "Alister",
+					"Surname": "Yoong",
+					"Id": 9514
+				}
+			]
+		},
+		"9485": {
+			"Name": "#4",
+			"Team": 9513,
+			"Car": 5821,
+			"Id": 9485,
+			"Class": 5824,
+			"TeamName": "Safehouse",
+			"drivers": [
+				{
+					"Forename": "Mikko",
+					"Surname": "Nassi",
+					"Id": 9515
+				}
+			]
+		},
+		"9493": {
+			"Name": "#10",
+			"Team": 9516,
+			"Car": 8604,
+			"Id": 9493,
+			"Class": 1703,
+			"TeamName": "Team WRT",
+			"drivers": [
+				{
+					"Forename": "Charles",
+					"Surname": "Weerts",
+					"Id": 9517
+				}
+			]
+		},
+		"9494": {
+			"Name": "#31",
+			"Team": 9534,
+			"Car": 8604,
+			"Id": 9494,
+			"Class": 1703,
+			"TeamName": "Audi Sport Team Rutronik",
+			"drivers": [
+				{
+					"Forename": "Kelvin",
+					"Surname": "van der Linde",
+					"Id": 9460
+				}
+			]
+		},
+		"9495": {
+			"Name": "#34",
+			"Team": 9530,
+			"Car": 8604,
+			"Id": 9495,
+			"Class": 1703,
+			"TeamName": "Car Collection Motorsport",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Edelhoff",
+					"Id": 9535
+				}
+			]
+		},
+		"9496": {
+			"Name": "#66",
+			"Team": 9536,
+			"Car": 8604,
+			"Id": 9496,
+			"Class": 1703,
+			"TeamName": "Audi Sport Asia Team TSRT",
+			"drivers": [
+				{
+					"Forename": "Weian",
+					"Surname": "Chen",
+					"Id": 9537
+				}
+			]
+		},
+		"9497": {
+			"Name": "#88",
+			"Team": 9538,
+			"Car": 8604,
+			"Id": 9497,
+			"Class": 1703,
+			"TeamName": "Team Belgium",
+			"drivers": [
+				{
+					"Forename": "Louis",
+					"Surname": "Machiels",
+					"Id": 9539
+				}
+			]
+		},
+		"9498": {
+			"Name": "#5",
+			"Team": 9502,
+			"Car": 8604,
+			"Id": 9498,
+			"Class": 1703,
+			"TeamName": "Phoenix Racing",
+			"drivers": [
+				{
+					"Forename": "Kim-Luis",
+					"Surname": "Schramm",
+					"Id": 9540
+				}
+			]
+		},
+		"9499": {
+			"Name": "#7",
+			"Team": 9521,
+			"Car": 8604,
+			"Id": 9499,
+			"Class": 1703,
+			"TeamName": "MS7 by WRT",
+			"drivers": [
+				{
+					"Forename": "Mohammed Saud",
+					"Surname": "Fahad",
+					"Id": 9522
+				}
+			]
+		},
+		"9500": {
+			"Name": "#9",
+			"Team": 9502,
+			"Car": 8604,
+			"Id": 9500,
+			"Class": 1703,
+			"TeamName": "Phoenix Racing",
+			"drivers": [
+				{
+					"Forename": "Michele",
+					"Surname": "Beretta",
+					"Id": 9518
+				}
+			]
+		},
+		"9501": {
+			"Name": "#15",
+			"Team": 9502,
+			"Car": 8604,
+			"Id": 9501,
+			"Class": 1703,
+			"TeamName": "Phoenix Racing",
+			"drivers": [
+				{
+					"Forename": "Kim-Luis",
+					"Surname": "Schramm",
+					"Id": 9540
+				}
+			]
+		},
+		"9503": {
+			"Name": "#26",
+			"Team": 9504,
+			"Car": 8604,
+			"Id": 9503,
+			"Class": 1703,
+			"TeamName": "Saintéloc Racing",
+			"drivers": [
+				{
+					"Forename": "Steven",
+					"Surname": "Palette",
+					"Id": 7322
+				}
+			]
+		},
+		"9505": {
+			"Name": "#99",
+			"Team": 9506,
+			"Car": 8604,
+			"Id": 9505,
+			"Class": 1703,
+			"TeamName": "Attempto Racing",
+			"drivers": [
+				{
+					"Forename": "Nicolas",
+					"Surname": "Schöll",
+					"Id": 8036
 				}
 			]
 		}
@@ -68095,7 +71345,7 @@
 			]
 		},
 		"2519": {
-			"Name": "Brands Hatch",
+			"Name": "Brands Hatch Indy",
 			"Id": 2519,
 			"layouts": [
 				{
@@ -68625,6 +71875,48 @@
 					"Track": 8703,
 					"MaxNumberOfVehicles": 32,
 					"Id": 9043
+				}
+			]
+		},
+		"9176": {
+			"Name": "Watkins Glen International",
+			"Id": 9176,
+			"layouts": [
+				{
+					"Name": "Short with Inner loop",
+					"Track": 9176,
+					"MaxNumberOfVehicles": 43,
+					"Id": 9177
+				},
+				{
+					"Name": "Grand Prix with Inner Loop",
+					"Track": 9176,
+					"MaxNumberOfVehicles": 43,
+					"Id": 9324
+				},
+				{
+					"Name": "Short Circuit",
+					"Track": 9176,
+					"MaxNumberOfVehicles": 43,
+					"Id": 9343
+				},
+				{
+					"Name": "Grand Prix",
+					"Track": 9176,
+					"MaxNumberOfVehicles": 43,
+					"Id": 9344
+				}
+			]
+		},
+		"9472": {
+			"Name": "Brands Hatch Grand Prix",
+			"Id": 9472,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 9472,
+					"MaxNumberOfVehicles": 34,
+					"Id": 9473
 				}
 			]
 		}
@@ -69373,6 +72665,36 @@
 			"Track": 2467,
 			"MaxNumberOfVehicles": 36,
 			"Id": 9055
+		},
+		"9177": {
+			"Name": "Short with Inner loop",
+			"Track": 9176,
+			"MaxNumberOfVehicles": 43,
+			"Id": 9177
+		},
+		"9324": {
+			"Name": "Grand Prix with Inner Loop",
+			"Track": 9176,
+			"MaxNumberOfVehicles": 43,
+			"Id": 9324
+		},
+		"9343": {
+			"Name": "Short Circuit",
+			"Track": 9176,
+			"MaxNumberOfVehicles": 43,
+			"Id": 9343
+		},
+		"9344": {
+			"Name": "Grand Prix",
+			"Track": 9176,
+			"MaxNumberOfVehicles": 43,
+			"Id": 9344
+		},
+		"9473": {
+			"Name": "Grand Prix",
+			"Track": 9472,
+			"MaxNumberOfVehicles": 34,
+			"Id": 9473
 		}
 	},
 	"classes": {
@@ -69438,6 +72760,9 @@
 			"Cars": [
 				{
 					"Id": 6057
+				},
+				{
+					"Id": 8604
 				},
 				{
 					"Id": 2037
@@ -69986,6 +73311,9 @@
 			"Name": "GTR 4",
 			"Cars": [
 				{
+					"Id": 8900
+				},
+				{
 					"Id": 8053
 				},
 				{
@@ -70337,10 +73665,22 @@
 			"Name": "GT2",
 			"Cars": [
 				{
+					"Id": 8652
+				},
+				{
 					"Id": 8242
 				}
 			],
 			"Id": 8248
+		},
+		"8483": {
+			"Name": "Group 2",
+			"Cars": [
+				{
+					"Id": 8498
+				}
+			],
+			"Id": 8483
 		},
 		"8600": {
 			"Name": "GTE",
@@ -75701,7 +79041,7 @@
 		},
 		"7811": {
 			"Type": "CarTeam",
-			"Name": "Volkswagen",
+			"Name": "Volkswagen Motorsport",
 			"Id": 7811
 		},
 		"7833": {
@@ -76349,6 +79689,11 @@
 			"Name": "Porsche Factory Team",
 			"Id": 8488
 		},
+		"8499": {
+			"Type": "CarTeam",
+			"Name": "Zender GmbH",
+			"Id": 8499
+		},
 		"8502": {
 			"Type": "CarTeam",
 			"Name": "EFP by TECE",
@@ -76363,6 +79708,86 @@
 			"Type": "CarTeam",
 			"Name": "Team ISR",
 			"Id": 8504
+		},
+		"8520": {
+			"Type": "CarTeam",
+			"Name": "TL RACING AB",
+			"Id": 8520
+		},
+		"8521": {
+			"Type": "CarTeam",
+			"Name": "Müller-Tuning GmbH",
+			"Id": 8521
+		},
+		"8522": {
+			"Type": "CarTeam",
+			"Name": "AC Dinamo Slovenijaauto",
+			"Id": 8522
+		},
+		"8523": {
+			"Type": "CarTeam",
+			"Name": "Team Menden",
+			"Id": 8523
+		},
+		"8524": {
+			"Type": "CarTeam",
+			"Name": "Arlt",
+			"Id": 8524
+		},
+		"8525": {
+			"Type": "CarTeam",
+			"Name": "Jägermeister",
+			"Id": 8525
+		},
+		"8526": {
+			"Type": "CarTeam",
+			"Name": "MSC Bad Canstatt",
+			"Id": 8526
+		},
+		"8527": {
+			"Type": "CarTeam",
+			"Name": "Fenstermann Rennsport",
+			"Id": 8527
+		},
+		"8528": {
+			"Type": "CarTeam",
+			"Name": "Oettinger",
+			"Id": 8528
+		},
+		"8529": {
+			"Type": "CarTeam",
+			"Name": "VW-Motorsport Hannover",
+			"Id": 8529
+		},
+		"8530": {
+			"Type": "CarTeam",
+			"Name": "Valvoline Team",
+			"Id": 8530
+		},
+		"8531": {
+			"Type": "CarTeam",
+			"Name": "Klaus Liegensa",
+			"Id": 8531
+		},
+		"8532": {
+			"Type": "CarTeam",
+			"Name": "Schlafgut",
+			"Id": 8532
+		},
+		"8533": {
+			"Type": "CarTeam",
+			"Name": "KWL-Motorsport",
+			"Id": 8533
+		},
+		"8534": {
+			"Type": "CarTeam",
+			"Name": "Klaus Peter",
+			"Id": 8534
+		},
+		"8554": {
+			"Type": "CarTeam",
+			"Name": "KW Suspension",
+			"Id": 8554
 		},
 		"8559": {
 			"Type": "CarTeam",
@@ -76409,10 +79834,35 @@
 			"Name": "Porsche GT Team",
 			"Id": 8602
 		},
+		"8605": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Customer Racing",
+			"Id": 8605
+		},
 		"8610": {
 			"Type": "CarTeam",
 			"Name": "Apex Racing",
 			"Id": 8610
+		},
+		"8632": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport WRT Speedstar",
+			"Id": 8632
+		},
+		"8633": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Valvoline",
+			"Id": 8633
+		},
+		"8634": {
+			"Type": "CarTeam",
+			"Name": "Bostik Australia",
+			"Id": 8634
+		},
+		"8635": {
+			"Type": "CarTeam",
+			"Name": "Hallmarc Racing",
+			"Id": 8635
 		},
 		"8636": {
 			"Type": "CarTeam",
@@ -76438,6 +79888,11 @@
 			"Type": "CarTeam",
 			"Name": "NKPP Racing by Bas Koeten Racing",
 			"Id": 8644
+		},
+		"8653": {
+			"Type": "CarTeam",
+			"Name": "Audi Factory Team",
+			"Id": 8653
 		},
 		"8658": {
 			"Type": "CarTeam",
@@ -76603,6 +80058,16 @@
 			"Type": "CarTeam",
 			"Name": "ALL INKL.COM MUNNICH MOTORSPORT",
 			"Id": 8845
+		},
+		"8847": {
+			"Type": "CarTeam",
+			"Name": "Hering Ronny",
+			"Id": 8847
+		},
+		"8901": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport",
+			"Id": 8901
 		},
 		"8912": {
 			"Type": "CarTeam",
@@ -76814,6 +80279,66 @@
 			"Name": "EURONICS Gaming",
 			"Id": 8957
 		},
+		"8960": {
+			"Type": "CarTeam",
+			"Name": "Arctic Lupus Energy",
+			"Id": 8960
+		},
+		"8961": {
+			"Type": "CarTeam",
+			"Name": "Weasel Energy",
+			"Id": 8961
+		},
+		"8983": {
+			"Type": "CarTeam",
+			"Name": "ADVAN Racing",
+			"Id": 8983
+		},
+		"8984": {
+			"Type": "CarTeam",
+			"Name": "RaceRoom",
+			"Id": 8984
+		},
+		"8985": {
+			"Type": "CarTeam",
+			"Name": "KW Suspension",
+			"Id": 8985
+		},
+		"8992": {
+			"Type": "CarTeam",
+			"Name": "Aust Motorsport",
+			"Id": 8992
+		},
+		"8994": {
+			"Type": "CarTeam",
+			"Name": "HCB-Rutronik Racing ",
+			"Id": 8994
+		},
+		"8995": {
+			"Type": "CarTeam",
+			"Name": "EFP Car Collection by TECE",
+			"Id": 8995
+		},
+		"8996": {
+			"Type": "CarTeam",
+			"Name": "BWT Mücke Motorsport",
+			"Id": 8996
+		},
+		"8997": {
+			"Type": "CarTeam",
+			"Name": "Montaplast by Land-Motorsport",
+			"Id": 8997
+		},
+		"8998": {
+			"Type": "CarTeam",
+			"Name": "T3 Motorsport",
+			"Id": 8998
+		},
+		"8999": {
+			"Type": "CarTeam",
+			"Name": "Team ISR",
+			"Id": 8999
+		},
 		"9022": {
 			"Type": "CarTeam",
 			"Name": "ADAC",
@@ -76843,6 +80368,11 @@
 			"Type": "CarTeam",
 			"Name": "MAHLE Racing Team",
 			"Id": 9039
+		},
+		"9047": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Customer Racing",
+			"Id": 9047
 		},
 		"9071": {
 			"Type": "CarTeam",
@@ -76889,6 +80419,11 @@
 			"Name": "unnamed team",
 			"Id": 9081
 		},
+		"9084": {
+			"Type": "CarTeam",
+			"Name": "Land Motorsport",
+			"Id": 9084
+		},
 		"9085": {
 			"Type": "CarTeam",
 			"Name": "Matrans Motorsport",
@@ -76901,17 +80436,17 @@
 		},
 		"9097": {
 			"Type": "CarTeam",
-			"Name": "BMW Team RBM",
+			"Name": "Team Auer",
 			"Id": 9097
 		},
 		"9098": {
 			"Type": "CarTeam",
-			"Name": "BMW Team RMG",
+			"Name": "Team Glock",
 			"Id": 9098
 		},
 		"9099": {
 			"Type": "CarTeam",
-			"Name": "BMW Motorsport SIM Racing",
+			"Name": "Wildcard",
 			"Id": 9099
 		},
 		"9103": {
@@ -76921,22 +80456,22 @@
 		},
 		"9105": {
 			"Type": "CarTeam",
-			"Name": "Audi Sport Team ABT Sportsline",
+			"Name": "RENAME ME",
 			"Id": 9105
 		},
 		"9106": {
 			"Type": "CarTeam",
-			"Name": "Audi Sport Team Phoenix",
+			"Name": "Team Bortolotti",
 			"Id": 9106
 		},
 		"9107": {
 			"Type": "CarTeam",
-			"Name": "Audi Sport Team Rosberg",
+			"Name": "Team K. vd. Linde",
 			"Id": 9107
 		},
 		"9108": {
 			"Type": "CarTeam",
-			"Name": "WRT Team Audi Sport",
+			"Name": "Team Scherer",
 			"Id": 9108
 		},
 		"9149": {
@@ -76946,7 +80481,7 @@
 		},
 		"9150": {
 			"Type": "CarTeam",
-			"Name": "BMW Team RMR",
+			"Name": "Team S. vd. Linde",
 			"Id": 9150
 		},
 		"9155": {
@@ -77103,6 +80638,206 @@
 			"Type": "CarTeam",
 			"Name": "Team Fordzilla",
 			"Id": 9291
+		},
+		"9309": {
+			"Type": "CarTeam",
+			"Name": "GPX Racing",
+			"Id": 9309
+		},
+		"9313": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Car Collection",
+			"Id": 9313
+		},
+		"9316": {
+			"Type": "CarTeam",
+			"Name": "Team Portugal",
+			"Id": 9316
+		},
+		"9346": {
+			"Type": "CarTeam",
+			"Name": "SakuraGear",
+			"Id": 9346
+		},
+		"9347": {
+			"Type": "CarTeam",
+			"Name": "Sector3 Studios",
+			"Id": 9347
+		},
+		"9363": {
+			"Type": "CarTeam",
+			"Name": "JLP Racing",
+			"Id": 9363
+		},
+		"9384": {
+			"Type": "CarTeam",
+			"Name": "Craft-Bamboo Challenger",
+			"Id": 9384
+		},
+		"9385": {
+			"Type": "CarTeam",
+			"Name": "Legacy Racing Team",
+			"Id": 9385
+		},
+		"9387": {
+			"Type": "CarTeam",
+			"Name": "Team RSG",
+			"Id": 9387
+		},
+		"9388": {
+			"Type": "CarTeam",
+			"Name": "Wulf Virtual Racing",
+			"Id": 9388
+		},
+		"9389": {
+			"Type": "CarTeam",
+			"Name": "GT Radial Eurasia Motorsport",
+			"Id": 9389
+		},
+		"9390": {
+			"Type": "CarTeam",
+			"Name": "Stratos Motorsports",
+			"Id": 9390
+		},
+		"9391": {
+			"Type": "CarTeam",
+			"Name": "Scuderia Stratos",
+			"Id": 9391
+		},
+		"9392": {
+			"Type": "CarTeam",
+			"Name": "Blackwolf Racing",
+			"Id": 9392
+		},
+		"9393": {
+			"Type": "CarTeam",
+			"Name": "i1 Racing",
+			"Id": 9393
+		},
+		"9417": {
+			"Type": "CarTeam",
+			"Name": "Absolute Racing",
+			"Id": 9417
+		},
+		"9418": {
+			"Type": "CarTeam",
+			"Name": "Heide Motorsport",
+			"Id": 9418
+		},
+		"9419": {
+			"Type": "CarTeam",
+			"Name": "T3-HRT-Motorsport",
+			"Id": 9419
+		},
+		"9420": {
+			"Type": "CarTeam",
+			"Name": "Hella Pagid - Racing One",
+			"Id": 9420
+		},
+		"9421": {
+			"Type": "CarTeam",
+			"Name": "Racing One ",
+			"Id": 9421
+		},
+		"9422": {
+			"Type": "CarTeam",
+			"Name": "Carbogaz Racing",
+			"Id": 9422
+		},
+		"9423": {
+			"Type": "CarTeam",
+			"Name": "Superdrink by Spielkind Racing",
+			"Id": 9423
+		},
+		"9447": {
+			"Type": "CarTeam",
+			"Name": "Bill Scott Racing",
+			"Id": 9447
+		},
+		"9448": {
+			"Type": "CarTeam",
+			"Name": "Scott Racing Associates Ltd.",
+			"Id": 9448
+		},
+		"9449": {
+			"Type": "CarTeam",
+			"Name": "Ronny Hering",
+			"Id": 9449
+		},
+		"9452": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport",
+			"Id": 9452
+		},
+		"9457": {
+			"Type": "CarTeam",
+			"Name": "GMG Racing",
+			"Id": 9457
+		},
+		"9471": {
+			"Type": "CarTeam",
+			"Name": "Big Kusa Racing",
+			"Id": 9471
+		},
+		"9502": {
+			"Type": "CarTeam",
+			"Name": "Phoenix Racing",
+			"Id": 9502
+		},
+		"9504": {
+			"Type": "CarTeam",
+			"Name": "Saintéloc Racing",
+			"Id": 9504
+		},
+		"9506": {
+			"Type": "CarTeam",
+			"Name": "Attempto racing",
+			"Id": 9506
+		},
+		"9513": {
+			"Type": "CarTeam",
+			"Name": "Safehouse",
+			"Id": 9513
+		},
+		"9516": {
+			"Type": "CarTeam",
+			"Name": "Team WRT",
+			"Id": 9516
+		},
+		"9521": {
+			"Type": "CarTeam",
+			"Name": "MS7 by WRT",
+			"Id": 9521
+		},
+		"9527": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Phoenix Racing",
+			"Id": 9527
+		},
+		"9530": {
+			"Type": "CarTeam",
+			"Name": "Car Collection Motorsport",
+			"Id": 9530
+		},
+		"9533": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team WRT",
+			"Id": 9533
+		},
+		"9534": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Rutronik",
+			"Id": 9534
+		},
+		"9536": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Asia Team TSRT",
+			"Id": 9536
+		},
+		"9538": {
+			"Type": "CarTeam",
+			"Name": "Team Belgium",
+			"Id": 9538
 		}
 	}
 }
