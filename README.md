@@ -37,6 +37,7 @@ r3e.getVehicleInfo({
         "gear": "int",
         "speed": "int", //km per h
         "drsLeft": "int",
+        "drsTotal": "int",
         "drsEnabled": "bool"
     }
     */
@@ -54,6 +55,9 @@ r3e.getPitInfo({
     // pitInfo
     {
         "slotId": "int",
+        "inPitlane": "bool",
+        "isPitting": "bool",
+        "numPitstops": "int",
         "servedMandatoryPitstop": "bool",
         "tyreType": "string",
         "damage": {
@@ -140,6 +144,7 @@ r3e.getDriverInfo({
         "mandatoryPitstopPerformed": "int",
         "scoreInfo": {
             "positionOverall": "int",
+            "positionRaceGridClass": "int",
             "positionClass": "int",
             "laps": "int",
             "distanceTravelled": "int", //meters
@@ -156,7 +161,8 @@ r3e.getDriverInfo({
             "flagInfo": {
                 "black": "int",
                 "blue": "int",
-                "yellow": "int"
+                "yellow": "int",
+                "causedYellow": "bool"
             }
         }
     }
@@ -184,6 +190,7 @@ r3e.getDriversInfo(function(driversInfo) {
             "mandatoryPitstopPerformed": "int",
             "scoreInfo": {
                 "positionOverall": "int",
+                "positionRaceGridClass": "int",
                 "positionClass": "int",
                 "laps": "int",
                 "distanceTravelled": "int", //meters
@@ -200,7 +207,8 @@ r3e.getDriversInfo(function(driversInfo) {
                 "flagInfo": {
                     "black": "int",
                     "blue": "int",
-                    "yellow": "int"
+                    "yellow": "int",
+                    "causedYellow": "bool"
                 }
             }
         },
@@ -440,6 +448,7 @@ r3e.on.eventOccurred(function(event) {
         // Time = 3,
         // Slowdown = 4,
         // Disqualify = 5,
+        // Misc = 6,
         "type": "int",
 
         // Based on the type you can assume the reason is:
@@ -491,6 +500,18 @@ r3e.on.eventOccurred(function(event) {
         // DisqualifyPenaltyExcessiveCutting = 12,
         // DisqualifyPenaltyIgnoredBlueFlag = 13,
         // DisqualifyPenaltyMax = 14
+
+        // MiscClassLeaderPitting = 0
+        // MiscClassNewLeader = 1
+        // MiscClassNewFastestLap = 2
+        // MiscClassNewFastestSector = 3
+        // MiscCollision = 4
+        // MiscOffTrack = 5
+        // MiscStationary = 6
+        // MiscLostControl = 7
+        // MiscCriticalDamage = 8
+        // MiscPuncture = 9
+
         "reason": "int"
     }
     */

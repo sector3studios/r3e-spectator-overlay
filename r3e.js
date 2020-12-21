@@ -229,7 +229,11 @@ window.r3e = (function r3eBridge() {
 			'rlFront': cameraChanger('rl_front'),
 			'rrFront': cameraChanger('rr_front'),
 			'exhaust': cameraChanger('exhaust'),
-			'wing': cameraChanger('wing')
+			'wing': cameraChanger('wing'),
+			'tv': cameraChanger('1_tv'),
+			'action': cameraChanger('2_action'),
+			'heli': cameraChanger('3_heli'),
+			'static': cameraChanger('4_static')
 		},
 		'on': {
 			'resultsUpdate': listener({
