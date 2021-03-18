@@ -21092,6 +21092,36 @@ var r3eData = {
 							"Id": 7705
 						}
 					]
+				},
+				{
+					"Name": "#53",
+					"Team": 9800,
+					"Car": 6174,
+					"Id": 9798,
+					"Class": 1703,
+					"TeamName": "Zeroforce Racing",
+					"drivers": [
+						{
+							"Forename": "Ronny",
+							"Surname": "Krey",
+							"Id": 9801
+						}
+					]
+				},
+				{
+					"Name": "#87",
+					"Team": 9800,
+					"Car": 6174,
+					"Id": 9799,
+					"Class": 1703,
+					"TeamName": "Zeroforce Racing",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Petermann",
+							"Id": 9802
+						}
+					]
 				}
 			]
 		},
@@ -33185,6 +33215,21 @@ var r3eData = {
 							"Forename": "Ilya",
 							"Surname": "Monitorov",
 							"Id": 7840
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 8699,
+					"Car": 8698,
+					"Id": 9785,
+					"Class": 8660,
+					"TeamName": "LADA Sport ROSNEFT",
+					"drivers": [
+						{
+							"Forename": "Vladimir",
+							"Surname": "Sheshenin",
+							"Id": 9804
 						}
 					]
 				}
@@ -73141,6 +73186,51 @@ var r3eData = {
 					"Id": 8362
 				}
 			]
+		},
+		"9785": {
+			"Name": "#77",
+			"Team": 8699,
+			"Car": 8698,
+			"Id": 9785,
+			"Class": 8660,
+			"TeamName": "LADA Sport ROSNEFT",
+			"drivers": [
+				{
+					"Forename": "Vladimir",
+					"Surname": "Sheshenin",
+					"Id": 9804
+				}
+			]
+		},
+		"9798": {
+			"Name": "#53",
+			"Team": 9800,
+			"Car": 6174,
+			"Id": 9798,
+			"Class": 1703,
+			"TeamName": "Zeroforce Racing",
+			"drivers": [
+				{
+					"Forename": "Ronny",
+					"Surname": "Krey",
+					"Id": 9801
+				}
+			]
+		},
+		"9799": {
+			"Name": "#87",
+			"Team": 9800,
+			"Car": 6174,
+			"Id": 9799,
+			"Class": 1703,
+			"TeamName": "Zeroforce Racing",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Petermann",
+					"Id": 9802
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -83375,6 +83465,21 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Bullitt Racing",
 			"Id": 9757
+		},
+		"9787": {
+			"Type": "CarTeam",
+			"Name": "WeatherTech Racing",
+			"Id": 9787
+		},
+		"9800": {
+			"Type": "CarTeam",
+			"Name": "Zeroforce Racing",
+			"Id": 9800
+		},
+		"9803": {
+			"Type": "CarTeam",
+			"Name": "unnamed team",
+			"Id": 9803
 		}
 	}
 };
