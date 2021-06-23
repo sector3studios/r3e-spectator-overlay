@@ -35247,6 +35247,171 @@
 							"Id": 10006
 						}
 					]
+				},
+				{
+					"Name": "#42",
+					"Team": 9995,
+					"Car": 8726,
+					"Id": 10241,
+					"Class": 8660,
+					"TeamName": "M1RA Esports",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Barna",
+							"Id": 10092
+						}
+					]
+				},
+				{
+					"Name": "#58",
+					"Team": 10003,
+					"Car": 8726,
+					"Id": 10242,
+					"Class": 8660,
+					"TeamName": "Ballas Racing Team",
+					"drivers": [
+						{
+							"Forename": "Petr",
+							"Surname": "Pliska",
+							"Id": 10081
+						}
+					]
+				},
+				{
+					"Name": "#66",
+					"Team": 9996,
+					"Car": 8726,
+					"Id": 10243,
+					"Class": 8660,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Rächl",
+							"Id": 10069
+						}
+					]
+				},
+				{
+					"Name": "#77",
+					"Team": 10247,
+					"Car": 8726,
+					"Id": 10244,
+					"Class": 8660,
+					"TeamName": "Arnage Competition",
+					"drivers": [
+						{
+							"Forename": "Adam",
+							"Surname": "Pinczes",
+							"Id": 9017
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 10001,
+					"Car": 8726,
+					"Id": 10245,
+					"Class": 8660,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Alessandro",
+							"Surname": "Ottaviani",
+							"Id": 10248
+						}
+					]
+				},
+				{
+					"Name": "#94",
+					"Team": 9999,
+					"Car": 8726,
+					"Id": 10246,
+					"Class": 8660,
+					"TeamName": "Snow Schatten Esports",
+					"drivers": [
+						{
+							"Forename": "Lucas",
+							"Surname": "Werle",
+							"Id": 10249
+						}
+					]
+				},
+				{
+					"Name": "#28",
+					"Team": 8727,
+					"Car": 8726,
+					"Id": 10250,
+					"Class": 8660,
+					"TeamName": "CUPRA Leon Competición",
+					"drivers": [
+						{
+							"Forename": "Sebastian",
+							"Surname": "Stahl",
+							"Id": 7961
+						}
+					]
+				},
+				{
+					"Name": "#79",
+					"Team": 10002,
+					"Car": 8726,
+					"Id": 10251,
+					"Class": 8660,
+					"TeamName": "LADA Sport ROSNEFT",
+					"drivers": [
+						{
+							"Forename": "Kirill",
+							"Surname": "Sokovikov",
+							"Id": 10259
+						}
+					]
+				},
+				{
+					"Name": "#92",
+					"Team": 10261,
+					"Car": 8726,
+					"Id": 10252,
+					"Class": 8660,
+					"TeamName": "Absolute Motorsport Racing Team",
+					"drivers": [
+						{
+							"Forename": "Rasmus",
+							"Surname": "Salo",
+							"Id": 10260
+						}
+					]
+				},
+				{
+					"Name": "#95",
+					"Team": 9997,
+					"Car": 8726,
+					"Id": 10253,
+					"Class": 8660,
+					"TeamName": "Independent",
+					"drivers": [
+						{
+							"Forename": "Dávid",
+							"Surname": "Tóth",
+							"Id": 9059
+						}
+					]
+				},
+				{
+					"Name": "#79",
+					"Team": 9997,
+					"Car": 8726,
+					"Id": 10254,
+					"Class": 8660,
+					"TeamName": "Independent",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Marx",
+							"Id": 10262
+						}
+					]
 				}
 			]
 		},
@@ -39620,6 +39785,46 @@
 				}
 			]
 		},
+		"9761": {
+			"Name": "BMW M3 E30 Sideways",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
+			"DefaultLivery": 9771,
+			"Id": 9761,
+			"Class": 1711,
+			"liveries": [
+				{
+					"Name": "#229",
+					"Team": 9762,
+					"Car": 9761,
+					"Id": 9771,
+					"Class": 1711,
+					"TeamName": "Red Bull Driftbrothers",
+					"drivers": [
+						{
+							"Forename": "Elias",
+							"Surname": "Houndtondji",
+							"Id": 9781
+						}
+					]
+				},
+				{
+					"Name": "#229",
+					"Team": 9762,
+					"Car": 9761,
+					"Id": 9797,
+					"Class": 1711,
+					"TeamName": "Red Bull Driftbrothers",
+					"drivers": [
+						{
+							"Forename": "Johannes",
+							"Surname": "Hountondji",
+							"Id": 9782
+						}
+					]
+				}
+			]
+		},
 		"10051": {
 			"Name": "Audi R8 LMS GT3 EVO",
 			"BrandName": "Audi",
@@ -40365,6 +40570,31 @@
 							"Forename": "Guest",
 							"Surname": "Driver",
 							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"10263": {
+			"Name": "Ford Mustang Mach-E 1400",
+			"BrandName": "Ford",
+			"CarManufacturer": 2626,
+			"DefaultLivery": 10265,
+			"Id": 10263,
+			"Class": 10266,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 10264,
+					"Car": 10263,
+					"Id": 10265,
+					"Class": 10266,
+					"TeamName": "Ford",
+					"drivers": [
+						{
+							"Forename": "Brian",
+							"Surname": "Novak",
+							"Id": 10277
 						}
 					]
 				}
@@ -76232,6 +76462,21 @@
 				}
 			]
 		},
+		"9771": {
+			"Name": "#229",
+			"Team": 9762,
+			"Car": 9761,
+			"Id": 9771,
+			"Class": 1711,
+			"TeamName": "Red Bull Driftbrothers",
+			"drivers": [
+				{
+					"Forename": "Elias",
+					"Surname": "Houndtondji",
+					"Id": 9781
+				}
+			]
+		},
 		"9785": {
 			"Name": "#77",
 			"Team": 8699,
@@ -76259,6 +76504,21 @@
 					"Forename": "Kevin",
 					"Surname": "Estre",
 					"Id": 7695
+				}
+			]
+		},
+		"9797": {
+			"Name": "#229",
+			"Team": 9762,
+			"Car": 9761,
+			"Id": 9797,
+			"Class": 1711,
+			"TeamName": "Red Bull Driftbrothers",
+			"drivers": [
+				{
+					"Forename": "Johannes",
+					"Surname": "Hountondji",
+					"Id": 9782
 				}
 			]
 		},
@@ -78331,6 +78591,186 @@
 					"Id": 10219
 				}
 			]
+		},
+		"10241": {
+			"Name": "#42",
+			"Team": 9995,
+			"Car": 8726,
+			"Id": 10241,
+			"Class": 8660,
+			"TeamName": "M1RA Esports",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Barna",
+					"Id": 10092
+				}
+			]
+		},
+		"10242": {
+			"Name": "#58",
+			"Team": 10003,
+			"Car": 8726,
+			"Id": 10242,
+			"Class": 8660,
+			"TeamName": "Ballas Racing Team",
+			"drivers": [
+				{
+					"Forename": "Petr",
+					"Surname": "Pliska",
+					"Id": 10081
+				}
+			]
+		},
+		"10243": {
+			"Name": "#66",
+			"Team": 9996,
+			"Car": 8726,
+			"Id": 10243,
+			"Class": 8660,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Rächl",
+					"Id": 10069
+				}
+			]
+		},
+		"10244": {
+			"Name": "#77",
+			"Team": 10247,
+			"Car": 8726,
+			"Id": 10244,
+			"Class": 8660,
+			"TeamName": "Arnage Competition",
+			"drivers": [
+				{
+					"Forename": "Adam",
+					"Surname": "Pinczes",
+					"Id": 9017
+				}
+			]
+		},
+		"10245": {
+			"Name": "#88",
+			"Team": 10001,
+			"Car": 8726,
+			"Id": 10245,
+			"Class": 8660,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Alessandro",
+					"Surname": "Ottaviani",
+					"Id": 10248
+				}
+			]
+		},
+		"10246": {
+			"Name": "#94",
+			"Team": 9999,
+			"Car": 8726,
+			"Id": 10246,
+			"Class": 8660,
+			"TeamName": "Snow Schatten Esports",
+			"drivers": [
+				{
+					"Forename": "Lucas",
+					"Surname": "Werle",
+					"Id": 10249
+				}
+			]
+		},
+		"10250": {
+			"Name": "#28",
+			"Team": 8727,
+			"Car": 8726,
+			"Id": 10250,
+			"Class": 8660,
+			"TeamName": "CUPRA Leon Competición",
+			"drivers": [
+				{
+					"Forename": "Sebastian",
+					"Surname": "Stahl",
+					"Id": 7961
+				}
+			]
+		},
+		"10251": {
+			"Name": "#79",
+			"Team": 10002,
+			"Car": 8726,
+			"Id": 10251,
+			"Class": 8660,
+			"TeamName": "LADA Sport ROSNEFT",
+			"drivers": [
+				{
+					"Forename": "Kirill",
+					"Surname": "Sokovikov",
+					"Id": 10259
+				}
+			]
+		},
+		"10252": {
+			"Name": "#92",
+			"Team": 10261,
+			"Car": 8726,
+			"Id": 10252,
+			"Class": 8660,
+			"TeamName": "Absolute Motorsport Racing Team",
+			"drivers": [
+				{
+					"Forename": "Rasmus",
+					"Surname": "Salo",
+					"Id": 10260
+				}
+			]
+		},
+		"10253": {
+			"Name": "#95",
+			"Team": 9997,
+			"Car": 8726,
+			"Id": 10253,
+			"Class": 8660,
+			"TeamName": "Independent",
+			"drivers": [
+				{
+					"Forename": "Dávid",
+					"Surname": "Tóth",
+					"Id": 9059
+				}
+			]
+		},
+		"10254": {
+			"Name": "#79",
+			"Team": 9997,
+			"Car": 8726,
+			"Id": 10254,
+			"Class": 8660,
+			"TeamName": "Independent",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Marx",
+					"Id": 10262
+				}
+			]
+		},
+		"10265": {
+			"Name": "#1",
+			"Team": 10264,
+			"Car": 10263,
+			"Id": 10265,
+			"Class": 10266,
+			"TeamName": "Ford",
+			"drivers": [
+				{
+					"Forename": "Brian",
+					"Surname": "Novak",
+					"Id": 10277
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -79049,13 +79489,13 @@
 				{
 					"Name": "Grand Prix",
 					"Track": 5297,
-					"MaxNumberOfVehicles": 48,
+					"MaxNumberOfVehicles": 47,
 					"Id": 5298
 				},
 				{
 					"Name": "Grand Prix (Short Pit Entry)",
 					"Track": 5297,
-					"MaxNumberOfVehicles": 48,
+					"MaxNumberOfVehicles": 47,
 					"Id": 9796
 				}
 			]
@@ -79433,7 +79873,7 @@
 				{
 					"Name": "Full Circuit",
 					"Track": 9464,
-					"MaxNumberOfVehicles": 36,
+					"MaxNumberOfVehicles": 35,
 					"Id": 9465
 				}
 			]
@@ -79899,7 +80339,7 @@
 		"5298": {
 			"Name": "Grand Prix",
 			"Track": 5297,
-			"MaxNumberOfVehicles": 48,
+			"MaxNumberOfVehicles": 47,
 			"Id": 5298
 		},
 		"5301": {
@@ -80229,7 +80669,7 @@
 		"9465": {
 			"Name": "Full Circuit",
 			"Track": 9464,
-			"MaxNumberOfVehicles": 36,
+			"MaxNumberOfVehicles": 35,
 			"Id": 9465
 		},
 		"9473": {
@@ -80241,7 +80681,7 @@
 		"9796": {
 			"Name": "Grand Prix (Short Pit Entry)",
 			"Track": 5297,
-			"MaxNumberOfVehicles": 48,
+			"MaxNumberOfVehicles": 47,
 			"Id": 9796
 		}
 	},
@@ -80437,6 +80877,15 @@
 				}
 			],
 			"Id": 1708
+		},
+		"1711": {
+			"Name": "Sideways",
+			"Cars": [
+				{
+					"Id": 9761
+				}
+			],
+			"Id": 1711
 		},
 		"1712": {
 			"Name": "Touring Classics",
@@ -81406,6 +81855,15 @@
 				}
 			],
 			"Id": 10049
+		},
+		"10266": {
+			"Name": "Ford Mustang Mach E",
+			"Cars": [
+				{
+					"Id": 10263
+				}
+			],
+			"Id": 10266
 		}
 	},
 	"manufacturers": {
@@ -88673,6 +89131,11 @@
 			"Name": "Bullitt Racing",
 			"Id": 9757
 		},
+		"9762": {
+			"Type": "CarTeam",
+			"Name": "Red Bull Driftbrothers",
+			"Id": 9762
+		},
 		"9775": {
 			"Type": "CarTeam",
 			"Name": "S.Pace-Racing",
@@ -89277,6 +89740,21 @@
 			"Type": "CarTeam",
 			"Name": "Proton Competition",
 			"Id": 10239
+		},
+		"10247": {
+			"Type": "CarTeam",
+			"Name": "Arnage Competition",
+			"Id": 10247
+		},
+		"10261": {
+			"Type": "CarTeam",
+			"Name": "Absolute Motorsport Racing Team",
+			"Id": 10261
+		},
+		"10264": {
+			"Type": "CarTeam",
+			"Name": "Ford",
+			"Id": 10264
 		}
 	}
 }
