@@ -13326,7 +13326,7 @@
 			]
 		},
 		"4675": {
-			"Name": "Porsche 911 GT3 Cup",
+			"Name": "Porsche 911 GT3 Cup Endurance",
 			"BrandName": "Porsche",
 			"CarManufacturer": 3013,
 			"DefaultLivery": 6346,
@@ -18857,6 +18857,51 @@
 							"Id": 8755
 						}
 					]
+				},
+				{
+					"Name": "#96a",
+					"Team": 5997,
+					"Car": 5818,
+					"Id": 9631,
+					"Class": 1703,
+					"TeamName": "Turner Motorsport",
+					"drivers": [
+						{
+							"Forename": "Mark",
+							"Surname": "Kvamme",
+							"Id": 10357
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 5985,
+					"Car": 5818,
+					"Id": 10282,
+					"Class": 1703,
+					"TeamName": "Boutsen Ginion Racing",
+					"drivers": [
+						{
+							"Forename": "Karim",
+							"Surname": "Ojjeh",
+							"Id": 10358
+						}
+					]
+				},
+				{
+					"Name": "#13",
+					"Team": 10356,
+					"Car": 5818,
+					"Id": 10340,
+					"Class": 1703,
+					"TeamName": "Remus Esports",
+					"drivers": [
+						{
+							"Forename": "Andi",
+							"Surname": "Goodwin",
+							"Id": 10359
+						}
+					]
 				}
 			]
 		},
@@ -21457,6 +21502,21 @@
 							"Id": 9383
 						}
 					]
+				},
+				{
+					"Name": "#0",
+					"Team": 10333,
+					"Car": 6168,
+					"Id": 10332,
+					"Class": 1703,
+					"TeamName": "Lei Shing Hoong",
+					"drivers": [
+						{
+							"Forename": "Melvin",
+							"Surname": "Moh",
+							"Id": 10334
+						}
+					]
 				}
 			]
 		},
@@ -21615,6 +21675,21 @@
 							"Forename": "Martin",
 							"Surname": "Petermann",
 							"Id": 9802
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 10361,
+					"Car": 6174,
+					"Id": 10341,
+					"Class": 1703,
+					"TeamName": "Remus Esports",
+					"drivers": [
+						{
+							"Forename": "Patrice",
+							"Surname": "Yerna",
+							"Id": 4876
 						}
 					]
 				}
@@ -31292,6 +31367,66 @@
 							"Id": 10197
 						}
 					]
+				},
+				{
+					"Name": "#43",
+					"Team": 8216,
+					"Car": 8053,
+					"Id": 10289,
+					"Class": 5825,
+					"TeamName": "Stephen Cameron Racing",
+					"drivers": [
+						{
+							"Forename": "Sean",
+							"Surname": "Quinlan",
+							"Id": 10391
+						}
+					]
+				},
+				{
+					"Name": "#95",
+					"Team": 8224,
+					"Car": 8053,
+					"Id": 10290,
+					"Class": 5825,
+					"TeamName": "Turner Motorsport",
+					"drivers": [
+						{
+							"Forename": "Bill",
+							"Surname": "Auberlen",
+							"Id": 5983
+						}
+					]
+				},
+				{
+					"Name": "#96",
+					"Team": 8224,
+					"Car": 8053,
+					"Id": 10291,
+					"Class": 5825,
+					"TeamName": "Turner Motorsport",
+					"drivers": [
+						{
+							"Forename": "Robby",
+							"Surname": "Foley",
+							"Id": 10390
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 10203,
+					"Car": 8053,
+					"Id": 10354,
+					"Class": 5825,
+					"TeamName": "FK Performance",
+					"drivers": [
+						{
+							"Forename": "Moritz",
+							"Surname": "Löhner",
+							"Id": 9011
+						}
+					]
 				}
 			]
 		},
@@ -32732,6 +32867,21 @@
 							"Id": 8639
 						}
 					]
+				},
+				{
+					"Name": "#43",
+					"Team": 10363,
+					"Car": 8257,
+					"Id": 10343,
+					"Class": 1703,
+					"TeamName": "Remus Esports",
+					"drivers": [
+						{
+							"Forename": "Peter",
+							"Surname": "Koch",
+							"Id": 10362
+						}
+					]
 				}
 			]
 		},
@@ -33402,6 +33552,21 @@
 							"Id": 9756
 						}
 					]
+				},
+				{
+					"Name": "#05",
+					"Team": 10360,
+					"Car": 8593,
+					"Id": 10339,
+					"Class": 1703,
+					"TeamName": "Remus Esports",
+					"drivers": [
+						{
+							"Forename": "Clark",
+							"Surname": "West",
+							"Id": 2901
+						}
+					]
 				}
 			]
 		},
@@ -33800,6 +33965,36 @@
 							"Forename": "Nicolas",
 							"Surname": "Schöll",
 							"Id": 8036
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 9530,
+					"Car": 8604,
+					"Id": 9991,
+					"Class": 1703,
+					"TeamName": "Car Collection Motorsport",
+					"drivers": [
+						{
+							"Forename": "Kim",
+							"Surname": "Holmgaard",
+							"Id": 10353
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 10352,
+					"Car": 8604,
+					"Id": 10338,
+					"Class": 1703,
+					"TeamName": "Remus Esports",
+					"drivers": [
+						{
+							"Forename": "Ferdinand",
+							"Surname": "Habsburg",
+							"Id": 9144
 						}
 					]
 				}
@@ -34244,7 +34439,7 @@
 					]
 				},
 				{
-					"Name": "#45",
+					"Name": "#52",
 					"Team": 8802,
 					"Car": 8698,
 					"Id": 8753,
@@ -34252,8 +34447,8 @@
 					"TeamName": "Lecar Team",
 					"drivers": [
 						{
-							"Forename": "Evgeniy",
-							"Surname": "Meites",
+							"Forename": "Maxim",
+							"Surname": "Chernev",
 							"Id": 8801
 						}
 					]
@@ -34965,11 +35160,11 @@
 				},
 				{
 					"Name": "#027",
-					"Team": 9997,
+					"Team": 10348,
 					"Car": 8726,
 					"Id": 9961,
 					"Class": 8660,
-					"TeamName": "Independent",
+					"TeamName": "MRS Esports",
 					"drivers": [
 						{
 							"Forename": "Attila",
@@ -35115,11 +35310,11 @@
 				},
 				{
 					"Name": "#064",
-					"Team": 10004,
+					"Team": 10348,
 					"Car": 8726,
 					"Id": 9971,
 					"Class": 8660,
-					"TeamName": "eRC powered by FSP | TÜV Rheinland",
+					"TeamName": "MRS Esports",
 					"drivers": [
 						{
 							"Forename": "Max",
@@ -39306,7 +39501,7 @@
 			]
 		},
 		"9581": {
-			"Name": "Mercedes AMG GT3 Evo",
+			"Name": "Mercedes-AMG GT3 2020",
 			"BrandName": "Mercedes",
 			"CarManufacturer": 2552,
 			"DefaultLivery": 9601,
@@ -39436,7 +39631,7 @@
 			]
 		},
 		"9603": {
-			"Name": "Mercedes AMG GT3 Evo",
+			"Name": "Mercedes-AMG GT3 2020",
 			"BrandName": "Mercedes",
 			"CarManufacturer": 2552,
 			"DefaultLivery": 9615,
@@ -39470,6 +39665,21 @@
 							"Forename": "Tim",
 							"Surname": "Heinemann",
 							"Id": 6818
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 9614,
+					"Car": 9603,
+					"Id": 10342,
+					"Class": 1703,
+					"TeamName": "Remus Esports",
+					"drivers": [
+						{
+							"Forename": "Michel",
+							"Surname": "Plenus",
+							"Id": 5129
 						}
 					]
 				}
@@ -40336,7 +40546,7 @@
 			]
 		},
 		"10110": {
-			"Name": "Mercedes AMG GT3 Evo",
+			"Name": "Mercedes-AMG GT3 2020",
 			"BrandName": "Mercedes",
 			"CarManufacturer": 2552,
 			"DefaultLivery": 10117,
@@ -71033,7 +71243,7 @@
 			]
 		},
 		"8753": {
-			"Name": "#45",
+			"Name": "#52",
 			"Team": 8802,
 			"Car": 8698,
 			"Id": 8753,
@@ -71041,8 +71251,8 @@
 			"TeamName": "Lecar Team",
 			"drivers": [
 				{
-					"Forename": "Evgeniy",
-					"Surname": "Meites",
+					"Forename": "Maxim",
+					"Surname": "Chernev",
 					"Id": 8801
 				}
 			]
@@ -76042,6 +76252,21 @@
 				}
 			]
 		},
+		"9631": {
+			"Name": "#96a",
+			"Team": 5997,
+			"Car": 5818,
+			"Id": 9631,
+			"Class": 1703,
+			"TeamName": "Turner Motorsport",
+			"drivers": [
+				{
+					"Forename": "Mark",
+					"Surname": "Kvamme",
+					"Id": 10357
+				}
+			]
+		},
 		"9632": {
 			"Name": "#14",
 			"Team": 9729,
@@ -77139,11 +77364,11 @@
 		},
 		"9961": {
 			"Name": "#027",
-			"Team": 9997,
+			"Team": 10348,
 			"Car": 8726,
 			"Id": 9961,
 			"Class": 8660,
-			"TeamName": "Independent",
+			"TeamName": "MRS Esports",
 			"drivers": [
 				{
 					"Forename": "Attila",
@@ -77289,11 +77514,11 @@
 		},
 		"9971": {
 			"Name": "#064",
-			"Team": 10004,
+			"Team": 10348,
 			"Car": 8726,
 			"Id": 9971,
 			"Class": 8660,
-			"TeamName": "eRC powered by FSP | TÜV Rheinland",
+			"TeamName": "MRS Esports",
 			"drivers": [
 				{
 					"Forename": "Max",
@@ -77449,6 +77674,21 @@
 					"Forename": "Michael",
 					"Surname": "Fassbender",
 					"Id": 10240
+				}
+			]
+		},
+		"9991": {
+			"Name": "#88",
+			"Team": 9530,
+			"Car": 8604,
+			"Id": 9991,
+			"Class": 1703,
+			"TeamName": "Car Collection Motorsport",
+			"drivers": [
+				{
+					"Forename": "Kim",
+					"Surname": "Holmgaard",
+					"Id": 10353
 				}
 			]
 		},
@@ -78771,6 +79011,186 @@
 					"Id": 10277
 				}
 			]
+		},
+		"10282": {
+			"Name": "#10",
+			"Team": 5985,
+			"Car": 5818,
+			"Id": 10282,
+			"Class": 1703,
+			"TeamName": "Boutsen Ginion Racing",
+			"drivers": [
+				{
+					"Forename": "Karim",
+					"Surname": "Ojjeh",
+					"Id": 10358
+				}
+			]
+		},
+		"10289": {
+			"Name": "#43",
+			"Team": 8216,
+			"Car": 8053,
+			"Id": 10289,
+			"Class": 5825,
+			"TeamName": "Stephen Cameron Racing",
+			"drivers": [
+				{
+					"Forename": "Sean",
+					"Surname": "Quinlan",
+					"Id": 10391
+				}
+			]
+		},
+		"10290": {
+			"Name": "#95",
+			"Team": 8224,
+			"Car": 8053,
+			"Id": 10290,
+			"Class": 5825,
+			"TeamName": "Turner Motorsport",
+			"drivers": [
+				{
+					"Forename": "Bill",
+					"Surname": "Auberlen",
+					"Id": 5983
+				}
+			]
+		},
+		"10291": {
+			"Name": "#96",
+			"Team": 8224,
+			"Car": 8053,
+			"Id": 10291,
+			"Class": 5825,
+			"TeamName": "Turner Motorsport",
+			"drivers": [
+				{
+					"Forename": "Robby",
+					"Surname": "Foley",
+					"Id": 10390
+				}
+			]
+		},
+		"10332": {
+			"Name": "#0",
+			"Team": 10333,
+			"Car": 6168,
+			"Id": 10332,
+			"Class": 1703,
+			"TeamName": "Lei Shing Hoong",
+			"drivers": [
+				{
+					"Forename": "Melvin",
+					"Surname": "Moh",
+					"Id": 10334
+				}
+			]
+		},
+		"10338": {
+			"Name": "#18",
+			"Team": 10352,
+			"Car": 8604,
+			"Id": 10338,
+			"Class": 1703,
+			"TeamName": "Remus Esports",
+			"drivers": [
+				{
+					"Forename": "Ferdinand",
+					"Surname": "Habsburg",
+					"Id": 9144
+				}
+			]
+		},
+		"10339": {
+			"Name": "#05",
+			"Team": 10360,
+			"Car": 8593,
+			"Id": 10339,
+			"Class": 1703,
+			"TeamName": "Remus Esports",
+			"drivers": [
+				{
+					"Forename": "Clark",
+					"Surname": "West",
+					"Id": 2901
+				}
+			]
+		},
+		"10340": {
+			"Name": "#13",
+			"Team": 10356,
+			"Car": 5818,
+			"Id": 10340,
+			"Class": 1703,
+			"TeamName": "Remus Esports",
+			"drivers": [
+				{
+					"Forename": "Andi",
+					"Surname": "Goodwin",
+					"Id": 10359
+				}
+			]
+		},
+		"10341": {
+			"Name": "#21",
+			"Team": 10361,
+			"Car": 6174,
+			"Id": 10341,
+			"Class": 1703,
+			"TeamName": "Remus Esports",
+			"drivers": [
+				{
+					"Forename": "Patrice",
+					"Surname": "Yerna",
+					"Id": 4876
+				}
+			]
+		},
+		"10342": {
+			"Name": "#19",
+			"Team": 9614,
+			"Car": 9603,
+			"Id": 10342,
+			"Class": 1703,
+			"TeamName": "Remus Esports",
+			"drivers": [
+				{
+					"Forename": "Michel",
+					"Surname": "Plenus",
+					"Id": 5129
+				}
+			]
+		},
+		"10343": {
+			"Name": "#43",
+			"Team": 10363,
+			"Car": 8257,
+			"Id": 10343,
+			"Class": 1703,
+			"TeamName": "Remus Esports",
+			"drivers": [
+				{
+					"Forename": "Peter",
+					"Surname": "Koch",
+					"Id": 10362
+				}
+			]
+		},
+		"10354": {
+			"Name": "#11",
+			"Team": 10203,
+			"Car": 8053,
+			"Id": 10354,
+			"Class": 5825,
+			"TeamName": "FK Performance",
+			"drivers": [
+				{
+					"Forename": "Moritz",
+					"Surname": "Löhner",
+					"Id": 9011
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -78933,6 +79353,12 @@
 					"Track": 1690,
 					"MaxNumberOfVehicles": 40,
 					"Id": 3377
+				},
+				{
+					"Name": "Müllenbachschleife",
+					"Track": 1690,
+					"MaxNumberOfVehicles": 32,
+					"Id": 9847
 				}
 			]
 		},
@@ -79245,6 +79671,12 @@
 					"Track": 2467,
 					"MaxNumberOfVehicles": 36,
 					"Id": 9055
+				},
+				{
+					"Name": "GP Course Oval T1",
+					"Track": 2467,
+					"MaxNumberOfVehicles": 36,
+					"Id": 10328
 				}
 			]
 		},
@@ -79833,6 +80265,12 @@
 					"Track": 8703,
 					"MaxNumberOfVehicles": 32,
 					"Id": 9043
+				},
+				{
+					"Name": "WTCR",
+					"Track": 8703,
+					"MaxNumberOfVehicles": 32,
+					"Id": 9483
 				}
 			]
 		},
@@ -79887,6 +80325,66 @@
 					"Track": 9472,
 					"MaxNumberOfVehicles": 34,
 					"Id": 9473
+				}
+			]
+		},
+		"9657": {
+			"Name": "Nogaro Circuit Paul Armagnac",
+			"Id": 9657,
+			"layouts": [
+				{
+					"Name": "Grand Prix Circuit",
+					"Track": 9657,
+					"MaxNumberOfVehicles": 36,
+					"Id": 9659
+				},
+				{
+					"Name": "Club Circuit",
+					"Track": 9657,
+					"MaxNumberOfVehicles": 32,
+					"Id": 10258
+				},
+				{
+					"Name": "Caupenne Circuit",
+					"Track": 9657,
+					"MaxNumberOfVehicles": 36,
+					"Id": 10392
+				}
+			]
+		},
+		"9942": {
+			"Name": "Indianapolis Motor Speedway",
+			"Id": 9942,
+			"layouts": [
+				{
+					"Name": "Road Course",
+					"Track": 9942,
+					"MaxNumberOfVehicles": 46,
+					"Id": 9943
+				},
+				{
+					"Name": "Historic",
+					"Track": 9942,
+					"MaxNumberOfVehicles": 46,
+					"Id": 9957
+				},
+				{
+					"Name": "Oval",
+					"Track": 9942,
+					"MaxNumberOfVehicles": 46,
+					"Id": 9958
+				}
+			]
+		},
+		"10273": {
+			"Name": "Hockenheimring DMEC",
+			"Id": 10273,
+			"layouts": [
+				{
+					"Name": "DMEC",
+					"Track": 10273,
+					"MaxNumberOfVehicles": 8,
+					"Id": 10274
 				}
 			]
 		}
@@ -80678,11 +81176,71 @@
 			"MaxNumberOfVehicles": 34,
 			"Id": 9473
 		},
+		"9483": {
+			"Name": "WTCR",
+			"Track": 8703,
+			"MaxNumberOfVehicles": 32,
+			"Id": 9483
+		},
+		"9659": {
+			"Name": "Grand Prix Circuit",
+			"Track": 9657,
+			"MaxNumberOfVehicles": 36,
+			"Id": 9659
+		},
 		"9796": {
 			"Name": "Grand Prix (Short Pit Entry)",
 			"Track": 5297,
 			"MaxNumberOfVehicles": 47,
 			"Id": 9796
+		},
+		"9847": {
+			"Name": "Müllenbachschleife",
+			"Track": 1690,
+			"MaxNumberOfVehicles": 32,
+			"Id": 9847
+		},
+		"9943": {
+			"Name": "Road Course",
+			"Track": 9942,
+			"MaxNumberOfVehicles": 46,
+			"Id": 9943
+		},
+		"9957": {
+			"Name": "Historic",
+			"Track": 9942,
+			"MaxNumberOfVehicles": 46,
+			"Id": 9957
+		},
+		"9958": {
+			"Name": "Oval",
+			"Track": 9942,
+			"MaxNumberOfVehicles": 46,
+			"Id": 9958
+		},
+		"10258": {
+			"Name": "Club Circuit",
+			"Track": 9657,
+			"MaxNumberOfVehicles": 32,
+			"Id": 10258
+		},
+		"10274": {
+			"Name": "DMEC",
+			"Track": 10273,
+			"MaxNumberOfVehicles": 8,
+			"Id": 10274
+		},
+		"10328": {
+			"Name": "GP Course Oval T1",
+			"Track": 2467,
+			"MaxNumberOfVehicles": 36,
+			"Id": 10328
+		},
+		"10392": {
+			"Name": "Caupenne Circuit",
+			"Track": 9657,
+			"MaxNumberOfVehicles": 36,
+			"Id": 10392
 		}
 	},
 	"classes": {
@@ -89003,7 +89561,7 @@
 		},
 		"9614": {
 			"Type": "CarTeam",
-			"Name": "unnamed team",
+			"Name": "Remus Esports",
 			"Id": 9614
 		},
 		"9620": {
@@ -89755,6 +90313,41 @@
 			"Type": "CarTeam",
 			"Name": "Ford",
 			"Id": 10264
+		},
+		"10333": {
+			"Type": "CarTeam",
+			"Name": "Lei Shing Hoong",
+			"Id": 10333
+		},
+		"10348": {
+			"Type": "CarTeam",
+			"Name": "MRS Esports",
+			"Id": 10348
+		},
+		"10352": {
+			"Type": "CarTeam",
+			"Name": "Remus Esports",
+			"Id": 10352
+		},
+		"10356": {
+			"Type": "CarTeam",
+			"Name": "Remus Esports",
+			"Id": 10356
+		},
+		"10360": {
+			"Type": "CarTeam",
+			"Name": "Remus Esports",
+			"Id": 10360
+		},
+		"10361": {
+			"Type": "CarTeam",
+			"Name": "Remus Esports",
+			"Id": 10361
+		},
+		"10363": {
+			"Type": "CarTeam",
+			"Name": "Remus Esports",
+			"Id": 10363
 		}
 	}
 }
