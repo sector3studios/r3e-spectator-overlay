@@ -8339,6 +8339,36 @@ var r3eData = {
 					]
 				},
 				{
+					"Name": "#7",
+					"Team": 3795,
+					"Car": 2859,
+					"Id": 9359,
+					"Class": 1708,
+					"TeamName": "Bob Akin Motor Racing",
+					"drivers": [
+						{
+							"Forename": "Jim",
+							"Surname": "Mullen",
+							"Id": 9364
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 9363,
+					"Car": 2859,
+					"Id": 9362,
+					"Class": 1708,
+					"TeamName": "JLP Racing",
+					"drivers": [
+						{
+							"Forename": "John",
+							"Surname": "Paul Jr",
+							"Id": 7651
+						}
+					]
+				},
+				{
 					"Name": "#02",
 					"Team": 10777,
 					"Car": 2859,
@@ -8365,6 +8395,21 @@ var r3eData = {
 							"Forename": "Derek",
 							"Surname": "Bell",
 							"Id": 10753
+						}
+					]
+				},
+				{
+					"Name": "#00",
+					"Team": 10783,
+					"Car": 2859,
+					"Id": 9414,
+					"Class": 1708,
+					"TeamName": "Interscope Racing",
+					"drivers": [
+						{
+							"Forename": "Danny",
+							"Surname": "Ongais",
+							"Id": 7353
 						}
 					]
 				},
@@ -38332,6 +38377,36 @@ var r3eData = {
 							"Id": 10196
 						}
 					]
+				},
+				{
+					"Name": "#248",
+					"Team": 10845,
+					"Car": 8900,
+					"Id": 10843,
+					"Class": 5825,
+					"TeamName": "Thrustmaster",
+					"drivers": [
+						{
+							"Forename": "Jens",
+							"Surname": "Fiedler",
+							"Id": 10612
+						}
+					]
+				},
+				{
+					"Name": "#248",
+					"Team": 10845,
+					"Car": 8900,
+					"Id": 10844,
+					"Class": 5825,
+					"TeamName": "Thrustmaster",
+					"drivers": [
+						{
+							"Forename": "Rafael",
+							"Surname": "Oliveira",
+							"Id": 10613
+						}
+					]
 				}
 			]
 		},
@@ -42671,14 +42746,14 @@ var r3eData = {
 			"CarManufacturer": 2623,
 			"DefaultLivery": 10129,
 			"Id": 10127,
-			"Class": 10049,
+			"Class": 10786,
 			"liveries": [
 				{
 					"Name": "#999",
 					"Team": 10128,
 					"Car": 10127,
 					"Id": 10129,
-					"Class": 10049,
+					"Class": 10786,
 					"TeamName": "ADAC Guest Team",
 					"drivers": [
 						{
@@ -42693,7 +42768,7 @@ var r3eData = {
 					"Team": 10170,
 					"Car": 10127,
 					"Id": 10139,
-					"Class": 10049,
+					"Class": 10786,
 					"TeamName": "Pirelli Guest Team",
 					"drivers": [
 						{
@@ -42708,7 +42783,7 @@ var r3eData = {
 					"Team": 10173,
 					"Car": 10127,
 					"Id": 10140,
-					"Class": 10049,
+					"Class": 10786,
 					"TeamName": "Traxxion Guest Team",
 					"drivers": [
 						{
@@ -42749,7 +42824,7 @@ var r3eData = {
 			"Name": "Audi RS 3 LMS 2021",
 			"BrandName": "Audi",
 			"CarManufacturer": 2551,
-			"DefaultLivery": 10413,
+			"DefaultLivery": 10408,
 			"Id": 10345,
 			"Class": 10344,
 			"liveries": [
@@ -42956,7 +43031,7 @@ var r3eData = {
 			]
 		},
 		"10387": {
-			"Name": "Ferrari 488 GT3 EVO 2020",
+			"Name": "Ferrari 488 GT3 EVO 2020 DTM",
 			"BrandName": "Ferrari",
 			"CarManufacturer": 10395,
 			"DefaultLivery": 10567,
@@ -43955,6 +44030,726 @@ var r3eData = {
 							"Forename": "Holger",
 							"Surname": "Stangl",
 							"Id": 4727
+						}
+					]
+				}
+			]
+		},
+		"10787": {
+			"Name": "Audi R8 LMS GT3 EVO",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 10848,
+			"Id": 10787,
+			"Class": 10786,
+			"liveries": [
+				{
+					"Name": "#11",
+					"Team": 10789,
+					"Car": 10787,
+					"Id": 10810,
+					"Class": 10786,
+					"TeamName": "Team Redline",
+					"drivers": [
+						{
+							"Forename": "Kevin",
+							"Surname": "Siggy",
+							"Id": 7158
+						}
+					]
+				},
+				{
+					"Name": "#97",
+					"Team": 10788,
+					"Car": 10787,
+					"Id": 10811,
+					"Class": 10786,
+					"TeamName": "Arnage Competition",
+					"drivers": [
+						{
+							"Forename": "Adam",
+							"Surname": "Pinczes",
+							"Id": 9017
+						}
+					]
+				},
+				{
+					"Name": "#921",
+					"Team": 10864,
+					"Car": 10787,
+					"Id": 10846,
+					"Class": 10786,
+					"TeamName": "Pirelli Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#931",
+					"Team": 10865,
+					"Car": 10787,
+					"Id": 10847,
+					"Class": 10786,
+					"TeamName": "Traxxion Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 10867,
+					"Car": 10787,
+					"Id": 10848,
+					"Class": 10786,
+					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#25",
+					"Team": 10789,
+					"Car": 10787,
+					"Id": 10863,
+					"Class": 10786,
+					"TeamName": "Team Redline",
+					"drivers": [
+						{
+							"Forename": "Jeffrey",
+							"Surname": "Rietveld",
+							"Id": 10080
+						}
+					]
+				}
+			]
+		},
+		"10790": {
+			"Name": "Bentley Continental GT3 EVO",
+			"BrandName": "Bentley",
+			"CarManufacturer": 5094,
+			"DefaultLivery": 10851,
+			"Id": 10790,
+			"Class": 10786,
+			"liveries": [
+				{
+					"Name": "#33",
+					"Team": 10791,
+					"Car": 10790,
+					"Id": 10812,
+					"Class": 10786,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Bence",
+							"Surname": "Bánki",
+							"Id": 8843
+						}
+					]
+				},
+				{
+					"Name": "#46",
+					"Team": 10792,
+					"Car": 10790,
+					"Id": 10815,
+					"Class": 10786,
+					"TeamName": "Team Fordzilla",
+					"drivers": [
+						{
+							"Forename": "Gianmarco",
+							"Surname": "Fiduci",
+							"Id": 10014
+						}
+					]
+				},
+				{
+					"Name": "#64",
+					"Team": 10794,
+					"Car": 10790,
+					"Id": 10817,
+					"Class": 10786,
+					"TeamName": "MRS Esports",
+					"drivers": [
+						{
+							"Forename": "Max",
+							"Surname": "Pfeifer",
+							"Id": 10010
+						}
+					]
+				},
+				{
+					"Name": "#91",
+					"Team": 10793,
+					"Car": 10790,
+					"Id": 10818,
+					"Class": 10786,
+					"TeamName": "Privateer",
+					"drivers": [
+						{
+							"Forename": "Julian",
+							"Surname": "Kunze",
+							"Id": 7156
+						}
+					]
+				},
+				{
+					"Name": "#922",
+					"Team": 10872,
+					"Car": 10790,
+					"Id": 10849,
+					"Class": 10786,
+					"TeamName": "Pirelli Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#932",
+					"Team": 10873,
+					"Car": 10790,
+					"Id": 10850,
+					"Class": 10786,
+					"TeamName": "Traxxion Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 10871,
+					"Car": 10790,
+					"Id": 10851,
+					"Class": 10786,
+					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"10795": {
+			"Name": "BMW M6 GT3",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
+			"DefaultLivery": 10855,
+			"Id": 10795,
+			"Class": 10786,
+			"liveries": [
+				{
+					"Name": "#03",
+					"Team": 10800,
+					"Car": 10795,
+					"Id": 10819,
+					"Class": 10786,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Nikodem",
+							"Surname": "Wisniewski",
+							"Id": 10099
+						}
+					]
+				},
+				{
+					"Name": "#04",
+					"Team": 10797,
+					"Car": 10795,
+					"Id": 10820,
+					"Class": 10786,
+					"TeamName": "MRS Esports",
+					"drivers": [
+						{
+							"Forename": "Marc",
+							"Surname": "Gassner",
+							"Id": 9018
+						}
+					]
+				},
+				{
+					"Name": "#06",
+					"Team": 10800,
+					"Car": 10795,
+					"Id": 10821,
+					"Class": 10786,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Jakub",
+							"Surname": "Brzezinski",
+							"Id": 10101
+						}
+					]
+				},
+				{
+					"Name": "#07",
+					"Team": 10798,
+					"Car": 10795,
+					"Id": 10822,
+					"Class": 10786,
+					"TeamName": "R8G Esports",
+					"drivers": [
+						{
+							"Forename": "Erhan",
+							"Surname": "Jajovski",
+							"Id": 9012
+						}
+					]
+				},
+				{
+					"Name": "#20",
+					"Team": 10801,
+					"Car": 10795,
+					"Id": 10823,
+					"Class": 10786,
+					"TeamName": "Arnage Competition",
+					"drivers": [
+						{
+							"Forename": "Leon",
+							"Surname": "Rüdinger",
+							"Id": 10074
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 10803,
+					"Car": 10795,
+					"Id": 10824,
+					"Class": 10786,
+					"TeamName": "M1ra esports",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Barna",
+							"Id": 10092
+						}
+					]
+				},
+				{
+					"Name": "#44",
+					"Team": 10800,
+					"Car": 10795,
+					"Id": 10825,
+					"Class": 10786,
+					"TeamName": "Williams Esports",
+					"drivers": [
+						{
+							"Forename": "Jack",
+							"Surname": "Keithley",
+							"Id": 7153
+						}
+					]
+				},
+				{
+					"Name": "#66",
+					"Team": 10802,
+					"Car": 10795,
+					"Id": 10826,
+					"Class": 10786,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Leonard",
+							"Surname": "Krippner",
+							"Id": 10106
+						}
+					]
+				},
+				{
+					"Name": "#69",
+					"Team": 10797,
+					"Car": 10795,
+					"Id": 10827,
+					"Class": 10786,
+					"TeamName": "MRS Esports",
+					"drivers": [
+						{
+							"Forename": "Alexander",
+							"Surname": "Dornieden",
+							"Id": 9008
+						}
+					]
+				},
+				{
+					"Name": "#74",
+					"Team": 10796,
+					"Car": 10795,
+					"Id": 10828,
+					"Class": 10786,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Christopher",
+							"Surname": "Högfeldt",
+							"Id": 9019
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 10796,
+					"Car": 10795,
+					"Id": 10829,
+					"Class": 10786,
+					"TeamName": "Virtualdrivers by TX3",
+					"drivers": [
+						{
+							"Forename": "Alessandro",
+							"Surname": "Ottaviani",
+							"Id": 10248
+						}
+					]
+				},
+				{
+					"Name": "#923",
+					"Team": 10869,
+					"Car": 10795,
+					"Id": 10852,
+					"Class": 10786,
+					"TeamName": "Pirelli Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#933",
+					"Team": 10870,
+					"Car": 10795,
+					"Id": 10854,
+					"Class": 10786,
+					"TeamName": "Traxxion Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 10868,
+					"Car": 10795,
+					"Id": 10855,
+					"Class": 10786,
+					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Isaac",
+							"Surname": "Price",
+							"Id": 10097
+						}
+					]
+				}
+			]
+		},
+		"10804": {
+			"Name": "McLaren 720S GT3",
+			"BrandName": "McLaren",
+			"CarManufacturer": 2621,
+			"DefaultLivery": 10853,
+			"Id": 10804,
+			"Class": 10786,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 10805,
+					"Car": 10804,
+					"Id": 10813,
+					"Class": 10786,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Moritz",
+							"Surname": "Löhner",
+							"Id": 9011
+						}
+					]
+				},
+				{
+					"Name": "#67",
+					"Team": 10805,
+					"Car": 10804,
+					"Id": 10814,
+					"Class": 10786,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Florian",
+							"Surname": "Hasse",
+							"Id": 9014
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 10874,
+					"Car": 10804,
+					"Id": 10853,
+					"Class": 10786,
+					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#927",
+					"Team": 10875,
+					"Car": 10804,
+					"Id": 10862,
+					"Class": 10786,
+					"TeamName": "Pirelli Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"10806": {
+			"Name": "Mercedes-AMG GT3 2020",
+			"BrandName": "Mercedes",
+			"CarManufacturer": 2552,
+			"DefaultLivery": 10858,
+			"Id": 10806,
+			"Class": 10786,
+			"liveries": [
+				{
+					"Name": "#05",
+					"Team": 10879,
+					"Car": 10806,
+					"Id": 10816,
+					"Class": 10786,
+					"TeamName": "MRS Esports",
+					"drivers": [
+						{
+							"Forename": "Matija",
+							"Surname": "Markovic",
+							"Id": 10884
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 10885,
+					"Car": 10806,
+					"Id": 10834,
+					"Class": 10786,
+					"TeamName": "Dörr Esports",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Rächl",
+							"Id": 10069
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 10877,
+					"Car": 10806,
+					"Id": 10837,
+					"Class": 10786,
+					"TeamName": "SRC",
+					"drivers": [
+						{
+							"Forename": "Jonas",
+							"Surname": "Wanner",
+							"Id": 10883
+						}
+					]
+				},
+				{
+					"Name": "#53",
+					"Team": 10879,
+					"Car": 10806,
+					"Id": 10838,
+					"Class": 10786,
+					"TeamName": "MRS Esports",
+					"drivers": [
+						{
+							"Forename": "Tim",
+							"Surname": "Jarschel",
+							"Id": 9013
+						}
+					]
+				},
+				{
+					"Name": "#59",
+					"Team": 10807,
+					"Car": 10806,
+					"Id": 10839,
+					"Class": 10786,
+					"TeamName": "Team Fordzilla",
+					"drivers": [
+						{
+							"Forename": "Emre",
+							"Surname": "Cihan",
+							"Id": 9292
+						}
+					]
+				},
+				{
+					"Name": "#60",
+					"Team": 10878,
+					"Car": 10806,
+					"Id": 10840,
+					"Class": 10786,
+					"TeamName": "Ballas Esports",
+					"drivers": [
+						{
+							"Forename": "Luciano",
+							"Surname": "Witvoet",
+							"Id": 10011
+						}
+					]
+				},
+				{
+					"Name": "#925",
+					"Team": 10881,
+					"Car": 10806,
+					"Id": 10856,
+					"Class": 10786,
+					"TeamName": "Pirelli Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#935",
+					"Team": 10882,
+					"Car": 10806,
+					"Id": 10857,
+					"Class": 10786,
+					"TeamName": "Traxxion Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 10880,
+					"Car": 10806,
+					"Id": 10858,
+					"Class": 10786,
+					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"10808": {
+			"Name": "Porsche 911 GT3 R (2019)",
+			"BrandName": "Porsche",
+			"CarManufacturer": 3013,
+			"DefaultLivery": 10861,
+			"Id": 10808,
+			"Class": 10786,
+			"liveries": [
+				{
+					"Name": "#14",
+					"Team": 10809,
+					"Car": 10808,
+					"Id": 10841,
+					"Class": 10786,
+					"TeamName": "Veloce Esports",
+					"drivers": [
+						{
+							"Forename": "Marko",
+							"Surname": "Pejic",
+							"Id": 10122
+						}
+					]
+				},
+				{
+					"Name": "#926",
+					"Team": 10887,
+					"Car": 10808,
+					"Id": 10859,
+					"Class": 10786,
+					"TeamName": "Pirelli Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#936",
+					"Team": 10888,
+					"Car": 10808,
+					"Id": 10860,
+					"Class": 10786,
+					"TeamName": "Traxxion Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#999",
+					"Team": 10886,
+					"Car": 10808,
+					"Id": 10861,
+					"Class": 10786,
+					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
 						}
 					]
 				}
@@ -78127,6 +78922,21 @@ var r3eData = {
 				}
 			]
 		},
+		"9359": {
+			"Name": "#7",
+			"Team": 3795,
+			"Car": 2859,
+			"Id": 9359,
+			"Class": 1708,
+			"TeamName": "Bob Akin Motor Racing",
+			"drivers": [
+				{
+					"Forename": "Jim",
+					"Surname": "Mullen",
+					"Id": 9364
+				}
+			]
+		},
 		"9361": {
 			"Name": "#20",
 			"Team": 9471,
@@ -78139,6 +78949,21 @@ var r3eData = {
 					"Forename": "Kitsune",
 					"Surname": "Magyar",
 					"Id": 9470
+				}
+			]
+		},
+		"9362": {
+			"Name": "#18",
+			"Team": 9363,
+			"Car": 2859,
+			"Id": 9362,
+			"Class": 1708,
+			"TeamName": "JLP Racing",
+			"drivers": [
+				{
+					"Forename": "John",
+					"Surname": "Paul Jr",
+					"Id": 7651
 				}
 			]
 		},
@@ -78259,6 +79084,21 @@ var r3eData = {
 					"Forename": "Derek",
 					"Surname": "Bell",
 					"Id": 10753
+				}
+			]
+		},
+		"9414": {
+			"Name": "#00",
+			"Team": 10783,
+			"Car": 2859,
+			"Id": 9414,
+			"Class": 1708,
+			"TeamName": "Interscope Racing",
+			"drivers": [
+				{
+					"Forename": "Danny",
+					"Surname": "Ongais",
+					"Id": 7353
 				}
 			]
 		},
@@ -82032,7 +82872,7 @@ var r3eData = {
 			"Team": 10128,
 			"Car": 10127,
 			"Id": 10129,
-			"Class": 10049,
+			"Class": 10786,
 			"TeamName": "ADAC Guest Team",
 			"drivers": [
 				{
@@ -82137,7 +82977,7 @@ var r3eData = {
 			"Team": 10170,
 			"Car": 10127,
 			"Id": 10139,
-			"Class": 10049,
+			"Class": 10786,
 			"TeamName": "Pirelli Guest Team",
 			"drivers": [
 				{
@@ -82152,7 +82992,7 @@ var r3eData = {
 			"Team": 10173,
 			"Car": 10127,
 			"Id": 10140,
-			"Class": 10049,
+			"Class": 10786,
 			"TeamName": "Traxxion Guest Team",
 			"drivers": [
 				{
@@ -85339,6 +86179,696 @@ var r3eData = {
 					"Forename": "Michael",
 					"Surname": "Keyser",
 					"Id": 10756
+				}
+			]
+		},
+		"10810": {
+			"Name": "#11",
+			"Team": 10789,
+			"Car": 10787,
+			"Id": 10810,
+			"Class": 10786,
+			"TeamName": "Team Redline",
+			"drivers": [
+				{
+					"Forename": "Kevin",
+					"Surname": "Siggy",
+					"Id": 7158
+				}
+			]
+		},
+		"10811": {
+			"Name": "#97",
+			"Team": 10788,
+			"Car": 10787,
+			"Id": 10811,
+			"Class": 10786,
+			"TeamName": "Arnage Competition",
+			"drivers": [
+				{
+					"Forename": "Adam",
+					"Surname": "Pinczes",
+					"Id": 9017
+				}
+			]
+		},
+		"10812": {
+			"Name": "#33",
+			"Team": 10791,
+			"Car": 10790,
+			"Id": 10812,
+			"Class": 10786,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Bence",
+					"Surname": "Bánki",
+					"Id": 8843
+				}
+			]
+		},
+		"10813": {
+			"Name": "#1",
+			"Team": 10805,
+			"Car": 10804,
+			"Id": 10813,
+			"Class": 10786,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Moritz",
+					"Surname": "Löhner",
+					"Id": 9011
+				}
+			]
+		},
+		"10814": {
+			"Name": "#67",
+			"Team": 10805,
+			"Car": 10804,
+			"Id": 10814,
+			"Class": 10786,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Florian",
+					"Surname": "Hasse",
+					"Id": 9014
+				}
+			]
+		},
+		"10815": {
+			"Name": "#46",
+			"Team": 10792,
+			"Car": 10790,
+			"Id": 10815,
+			"Class": 10786,
+			"TeamName": "Team Fordzilla",
+			"drivers": [
+				{
+					"Forename": "Gianmarco",
+					"Surname": "Fiduci",
+					"Id": 10014
+				}
+			]
+		},
+		"10816": {
+			"Name": "#05",
+			"Team": 10879,
+			"Car": 10806,
+			"Id": 10816,
+			"Class": 10786,
+			"TeamName": "MRS Esports",
+			"drivers": [
+				{
+					"Forename": "Matija",
+					"Surname": "Markovic",
+					"Id": 10884
+				}
+			]
+		},
+		"10817": {
+			"Name": "#64",
+			"Team": 10794,
+			"Car": 10790,
+			"Id": 10817,
+			"Class": 10786,
+			"TeamName": "MRS Esports",
+			"drivers": [
+				{
+					"Forename": "Max",
+					"Surname": "Pfeifer",
+					"Id": 10010
+				}
+			]
+		},
+		"10818": {
+			"Name": "#91",
+			"Team": 10793,
+			"Car": 10790,
+			"Id": 10818,
+			"Class": 10786,
+			"TeamName": "Privateer",
+			"drivers": [
+				{
+					"Forename": "Julian",
+					"Surname": "Kunze",
+					"Id": 7156
+				}
+			]
+		},
+		"10819": {
+			"Name": "#03",
+			"Team": 10800,
+			"Car": 10795,
+			"Id": 10819,
+			"Class": 10786,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Nikodem",
+					"Surname": "Wisniewski",
+					"Id": 10099
+				}
+			]
+		},
+		"10820": {
+			"Name": "#04",
+			"Team": 10797,
+			"Car": 10795,
+			"Id": 10820,
+			"Class": 10786,
+			"TeamName": "MRS Esports",
+			"drivers": [
+				{
+					"Forename": "Marc",
+					"Surname": "Gassner",
+					"Id": 9018
+				}
+			]
+		},
+		"10821": {
+			"Name": "#06",
+			"Team": 10800,
+			"Car": 10795,
+			"Id": 10821,
+			"Class": 10786,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Jakub",
+					"Surname": "Brzezinski",
+					"Id": 10101
+				}
+			]
+		},
+		"10822": {
+			"Name": "#07",
+			"Team": 10798,
+			"Car": 10795,
+			"Id": 10822,
+			"Class": 10786,
+			"TeamName": "R8G Esports",
+			"drivers": [
+				{
+					"Forename": "Erhan",
+					"Surname": "Jajovski",
+					"Id": 9012
+				}
+			]
+		},
+		"10823": {
+			"Name": "#20",
+			"Team": 10801,
+			"Car": 10795,
+			"Id": 10823,
+			"Class": 10786,
+			"TeamName": "Arnage Competition",
+			"drivers": [
+				{
+					"Forename": "Leon",
+					"Surname": "Rüdinger",
+					"Id": 10074
+				}
+			]
+		},
+		"10824": {
+			"Name": "#24",
+			"Team": 10803,
+			"Car": 10795,
+			"Id": 10824,
+			"Class": 10786,
+			"TeamName": "M1ra esports",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Barna",
+					"Id": 10092
+				}
+			]
+		},
+		"10825": {
+			"Name": "#44",
+			"Team": 10800,
+			"Car": 10795,
+			"Id": 10825,
+			"Class": 10786,
+			"TeamName": "Williams Esports",
+			"drivers": [
+				{
+					"Forename": "Jack",
+					"Surname": "Keithley",
+					"Id": 7153
+				}
+			]
+		},
+		"10826": {
+			"Name": "#66",
+			"Team": 10802,
+			"Car": 10795,
+			"Id": 10826,
+			"Class": 10786,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Leonard",
+					"Surname": "Krippner",
+					"Id": 10106
+				}
+			]
+		},
+		"10827": {
+			"Name": "#69",
+			"Team": 10797,
+			"Car": 10795,
+			"Id": 10827,
+			"Class": 10786,
+			"TeamName": "MRS Esports",
+			"drivers": [
+				{
+					"Forename": "Alexander",
+					"Surname": "Dornieden",
+					"Id": 9008
+				}
+			]
+		},
+		"10828": {
+			"Name": "#74",
+			"Team": 10796,
+			"Car": 10795,
+			"Id": 10828,
+			"Class": 10786,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Christopher",
+					"Surname": "Högfeldt",
+					"Id": 9019
+				}
+			]
+		},
+		"10829": {
+			"Name": "#88",
+			"Team": 10796,
+			"Car": 10795,
+			"Id": 10829,
+			"Class": 10786,
+			"TeamName": "Virtualdrivers by TX3",
+			"drivers": [
+				{
+					"Forename": "Alessandro",
+					"Surname": "Ottaviani",
+					"Id": 10248
+				}
+			]
+		},
+		"10834": {
+			"Name": "#16",
+			"Team": 10885,
+			"Car": 10806,
+			"Id": 10834,
+			"Class": 10786,
+			"TeamName": "Dörr Esports",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Rächl",
+					"Id": 10069
+				}
+			]
+		},
+		"10837": {
+			"Name": "#19",
+			"Team": 10877,
+			"Car": 10806,
+			"Id": 10837,
+			"Class": 10786,
+			"TeamName": "SRC",
+			"drivers": [
+				{
+					"Forename": "Jonas",
+					"Surname": "Wanner",
+					"Id": 10883
+				}
+			]
+		},
+		"10838": {
+			"Name": "#53",
+			"Team": 10879,
+			"Car": 10806,
+			"Id": 10838,
+			"Class": 10786,
+			"TeamName": "MRS Esports",
+			"drivers": [
+				{
+					"Forename": "Tim",
+					"Surname": "Jarschel",
+					"Id": 9013
+				}
+			]
+		},
+		"10839": {
+			"Name": "#59",
+			"Team": 10807,
+			"Car": 10806,
+			"Id": 10839,
+			"Class": 10786,
+			"TeamName": "Team Fordzilla",
+			"drivers": [
+				{
+					"Forename": "Emre",
+					"Surname": "Cihan",
+					"Id": 9292
+				}
+			]
+		},
+		"10840": {
+			"Name": "#60",
+			"Team": 10878,
+			"Car": 10806,
+			"Id": 10840,
+			"Class": 10786,
+			"TeamName": "Ballas Esports",
+			"drivers": [
+				{
+					"Forename": "Luciano",
+					"Surname": "Witvoet",
+					"Id": 10011
+				}
+			]
+		},
+		"10841": {
+			"Name": "#14",
+			"Team": 10809,
+			"Car": 10808,
+			"Id": 10841,
+			"Class": 10786,
+			"TeamName": "Veloce Esports",
+			"drivers": [
+				{
+					"Forename": "Marko",
+					"Surname": "Pejic",
+					"Id": 10122
+				}
+			]
+		},
+		"10843": {
+			"Name": "#248",
+			"Team": 10845,
+			"Car": 8900,
+			"Id": 10843,
+			"Class": 5825,
+			"TeamName": "Thrustmaster",
+			"drivers": [
+				{
+					"Forename": "Jens",
+					"Surname": "Fiedler",
+					"Id": 10612
+				}
+			]
+		},
+		"10844": {
+			"Name": "#248",
+			"Team": 10845,
+			"Car": 8900,
+			"Id": 10844,
+			"Class": 5825,
+			"TeamName": "Thrustmaster",
+			"drivers": [
+				{
+					"Forename": "Rafael",
+					"Surname": "Oliveira",
+					"Id": 10613
+				}
+			]
+		},
+		"10846": {
+			"Name": "#921",
+			"Team": 10864,
+			"Car": 10787,
+			"Id": 10846,
+			"Class": 10786,
+			"TeamName": "Pirelli Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10847": {
+			"Name": "#931",
+			"Team": 10865,
+			"Car": 10787,
+			"Id": 10847,
+			"Class": 10786,
+			"TeamName": "Traxxion Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10848": {
+			"Name": "#999",
+			"Team": 10867,
+			"Car": 10787,
+			"Id": 10848,
+			"Class": 10786,
+			"TeamName": "ADAC Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10849": {
+			"Name": "#922",
+			"Team": 10872,
+			"Car": 10790,
+			"Id": 10849,
+			"Class": 10786,
+			"TeamName": "Pirelli Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10850": {
+			"Name": "#932",
+			"Team": 10873,
+			"Car": 10790,
+			"Id": 10850,
+			"Class": 10786,
+			"TeamName": "Traxxion Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10851": {
+			"Name": "#999",
+			"Team": 10871,
+			"Car": 10790,
+			"Id": 10851,
+			"Class": 10786,
+			"TeamName": "ADAC Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10852": {
+			"Name": "#923",
+			"Team": 10869,
+			"Car": 10795,
+			"Id": 10852,
+			"Class": 10786,
+			"TeamName": "Pirelli Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10853": {
+			"Name": "#999",
+			"Team": 10874,
+			"Car": 10804,
+			"Id": 10853,
+			"Class": 10786,
+			"TeamName": "ADAC Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10854": {
+			"Name": "#933",
+			"Team": 10870,
+			"Car": 10795,
+			"Id": 10854,
+			"Class": 10786,
+			"TeamName": "Traxxion Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10855": {
+			"Name": "#999",
+			"Team": 10868,
+			"Car": 10795,
+			"Id": 10855,
+			"Class": 10786,
+			"TeamName": "ADAC Guest Team",
+			"drivers": [
+				{
+					"Forename": "Isaac",
+					"Surname": "Price",
+					"Id": 10097
+				}
+			]
+		},
+		"10856": {
+			"Name": "#925",
+			"Team": 10881,
+			"Car": 10806,
+			"Id": 10856,
+			"Class": 10786,
+			"TeamName": "Pirelli Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10857": {
+			"Name": "#935",
+			"Team": 10882,
+			"Car": 10806,
+			"Id": 10857,
+			"Class": 10786,
+			"TeamName": "Traxxion Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10858": {
+			"Name": "#999",
+			"Team": 10880,
+			"Car": 10806,
+			"Id": 10858,
+			"Class": 10786,
+			"TeamName": "ADAC Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10859": {
+			"Name": "#926",
+			"Team": 10887,
+			"Car": 10808,
+			"Id": 10859,
+			"Class": 10786,
+			"TeamName": "Pirelli Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10860": {
+			"Name": "#936",
+			"Team": 10888,
+			"Car": 10808,
+			"Id": 10860,
+			"Class": 10786,
+			"TeamName": "Traxxion Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10861": {
+			"Name": "#999",
+			"Team": 10886,
+			"Car": 10808,
+			"Id": 10861,
+			"Class": 10786,
+			"TeamName": "ADAC Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10862": {
+			"Name": "#927",
+			"Team": 10875,
+			"Car": 10804,
+			"Id": 10862,
+			"Class": 10786,
+			"TeamName": "Pirelli Guest Team",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"10863": {
+			"Name": "#25",
+			"Team": 10789,
+			"Car": 10787,
+			"Id": 10863,
+			"Class": 10786,
+			"TeamName": "Team Redline",
+			"drivers": [
+				{
+					"Forename": "Jeffrey",
+					"Surname": "Rietveld",
+					"Id": 10080
 				}
 			]
 		}
@@ -88601,9 +90131,6 @@ var r3eData = {
 					"Id": 10085
 				},
 				{
-					"Id": 10127
-				},
-				{
 					"Id": 10110
 				},
 				{
@@ -88677,6 +90204,33 @@ var r3eData = {
 				}
 			],
 			"Id": 10743
+		},
+		"10786": {
+			"Name": "ADAC Esports GT Masters",
+			"Cars": [
+				{
+					"Id": 10787
+				},
+				{
+					"Id": 10795
+				},
+				{
+					"Id": 10790
+				},
+				{
+					"Id": 10127
+				},
+				{
+					"Id": 10804
+				},
+				{
+					"Id": 10806
+				},
+				{
+					"Id": 10808
+				}
+			],
+			"Id": 10786
 		}
 	},
 	"manufacturers": {
@@ -97012,6 +98566,216 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Diet Coke",
 			"Id": 10780
+		},
+		"10783": {
+			"Type": "CarTeam",
+			"Name": "Interscope Racing",
+			"Id": 10783
+		},
+		"10788": {
+			"Type": "CarTeam",
+			"Name": "Arnage Competition",
+			"Id": 10788
+		},
+		"10789": {
+			"Type": "CarTeam",
+			"Name": "Team Redline",
+			"Id": 10789
+		},
+		"10791": {
+			"Type": "CarTeam",
+			"Name": "Dörr Esports",
+			"Id": 10791
+		},
+		"10792": {
+			"Type": "CarTeam",
+			"Name": "Team Fordzilla",
+			"Id": 10792
+		},
+		"10793": {
+			"Type": "CarTeam",
+			"Name": "Privateer",
+			"Id": 10793
+		},
+		"10794": {
+			"Type": "CarTeam",
+			"Name": "MRS Esports",
+			"Id": 10794
+		},
+		"10796": {
+			"Type": "CarTeam",
+			"Name": "Virtualdrivers by TX3",
+			"Id": 10796
+		},
+		"10797": {
+			"Type": "CarTeam",
+			"Name": "MRS Esports",
+			"Id": 10797
+		},
+		"10798": {
+			"Type": "CarTeam",
+			"Name": "R8G Esports",
+			"Id": 10798
+		},
+		"10799": {
+			"Type": "CarTeam",
+			"Name": "Privateer",
+			"Id": 10799
+		},
+		"10800": {
+			"Type": "CarTeam",
+			"Name": "Williams Esports",
+			"Id": 10800
+		},
+		"10801": {
+			"Type": "CarTeam",
+			"Name": "Arnage Competition",
+			"Id": 10801
+		},
+		"10802": {
+			"Type": "CarTeam",
+			"Name": "Dörr Esports",
+			"Id": 10802
+		},
+		"10803": {
+			"Type": "CarTeam",
+			"Name": "M1ra esports",
+			"Id": 10803
+		},
+		"10805": {
+			"Type": "CarTeam",
+			"Name": "Dörr Esports",
+			"Id": 10805
+		},
+		"10807": {
+			"Type": "CarTeam",
+			"Name": "Team Fordzilla",
+			"Id": 10807
+		},
+		"10809": {
+			"Type": "CarTeam",
+			"Name": "Veloce Esports",
+			"Id": 10809
+		},
+		"10845": {
+			"Type": "CarTeam",
+			"Name": "Thrustmaster",
+			"Id": 10845
+		},
+		"10864": {
+			"Type": "CarTeam",
+			"Name": "Pirelli Guest Team",
+			"Id": 10864
+		},
+		"10865": {
+			"Type": "CarTeam",
+			"Name": "Traxxion Guest Team",
+			"Id": 10865
+		},
+		"10867": {
+			"Type": "CarTeam",
+			"Name": "ADAC Guest Team",
+			"Id": 10867
+		},
+		"10868": {
+			"Type": "CarTeam",
+			"Name": "ADAC Guest Team",
+			"Id": 10868
+		},
+		"10869": {
+			"Type": "CarTeam",
+			"Name": "Pirelli Guest Team",
+			"Id": 10869
+		},
+		"10870": {
+			"Type": "CarTeam",
+			"Name": "Traxxion Guest Team",
+			"Id": 10870
+		},
+		"10871": {
+			"Type": "CarTeam",
+			"Name": "ADAC Guest Team",
+			"Id": 10871
+		},
+		"10872": {
+			"Type": "CarTeam",
+			"Name": "Pirelli Guest Team",
+			"Id": 10872
+		},
+		"10873": {
+			"Type": "CarTeam",
+			"Name": "Traxxion Guest Team",
+			"Id": 10873
+		},
+		"10874": {
+			"Type": "CarTeam",
+			"Name": "ADAC Guest Team",
+			"Id": 10874
+		},
+		"10875": {
+			"Type": "CarTeam",
+			"Name": "Pirelli Guest Team",
+			"Id": 10875
+		},
+		"10876": {
+			"Type": "CarTeam",
+			"Name": "Traxxion Guest Team",
+			"Id": 10876
+		},
+		"10877": {
+			"Type": "CarTeam",
+			"Name": "SRC",
+			"Id": 10877
+		},
+		"10878": {
+			"Type": "CarTeam",
+			"Name": "Ballas esports",
+			"Id": 10878
+		},
+		"10879": {
+			"Type": "CarTeam",
+			"Name": "MRS Esports",
+			"Id": 10879
+		},
+		"10880": {
+			"Type": "CarTeam",
+			"Name": "ADAC Guest Team",
+			"Id": 10880
+		},
+		"10881": {
+			"Type": "CarTeam",
+			"Name": "Pirelli Guest Team",
+			"Id": 10881
+		},
+		"10882": {
+			"Type": "CarTeam",
+			"Name": "Traxxion Guest Team",
+			"Id": 10882
+		},
+		"10885": {
+			"Type": "CarTeam",
+			"Name": "Dörr Esports",
+			"Id": 10885
+		},
+		"10886": {
+			"Type": "CarTeam",
+			"Name": "ADAC Guest Team",
+			"Id": 10886
+		},
+		"10887": {
+			"Type": "CarTeam",
+			"Name": "Pirelli Guest Team",
+			"Id": 10887
+		},
+		"10888": {
+			"Type": "CarTeam",
+			"Name": "Traxxion Guest Team",
+			"Id": 10888
+		},
+		"10901": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport",
+			"Id": 10901
 		}
 	}
 };
