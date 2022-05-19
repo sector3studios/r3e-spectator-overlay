@@ -35727,7 +35727,7 @@
 		},
 		"8677": {
 			"Name": "Shopping Cart",
-			"BrandName": "ICA",
+			"BrandName": "RaceRoom",
 			"CarManufacturer": 4596,
 			"DefaultLivery": 8679,
 			"Id": 8677,
@@ -35735,41 +35735,11 @@
 			"liveries": [
 				{
 					"Name": "#1",
-					"Team": 9849,
+					"Team": 11042,
 					"Car": 8677,
 					"Id": 8679,
 					"Class": 8680,
-					"TeamName": "Sector 3-Eleven",
-					"drivers": [
-						{
-							"Forename": "Ica",
-							"Surname": "Stig",
-							"Id": 9850
-						}
-					]
-				},
-				{
-					"Name": "#3",
-					"Team": 9926,
-					"Car": 8677,
-					"Id": 9923,
-					"Class": 8680,
-					"TeamName": "Lidl Automotive Parts",
-					"drivers": [
-						{
-							"Forename": "Ica",
-							"Surname": "Stig",
-							"Id": 9850
-						}
-					]
-				},
-				{
-					"Name": "#6",
-					"Team": 9925,
-					"Car": 8677,
-					"Id": 9924,
-					"Class": 8680,
-					"TeamName": "Aldi GMbh",
+					"TeamName": "Team Myggan",
 					"drivers": [
 						{
 							"Forename": "Ica",
@@ -42002,6 +41972,96 @@
 							"Id": 10219
 						}
 					]
+				},
+				{
+					"Name": "#34",
+					"Team": 11094,
+					"Car": 9644,
+					"Id": 10296,
+					"Class": 5825,
+					"TeamName": "Schnitzelalm Racing",
+					"drivers": [
+						{
+							"Forename": "Marcel",
+							"Surname": "Marchewicz",
+							"Id": 11095
+						}
+					]
+				},
+				{
+					"Name": "#36",
+					"Team": 11096,
+					"Car": 9644,
+					"Id": 10297,
+					"Class": 5825,
+					"TeamName": "BLACK FALCON Team TEXTAR",
+					"drivers": [
+						{
+							"Forename": "Mike",
+							"Surname": "Stursberg",
+							"Id": 11097
+						}
+					]
+				},
+				{
+					"Name": "#37",
+					"Team": 11094,
+					"Car": 9644,
+					"Id": 10298,
+					"Class": 5825,
+					"TeamName": "Schnitzelalm Racing",
+					"drivers": [
+						{
+							"Forename": "Peter",
+							"Surname": "Posavac",
+							"Id": 11100
+						}
+					]
+				},
+				{
+					"Name": "#65",
+					"Team": 10185,
+					"Car": 9644,
+					"Id": 10299,
+					"Class": 5825,
+					"TeamName": "Murillo Racing",
+					"drivers": [
+						{
+							"Forename": "Kenny",
+							"Surname": "Murillo",
+							"Id": 11103
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 11092,
+					"Car": 9644,
+					"Id": 11091,
+					"Class": 5825,
+					"TeamName": "ACL Racing",
+					"drivers": [
+						{
+							"Forename": "Ronny",
+							"Surname": "Horeweg",
+							"Id": 11108
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 11092,
+					"Car": 9644,
+					"Id": 11093,
+					"Class": 5825,
+					"TeamName": "ACL Racing",
+					"drivers": [
+						{
+							"Forename": "Ronny",
+							"Surname": "Horeweg",
+							"Id": 11108
+						}
+					]
 				}
 			]
 		},
@@ -42785,6 +42845,21 @@
 					"Id": 10140,
 					"Class": 10786,
 					"TeamName": "Traxxion Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#900",
+					"Team": 11041,
+					"Car": 10127,
+					"Id": 11040,
+					"Class": 10786,
+					"TeamName": "Motorsport.com",
 					"drivers": [
 						{
 							"Forename": "Guest",
@@ -44467,6 +44542,21 @@
 							"Id": 10097
 						}
 					]
+				},
+				{
+					"Name": "#900",
+					"Team": 11039,
+					"Car": 10795,
+					"Id": 11038,
+					"Class": 10786,
+					"TeamName": "Motorsport.com",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
 				}
 			]
 		},
@@ -44675,6 +44765,21 @@
 					"Id": 10858,
 					"Class": 10786,
 					"TeamName": "ADAC Guest Team",
+					"drivers": [
+						{
+							"Forename": "Guest",
+							"Surname": "Driver",
+							"Id": 9023
+						}
+					]
+				},
+				{
+					"Name": "#900",
+					"Team": 11036,
+					"Car": 10806,
+					"Id": 11037,
+					"Class": 10786,
+					"TeamName": "Motorsport.com",
 					"drivers": [
 						{
 							"Forename": "Guest",
@@ -75029,11 +75134,11 @@
 		},
 		"8679": {
 			"Name": "#1",
-			"Team": 9849,
+			"Team": 11042,
 			"Car": 8677,
 			"Id": 8679,
 			"Class": 8680,
-			"TeamName": "Sector 3-Eleven",
+			"TeamName": "Team Myggan",
 			"drivers": [
 				{
 					"Forename": "Ica",
@@ -82032,36 +82137,6 @@
 				}
 			]
 		},
-		"9923": {
-			"Name": "#3",
-			"Team": 9926,
-			"Car": 8677,
-			"Id": 9923,
-			"Class": 8680,
-			"TeamName": "Lidl Automotive Parts",
-			"drivers": [
-				{
-					"Forename": "Ica",
-					"Surname": "Stig",
-					"Id": 9850
-				}
-			]
-		},
-		"9924": {
-			"Name": "#6",
-			"Team": 9925,
-			"Car": 8677,
-			"Id": 9924,
-			"Class": 8680,
-			"TeamName": "Aldi GMbh",
-			"drivers": [
-				{
-					"Forename": "Ica",
-					"Surname": "Stig",
-					"Id": 9850
-				}
-			]
-		},
 		"9931": {
 			"Name": "#61",
 			"Team": 8207,
@@ -83904,6 +83979,66 @@
 					"Forename": "Thomas",
 					"Surname": "Jäger",
 					"Id": 2881
+				}
+			]
+		},
+		"10296": {
+			"Name": "#34",
+			"Team": 11094,
+			"Car": 9644,
+			"Id": 10296,
+			"Class": 5825,
+			"TeamName": "Schnitzelalm Racing",
+			"drivers": [
+				{
+					"Forename": "Marcel",
+					"Surname": "Marchewicz",
+					"Id": 11095
+				}
+			]
+		},
+		"10297": {
+			"Name": "#36",
+			"Team": 11096,
+			"Car": 9644,
+			"Id": 10297,
+			"Class": 5825,
+			"TeamName": "BLACK FALCON Team TEXTAR",
+			"drivers": [
+				{
+					"Forename": "Mike",
+					"Surname": "Stursberg",
+					"Id": 11097
+				}
+			]
+		},
+		"10298": {
+			"Name": "#37",
+			"Team": 11094,
+			"Car": 9644,
+			"Id": 10298,
+			"Class": 5825,
+			"TeamName": "Schnitzelalm Racing",
+			"drivers": [
+				{
+					"Forename": "Peter",
+					"Surname": "Posavac",
+					"Id": 11100
+				}
+			]
+		},
+		"10299": {
+			"Name": "#65",
+			"Team": 10185,
+			"Car": 9644,
+			"Id": 10299,
+			"Class": 5825,
+			"TeamName": "Murillo Racing",
+			"drivers": [
+				{
+					"Forename": "Kenny",
+					"Surname": "Murillo",
+					"Id": 11103
 				}
 			]
 		},
@@ -87791,6 +87926,81 @@
 					"Id": 10976
 				}
 			]
+		},
+		"11037": {
+			"Name": "#900",
+			"Team": 11036,
+			"Car": 10806,
+			"Id": 11037,
+			"Class": 10786,
+			"TeamName": "Motorsport.com",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"11038": {
+			"Name": "#900",
+			"Team": 11039,
+			"Car": 10795,
+			"Id": 11038,
+			"Class": 10786,
+			"TeamName": "Motorsport.com",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"11040": {
+			"Name": "#900",
+			"Team": 11041,
+			"Car": 10127,
+			"Id": 11040,
+			"Class": 10786,
+			"TeamName": "Motorsport.com",
+			"drivers": [
+				{
+					"Forename": "Guest",
+					"Surname": "Driver",
+					"Id": 9023
+				}
+			]
+		},
+		"11091": {
+			"Name": "#10",
+			"Team": 11092,
+			"Car": 9644,
+			"Id": 11091,
+			"Class": 5825,
+			"TeamName": "ACL Racing",
+			"drivers": [
+				{
+					"Forename": "Ronny",
+					"Surname": "Horeweg",
+					"Id": 11108
+				}
+			]
+		},
+		"11093": {
+			"Name": "#11",
+			"Team": 11092,
+			"Car": 9644,
+			"Id": 11093,
+			"Class": 5825,
+			"TeamName": "ACL Racing",
+			"drivers": [
+				{
+					"Forename": "Ronny",
+					"Surname": "Horeweg",
+					"Id": 11108
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -89011,6 +89221,18 @@
 					"Id": 10274
 				}
 			]
+		},
+		"10462": {
+			"Name": "Interlagos",
+			"Id": 10462,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 10462,
+					"MaxNumberOfVehicles": 36,
+					"Id": 10463
+				}
+			]
 		}
 	},
 	"layouts": {
@@ -89883,6 +90105,12 @@
 			"Track": 9657,
 			"MaxNumberOfVehicles": 36,
 			"Id": 10392
+		},
+		"10463": {
+			"Name": "Grand Prix",
+			"Track": 10462,
+			"MaxNumberOfVehicles": 36,
+			"Id": 10463
 		}
 	},
 	"classes": {
@@ -99872,6 +100100,81 @@
 			"Type": "CarTeam",
 			"Name": "Callaway Competition",
 			"Id": 11003
+		},
+		"11005": {
+			"Type": "CarTeam",
+			"Name": "Mann-Filter Team Landgraf-HTP WWR",
+			"Id": 11005
+		},
+		"11006": {
+			"Type": "CarTeam",
+			"Name": "Team Zakspeed Mobil Krankenkasse Racing",
+			"Id": 11006
+		},
+		"11007": {
+			"Type": "CarTeam",
+			"Name": "Toksport WRT",
+			"Id": 11007
+		},
+		"11014": {
+			"Type": "CarTeam",
+			"Name": "Precote Herberth Motorsport",
+			"Id": 11014
+		},
+		"11015": {
+			"Type": "CarTeam",
+			"Name": "MRS GT-Racing",
+			"Id": 11015
+		},
+		"11016": {
+			"Type": "CarTeam",
+			"Name": "KÜS Team Bernhard",
+			"Id": 11016
+		},
+		"11017": {
+			"Type": "CarTeam",
+			"Name": "Team Joos Sportwagentechnik",
+			"Id": 11017
+		},
+		"11018": {
+			"Type": "CarTeam",
+			"Name": "SSR Performance",
+			"Id": 11018
+		},
+		"11036": {
+			"Type": "CarTeam",
+			"Name": "Motorsport.com",
+			"Id": 11036
+		},
+		"11039": {
+			"Type": "CarTeam",
+			"Name": "Motorsport.com",
+			"Id": 11039
+		},
+		"11041": {
+			"Type": "CarTeam",
+			"Name": "Motorsport.com",
+			"Id": 11041
+		},
+		"11042": {
+			"Type": "CarTeam",
+			"Name": "Team Myggan",
+			"Id": 11042
+		},
+		"11092": {
+			"Type": "CarTeam",
+			"Name": "ACL Racing",
+			"Id": 11092
+		},
+		"11094": {
+			"Type": "CarTeam",
+			"Name": "Schnitzelalm Racing",
+			"Id": 11094
+		},
+		"11096": {
+			"Type": "CarTeam",
+			"Name": "BLACK FALCON Team TEXTAR",
+			"Id": 11096
 		}
 	}
 }
