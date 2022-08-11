@@ -43327,7 +43327,7 @@
 		},
 		"10368": {
 			"Name": "Lynk & Co 03 TCR",
-			"BrandName": " Lynk & Co",
+			"BrandName": "Lynk & Co",
 			"CarManufacturer": 7929,
 			"DefaultLivery": 10376,
 			"Id": 10368,
@@ -45215,6 +45215,226 @@
 							"Forename": "Guest",
 							"Surname": "Driver",
 							"Id": 9023
+						}
+					]
+				}
+			]
+		},
+		"10890": {
+			"Name": "Ferrari 488 GT3 EVO 2020",
+			"BrandName": "Ferrari",
+			"CarManufacturer": 10395,
+			"DefaultLivery": 10892,
+			"Id": 10890,
+			"Class": 1703,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 10891,
+					"Car": 10890,
+					"Id": 10892,
+					"Class": 1703,
+					"TeamName": "Scuderia Ferrari",
+					"drivers": [
+						{
+							"Forename": "Francesco",
+							"Surname": "Carrieri",
+							"Id": 11346
+						}
+					]
+				},
+				{
+					"Name": "#47",
+					"Team": 10911,
+					"Car": 10890,
+					"Id": 10912,
+					"Class": 1703,
+					"TeamName": "Cetilar Racing",
+					"drivers": [
+						{
+							"Forename": "Roberto",
+							"Surname": "Lacorte",
+							"Id": 11349
+						}
+					]
+				},
+				{
+					"Name": "#7",
+					"Team": 10979,
+					"Car": 10890,
+					"Id": 10980,
+					"Class": 1703,
+					"TeamName": "Car Guy",
+					"drivers": [
+						{
+							"Forename": "Takeshi",
+							"Surname": "Kimura",
+							"Id": 11353
+						}
+					]
+				},
+				{
+					"Name": "#21",
+					"Team": 10981,
+					"Car": 10890,
+					"Id": 10985,
+					"Class": 1703,
+					"TeamName": "AF Corse",
+					"drivers": [
+						{
+							"Forename": "Nicklas",
+							"Surname": "Nielsen",
+							"Id": 5706
+						}
+					]
+				},
+				{
+					"Name": "#46",
+					"Team": 10982,
+					"Car": 10890,
+					"Id": 10986,
+					"Class": 1703,
+					"TeamName": "Monster VR46 Kessel Racing",
+					"drivers": [
+						{
+							"Forename": "Valentino",
+							"Surname": "Rossi",
+							"Id": 11356
+						}
+					]
+				},
+				{
+					"Name": "#50",
+					"Team": 10983,
+					"Car": 10890,
+					"Id": 10987,
+					"Class": 1703,
+					"TeamName": "INGING & Arnage Racing",
+					"drivers": [
+						{
+							"Forename": "Akihiro",
+							"Surname": "Tsuzuki",
+							"Id": 11354
+						}
+					]
+				},
+				{
+					"Name": "#62",
+					"Team": 10984,
+					"Car": 10890,
+					"Id": 10988,
+					"Class": 1703,
+					"TeamName": "Risi Competizione",
+					"drivers": [
+						{
+							"Forename": "Davide",
+							"Surname": "Rigon",
+							"Id": 11352
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 11168,
+					"Car": 10890,
+					"Id": 11172,
+					"Class": 1703,
+					"TeamName": "Pacific Car Guy Racing",
+					"drivers": [
+						{
+							"Forename": "Naoki",
+							"Surname": "Yokomizo",
+							"Id": 11357
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 11170,
+					"Car": 10890,
+					"Id": 11173,
+					"Class": 1703,
+					"TeamName": "Kessel Racing",
+					"drivers": [
+						{
+							"Forename": "Niccolò",
+							"Surname": "Schirò",
+							"Id": 11351
+						}
+					]
+				},
+				{
+					"Name": "#021",
+					"Team": 10981,
+					"Car": 10890,
+					"Id": 11174,
+					"Class": 1703,
+					"TeamName": "AF Corse",
+					"drivers": [
+						{
+							"Forename": "Matteo",
+							"Surname": "Cressoni",
+							"Id": 11355
+						}
+					]
+				},
+				{
+					"Name": "#027",
+					"Team": 11169,
+					"Car": 10890,
+					"Id": 11175,
+					"Class": 1703,
+					"TeamName": "Scuderia Baldini",
+					"drivers": [
+						{
+							"Forename": "Giancarlo",
+							"Surname": "Fisichella",
+							"Id": 11345
+						}
+					]
+				},
+				{
+					"Name": "#27",
+					"Team": 11167,
+					"Car": 10890,
+					"Id": 11176,
+					"Class": 1703,
+					"TeamName": "HubAuto Corsa Ferrari",
+					"drivers": [
+						{
+							"Forename": "Tim",
+							"Surname": "Slade",
+							"Id": 11347
+						}
+					]
+				},
+				{
+					"Name": "#063",
+					"Team": 11171,
+					"Car": 10890,
+					"Id": 11177,
+					"Class": 1703,
+					"TeamName": "Scuderia Corsa",
+					"drivers": [
+						{
+							"Forename": "Daniel",
+							"Surname": "Mancinelli",
+							"Id": 11348
+						}
+					]
+				},
+				{
+					"Name": "#63",
+					"Team": 11171,
+					"Car": 10890,
+					"Id": 11178,
+					"Class": 1703,
+					"TeamName": "Scuderia Corsa",
+					"drivers": [
+						{
+							"Forename": "Cooper",
+							"Surname": "MacNeil",
+							"Id": 11350
 						}
 					]
 				}
@@ -87852,6 +88072,36 @@
 				}
 			]
 		},
+		"10892": {
+			"Name": "#1",
+			"Team": 10891,
+			"Car": 10890,
+			"Id": 10892,
+			"Class": 1703,
+			"TeamName": "Scuderia Ferrari",
+			"drivers": [
+				{
+					"Forename": "Francesco",
+					"Surname": "Carrieri",
+					"Id": 11346
+				}
+			]
+		},
+		"10912": {
+			"Name": "#47",
+			"Team": 10911,
+			"Car": 10890,
+			"Id": 10912,
+			"Class": 1703,
+			"TeamName": "Cetilar Racing",
+			"drivers": [
+				{
+					"Forename": "Roberto",
+					"Surname": "Lacorte",
+					"Id": 11349
+				}
+			]
+		},
 		"10926": {
 			"Name": "#33",
 			"Team": 10919,
@@ -88287,6 +88537,81 @@
 				}
 			]
 		},
+		"10980": {
+			"Name": "#7",
+			"Team": 10979,
+			"Car": 10890,
+			"Id": 10980,
+			"Class": 1703,
+			"TeamName": "Car Guy",
+			"drivers": [
+				{
+					"Forename": "Takeshi",
+					"Surname": "Kimura",
+					"Id": 11353
+				}
+			]
+		},
+		"10985": {
+			"Name": "#21",
+			"Team": 10981,
+			"Car": 10890,
+			"Id": 10985,
+			"Class": 1703,
+			"TeamName": "AF Corse",
+			"drivers": [
+				{
+					"Forename": "Nicklas",
+					"Surname": "Nielsen",
+					"Id": 5706
+				}
+			]
+		},
+		"10986": {
+			"Name": "#46",
+			"Team": 10982,
+			"Car": 10890,
+			"Id": 10986,
+			"Class": 1703,
+			"TeamName": "Monster VR46 Kessel Racing",
+			"drivers": [
+				{
+					"Forename": "Valentino",
+					"Surname": "Rossi",
+					"Id": 11356
+				}
+			]
+		},
+		"10987": {
+			"Name": "#50",
+			"Team": 10983,
+			"Car": 10890,
+			"Id": 10987,
+			"Class": 1703,
+			"TeamName": "INGING & Arnage Racing",
+			"drivers": [
+				{
+					"Forename": "Akihiro",
+					"Surname": "Tsuzuki",
+					"Id": 11354
+				}
+			]
+		},
+		"10988": {
+			"Name": "#62",
+			"Team": 10984,
+			"Car": 10890,
+			"Id": 10988,
+			"Class": 1703,
+			"TeamName": "Risi Competizione",
+			"drivers": [
+				{
+					"Forename": "Davide",
+					"Surname": "Rigon",
+					"Id": 11352
+				}
+			]
+		},
 		"11037": {
 			"Name": "#900",
 			"Team": 11036,
@@ -88689,6 +89014,111 @@
 					"Forename": "Nathalie",
 					"Surname": "Wegener",
 					"Id": 11198
+				}
+			]
+		},
+		"11172": {
+			"Name": "#9",
+			"Team": 11168,
+			"Car": 10890,
+			"Id": 11172,
+			"Class": 1703,
+			"TeamName": "Pacific Car Guy Racing",
+			"drivers": [
+				{
+					"Forename": "Naoki",
+					"Surname": "Yokomizo",
+					"Id": 11357
+				}
+			]
+		},
+		"11173": {
+			"Name": "#11",
+			"Team": 11170,
+			"Car": 10890,
+			"Id": 11173,
+			"Class": 1703,
+			"TeamName": "Kessel Racing",
+			"drivers": [
+				{
+					"Forename": "Niccolò",
+					"Surname": "Schirò",
+					"Id": 11351
+				}
+			]
+		},
+		"11174": {
+			"Name": "#021",
+			"Team": 10981,
+			"Car": 10890,
+			"Id": 11174,
+			"Class": 1703,
+			"TeamName": "AF Corse",
+			"drivers": [
+				{
+					"Forename": "Matteo",
+					"Surname": "Cressoni",
+					"Id": 11355
+				}
+			]
+		},
+		"11175": {
+			"Name": "#027",
+			"Team": 11169,
+			"Car": 10890,
+			"Id": 11175,
+			"Class": 1703,
+			"TeamName": "Scuderia Baldini",
+			"drivers": [
+				{
+					"Forename": "Giancarlo",
+					"Surname": "Fisichella",
+					"Id": 11345
+				}
+			]
+		},
+		"11176": {
+			"Name": "#27",
+			"Team": 11167,
+			"Car": 10890,
+			"Id": 11176,
+			"Class": 1703,
+			"TeamName": "HubAuto Corsa Ferrari",
+			"drivers": [
+				{
+					"Forename": "Tim",
+					"Surname": "Slade",
+					"Id": 11347
+				}
+			]
+		},
+		"11177": {
+			"Name": "#063",
+			"Team": 11171,
+			"Car": 10890,
+			"Id": 11177,
+			"Class": 1703,
+			"TeamName": "Scuderia Corsa",
+			"drivers": [
+				{
+					"Forename": "Daniel",
+					"Surname": "Mancinelli",
+					"Id": 11348
+				}
+			]
+		},
+		"11178": {
+			"Name": "#63",
+			"Team": 11171,
+			"Car": 10890,
+			"Id": 11178,
+			"Class": 1703,
+			"TeamName": "Scuderia Corsa",
+			"drivers": [
+				{
+					"Forename": "Cooper",
+					"Surname": "MacNeil",
+					"Id": 11350
 				}
 			]
 		},
@@ -90956,6 +91386,9 @@
 				},
 				{
 					"Id": 3626
+				},
+				{
+					"Id": 10890
 				},
 				{
 					"Id": 3754
@@ -100691,10 +101124,25 @@
 			"Name": "Traxxion Guest Team",
 			"Id": 10888
 		},
+		"10891": {
+			"Type": "CarTeam",
+			"Name": "Scuderia Ferrari",
+			"Id": 10891
+		},
+		"10894": {
+			"Type": "CarTeam",
+			"Name": "Testing Team",
+			"Id": 10894
+		},
 		"10901": {
 			"Type": "CarTeam",
 			"Name": "Audi Sport",
 			"Id": 10901
+		},
+		"10911": {
+			"Type": "CarTeam",
+			"Name": "Cetilar Racing",
+			"Id": 10911
 		},
 		"10919": {
 			"Type": "CarTeam",
@@ -100805,6 +101253,31 @@
 			"Type": "CarTeam",
 			"Name": "Team Fordzilla",
 			"Id": 10965
+		},
+		"10979": {
+			"Type": "CarTeam",
+			"Name": "Car Guy",
+			"Id": 10979
+		},
+		"10981": {
+			"Type": "CarTeam",
+			"Name": "AF Corse",
+			"Id": 10981
+		},
+		"10982": {
+			"Type": "CarTeam",
+			"Name": "Monster VR46 Kessel Racing",
+			"Id": 10982
+		},
+		"10983": {
+			"Type": "CarTeam",
+			"Name": " INGING & Arnage Racing",
+			"Id": 10983
+		},
+		"10984": {
+			"Type": "CarTeam",
+			"Name": "Risi Competizione",
+			"Id": 10984
 		},
 		"10989": {
 			"Type": "CarTeam",
@@ -101015,6 +101488,31 @@
 			"Type": "CarTeam",
 			"Name": "Team Tracktime",
 			"Id": 11127
+		},
+		"11167": {
+			"Type": "CarTeam",
+			"Name": "HubAuto Corsa Ferrari",
+			"Id": 11167
+		},
+		"11168": {
+			"Type": "CarTeam",
+			"Name": "Pacific Car Guy Racing",
+			"Id": 11168
+		},
+		"11169": {
+			"Type": "CarTeam",
+			"Name": "Scuderia Baldini",
+			"Id": 11169
+		},
+		"11170": {
+			"Type": "CarTeam",
+			"Name": "Kessel Racing",
+			"Id": 11170
+		},
+		"11171": {
+			"Type": "CarTeam",
+			"Name": "Scuderia Corsa",
+			"Id": 11171
 		},
 		"11284": {
 			"Type": "CarTeam",
