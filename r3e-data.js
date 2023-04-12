@@ -43666,7 +43666,7 @@ var r3eData = {
 			]
 		},
 		"9761": {
-			"Name": "BMW M3 E30 Sideways",
+			"Name": "BMW E30 M3 Drift",
 			"BrandName": "BMW",
 			"CarManufacturer": 2550,
 			"DefaultLivery": 9771,
@@ -43674,17 +43674,17 @@ var r3eData = {
 			"Class": 1711,
 			"liveries": [
 				{
-					"Name": "#229",
+					"Name": "#0",
 					"Team": 9762,
 					"Car": 9761,
 					"Id": 9771,
 					"Class": 1711,
-					"TeamName": "Red Bull Driftbrothers",
+					"TeamName": "ST Suspension",
 					"drivers": [
 						{
-							"Forename": "Elias",
-							"Surname": "Houndtondji",
-							"Id": 9781
+							"Forename": "Marcus",
+							"Surname": "Dempwolf",
+							"Id": 9456
 						}
 					]
 				},
@@ -43694,7 +43694,7 @@ var r3eData = {
 					"Car": 9761,
 					"Id": 9797,
 					"Class": 1711,
-					"TeamName": "Red Bull Driftbrothers",
+					"TeamName": "ST Suspension",
 					"drivers": [
 						{
 							"Forename": "Johannes",
@@ -88103,17 +88103,17 @@ var r3eData = {
 			]
 		},
 		"9771": {
-			"Name": "#229",
+			"Name": "#0",
 			"Team": 9762,
 			"Car": 9761,
 			"Id": 9771,
 			"Class": 1711,
-			"TeamName": "Red Bull Driftbrothers",
+			"TeamName": "ST Suspension",
 			"drivers": [
 				{
-					"Forename": "Elias",
-					"Surname": "Houndtondji",
-					"Id": 9781
+					"Forename": "Marcus",
+					"Surname": "Dempwolf",
+					"Id": 9456
 				}
 			]
 		},
@@ -88198,7 +88198,7 @@ var r3eData = {
 			"Car": 9761,
 			"Id": 9797,
 			"Class": 1711,
-			"TeamName": "Red Bull Driftbrothers",
+			"TeamName": "ST Suspension",
 			"drivers": [
 				{
 					"Forename": "Johannes",
@@ -111652,7 +111652,7 @@ var r3eData = {
 		},
 		"9762": {
 			"Type": "CarTeam",
-			"Name": "Red Bull Driftbrothers",
+			"Name": "ST Suspension",
 			"Id": 9762
 		},
 		"9775": {
