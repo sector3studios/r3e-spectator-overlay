@@ -10926,7 +10926,7 @@
 			]
 		},
 		"3964": {
-			"Name": "Nissan Skyline GTR R32",
+			"Name": "Nissan Skyline GTR R32 Group N",
 			"BrandName": "Nissan",
 			"CarManufacturer": 2620,
 			"DefaultLivery": 3966,
@@ -13581,7 +13581,7 @@
 			]
 		},
 		"4675": {
-			"Name": "Porsche 911 GT3 Cup Endurance",
+			"Name": "Porsche 911 GT3 Cup (991.2) Endurance",
 			"BrandName": "Porsche",
 			"CarManufacturer": 3013,
 			"DefaultLivery": 6346,
@@ -31496,7 +31496,7 @@
 			]
 		},
 		"8053": {
-			"Name": "BMW M4 GT4",
+			"Name": "BMW M4 GT4 (F82)",
 			"BrandName": "BMW",
 			"CarManufacturer": 2550,
 			"DefaultLivery": 8148,
@@ -32426,7 +32426,7 @@
 			]
 		},
 		"8166": {
-			"Name": "Porsche 911 GT3 Cup",
+			"Name": "Porsche 911 GT3 Cup (991.2)",
 			"BrandName": "Porsche",
 			"CarManufacturer": 3013,
 			"DefaultLivery": 8183,
@@ -36247,6 +36247,21 @@
 							"Id": 4993
 						}
 					]
+				},
+				{
+					"Name": "#005",
+					"Team": 12632,
+					"Car": 8604,
+					"Id": 12633,
+					"Class": 1703,
+					"TeamName": "Scherer Sport Team Phoenix",
+					"drivers": [
+						{
+							"Forename": "Frank",
+							"Surname": "Stippler",
+							"Id": 5407
+						}
+					]
 				}
 			]
 		},
@@ -38541,7 +38556,7 @@
 			]
 		},
 		"8792": {
-			"Name": "Porsche 911 GT3 Cup",
+			"Name": "Porsche 911 GT3 Cup (991.2)",
 			"BrandName": "Porsche",
 			"CarManufacturer": 3013,
 			"DefaultLivery": 8794,
@@ -47261,8 +47276,8 @@
 			]
 		},
 		"10721": {
-			"Name": "S.C. Audi R8 LMS",
-			"BrandName": "Audi",
+			"Name": "S.C. Cupra TCR",
+			"BrandName": "CUPRA",
 			"CarManufacturer": 2551,
 			"DefaultLivery": 10723,
 			"Id": 10721,
@@ -47270,11 +47285,26 @@
 			"liveries": [
 				{
 					"Name": "#1",
-					"Team": 10724,
+					"Team": 12567,
 					"Car": 10721,
 					"Id": 10723,
 					"Class": 10743,
-					"TeamName": "Audi Sport",
+					"TeamName": "DTM 2024",
+					"drivers": [
+						{
+							"Forename": "Holger",
+							"Surname": "Stangl",
+							"Id": 4727
+						}
+					]
+				},
+				{
+					"Name": "#0",
+					"Team": 12567,
+					"Car": 10721,
+					"Id": 12568,
+					"Class": 10743,
+					"TeamName": "DTM 2024",
 					"drivers": [
 						{
 							"Forename": "Holger",
@@ -48530,6 +48560,21 @@
 							"Forename": "Martin",
 							"Surname": "Petermann",
 							"Id": 9802
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 12636,
+					"Car": 10890,
+					"Id": 12638,
+					"Class": 1703,
+					"TeamName": "Visiom",
+					"drivers": [
+						{
+							"Forename": "Jean-Bernard",
+							"Surname": "Bouvet",
+							"Id": 12637
 						}
 					]
 				}
@@ -54524,7 +54569,7 @@
 					"Car": 12405,
 					"Id": 12481,
 					"Class": 1703,
-					"TeamName": "Frikadeli Racing",
+					"TeamName": "Frikadelli Racing",
 					"drivers": [
 						{
 							"Forename": "Nicky",
@@ -54592,6 +54637,126 @@
 							"Id": 5575
 						}
 					]
+				},
+				{
+					"Name": "#20",
+					"Team": 12507,
+					"Car": 12405,
+					"Id": 12508,
+					"Class": 1703,
+					"TeamName": "WTM by Rinaldi Racing",
+					"drivers": [
+						{
+							"Forename": "Jochen",
+							"Surname": "Krumbach",
+							"Id": 6718
+						}
+					]
+				},
+				{
+					"Name": "#34",
+					"Team": 12547,
+					"Car": 12405,
+					"Id": 12545,
+					"Class": 1703,
+					"TeamName": "Conquest Racing",
+					"drivers": [
+						{
+							"Forename": "Alessandro",
+							"Surname": "Balzan",
+							"Id": 12546
+						}
+					]
+				},
+				{
+					"Name": "#88",
+					"Team": 12597,
+					"Car": 12405,
+					"Id": 12550,
+					"Class": 1703,
+					"TeamName": "Dragon Racing",
+					"drivers": [
+						{
+							"Forename": "Stuart",
+							"Surname": "Hall",
+							"Id": 9727
+						}
+					]
+				},
+				{
+					"Name": "#021",
+					"Team": 12485,
+					"Car": 12405,
+					"Id": 12551,
+					"Class": 1703,
+					"TeamName": "AF Corse",
+					"drivers": [
+						{
+							"Forename": "Kei",
+							"Surname": "Cozzolino",
+							"Id": 12564
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 12476,
+					"Car": 12405,
+					"Id": 12552,
+					"Class": 1703,
+					"TeamName": "Racing One",
+					"drivers": [
+						{
+							"Forename": "Steffen",
+							"Surname": "Görig",
+							"Id": 8421
+						}
+					]
+				},
+				{
+					"Name": "#062",
+					"Team": 12475,
+					"Car": 12405,
+					"Id": 12553,
+					"Class": 1703,
+					"TeamName": "Risi Competizione",
+					"drivers": [
+						{
+							"Forename": "Daniel",
+							"Surname": "Serra",
+							"Id": 12554
+						}
+					]
+				},
+				{
+					"Name": "#047",
+					"Team": 12474,
+					"Car": 12405,
+					"Id": 12559,
+					"Class": 1703,
+					"TeamName": "Cetilar Racing",
+					"drivers": [
+						{
+							"Forename": "Giorgio",
+							"Surname": "Sernagiotto",
+							"Id": 12560
+						}
+					]
+				},
+				{
+					"Name": "#026",
+					"Team": 12570,
+					"Car": 12405,
+					"Id": 12569,
+					"Class": 1703,
+					"TeamName": "Octane126",
+					"drivers": [
+						{
+							"Forename": "Luca",
+							"Surname": "Ludwig",
+							"Id": 7717
+						}
+					]
 				}
 			]
 		},
@@ -54630,6 +54795,46 @@
 							"Forename": "Thierry",
 							"Surname": "Vermeulen",
 							"Id": 12426
+						}
+					]
+				}
+			]
+		},
+		"12537": {
+			"Name": "S.C. Audi R8 LMS",
+			"BrandName": "Audi",
+			"CarManufacturer": 7159,
+			"DefaultLivery": 12548,
+			"Id": 12537,
+			"Class": 10743,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 12538,
+					"Car": 12537,
+					"Id": 12539,
+					"Class": 10743,
+					"TeamName": "Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Holger",
+							"Surname": "Stangl",
+							"Id": 4727
+						}
+					]
+				},
+				{
+					"Name": "#2024",
+					"Team": 12538,
+					"Car": 12537,
+					"Id": 12548,
+					"Class": 10743,
+					"TeamName": "Audi Sport",
+					"drivers": [
+						{
+							"Forename": "Holger",
+							"Surname": "Stangl",
+							"Id": 4727
 						}
 					]
 				}
@@ -96544,11 +96749,11 @@
 		},
 		"10723": {
 			"Name": "#1",
-			"Team": 10724,
+			"Team": 12567,
 			"Car": 10721,
 			"Id": 10723,
 			"Class": 10743,
-			"TeamName": "Audi Sport",
+			"TeamName": "DTM 2024",
 			"drivers": [
 				{
 					"Forename": "Holger",
@@ -106143,7 +106348,7 @@
 			"Car": 12405,
 			"Id": 12481,
 			"Class": 1703,
-			"TeamName": "Frikadeli Racing",
+			"TeamName": "Frikadelli Racing",
 			"drivers": [
 				{
 					"Forename": "Nicky",
@@ -106209,6 +106414,201 @@
 					"Forename": "Miguel",
 					"Surname": "Molina",
 					"Id": 5575
+				}
+			]
+		},
+		"12508": {
+			"Name": "#20",
+			"Team": 12507,
+			"Car": 12405,
+			"Id": 12508,
+			"Class": 1703,
+			"TeamName": "WTM by Rinaldi Racing",
+			"drivers": [
+				{
+					"Forename": "Jochen",
+					"Surname": "Krumbach",
+					"Id": 6718
+				}
+			]
+		},
+		"12539": {
+			"Name": "#1",
+			"Team": 12538,
+			"Car": 12537,
+			"Id": 12539,
+			"Class": 10743,
+			"TeamName": "Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Holger",
+					"Surname": "Stangl",
+					"Id": 4727
+				}
+			]
+		},
+		"12545": {
+			"Name": "#34",
+			"Team": 12547,
+			"Car": 12405,
+			"Id": 12545,
+			"Class": 1703,
+			"TeamName": "Conquest Racing",
+			"drivers": [
+				{
+					"Forename": "Alessandro",
+					"Surname": "Balzan",
+					"Id": 12546
+				}
+			]
+		},
+		"12548": {
+			"Name": "#2024",
+			"Team": 12538,
+			"Car": 12537,
+			"Id": 12548,
+			"Class": 10743,
+			"TeamName": "Audi Sport",
+			"drivers": [
+				{
+					"Forename": "Holger",
+					"Surname": "Stangl",
+					"Id": 4727
+				}
+			]
+		},
+		"12550": {
+			"Name": "#88",
+			"Team": 12597,
+			"Car": 12405,
+			"Id": 12550,
+			"Class": 1703,
+			"TeamName": "Dragon Racing",
+			"drivers": [
+				{
+					"Forename": "Stuart",
+					"Surname": "Hall",
+					"Id": 9727
+				}
+			]
+		},
+		"12551": {
+			"Name": "#021",
+			"Team": 12485,
+			"Car": 12405,
+			"Id": 12551,
+			"Class": 1703,
+			"TeamName": "AF Corse",
+			"drivers": [
+				{
+					"Forename": "Kei",
+					"Surname": "Cozzolino",
+					"Id": 12564
+				}
+			]
+		},
+		"12552": {
+			"Name": "#6",
+			"Team": 12476,
+			"Car": 12405,
+			"Id": 12552,
+			"Class": 1703,
+			"TeamName": "Racing One",
+			"drivers": [
+				{
+					"Forename": "Steffen",
+					"Surname": "Görig",
+					"Id": 8421
+				}
+			]
+		},
+		"12553": {
+			"Name": "#062",
+			"Team": 12475,
+			"Car": 12405,
+			"Id": 12553,
+			"Class": 1703,
+			"TeamName": "Risi Competizione",
+			"drivers": [
+				{
+					"Forename": "Daniel",
+					"Surname": "Serra",
+					"Id": 12554
+				}
+			]
+		},
+		"12559": {
+			"Name": "#047",
+			"Team": 12474,
+			"Car": 12405,
+			"Id": 12559,
+			"Class": 1703,
+			"TeamName": "Cetilar Racing",
+			"drivers": [
+				{
+					"Forename": "Giorgio",
+					"Surname": "Sernagiotto",
+					"Id": 12560
+				}
+			]
+		},
+		"12568": {
+			"Name": "#0",
+			"Team": 12567,
+			"Car": 10721,
+			"Id": 12568,
+			"Class": 10743,
+			"TeamName": "DTM 2024",
+			"drivers": [
+				{
+					"Forename": "Holger",
+					"Surname": "Stangl",
+					"Id": 4727
+				}
+			]
+		},
+		"12569": {
+			"Name": "#026",
+			"Team": 12570,
+			"Car": 12405,
+			"Id": 12569,
+			"Class": 1703,
+			"TeamName": "Octane126",
+			"drivers": [
+				{
+					"Forename": "Luca",
+					"Surname": "Ludwig",
+					"Id": 7717
+				}
+			]
+		},
+		"12633": {
+			"Name": "#005",
+			"Team": 12632,
+			"Car": 8604,
+			"Id": 12633,
+			"Class": 1703,
+			"TeamName": "Scherer Sport Team Phoenix",
+			"drivers": [
+				{
+					"Forename": "Frank",
+					"Surname": "Stippler",
+					"Id": 5407
+				}
+			]
+		},
+		"12638": {
+			"Name": "#2",
+			"Team": 12636,
+			"Car": 10890,
+			"Id": 12638,
+			"Class": 1703,
+			"TeamName": "Visiom",
+			"drivers": [
+				{
+					"Forename": "Jean-Bernard",
+					"Surname": "Bouvet",
+					"Id": 12637
 				}
 			]
 		}
@@ -106435,19 +106835,19 @@
 					"Id": 1778
 				},
 				{
-					"Name": "National",
+					"Name": "Moto",
 					"Track": 1771,
 					"MaxNumberOfVehicles": 46,
 					"Id": 1783
 				},
 				{
-					"Name": "Club",
+					"Name": "Chicane",
 					"Track": 1771,
 					"MaxNumberOfVehicles": 46,
 					"Id": 1784
 				},
 				{
-					"Name": "Club Chicane",
+					"Name": "Short",
 					"Track": 1771,
 					"MaxNumberOfVehicles": 46,
 					"Id": 1785
@@ -107491,6 +107891,18 @@
 					"Id": 11908
 				}
 			]
+		},
+		"11904": {
+			"Name": "Circuit de Pau-Ville",
+			"Id": 11904,
+			"layouts": [
+				{
+					"Name": "Grand Prix",
+					"Track": 11904,
+					"MaxNumberOfVehicles": 34,
+					"Id": 11905
+				}
+			]
 		}
 	},
 	"layouts": {
@@ -107621,19 +108033,19 @@
 			"Id": 1778
 		},
 		"1783": {
-			"Name": "National",
+			"Name": "Moto",
 			"Track": 1771,
 			"MaxNumberOfVehicles": 46,
 			"Id": 1783
 		},
 		"1784": {
-			"Name": "Club",
+			"Name": "Chicane",
 			"Track": 1771,
 			"MaxNumberOfVehicles": 46,
 			"Id": 1784
 		},
 		"1785": {
-			"Name": "Club Chicane",
+			"Name": "Short",
 			"Track": 1771,
 			"MaxNumberOfVehicles": 46,
 			"Id": 1785
@@ -108393,6 +108805,12 @@
 			"Track": 2521,
 			"MaxNumberOfVehicles": 36,
 			"Id": 11296
+		},
+		"11905": {
+			"Name": "Grand Prix",
+			"Track": 11904,
+			"MaxNumberOfVehicles": 34,
+			"Id": 11905
 		},
 		"11908": {
 			"Name": "Classic Racing School",
@@ -109689,6 +110107,9 @@
 		"10743": {
 			"Name": "Safety Cars",
 			"Cars": [
+				{
+					"Id": 12537
+				},
 				{
 					"Id": 10721
 				}
@@ -117650,7 +118071,7 @@
 		},
 		"10178": {
 			"Type": "CarTeam",
-			"Name": "FASTMD RACING",
+			"Name": " FastMD Racing",
 			"Id": 10178
 		},
 		"10179": {
@@ -120290,7 +120711,7 @@
 		},
 		"12480": {
 			"Type": "CarTeam",
-			"Name": "Frikadeli Racing",
+			"Name": "Frikadelli Racing",
 			"Id": 12480
 		},
 		"12482": {
@@ -120307,6 +120728,51 @@
 			"Type": "CarTeam",
 			"Name": "WTM by Rinaldi Racing",
 			"Id": 12507
+		},
+		"12538": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport",
+			"Id": 12538
+		},
+		"12544": {
+			"Type": "CarTeam",
+			"Name": "Herberth Motorsport",
+			"Id": 12544
+		},
+		"12547": {
+			"Type": "CarTeam",
+			"Name": "Conquest Racing",
+			"Id": 12547
+		},
+		"12565": {
+			"Type": "CarTeam",
+			"Name": "Permetinger Motorsport",
+			"Id": 12565
+		},
+		"12567": {
+			"Type": "CarTeam",
+			"Name": "DTM 2024",
+			"Id": 12567
+		},
+		"12570": {
+			"Type": "CarTeam",
+			"Name": "Octane126",
+			"Id": 12570
+		},
+		"12597": {
+			"Type": "CarTeam",
+			"Name": "Dragon Racing",
+			"Id": 12597
+		},
+		"12632": {
+			"Type": "CarTeam",
+			"Name": "Scherer Sport Team Phoenix",
+			"Id": 12632
+		},
+		"12636": {
+			"Type": "CarTeam",
+			"Name": "Visiom",
+			"Id": 12636
 		}
 	}
 }
