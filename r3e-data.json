@@ -1096,7 +1096,7 @@
 			]
 		},
 		"1733": {
-			"Name": "BMW M3 GT2",
+			"Name": "BMW M3 E92 GT",
 			"BrandName": "BMW",
 			"CarManufacturer": 2550,
 			"DefaultLivery": 3829,
@@ -1721,7 +1721,7 @@
 			]
 		},
 		"1747": {
-			"Name": "Chevrolet Corvette C6R GT2",
+			"Name": "Chevrolet Corvette C6.R ZR1",
 			"BrandName": "Chevrolet",
 			"CarManufacturer": 2618,
 			"DefaultLivery": 3823,
@@ -27064,7 +27064,7 @@
 						{
 							"Forename": "Gerd",
 							"Surname": "Ruch",
-							"Id": 3740
+							"Id": 12917
 						}
 					]
 				}
@@ -53890,7 +53890,7 @@
 				},
 				{
 					"Name": "#33",
-					"Team": 12091,
+					"Team": 12544,
 					"Car": 12090,
 					"Id": 12543,
 					"Class": 1703,
@@ -53915,6 +53915,21 @@
 							"Forename": "Robert",
 							"Surname": "Renauer",
 							"Id": 9691
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 12913,
+					"Car": 12090,
+					"Id": 12910,
+					"Class": 1703,
+					"TeamName": "AOS Motorsport",
+					"drivers": [
+						{
+							"Forename": "Alex",
+							"Surname": "Bürkle",
+							"Id": 8756
 						}
 					]
 				}
@@ -79278,7 +79293,7 @@
 				{
 					"Forename": "Gerd",
 					"Surname": "Ruch",
-					"Id": 3740
+					"Id": 12917
 				}
 			]
 		},
@@ -108624,7 +108639,7 @@
 		},
 		"12543": {
 			"Name": "#33",
-			"Team": 12091,
+			"Team": 12544,
 			"Car": 12090,
 			"Id": 12543,
 			"Class": 1703,
@@ -109879,6 +109894,21 @@
 					"Forename": "Robert",
 					"Surname": "Renauer",
 					"Id": 9691
+				}
+			]
+		},
+		"12910": {
+			"Name": "#10",
+			"Team": 12913,
+			"Car": 12090,
+			"Id": 12910,
+			"Class": 1703,
+			"TeamName": "AOS Motorsport",
+			"drivers": [
+				{
+					"Forename": "Alex",
+					"Surname": "Bürkle",
+					"Id": 8756
 				}
 			]
 		}
@@ -124550,6 +124580,11 @@
 			"Type": "CarTeam",
 			"Name": "Falken Tyres",
 			"Id": 12898
+		},
+		"12913": {
+			"Type": "CarTeam",
+			"Name": "AOS Motorsport",
+			"Id": 12913
 		}
 	}
 }
