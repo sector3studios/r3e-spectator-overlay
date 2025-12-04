@@ -49934,7 +49934,7 @@ var r3eData = {
 					"Car": 10914,
 					"Id": 11242,
 					"Class": 10977,
-					"TeamName": "McCumbee McAleer Racing",
+					"TeamName": "McCumbee McAleer Racing",
 					"drivers": [
 						{
 							"Forename": "Jenson",
@@ -49949,7 +49949,7 @@ var r3eData = {
 					"Car": 10914,
 					"Id": 11243,
 					"Class": 10977,
-					"TeamName": "McCumbee McAleer Racing",
+					"TeamName": "McCumbee McAleer Racing",
 					"drivers": [
 						{
 							"Forename": "Aidan",
@@ -50024,7 +50024,7 @@ var r3eData = {
 					"Car": 10914,
 					"Id": 11249,
 					"Class": 10977,
-					"TeamName": "McCumbee McAleer Racing",
+					"TeamName": "McCumbee McAleer Racing",
 					"drivers": [
 						{
 							"Forename": "Sam",
@@ -50084,7 +50084,7 @@ var r3eData = {
 					"Car": 10914,
 					"Id": 11253,
 					"Class": 10977,
-					"TeamName": "McCumbee McAleer Racing",
+					"TeamName": "McCumbee McAleer Racing",
 					"drivers": [
 						{
 							"Forename": "John",
@@ -56972,6 +56972,21 @@ var r3eData = {
 							"Id": 3147
 						}
 					]
+				},
+				{
+					"Name": "#95",
+					"Team": 13259,
+					"Car": 12652,
+					"Id": 13260,
+					"Class": 1710,
+					"TeamName": "Team SCHLÄTTA",
+					"drivers": [
+						{
+							"Forename": "Marcus",
+							"Surname": "Dempwolf",
+							"Id": 9456
+						}
+					]
 				}
 			]
 		},
@@ -59070,7 +59085,7 @@ var r3eData = {
 			"liveries": [
 				{
 					"Name": "#20",
-					"Team": 13127,
+					"Team": 13206,
 					"Car": 13126,
 					"Id": 13128,
 					"Class": 13129,
@@ -59399,7 +59414,7 @@ var r3eData = {
 					"Car": 13160,
 					"Id": 13198,
 					"Class": 13136,
-					"TeamName": "Grasser Racing Team",
+					"TeamName": "TGI Team Lamborghini by GRT",
 					"drivers": [
 						{
 							"Forename": "Jordan",
@@ -59414,7 +59429,7 @@ var r3eData = {
 					"Car": 13160,
 					"Id": 13200,
 					"Class": 13136,
-					"TeamName": "Grasser Racing Team",
+					"TeamName": "TGI Team Lamborghini by GRT",
 					"drivers": [
 						{
 							"Forename": "Luca",
@@ -59469,12 +59484,27 @@ var r3eData = {
 					"Car": 13164,
 					"Id": 13180,
 					"Class": 13136,
-					"TeamName": "Mercedes-AMG Team Winward",
+					"TeamName": "Mercedes-AMG Team Winward Racing",
 					"drivers": [
 						{
 							"Forename": "Maro",
 							"Surname": "Engel",
 							"Id": 9738
+						}
+					]
+				},
+				{
+					"Name": "#48",
+					"Team": 13182,
+					"Car": 13164,
+					"Id": 13201,
+					"Class": 13136,
+					"TeamName": "Mercedes-AMG Team MANN-FILTER",
+					"drivers": [
+						{
+							"Forename": "Jules",
+							"Surname": "Gounon",
+							"Id": 6524
 						}
 					]
 				}
@@ -59635,6 +59665,46 @@ var r3eData = {
 							"Forename": "Gianmaria",
 							"Surname": "Bruni",
 							"Id": 8684
+						}
+					]
+				}
+			]
+		},
+		"13172": {
+			"Name": "BMW M4 GT3 EVO DTM",
+			"BrandName": "BMW",
+			"CarManufacturer": 2550,
+			"DefaultLivery": 13176,
+			"Id": 13172,
+			"Class": 13136,
+			"liveries": [
+				{
+					"Name": "#11",
+					"Team": 13173,
+					"Car": 13172,
+					"Id": 13176,
+					"Class": 13136,
+					"TeamName": "Schubert Motorsport",
+					"drivers": [
+						{
+							"Forename": "Marco",
+							"Surname": "Wittmann",
+							"Id": 9138
+						}
+					]
+				},
+				{
+					"Name": "#33",
+					"Team": 13173,
+					"Car": 13172,
+					"Id": 13177,
+					"Class": 13136,
+					"TeamName": "Schubert Motorsport",
+					"drivers": [
+						{
+							"Forename": "René",
+							"Surname": "Rast",
+							"Id": 9135
 						}
 					]
 				}
@@ -59844,7 +59914,7 @@ var r3eData = {
 			"Name": "Audi R8 LMS GT3 EVO II DTM",
 			"BrandName": "Audi",
 			"CarManufacturer": 2551,
-			"DefaultLivery": 13192,
+			"DefaultLivery": 13254,
 			"Id": 13190,
 			"Class": 13136,
 			"liveries": [
@@ -59860,6 +59930,426 @@ var r3eData = {
 							"Forename": "Ricardo",
 							"Surname": "Feller",
 							"Id": 7696
+						}
+					]
+				},
+				{
+					"Name": "#029",
+					"Team": 13191,
+					"Car": 13190,
+					"Id": 13254,
+					"Class": 13136,
+					"TeamName": "Land-Motorsport",
+					"drivers": [
+						{
+							"Forename": "Ricardo",
+							"Surname": "Feller",
+							"Id": 7696
+						}
+					]
+				}
+			]
+		},
+		"13265": {
+			"Name": "AMG-Mercedes CLK-DTM 2002",
+			"BrandName": "Mercedes",
+			"CarManufacturer": 2552,
+			"DefaultLivery": 13267,
+			"Id": 13265,
+			"Class": 13264,
+			"liveries": [
+				{
+					"Name": "#1",
+					"Team": 13266,
+					"Car": 13265,
+					"Id": 13267,
+					"Class": 13264,
+					"TeamName": "Vodafone AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Bernd",
+							"Surname": "Schneider",
+							"Id": 6453
+						}
+					]
+				},
+				{
+					"Name": "#2",
+					"Team": 13343,
+					"Car": 13265,
+					"Id": 13303,
+					"Class": 13264,
+					"TeamName": "AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Jean",
+							"Surname": "Alesi",
+							"Id": 6812
+						}
+					]
+				},
+				{
+					"Name": "#5",
+					"Team": 13344,
+					"Car": 13265,
+					"Id": 13304,
+					"Class": 13264,
+					"TeamName": "Warsteiner AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Uwe",
+							"Surname": "Alzen",
+							"Id": 4615
+						}
+					]
+				},
+				{
+					"Name": "#6",
+					"Team": 13344,
+					"Car": 13265,
+					"Id": 13305,
+					"Class": 13264,
+					"TeamName": "Warsteiner AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Marcel",
+							"Surname": "Fässler",
+							"Id": 6811
+						}
+					]
+				},
+				{
+					"Name": "#11",
+					"Team": 13300,
+					"Car": 13265,
+					"Id": 13306,
+					"Class": 13264,
+					"TeamName": "Original-Teile AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Thomas",
+							"Surname": "Jäger",
+							"Id": 2881
+						}
+					]
+				},
+				{
+					"Name": "#12",
+					"Team": 13300,
+					"Car": 13265,
+					"Id": 13307,
+					"Class": 13264,
+					"TeamName": "Original-Teile AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Peter",
+							"Surname": "Dumbreck",
+							"Id": 2695
+						}
+					]
+				},
+				{
+					"Name": "#16",
+					"Team": 13301,
+					"Car": 13265,
+					"Id": 13308,
+					"Class": 13264,
+					"TeamName": "OASE AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Bernd",
+							"Surname": "Mayländer",
+							"Id": 6928
+						}
+					]
+				},
+				{
+					"Name": "#17",
+					"Team": 13301,
+					"Car": 13265,
+					"Id": 13309,
+					"Class": 13264,
+					"TeamName": "CEB AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Patrick",
+							"Surname": "Huisman",
+							"Id": 13262
+						}
+					]
+				},
+				{
+					"Name": "#24",
+					"Team": 13302,
+					"Car": 13265,
+					"Id": 13310,
+					"Class": 13264,
+					"TeamName": "Service 24h AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Stefan",
+							"Surname": "Mücke",
+							"Id": 7728
+						}
+					]
+				},
+				{
+					"Name": "#42",
+					"Team": 13302,
+					"Car": 13265,
+					"Id": 13311,
+					"Class": 13264,
+					"TeamName": "Service 24h AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Christijan",
+							"Surname": "Albers",
+							"Id": 6813
+						}
+					]
+				},
+				{
+					"Name": "#016",
+					"Team": 13301,
+					"Car": 13265,
+					"Id": 13347,
+					"Class": 13264,
+					"TeamName": "OASE AMG-Mercedes",
+					"drivers": [
+						{
+							"Forename": "Marcel",
+							"Surname": "Tiemann",
+							"Id": 13346
+						}
+					]
+				}
+			]
+		},
+		"13312": {
+			"Name": "Abt-Audi TT-R",
+			"BrandName": "Audi",
+			"CarManufacturer": 2551,
+			"DefaultLivery": 13319,
+			"Id": 13312,
+			"Class": 13264,
+			"liveries": [
+				{
+					"Name": "#4",
+					"Team": 13313,
+					"Car": 13312,
+					"Id": 13314,
+					"Class": 13264,
+					"TeamName": "Audi Sport Team Abt",
+					"drivers": [
+						{
+							"Forename": "Karl",
+							"Surname": "Wendlinger",
+							"Id": 13317
+						}
+					]
+				},
+				{
+					"Name": "#3",
+					"Team": 13315,
+					"Car": 13312,
+					"Id": 13319,
+					"Class": 13264,
+					"TeamName": "Audi Sport Team Abt Sportsline",
+					"drivers": [
+						{
+							"Forename": "Laurent",
+							"Surname": "Aïello",
+							"Id": 13318
+						}
+					]
+				},
+				{
+					"Name": "#9",
+					"Team": 13313,
+					"Car": 13312,
+					"Id": 13320,
+					"Class": 13264,
+					"TeamName": "Audi Sport Team Abt",
+					"drivers": [
+						{
+							"Forename": "Mattias",
+							"Surname": "Ekström",
+							"Id": 5566
+						}
+					]
+				},
+				{
+					"Name": "#10",
+					"Team": 13315,
+					"Car": 13312,
+					"Id": 13321,
+					"Class": 13264,
+					"TeamName": "Audi Sport Team Abt Sportsline",
+					"drivers": [
+						{
+							"Forename": "Christian",
+							"Surname": "Abt",
+							"Id": 12658
+						}
+					]
+				},
+				{
+					"Name": "#23",
+					"Team": 13316,
+					"Car": 13312,
+					"Id": 13322,
+					"Class": 13264,
+					"TeamName": "Audi Sport Team Abt Sportsline Junior",
+					"drivers": [
+						{
+							"Forename": "Martin",
+							"Surname": "Tomczyk",
+							"Id": 6226
+						}
+					]
+				}
+			]
+		},
+		"13323": {
+			"Name": "Opel Astra V8 Coupé",
+			"BrandName": "Opel",
+			"CarManufacturer": 3889,
+			"DefaultLivery": 13325,
+			"Id": 13323,
+			"Class": 13264,
+			"liveries": [
+				{
+					"Name": "#7",
+					"Team": 13324,
+					"Car": 13323,
+					"Id": 13325,
+					"Class": 13264,
+					"TeamName": "OPC Team Phoenix",
+					"drivers": [
+						{
+							"Forename": "Manuel",
+							"Surname": "Reuter",
+							"Id": 7347
+						}
+					]
+				},
+				{
+					"Name": "#18",
+					"Team": 13328,
+					"Car": 13323,
+					"Id": 13329,
+					"Class": 13264,
+					"TeamName": "OPC Euroteam",
+					"drivers": [
+						{
+							"Forename": "Alain",
+							"Surname": "Menu",
+							"Id": 13234
+						}
+					]
+				},
+				{
+					"Name": "#19",
+					"Team": 13328,
+					"Car": 13323,
+					"Id": 13333,
+					"Class": 13264,
+					"TeamName": "OPC Euroteam",
+					"drivers": [
+						{
+							"Forename": "Yves",
+							"Surname": "Olivier",
+							"Id": 13326
+						}
+					]
+				},
+				{
+					"Name": "#31",
+					"Team": 13328,
+					"Car": 13323,
+					"Id": 13334,
+					"Class": 13264,
+					"TeamName": "OPC Euroteam",
+					"drivers": [
+						{
+							"Forename": "Johnny",
+							"Surname": "Cecotto",
+							"Id": 3727
+						}
+					]
+				},
+				{
+					"Name": "#43",
+					"Team": 13328,
+					"Car": 13323,
+					"Id": 13335,
+					"Class": 13264,
+					"TeamName": "OPC Euroteam",
+					"drivers": [
+						{
+							"Forename": "JJ",
+							"Surname": "Lehto",
+							"Id": 12862
+						}
+					]
+				},
+				{
+					"Name": "#44",
+					"Team": 13328,
+					"Car": 13323,
+					"Id": 13336,
+					"Class": 13264,
+					"TeamName": "OPCEuroteam",
+					"drivers": [
+						{
+							"Forename": "Eric",
+							"Surname": "Hélary",
+							"Id": 13103
+						}
+					]
+				},
+				{
+					"Name": "#8",
+					"Team": 13324,
+					"Car": 13323,
+					"Id": 13337,
+					"Class": 13264,
+					"TeamName": "OPC Team Phoenix",
+					"drivers": [
+						{
+							"Forename": "Joachim",
+							"Surname": "Winkelhock",
+							"Id": 10749
+						}
+					]
+				},
+				{
+					"Name": "#15",
+					"Team": 13327,
+					"Car": 13323,
+					"Id": 13341,
+					"Class": 13264,
+					"TeamName": "OPC Team Holzer",
+					"drivers": [
+						{
+							"Forename": "Michael",
+							"Surname": "Bartels",
+							"Id": 12590
+						}
+					]
+				},
+				{
+					"Name": "#14",
+					"Team": 13327,
+					"Car": 13323,
+					"Id": 13342,
+					"Class": 13264,
+					"TeamName": "OPC Team Holzer",
+					"drivers": [
+						{
+							"Forename": "Timo",
+							"Surname": "Scheider",
+							"Id": 2601
 						}
 					]
 				}
@@ -104823,7 +105313,7 @@ var r3eData = {
 			"Car": 10914,
 			"Id": 11242,
 			"Class": 10977,
-			"TeamName": "McCumbee McAleer Racing",
+			"TeamName": "McCumbee McAleer Racing",
 			"drivers": [
 				{
 					"Forename": "Jenson",
@@ -104838,7 +105328,7 @@ var r3eData = {
 			"Car": 10914,
 			"Id": 11243,
 			"Class": 10977,
-			"TeamName": "McCumbee McAleer Racing",
+			"TeamName": "McCumbee McAleer Racing",
 			"drivers": [
 				{
 					"Forename": "Aidan",
@@ -104913,7 +105403,7 @@ var r3eData = {
 			"Car": 10914,
 			"Id": 11249,
 			"Class": 10977,
-			"TeamName": "McCumbee McAleer Racing",
+			"TeamName": "McCumbee McAleer Racing",
 			"drivers": [
 				{
 					"Forename": "Sam",
@@ -104973,7 +105463,7 @@ var r3eData = {
 			"Car": 10914,
 			"Id": 11253,
 			"Class": 10977,
-			"TeamName": "McCumbee McAleer Racing",
+			"TeamName": "McCumbee McAleer Racing",
 			"drivers": [
 				{
 					"Forename": "John",
@@ -115479,7 +115969,7 @@ var r3eData = {
 		},
 		"13128": {
 			"Name": "#20",
-			"Team": 13127,
+			"Team": 13206,
 			"Car": 13126,
 			"Id": 13128,
 			"Class": 13129,
@@ -115732,6 +116222,36 @@ var r3eData = {
 				}
 			]
 		},
+		"13176": {
+			"Name": "#11",
+			"Team": 13173,
+			"Car": 13172,
+			"Id": 13176,
+			"Class": 13136,
+			"TeamName": "Schubert Motorsport",
+			"drivers": [
+				{
+					"Forename": "Marco",
+					"Surname": "Wittmann",
+					"Id": 9138
+				}
+			]
+		},
+		"13177": {
+			"Name": "#33",
+			"Team": 13173,
+			"Car": 13172,
+			"Id": 13177,
+			"Class": 13136,
+			"TeamName": "Schubert Motorsport",
+			"drivers": [
+				{
+					"Forename": "René",
+					"Surname": "Rast",
+					"Id": 9135
+				}
+			]
+		},
 		"13178": {
 			"Name": "#16",
 			"Team": 13175,
@@ -115768,7 +116288,7 @@ var r3eData = {
 			"Car": 13164,
 			"Id": 13180,
 			"Class": 13136,
-			"TeamName": "Mercedes-AMG Team Winward",
+			"TeamName": "Mercedes-AMG Team Winward Racing",
 			"drivers": [
 				{
 					"Forename": "Maro",
@@ -115873,7 +116393,7 @@ var r3eData = {
 			"Car": 13160,
 			"Id": 13198,
 			"Class": 13136,
-			"TeamName": "Grasser Racing Team",
+			"TeamName": "TGI Team Lamborghini by GRT",
 			"drivers": [
 				{
 					"Forename": "Jordan",
@@ -115903,12 +116423,27 @@ var r3eData = {
 			"Car": 13160,
 			"Id": 13200,
 			"Class": 13136,
-			"TeamName": "Grasser Racing Team",
+			"TeamName": "TGI Team Lamborghini by GRT",
 			"drivers": [
 				{
 					"Forename": "Luca",
 					"Surname": "Engstler",
 					"Id": 8799
+				}
+			]
+		},
+		"13201": {
+			"Name": "#48",
+			"Team": 13182,
+			"Car": 13164,
+			"Id": 13201,
+			"Class": 13136,
+			"TeamName": "Mercedes-AMG Team MANN-FILTER",
+			"drivers": [
+				{
+					"Forename": "Jules",
+					"Surname": "Gounon",
+					"Id": 6524
 				}
 			]
 		},
@@ -116329,6 +116864,411 @@ var r3eData = {
 					"Forename": "Jean-Christophe",
 					"Surname": "Boullion",
 					"Id": 13251
+				}
+			]
+		},
+		"13254": {
+			"Name": "#029",
+			"Team": 13191,
+			"Car": 13190,
+			"Id": 13254,
+			"Class": 13136,
+			"TeamName": "Land-Motorsport",
+			"drivers": [
+				{
+					"Forename": "Ricardo",
+					"Surname": "Feller",
+					"Id": 7696
+				}
+			]
+		},
+		"13260": {
+			"Name": "#95",
+			"Team": 13259,
+			"Car": 12652,
+			"Id": 13260,
+			"Class": 1710,
+			"TeamName": "Team SCHLÄTTA",
+			"drivers": [
+				{
+					"Forename": "Marcus",
+					"Surname": "Dempwolf",
+					"Id": 9456
+				}
+			]
+		},
+		"13267": {
+			"Name": "#1",
+			"Team": 13266,
+			"Car": 13265,
+			"Id": 13267,
+			"Class": 13264,
+			"TeamName": "Vodafone AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Bernd",
+					"Surname": "Schneider",
+					"Id": 6453
+				}
+			]
+		},
+		"13303": {
+			"Name": "#2",
+			"Team": 13343,
+			"Car": 13265,
+			"Id": 13303,
+			"Class": 13264,
+			"TeamName": "AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Jean",
+					"Surname": "Alesi",
+					"Id": 6812
+				}
+			]
+		},
+		"13304": {
+			"Name": "#5",
+			"Team": 13344,
+			"Car": 13265,
+			"Id": 13304,
+			"Class": 13264,
+			"TeamName": "Warsteiner AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Uwe",
+					"Surname": "Alzen",
+					"Id": 4615
+				}
+			]
+		},
+		"13305": {
+			"Name": "#6",
+			"Team": 13344,
+			"Car": 13265,
+			"Id": 13305,
+			"Class": 13264,
+			"TeamName": "Warsteiner AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Marcel",
+					"Surname": "Fässler",
+					"Id": 6811
+				}
+			]
+		},
+		"13306": {
+			"Name": "#11",
+			"Team": 13300,
+			"Car": 13265,
+			"Id": 13306,
+			"Class": 13264,
+			"TeamName": "Original-Teile AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Thomas",
+					"Surname": "Jäger",
+					"Id": 2881
+				}
+			]
+		},
+		"13307": {
+			"Name": "#12",
+			"Team": 13300,
+			"Car": 13265,
+			"Id": 13307,
+			"Class": 13264,
+			"TeamName": "Original-Teile AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Peter",
+					"Surname": "Dumbreck",
+					"Id": 2695
+				}
+			]
+		},
+		"13308": {
+			"Name": "#16",
+			"Team": 13301,
+			"Car": 13265,
+			"Id": 13308,
+			"Class": 13264,
+			"TeamName": "OASE AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Bernd",
+					"Surname": "Mayländer",
+					"Id": 6928
+				}
+			]
+		},
+		"13309": {
+			"Name": "#17",
+			"Team": 13301,
+			"Car": 13265,
+			"Id": 13309,
+			"Class": 13264,
+			"TeamName": "CEB AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Patrick",
+					"Surname": "Huisman",
+					"Id": 13262
+				}
+			]
+		},
+		"13310": {
+			"Name": "#24",
+			"Team": 13302,
+			"Car": 13265,
+			"Id": 13310,
+			"Class": 13264,
+			"TeamName": "Service 24h AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Stefan",
+					"Surname": "Mücke",
+					"Id": 7728
+				}
+			]
+		},
+		"13311": {
+			"Name": "#42",
+			"Team": 13302,
+			"Car": 13265,
+			"Id": 13311,
+			"Class": 13264,
+			"TeamName": "Service 24h AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Christijan",
+					"Surname": "Albers",
+					"Id": 6813
+				}
+			]
+		},
+		"13314": {
+			"Name": "#4",
+			"Team": 13313,
+			"Car": 13312,
+			"Id": 13314,
+			"Class": 13264,
+			"TeamName": "Audi Sport Team Abt",
+			"drivers": [
+				{
+					"Forename": "Karl",
+					"Surname": "Wendlinger",
+					"Id": 13317
+				}
+			]
+		},
+		"13319": {
+			"Name": "#3",
+			"Team": 13315,
+			"Car": 13312,
+			"Id": 13319,
+			"Class": 13264,
+			"TeamName": "Audi Sport Team Abt Sportsline",
+			"drivers": [
+				{
+					"Forename": "Laurent",
+					"Surname": "Aïello",
+					"Id": 13318
+				}
+			]
+		},
+		"13320": {
+			"Name": "#9",
+			"Team": 13313,
+			"Car": 13312,
+			"Id": 13320,
+			"Class": 13264,
+			"TeamName": "Audi Sport Team Abt",
+			"drivers": [
+				{
+					"Forename": "Mattias",
+					"Surname": "Ekström",
+					"Id": 5566
+				}
+			]
+		},
+		"13321": {
+			"Name": "#10",
+			"Team": 13315,
+			"Car": 13312,
+			"Id": 13321,
+			"Class": 13264,
+			"TeamName": "Audi Sport Team Abt Sportsline",
+			"drivers": [
+				{
+					"Forename": "Christian",
+					"Surname": "Abt",
+					"Id": 12658
+				}
+			]
+		},
+		"13322": {
+			"Name": "#23",
+			"Team": 13316,
+			"Car": 13312,
+			"Id": 13322,
+			"Class": 13264,
+			"TeamName": "Audi Sport Team Abt Sportsline Junior",
+			"drivers": [
+				{
+					"Forename": "Martin",
+					"Surname": "Tomczyk",
+					"Id": 6226
+				}
+			]
+		},
+		"13325": {
+			"Name": "#7",
+			"Team": 13324,
+			"Car": 13323,
+			"Id": 13325,
+			"Class": 13264,
+			"TeamName": "OPC Team Phoenix",
+			"drivers": [
+				{
+					"Forename": "Manuel",
+					"Surname": "Reuter",
+					"Id": 7347
+				}
+			]
+		},
+		"13329": {
+			"Name": "#18",
+			"Team": 13328,
+			"Car": 13323,
+			"Id": 13329,
+			"Class": 13264,
+			"TeamName": "OPC Euroteam",
+			"drivers": [
+				{
+					"Forename": "Alain",
+					"Surname": "Menu",
+					"Id": 13234
+				}
+			]
+		},
+		"13333": {
+			"Name": "#19",
+			"Team": 13328,
+			"Car": 13323,
+			"Id": 13333,
+			"Class": 13264,
+			"TeamName": "OPC Euroteam",
+			"drivers": [
+				{
+					"Forename": "Yves",
+					"Surname": "Olivier",
+					"Id": 13326
+				}
+			]
+		},
+		"13334": {
+			"Name": "#31",
+			"Team": 13328,
+			"Car": 13323,
+			"Id": 13334,
+			"Class": 13264,
+			"TeamName": "OPC Euroteam",
+			"drivers": [
+				{
+					"Forename": "Johnny",
+					"Surname": "Cecotto",
+					"Id": 3727
+				}
+			]
+		},
+		"13335": {
+			"Name": "#43",
+			"Team": 13328,
+			"Car": 13323,
+			"Id": 13335,
+			"Class": 13264,
+			"TeamName": "OPC Euroteam",
+			"drivers": [
+				{
+					"Forename": "JJ",
+					"Surname": "Lehto",
+					"Id": 12862
+				}
+			]
+		},
+		"13336": {
+			"Name": "#44",
+			"Team": 13328,
+			"Car": 13323,
+			"Id": 13336,
+			"Class": 13264,
+			"TeamName": "OPCEuroteam",
+			"drivers": [
+				{
+					"Forename": "Eric",
+					"Surname": "Hélary",
+					"Id": 13103
+				}
+			]
+		},
+		"13337": {
+			"Name": "#8",
+			"Team": 13324,
+			"Car": 13323,
+			"Id": 13337,
+			"Class": 13264,
+			"TeamName": "OPC Team Phoenix",
+			"drivers": [
+				{
+					"Forename": "Joachim",
+					"Surname": "Winkelhock",
+					"Id": 10749
+				}
+			]
+		},
+		"13341": {
+			"Name": "#15",
+			"Team": 13327,
+			"Car": 13323,
+			"Id": 13341,
+			"Class": 13264,
+			"TeamName": "OPC Team Holzer",
+			"drivers": [
+				{
+					"Forename": "Michael",
+					"Surname": "Bartels",
+					"Id": 12590
+				}
+			]
+		},
+		"13342": {
+			"Name": "#14",
+			"Team": 13327,
+			"Car": 13323,
+			"Id": 13342,
+			"Class": 13264,
+			"TeamName": "OPC Team Holzer",
+			"drivers": [
+				{
+					"Forename": "Timo",
+					"Surname": "Scheider",
+					"Id": 2601
+				}
+			]
+		},
+		"13347": {
+			"Name": "#016",
+			"Team": 13301,
+			"Car": 13265,
+			"Id": 13347,
+			"Class": 13264,
+			"TeamName": "OASE AMG-Mercedes",
+			"drivers": [
+				{
+					"Forename": "Marcel",
+					"Surname": "Tiemann",
+					"Id": 13346
 				}
 			]
 		}
@@ -119780,7 +120720,7 @@ var r3eData = {
 			"Id": 7110
 		},
 		"7167": {
-			"Name": "CLK DTM 2003",
+			"Name": "DTM 2003",
 			"Cars": [
 				{
 					"Id": 7169
@@ -120491,6 +121431,9 @@ var r3eData = {
 					"Id": 13190
 				},
 				{
+					"Id": 13172
+				},
+				{
 					"Id": 13141
 				},
 				{
@@ -120507,6 +121450,21 @@ var r3eData = {
 				}
 			],
 			"Id": 13136
+		},
+		"13264": {
+			"Name": "DTM 2002",
+			"Cars": [
+				{
+					"Id": 13265
+				},
+				{
+					"Id": 13312
+				},
+				{
+					"Id": 13323
+				}
+			],
+			"Id": 13264
 		}
 	},
 	"manufacturers": {
@@ -129613,7 +130571,7 @@ var r3eData = {
 		},
 		"11235": {
 			"Type": "CarTeam",
-			"Name": "McCumbee McAleer Racing",
+			"Name": "McCumbee McAleer Racing",
 			"Id": 11235
 		},
 		"11236": {
@@ -131816,6 +132774,11 @@ var r3eData = {
 			"Name": "Hertz Team Jota",
 			"Id": 13170
 		},
+		"13173": {
+			"Type": "CarTeam",
+			"Name": "Schubert Motorsport",
+			"Id": 13173
+		},
 		"13175": {
 			"Type": "CarTeam",
 			"Name": "Dörr Motorsport",
@@ -131823,7 +132786,7 @@ var r3eData = {
 		},
 		"13181": {
 			"Type": "CarTeam",
-			"Name": "Mercedes-AMG Team Winward",
+			"Name": "Mercedes-AMG Team Winward Racing",
 			"Id": 13181
 		},
 		"13182": {
@@ -131853,7 +132816,7 @@ var r3eData = {
 		},
 		"13197": {
 			"Type": "CarTeam",
-			"Name": "Grasser Racing Team",
+			"Name": "TGI Team Lamborghini by GRT",
 			"Id": 13197
 		},
 		"13202": {
@@ -131915,6 +132878,81 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Arena International",
 			"Id": 13247
+		},
+		"13259": {
+			"Type": "CarTeam",
+			"Name": "Team SCHLÄTTA",
+			"Id": 13259
+		},
+		"13261": {
+			"Type": "CarTeam",
+			"Name": "Manthey Racing",
+			"Id": 13261
+		},
+		"13266": {
+			"Type": "CarTeam",
+			"Name": "Vodafone AMG-Mercedes",
+			"Id": 13266
+		},
+		"13300": {
+			"Type": "CarTeam",
+			"Name": "Original-Teile AMG-Mercedes",
+			"Id": 13300
+		},
+		"13301": {
+			"Type": "CarTeam",
+			"Name": "OASE AMG-Mercedes",
+			"Id": 13301
+		},
+		"13302": {
+			"Type": "CarTeam",
+			"Name": "Service 24h AMG-Mercedes",
+			"Id": 13302
+		},
+		"13313": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Abt",
+			"Id": 13313
+		},
+		"13315": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Abt Sportsline",
+			"Id": 13315
+		},
+		"13316": {
+			"Type": "CarTeam",
+			"Name": "Audi Sport Team Abt Sportsline Junior",
+			"Id": 13316
+		},
+		"13324": {
+			"Type": "CarTeam",
+			"Name": "OPC Team Phoenix",
+			"Id": 13324
+		},
+		"13327": {
+			"Type": "CarTeam",
+			"Name": "OPC Team Holzer",
+			"Id": 13327
+		},
+		"13328": {
+			"Type": "CarTeam",
+			"Name": "OPC Euroteam",
+			"Id": 13328
+		},
+		"13343": {
+			"Type": "CarTeam",
+			"Name": "AMG-Mercedes",
+			"Id": 13343
+		},
+		"13344": {
+			"Type": "CarTeam",
+			"Name": "Warsteiner AMG-Mercedes",
+			"Id": 13344
+		},
+		"13345": {
+			"Type": "CarTeam",
+			"Name": "CEB AMG-Mercedes",
+			"Id": 13345
 		}
 	}
 };
