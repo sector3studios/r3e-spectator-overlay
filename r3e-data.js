@@ -54077,6 +54077,21 @@ var r3eData = {
 							"Id": 6818
 						}
 					]
+				},
+				{
+					"Name": "#13",
+					"Team": 13530,
+					"Car": 12012,
+					"Id": 13531,
+					"Class": 12302,
+					"TeamName": "Albrecht Motorsport",
+					"drivers": [
+						{
+							"Forename": "Bernd",
+							"Surname": "Albrecht",
+							"Id": 13529
+						}
+					]
 				}
 			]
 		},
@@ -60810,6 +60825,36 @@ var r3eData = {
 							"Forename": "Ellis",
 							"Surname": "Spiezia",
 							"Id": 13495
+						}
+					]
+				},
+				{
+					"Name": "#26",
+					"Team": 13356,
+					"Car": 13355,
+					"Id": 13527,
+					"Class": 13358,
+					"TeamName": "Lestrup Racing Team",
+					"drivers": [
+						{
+							"Forename": "Sid",
+							"Surname": "Jensen",
+							"Id": 13401
+						}
+					]
+				},
+				{
+					"Name": "#38",
+					"Team": 13356,
+					"Car": 13355,
+					"Id": 13528,
+					"Class": 13358,
+					"TeamName": "Lestrup Racing Team",
+					"drivers": [
+						{
+							"Forename": "Ringo",
+							"Surname": "Jensen",
+							"Id": 13390
 						}
 					]
 				}
@@ -119281,6 +119326,51 @@ var r3eData = {
 					"Id": 13470
 				}
 			]
+		},
+		"13527": {
+			"Name": "#26",
+			"Team": 13356,
+			"Car": 13355,
+			"Id": 13527,
+			"Class": 13358,
+			"TeamName": "Lestrup Racing Team",
+			"drivers": [
+				{
+					"Forename": "Sid",
+					"Surname": "Jensen",
+					"Id": 13401
+				}
+			]
+		},
+		"13528": {
+			"Name": "#38",
+			"Team": 13356,
+			"Car": 13355,
+			"Id": 13528,
+			"Class": 13358,
+			"TeamName": "Lestrup Racing Team",
+			"drivers": [
+				{
+					"Forename": "Ringo",
+					"Surname": "Jensen",
+					"Id": 13390
+				}
+			]
+		},
+		"13531": {
+			"Name": "#13",
+			"Team": 13530,
+			"Car": 12012,
+			"Id": 13531,
+			"Class": 12302,
+			"TeamName": "Albrecht Motorsport",
+			"drivers": [
+				{
+					"Forename": "Bernd",
+					"Surname": "Albrecht",
+					"Id": 13529
+				}
+			]
 		}
 	},
 	"tracks": {
@@ -135226,6 +135316,11 @@ var r3eData = {
 			"Type": "CarTeam",
 			"Name": "Under8.de",
 			"Id": 13520
+		},
+		"13530": {
+			"Type": "CarTeam",
+			"Name": "Albrecht Motorsport",
+			"Id": 13530
 		}
 	}
 };
